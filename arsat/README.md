@@ -29,10 +29,10 @@
 ## Datasets no federados
 
 - [Registro de Visitas](None)
+- [Cantidad Total de Megabits en servicio por provincia](None)
+- [Cantidad de clientes por provincia](None)
 - [Tráfico de Internet entrante y saliente](None)
 - [Fibra óptica próxima a iluminar](None)
-- [Cantidad de clientes por provincia](None)
-- [Cantidad Total de Megabits en servicio por provincia](None)
 - [Distribución por provincia de las escuelas conectadas con tecnología Gillat](None)
 - [Puntos de Conexión al Plan Federal de Internet por provincia](None)
 - [Personal de ARSAT según zona laboral](None)
