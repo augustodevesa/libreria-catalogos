@@ -161,6 +161,62 @@
             ],
             "keyword": [
                 "ARSAT",
+                "GESTION TRANSPARENTE",
+                "TALENTO HUMANO"
+            ],
+            "title": "Ausentismo - Total mensual de días por motivo de ausencia",
+            "issued": "2017-08-14T14:33:57",
+            "modified": "2017-09-08T16:38:57",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "gestion-transparente"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/241643/ausentismo-total-mensual-de-dias-por-motivo-de-ausencia/",
+                    "description": "Detalle mensual de cantidad de días por cada uno de los motivos de inasistencia",
+                    "title": "Ausentismo - Total mensual de días por motivo de ausencia",
+                    "issued": "2017-08-14T14:33:57",
+                    "format": "CSV",
+                    "modified": "2017-09-08T16:38:57",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/INASI-PRUEB/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/241643/ausentismo-total-mensual-de-dias-por-motivo-de-ausencia/",
+                    "description": "Detalle mensual de cantidad de días por cada uno de los motivos de inasistencia",
+                    "title": "Ausentismo - Total mensual de días por motivo de ausencia",
+                    "issued": "2017-08-14T14:33:57",
+                    "format": "XLS",
+                    "modified": "2017-09-08T16:38:57",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/INASI-PRUEB/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/241643/ausentismo-total-mensual-de-dias-por-motivo-de-ausencia/",
+                    "description": "Detalle mensual de cantidad de días por cada uno de los motivos de inasistencia",
+                    "title": "Ausentismo - Total mensual de días por motivo de ausencia",
+                    "issued": "2017-08-14T14:33:57",
+                    "format": "JSON",
+                    "modified": "2017-09-08T16:38:57",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/INASI-PRUEB/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "identifier": "INASI-PRUEB",
+            "homepage": "http://datos.arsat.com.ar/dataviews/241643/ausentismo-total-mensual-de-dias-por-motivo-de-ausencia/",
+            "description": "Detalle mensual de cantidad de días por cada uno de los motivos de inasistencia"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "ARSAT",
                 "Personal"
             ],
             "title": "Total de personal por género",
