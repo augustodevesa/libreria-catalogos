@@ -16,7 +16,7 @@
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
 - **Cantidad Total de Datasets**: 221
-- **Cantidad Total de Distribuciones**: 896
+- **Cantidad Total de Distribuciones**: 903
 
 - **Cantidad de Datasets Federados**: 221
 - **Cantidad de Datasets NO Federados**: 0
@@ -33,13 +33,7 @@
 ## Datasets federados
 
 - [Selección de magistrados del Poder Judicial y el Ministerio Público de la Nación](http://datos.jus.gob.ar/dataset/seleccin-de-magistrados-del-poder-judicial-y-el-ministerio-pblico-de-la-nacin)
-- [Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional](http://datos.jus.gob.ar/dataset/renuncias-de-magistrados-de-la-justicia-federal-y-de-la-justicia-nacional)
-- [Listado de mediaciones prejudiciales y judiciales. Ley 26.589](http://datos.jus.gob.ar/dataset/listado-de-mediaciones-prejudiciales-y-judiciales-ley-26589)
-- [Listado de mediadores](http://datos.jus.gob.ar/dataset/listado-de-mediadores)
-- [Designaciones de magistrados de la Justicia Federal y de la Justicia Nacional](http://datos.jus.gob.ar/dataset/designaciones-de-magistrados-de-la-justicia-federal-y-de-la-justicia-nacional)
 - [Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público](http://datos.jus.gob.ar/dataset/curriculums-vitae-de-magistrados-para-cubrir-vacantes-en-el-poder-judicial-y-el-ministerio-pblico)
-- [Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ-](http://datos.jus.gob.ar/dataset/consultas-efectuadas-en-los-centros-de-acceso-a-la-justicia--caj-)
-- [Bienes secuestrados y decomisados durante el proceso penal](http://datos.jus.gob.ar/dataset/bienes-secuestrados-y-decomisados-durante-el-proceso-penal)
 - [Declaraciones Juradas Patrimoniales Integrales de carácter público](https://www2.jus.gov.ar/consultaddjj)
 - [Numeración no geográfica](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
 - [Numeración geográfica](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
@@ -77,6 +71,7 @@
 - [Reclamos mensuales por tipo de servicio](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RECLA-MENSU-POR-TIPO-DE/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
 - [Reclamos mensuales recibidos por motivo de reclamo](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-MENSU-DE-RECLA-88502/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
 - [Portabilidad numérica móvil: portaciones netas mensuales por operador](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
+- [Producción de GLP por planta](http://datos.minem.gob.ar/dataset/produccin-de-glp-por-planta)
 - [Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.](http://datos.jus.gob.ar/dataset/sistema-de-consulta-nacional-de-rebeldas-y-capturas---conarc)
 - [Personal por Gerencia](http://datos.arsat.com.ar/dataviews/238091/personal-por-gerencia/)
 - [Listado de Proveedores](http://datos.arsat.com.ar/dataviews/237843/listado-de-proveedores/)
@@ -106,6 +101,12 @@
 - [Datos de las estaciones de transmisión en construcción o planificadas](http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/)
 - [Fibra óptica de la empresa Transener](http://datos.arsat.com.ar/dataviews/238787/fibra-optica-de-la-empresa-transener/)
 - [Honorarios de Directores](http://datos.arsat.com.ar/dataviews/238788/honorarios-de-directores/)
+- [Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional](http://datos.jus.gob.ar/dataset/renuncias-de-magistrados-de-la-justicia-federal-y-de-la-justicia-nacional)
+- [Listado de mediaciones prejudiciales y judiciales. Ley 26.589](http://datos.jus.gob.ar/dataset/listado-de-mediaciones-prejudiciales-y-judiciales-ley-26589)
+- [Listado de mediadores](http://datos.jus.gob.ar/dataset/listado-de-mediadores)
+- [Designaciones de magistrados de la Justicia Federal y de la Justicia Nacional](http://datos.jus.gob.ar/dataset/designaciones-de-magistrados-de-la-justicia-federal-y-de-la-justicia-nacional)
+- [Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ-](http://datos.jus.gob.ar/dataset/consultas-efectuadas-en-los-centros-de-acceso-a-la-justicia--caj-)
+- [Bienes secuestrados y decomisados durante el proceso penal](http://datos.jus.gob.ar/dataset/bienes-secuestrados-y-decomisados-durante-el-proceso-penal)
 - [Internos del Servicio Penitenciario Federal - SPF](http://datos.jus.gob.ar/dataset/internos-del-servicio-penitenciario-federal---spf)
 - [Entidades constituidas en la Inspección General de Justicia](http://datos.jus.gob.ar/dataset/entidades-constituidas-en-la-inspeccin-general-de-justicia)
 - [Solicitudes de Autorización de Portación de Armas de Fuego](http://datos.jus.gob.ar/dataset/solicitudes-de-autorizacin-de-portacin-de-armas-de-fuego)
@@ -142,7 +143,6 @@
 - [Producción de Petróleo y Gas](http://www.energia.gob.ar/dataset/produccin-de-petrleo-y-gas)
 - [Producción de petróleo y gas por pozo (Capítulo IV)](https://www.se.gob.ar/dataset/produccin-de-petrleo-y-gas-por-pozo-captulo-iv)
 - [Producción de Petróleo desde 1950](http://datos.minem.gob.ar/dataset/produccin-de-petrleo-desde-1950)
-- [Producción de GLP por planta](http://datos.minem.gob.ar/dataset/produccin-de-glp-por-planta)
 - [Producción de GLP](http://datos.minem.gob.ar/dataset/produccin-de-glp)
 - [Producción de combustibles](http://datos.minem.gob.ar/dataset/produccin-de-combustibles)
 - [Principales productos exportados por rubro](http://datos.minem.gob.ar/dataset/principales-productos-exportados-por-rubro)
