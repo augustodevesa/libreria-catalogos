@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 44
-- **Cantidad Total de Distribuciones**: 132
+- **Cantidad Total de Datasets**: 45
+- **Cantidad Total de Distribuciones**: 135
 
 - **Cantidad de Datasets Federados**: 28
-- **Cantidad de Datasets NO Federados**: 16
-- **Porcentaje de Datasets NO Federados**: 36.36%
+- **Cantidad de Datasets NO Federados**: 17
+- **Porcentaje de Datasets NO Federados**: 37.78%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -29,6 +29,7 @@
 ## Datasets no federados
 
 - [Registro de Visitas](None)
+- [Ausentismo - Total mensual de días por motivo de ausencia](None)
 - [Total de personal por género](None)
 - [Personal por provincia](None)
 - [Personal de ARSAT asignado a áreas operativas o de soporte](None)
