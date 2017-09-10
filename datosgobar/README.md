@@ -32,11 +32,6 @@
 
 ## Datasets federados
 
-- [Selección de magistrados del Poder Judicial y el Ministerio Público de la Nación](http://datos.jus.gob.ar/dataset/seleccin-de-magistrados-del-poder-judicial-y-el-ministerio-pblico-de-la-nacin)
-- [Listado de mediaciones prejudiciales y judiciales. Ley 26.589](http://datos.jus.gob.ar/dataset/listado-de-mediaciones-prejudiciales-y-judiciales-ley-26589)
-- [Listado de mediadores](http://datos.jus.gob.ar/dataset/listado-de-mediadores)
-- [Estadística de mediaciones prejudiciales y judiciales](http://datos.jus.gob.ar/dataset/estadstica-de-mediaciones-prejudiciales-y-judiciales)
-- [Declaraciones Juradas Patrimoniales Integrales de carácter público](https://www2.jus.gov.ar/consultaddjj)
 - [Numeración no geográfica](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
 - [Numeración geográfica](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
 - [Listado de estaciones repetidoras](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
@@ -73,7 +68,6 @@
 - [Reclamos mensuales por tipo de servicio](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RECLA-MENSU-POR-TIPO-DE/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
 - [Reclamos mensuales recibidos por motivo de reclamo](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-MENSU-DE-RECLA-88502/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
 - [Portabilidad numérica móvil: portaciones netas mensuales por operador](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
-- [Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.](http://datos.jus.gob.ar/dataset/sistema-de-consulta-nacional-de-rebeldas-y-capturas---conarc)
 - [Personal por Gerencia](http://datos.arsat.com.ar/dataviews/238091/personal-por-gerencia/)
 - [Listado de Proveedores](http://datos.arsat.com.ar/dataviews/237843/listado-de-proveedores/)
 - [Declaraciones Juradas Patrimoniales - Directorio y Gerentes](http://datos.arsat.com.ar/dataviews/237547/declaraciones-juradas-patrimoniales-directorio-y-gerentes/)
@@ -102,6 +96,12 @@
 - [Datos de las estaciones de transmisión en construcción o planificadas](http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/)
 - [Fibra óptica de la empresa Transener](http://datos.arsat.com.ar/dataviews/238787/fibra-optica-de-la-empresa-transener/)
 - [Honorarios de Directores](http://datos.arsat.com.ar/dataviews/238788/honorarios-de-directores/)
+- [Selección de magistrados del Poder Judicial y el Ministerio Público de la Nación](http://datos.jus.gob.ar/dataset/seleccin-de-magistrados-del-poder-judicial-y-el-ministerio-pblico-de-la-nacin)
+- [Listado de mediaciones prejudiciales y judiciales. Ley 26.589](http://datos.jus.gob.ar/dataset/listado-de-mediaciones-prejudiciales-y-judiciales-ley-26589)
+- [Listado de mediadores](http://datos.jus.gob.ar/dataset/listado-de-mediadores)
+- [Estadística de mediaciones prejudiciales y judiciales](http://datos.jus.gob.ar/dataset/estadstica-de-mediaciones-prejudiciales-y-judiciales)
+- [Declaraciones Juradas Patrimoniales Integrales de carácter público](https://www2.jus.gov.ar/consultaddjj)
+- [Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.](http://datos.jus.gob.ar/dataset/sistema-de-consulta-nacional-de-rebeldas-y-capturas---conarc)
 - [Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público](http://datos.jus.gob.ar/dataset/curriculums-vitae-de-magistrados-para-cubrir-vacantes-en-el-poder-judicial-y-el-ministerio-pblico)
 - [Producción de GLP por planta](http://datos.minem.gob.ar/dataset/produccin-de-glp-por-planta)
 - [Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional](http://datos.jus.gob.ar/dataset/renuncias-de-magistrados-de-la-justicia-federal-y-de-la-justicia-nacional)
