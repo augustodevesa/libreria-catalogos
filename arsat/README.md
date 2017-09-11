@@ -29,6 +29,7 @@
 ## Datasets no federados
 
 - [Registro de Visitas](None)
+- [Tráfico de Internet entrante y saliente](None)
 - [Ausentismo - Total mensual de días por motivo de ausencia](None)
 - [Total de personal por género](None)
 - [Personal por provincia](None)
@@ -38,7 +39,6 @@
 - [Personal por Gerencia distinguido por género](None)
 - [Cantidad Total de Megabits en servicio por provincia](None)
 - [Cantidad de clientes por provincia](None)
-- [Tráfico de Internet entrante y saliente](None)
 - [Fibra óptica próxima a iluminar](None)
 - [Distribución por provincia de las escuelas conectadas con tecnología Gillat](None)
 - [Puntos de Conexión al Plan Federal de Internet por provincia](None)
