@@ -29,6 +29,7 @@
 ## Datasets no federados
 
 - [Registro de Visitas](None)
+- [Distribución por provincia de las escuelas conectadas con tecnología Gillat](None)
 - [Tráfico de Internet entrante y saliente](None)
 - [Ausentismo - Total mensual de días por motivo de ausencia](None)
 - [Total de personal por género](None)
@@ -40,7 +41,6 @@
 - [Cantidad Total de Megabits en servicio por provincia](None)
 - [Cantidad de clientes por provincia](None)
 - [Fibra óptica próxima a iluminar](None)
-- [Distribución por provincia de las escuelas conectadas con tecnología Gillat](None)
 - [Puntos de Conexión al Plan Federal de Internet por provincia](None)
 - [Porcentaje de avance del Plan](None)
 - [Datos del área de cobertura de la Banda KU del satélite ARSAT-1](None)
@@ -49,6 +49,7 @@
 ## Datasets federados
 
 - [Registro de Audiencias](None)
+- [Escuelas Conectadas con Tecnología Gillat](None)
 - [Listado de Personal](None)
 - [Promedios de edad y antigüedad del personal](None)
 - [Personal por Gerencia](None)
@@ -59,7 +60,6 @@
 - [Fibra óptica planificada](None)
 - [Datos de uso de la plataforma](None)
 - [Declaraciones Juradas Patrimoniales - Directorio y Gerentes](None)
-- [Escuelas Conectadas con Tecnología Gillat](None)
 - [Futuros puntos de conexión al Plan Federal de Internet](None)
 - [Puntos de conexión al Plan Federal de Internet](None)
 - [Licitaciones](None)
