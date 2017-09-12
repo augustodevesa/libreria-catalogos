@@ -51,6 +51,7 @@ all: update_environment
 all_local:
 	git pull
 	$(PYTHON_PATH) main.py
+	git push
 
 clean:
 	rm -rf venv/
