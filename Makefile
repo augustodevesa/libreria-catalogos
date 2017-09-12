@@ -44,6 +44,7 @@ setup_without_cron: download_python venv create_dir
 update_environment:
 	git pull
 	venv/bin/pip install -r requirements.txt --upgrade
+	git push
 
 all: update_environment
 	$$PWD/venv/bin/python main.py
