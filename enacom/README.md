@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 62
-- **Cantidad Total de Distribuciones**: 186
+- **Cantidad Total de Datasets**: 64
+- **Cantidad Total de Distribuciones**: 192
 
 - **Cantidad de Datasets Federados**: 36
-- **Cantidad de Datasets NO Federados**: 26
-- **Porcentaje de Datasets NO Federados**: 41.94%
+- **Cantidad de Datasets NO Federados**: 28
+- **Porcentaje de Datasets NO Federados**: 43.75%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -28,17 +28,19 @@
 
 ## Datasets no federados
 
-- [Portabilidad numérica móvil: altas mensuales por operador](None)
+- [Radiobases 4G desplegadas por trimestre y provincia](None)
+- [Número de radiobases 4G por provincia por cada 100 mil habitantes](None)
 - [Denuncias recibidas por delegación (año corrido)](None)
 - [Reclamos por motivo de reclamación (año corrido)](None)
-- [Operadores con el mayor número de reclamos recibidos, servicio de Internet fijo](None)
 - [Reclamos por tipo de servicio (año corrido)](None)
+- [Operadores con el mayor número de reclamos recibidos, servicio de Internet fijo](None)
 - [Operadores con el mayor número de reclamos recibidos, servicio de telefonía fija](None)
 - [Operadores con el mayor número de reclamos recibidos,servicio de telefonía móvil](None)
+- [Portabilidad numérica móvil: altas mensuales por operador](None)
+- [Equipos homologados inscriptos](None)
+- [Equipos homologados inscriptos](None)
 - [Total nacional de accesos a Internet fijo por velocidad de bajada](None)
 - [Accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros)](None)
-- [Número de radiobases 4G por provincia por cada 100 mil habitantes](None)
-- [Radiobases 4G desplegadas por trimestre y provincia](None)
 - [Penetración provincial de la telefonía fija](None)
 - [Penetración provincial de la televisión por suscripción](None)
 - [Penetración del Internet fijo por provincia (accesos por cada 100 hogares)](None)
@@ -57,17 +59,17 @@
 
 ## Datasets federados
 
-- [Portabilidad numérica móvil: portaciones netas mensuales por operador](None)
 - [Denuncias mensuales recibidas](None)
-- [Reclamos mensuales por tipo de servicio](None)
 - [Reclamos por operador y motivo de reclamo](None)
+- [Reclamos mensuales por tipo de servicio](None)
 - [Reclamos mensuales recibidos por motivo de reclamo](None)
+- [Fomeca: montos aprobados y pagados por entidad beneficiada](None)
+- [Portabilidad numérica móvil: portaciones netas mensuales por operador](None)
 - [Licenciatarios TIC](None)
 - [Accesos de televisión por suscripción por provincia](None)
 - [Ingresos trimestrales por la prestación del servicio de telefonía fija](None)
 - [Penetración total nacional de la telefonía fija por trimestre](None)
 - [Total nacional de accesos a telefonía fija](None)
-- [Fomeca: montos aprobados y pagados por entidad beneficiada](None)
 - [Ingresos trimestrales por la prestación de los servicios de televisión](None)
 - [Penetración total nacional de la televisión por suscripción y satelital](None)
 - [Total nacional de accesos a televisión por suscripción y televisión satelital](None)
