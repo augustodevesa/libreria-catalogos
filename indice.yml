@@ -86,3 +86,13 @@ agroindustria:
   formato: "json"
   federado: true
 
+modernizacion:
+  url: "https://infra.datos.gob.ar/catalog/modernizacion/data.json"
+  formato: "json"
+  federado: true
+
+sspm:
+  url: "https://infra.datos.gob.ar/catalog/sspm/data.json"
+  formato: "json"
+  federado: true
+
