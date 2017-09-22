@@ -16,23 +16,19 @@
 - **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
 - **Cantidad Total de Datasets**: 30
-- **Cantidad Total de Distribuciones**: 225
+- **Cantidad Total de Distribuciones**: 230
 
-- **Cantidad de Datasets Federados**: 27
-- **Cantidad de Datasets NO Federados**: 3
-- **Porcentaje de Datasets NO Federados**: 10.0%
+- **Cantidad de Datasets Federados**: 29
+- **Cantidad de Datasets NO Federados**: 1
+- **Porcentaje de Datasets NO Federados**: 3.33%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
-- [Registro, Sistematización y Seguimiento de Hechos de Violencia Institucional](http://datos.jus.gob.ar/dataset/registro-sistematizacin-y-seguimiento-de-hechos-de-violencia-institucional)
-- [Registro de Viajes Fincianciados por Terceros](https://www.argentina.gob.ar/consultar-sobre-regimen-de-obsequios-funcionarios-publicos)
-- [Registro de Obsequios a Funcionarios Públicos](https://www.argentina.gob.ar/consultar-sobre-regimen-de-obsequios-funcionarios-publicos)
+
 
 ## Datasets no federados
 
-- [Registro de obsequios a funcionarios públicos](https://www.argentina.gob.ar/consultar-sobre-regimen-de-obsequios-funcionarios-publicos)
-- [Registro de viajes fincianciados por terceros](https://www.argentina.gob.ar/consultar-sobre-regimen-de-obsequios-funcionarios-publicos)
-- [Registro, sistematización y seguimiento de hechos de violencia institucional]()
+- [Listado de Registros Seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios](http://www.dnrpa.gov.ar)
 
 ## Datasets federados
 
@@ -53,9 +49,10 @@
 - [Estadística de mediaciones prejudiciales y judiciales]()
 - [Internos del Servicio Penitenciario Federal - SPF]()
 - [Listado de mediadores]()
-- [Listado de Registros Seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios](http://www.dnrpa.gov.ar)
 - [Magistrados de la Justicia Federal y de la Justicia Nacional]()
 - [Listado de mediaciones prejudiciales y judiciales. Ley 26.589]()
+- [Registro de obsequios a funcionarios públicos](https://www.argentina.gob.ar/consultar-sobre-regimen-de-obsequios-funcionarios-publicos)
+- [Registro de viajes fincianciados por terceros](https://www.argentina.gob.ar/consultar-sobre-regimen-de-obsequios-funcionarios-publicos)
 - [Registro, sistematización y seguimiento de femicidios y homicidios agravados por el género]()
 - [Registro Unificado de Víctimas del Terrorismo de Estado -RUVTE-](http://www.jus.gob.ar/derechoshumanos/areas-tematicas/ruvte.aspx)
 - [Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional]()
@@ -63,6 +60,7 @@
 - [Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP]()
 - [Solicitudes de Condición de Legítimo Usuario de Armas de Fuego]()
 - [Tesauro SAIJ de Derecho Argentino]()
+- [Registro, sistematización y seguimiento de hechos de violencia institucional]()
 
 ## Reporte
 
