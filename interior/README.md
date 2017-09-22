@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 0
-- **Cantidad Total de Distribuciones**: 0
+- **Cantidad Total de Datasets**: 2
+- **Cantidad Total de Distribuciones**: 27
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 0
+- **Cantidad de Datasets NO Federados**: 2
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -28,7 +28,8 @@
 
 ## Datasets no federados
 
-
+- [Ingresos y Egresos de personas al pais y Residencias Otorgadas.](https://www.migraciones.gov.ar)
+- [Información sobre las autoridades, ubicación geográfica, datos institucionales y contacto](http://datos.mininterior.gob.ar/dataset/informacion-sobre-las-autoridades-ubicacion-geografica-datos-institucionales-y-contacto)
 
 ## Datasets federados
 
