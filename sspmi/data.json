@@ -1,4 +1,14 @@
 {
+    "publisher": {
+        "mbox": "sspmicro@mecon.gov.ar",
+        "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+    },
+    "description": "Catálogo de datos abiertos de la Subsecretaría de Programación Microeconómica.",
+    "license": "Open Database License (ODbL) v1.0",
+    "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
+    "issued": "2017-09-25T00:00:00",
+    "title": "Datos Programación Microeconómica",
+    "modified": "2017-09-25T00:00:00",
     "dataset": [
         {
             "issued": "2017-09-25",
@@ -3295,16 +3305,10 @@
             "identifier": "27"
         }
     ],
-    "publisher": {
-        "mbox": "sspmicro@mecon.gov.ar",
-        "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
-    },
-    "description": "Catálogo de datos abiertos de la Subsecretaría de Programación Microeconómica.",
-    "license": "Open Database License (ODbL) v1.0",
-    "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
-    "issued": "2017-09-25T00:00:00",
-    "title": "Datos Programación Microeconómica",
-    "modified": "2017-09-25T00:00:00",
+    "language": [
+        "SPA"
+    ],
+    "spatial": "ARG",
     "themeTaxonomy": [
         {
             "id": "produccion_actividad",
@@ -3346,9 +3350,5 @@
             "description": "Datos sobre actores involucrados en la estructura productiva",
             "label": "Agentes"
         }
-    ],
-    "language": [
-        "SPA"
-    ],
-    "spatial": "ARG"
+    ]
 }
