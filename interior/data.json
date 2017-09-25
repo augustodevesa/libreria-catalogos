@@ -9,6 +9,103 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "clacunza@mininterior.gob.ar",
+                "name": "Carlos Lacunza"
+            },
+            "accessLevel": "public",
+            "description": "Resúmen de Información de estaciones, como acceder a la Base de Datos y vínculos a varios productos del contenido de la Red Nacional de Información Hídrica",
+            "license": "Otra (Abierta)",
+            "title": "Estaciones de medición, valores de parámetros y productos de la Red",
+            "issued": "2017-09-25T15:02:21.947371",
+            "temporal": "1904-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
+            "modified": "2017-09-25T15:58:32.658226",
+            "language": "spa",
+            "distribution": [
+                {
+                    "accessURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/357a6ad0-2c37-4f33-a633-3c8d323dc4c5/download/estacionesred2.csv",
+                    "description": "Presenta información sobre el nombre, ubicación, cuenca, rio a la que pertenecen las estaciones de medición de la Red",
+                    "title": "Listado de Estaciones de la Red",
+                    "issued": "2017-09-25T15:48:38.729026",
+                    "format": "CSV",
+                    "modified": "2017-09-25T15:48:38.597869",
+                    "downloadURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/357a6ad0-2c37-4f33-a633-3c8d323dc4c5/download/estacionesred2.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Código de la estación",
+                            "title": "Código"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre de la estación",
+                            "title": "Nombre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Río de la ubicación de la estación",
+                            "title": "Río"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Sistema Hidrográfico",
+                            "title": "Sistema"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Cuenca del río",
+                            "title": "Cuenca"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Subcuenca del río",
+                            "title": "Subcuenca"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/ff6f0957-d65b-4133-ac40-3ee7805f801f/download/datosabiertos2.csv",
+                    "description": "Detalle de como se accede a la Base de datos de la Red y como se extrae información de la misma. Se presenta",
+                    "title": "Tutorial de acceso, y productos de la Red",
+                    "issued": "2017-09-25T15:58:32.695261",
+                    "format": "CSV",
+                    "modified": "2017-09-25T15:58:32.610616",
+                    "downloadURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/ff6f0957-d65b-4133-ac40-3ee7805f801f/download/datosabiertos2.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Contiene las URL del tutorial y los recursos producto",
+                            "title": "LINKS"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "calidad de agua",
+                "hidrología",
+                "hidrometeorología",
+                "meteorología",
+                "nivología",
+                "sedimentología"
+            ],
+            "accrualPeriodicity": "R/P4M",
+            "superTheme": [
+                "AGRI",
+                "ENER",
+                "ENVI",
+                "HEAL",
+                "REGI",
+                "TECH"
+            ],
+            "landingPage": "Subsecretaría de Recursos Hídricos - Dirección de Conservación y Protección de los Recursos Hídricos",
+            "identifier": "93913deb-d22e-4c0d-bca3-f465e7b2bb94",
+            "contactPoint": {
+                "hasEmail": "mailto:fscuka@mininterior.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Federico Scuka"
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "jbudrovich@migraciones.gov.ar",
                 "name": "Dirección Nacional de Migraciones"
             },
