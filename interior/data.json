@@ -18,7 +18,7 @@
             "title": "Estaciones de medición, valores de parámetros y productos de la Red",
             "issued": "2017-09-25T15:02:21.947371",
             "temporal": "1904-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
-            "modified": "2017-09-25T15:58:32.658226",
+            "modified": "2017-09-25T17:19:07.578203",
             "language": "spa",
             "distribution": [
                 {
@@ -75,6 +75,37 @@
                             "type": "string",
                             "description": "Contiene las URL del tutorial y los recursos producto",
                             "title": "LINKS"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/26d292a4-4d7f-48e1-872a-50a0dca35386/download/estacionesred3.csv",
+                    "description": "Ubicación y nombre de las estaciones",
+                    "title": "Listado de Estaciones de la Red (lat-lon)",
+                    "issued": "2017-09-25T17:19:07.658717",
+                    "format": "CSV",
+                    "modified": "2017-09-25T17:19:07.511682",
+                    "downloadURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/26d292a4-4d7f-48e1-872a-50a0dca35386/download/estacionesred3.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Codificación de la estación",
+                            "title": "Código"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre de la estación",
+                            "title": "Nombre"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Latitud",
+                            "title": "lat"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Longitud",
+                            "title": "Longitud"
                         }
                     ]
                 }
