@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 244
-- **Cantidad Total de Distribuciones**: 423
+- **Cantidad Total de Datasets**: 239
+- **Cantidad Total de Distribuciones**: 415
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 244
+- **Cantidad de Datasets NO Federados**: 239
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -179,7 +179,6 @@
 - [Empleo registrado del sector privado, por rama de actividad](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Remuneración bruta promedio de los asalariados registrados del sector privado según rama de actividad](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Remuneración imponible promedio de los trabajadores estables (RIPTE)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Deuda externa bruta por sector residente](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Exportaciones según el Nomenclador Común del Mercosur (NCM)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Importaciones según el Nomenclador Común del Mercosur (NCM)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Saldo comercial clasificado el Nomenclador Común del Mercosur (NCM)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -262,14 +261,10 @@
 - [Ahorro del resto del mundo. Base 2004](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Tipo de Cambio $-USD - Futuro Dólar - NDF](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índices Bursátiles Argentina](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Financiamiento privado en mercado de capitales](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Fondos Comunes de Inversión](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Principales subgrupos de recaudación tributaria](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [IPC Categorías. Tasas de variación mensual. Base Dic-2016](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Series históricas de estadísticas monetarias](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Tipos de Cambio Históricos](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Índice de Precios al Consumidor GBA - Base 1988](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Índice de Precios al Consumidor GBA - Base 1974](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índice de Precios al Consumidor histórico](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Títulos Públicos de Deuda](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 
