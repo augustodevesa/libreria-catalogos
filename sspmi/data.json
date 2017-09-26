@@ -3221,7 +3221,7 @@
             "identifier": "26"
         },
         {
-            "issued": "2017-09-26",
+            "issued": "2017-09-25",
             "accessLevel": "ABIERTO",
             "superTheme": [
                 "ECON"
@@ -3257,7 +3257,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2017-09-26",
+            "modified": "2017-09-25",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -3501,7 +3501,7 @@
             "identifier": "27"
         },
         {
-            "issued": "2017-09-26",
+            "issued": "2017-09-25",
             "accessLevel": "ABIERTO",
             "superTheme": [
                 "ECON"
@@ -3542,11 +3542,15 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2017-09-26",
+            "modified": "2017-09-25",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
                     "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "description": "Indicadores Provinciales Socioeconómicos en valores anuales",
+                    "title": "Indicadores Provinciales Socioeconómicos en valores anuales",
+                    "format": "CSV",
+                    "downloadURL": "https://minhacienda.gob.ar/datos/",
                     "field": [
                         {
                             "description": "Anual",
@@ -3665,16 +3669,14 @@
                             "units": "Millones de pesos"
                         }
                     ],
-                    "description": "Indicadores Provinciales Socioeconómicos en valores anuales",
-                    "title": "Indicadores Provinciales Socioeconómicos en valores anuales",
-                    "issued": "2017-09-26",
-                    "format": "CSV",
-                    "modified": "2017-09-26",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/",
                     "identifier": "99.1"
                 },
                 {
                     "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "description": "Indicadores Provinciales Socioeconómicos en valores trimestrales",
+                    "title": "Indicadores Provinciales Socioeconómicos en valores trimestrales",
+                    "format": "CSV",
+                    "downloadURL": "https://minhacienda.gob.ar/datos/",
                     "field": [
                         {
                             "description": "Trimestral",
@@ -3727,12 +3729,6 @@
                             "units": "Miles de pesos corrientes"
                         }
                     ],
-                    "description": "Indicadores Provinciales Socioeconómicos en valores trimestrales",
-                    "title": "Indicadores Provinciales Socioeconómicos en valores trimestrales",
-                    "issued": "2017-09-26",
-                    "format": "CSV",
-                    "modified": "2017-09-26",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/",
                     "identifier": "99.2"
                 }
             ],
