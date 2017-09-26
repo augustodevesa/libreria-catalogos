@@ -13,13 +13,13 @@
 
 ## Estado de los metadatos y cantidad de recursos
 
-- **Estado metadatos globales**: OK
+- **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 14
-- **Cantidad Total de Distribuciones**: 33
+- **Cantidad Total de Datasets**: 15
+- **Cantidad Total de Distribuciones**: 35
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 14
+- **Cantidad de Datasets NO Federados**: 15
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -42,6 +42,7 @@
 - [Indicadores Sectoriales de Manzana y Pera](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
 - [Indicadores Sectoriales de la Industria Metálicas Básicas](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
 - [Indicadores Sectoriales de Pesca Marítima](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
+- [Indicadores Provinciales Socioeconómicos](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
 
 ## Datasets federados
 
