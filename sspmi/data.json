@@ -40,7 +40,8 @@
                 "oro",
                 "cobre",
                 "plata",
-                "litio"
+                "litio",
+                "datos sectoriales"
             ],
             "language": [
                 "SPA"
@@ -210,7 +211,8 @@
                 "produccion bioetanol",
                 "precio internacional azucar",
                 "precio bioetanol",
-                "empleo industria azucarera"
+                "empleo industria azucarera",
+                "datos sectoriales"
             ],
             "language": [
                 "SPA"
@@ -220,6 +222,37 @@
             "distribution": [
                 {
                     "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "field": [
+                        {
+                            "description": "empleo industria azucarera total país, en puestos de trabajo, valores anuales",
+                            "title": "empleo_industria_azucarera_1542",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "producción azúcar blanco, total país, en toneladas métricas valor crudo, valores anuales",
+                            "title": "prod_azucar_blanco",
+                            "type": "number",
+                            "units": "TMVC (toneladas métricas valor crudo)"
+                        },
+                        {
+                            "description": "producción azúcar crudo total país, en toneladas métricas valor crudo, valores anuales",
+                            "title": "prod_azucar_crudo",
+                            "type": "number",
+                            "units": "TMVC (toneladas métricas valor crudo)"
+                        },
+                        {
+                            "description": "producción azúcar (blanco+crudo) total país, en toneladas métricas valor crudo, valores anuales",
+                            "title": "prod_azucar_total",
+                            "type": "number",
+                            "units": "TMVC (toneladas métricas valor crudo)"
+                        },
+                        {
+                            "description": "Anual",
+                            "title": "indice_tiempo",
+                            "type": "date"
+                        }
+                    ],
                     "description": "Indicadores de azúcar en valores anuales",
                     "title": "Indicadores de azúcar en valores anuales",
                     "issued": "2017-09-25",
@@ -230,6 +263,43 @@
                 },
                 {
                     "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "field": [
+                        {
+                            "description": "producción bioetanol de caña de azúcar total país, en miles de metros cúbicos, valores mensuales",
+                            "title": "prod_bioetanol_cana_azucar",
+                            "type": "number",
+                            "units": "$/Mm3 (pesos por miles de metros cúbicos)"
+                        },
+                        {
+                            "description": "precio bietanol caña de azúcar, en pesos por toneladas, valores mensuales",
+                            "title": "prec_bioetanol_cana_azucar",
+                            "type": "number",
+                            "units": "$/litro"
+                        },
+                        {
+                            "description": "precio internacional, azúcar blanco, contrato Nº 5 de Londres, dólares por tonelada, valores mensuales",
+                            "title": "prec_int_azucar_blanco_londres",
+                            "type": "number",
+                            "units": "USD/tonelada"
+                        },
+                        {
+                            "description": "precio interno azúcar blanco común tipo A vagón ingenio, en pesos por toneladas, valores mensuales",
+                            "title": "prec_azucar_blanco_comun_tipo_a_vagon_ingenio",
+                            "type": "number",
+                            "units": "$/tonelada"
+                        },
+                        {
+                            "description": "precio internacional, azúcar blanco, contrato nro 11 de nueva york, centávos de dólar por libra, valores mensuales",
+                            "title": "prec_int_azucar_crudo_nueva_york",
+                            "type": "number",
+                            "units": "centavos de dólar por libra"
+                        },
+                        {
+                            "description": "Mensual",
+                            "title": "indice_tiempo",
+                            "type": "date"
+                        }
+                    ],
                     "description": "Indicadores de azúcar en valores mensuales",
                     "title": "Indicadores de azúcar en valores mensuales",
                     "issued": "2017-09-25",
@@ -270,7 +340,8 @@
                 "automoviles",
                 "utilitarios",
                 "segmento a",
-                "segmento b"
+                "segmento b",
+                "datos sectoriales"
             ],
             "language": [
                 "SPA"
@@ -552,7 +623,8 @@
                 "carne aviar",
                 "aviar",
                 "pollitos bb",
-                "reproductores pesados"
+                "reproductores pesados",
+                "datos sectoriales"
             ],
             "language": [
                 "SPA"
@@ -808,7 +880,8 @@
                 "yacimiento",
                 "regalias",
                 "nafta",
-                "gas oil"
+                "gas oil",
+                "datos sectoriales"
             ],
             "language": [
                 "SPA"
@@ -1354,7 +1427,7 @@
                 "cabezales",
                 "pulverizadoras",
                 "tolvas",
-                ""
+                "datos sectoriales"
             ],
             "language": [
                 "SPA"
@@ -1784,7 +1857,8 @@
                 "no residentes",
                 "turismo emisivo",
                 "turismo receptivo",
-                "cuenta viajes"
+                "cuenta viajes",
+                "datos sectoriales"
             ],
             "language": [
                 "SPA"
@@ -1922,7 +1996,8 @@
                 "mosto concentrado",
                 "vino certificado",
                 "despacho",
-                "precios"
+                "precios",
+                "datos sectoriales"
             ],
             "language": [
                 "SPA"
@@ -1932,6 +2007,55 @@
             "distribution": [
                 {
                     "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "field": [
+                        {
+                            "description": "Producción: elaboración de vino, total país, en unidades",
+                            "title": "prod_mostcon",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Puestos de trabajo registrados en el sector privado  en el sector elaboración de vinos y otras bebidas fermentadas a base de frutas, en valores anuales",
+                            "title": "empleo_1552",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Producción: elaboración de vino, total país, en unidades",
+                            "title": "prod_vino",
+                            "type": "number",
+                            "units": "hl (hectolítro)"
+                        },
+                        {
+                            "description": "Producción: elaboración de mosto, total país, en unidades",
+                            "title": "prod_mosto",
+                            "type": "number",
+                            "units": "hl (hectolítro)"
+                        },
+                        {
+                            "description": "Producción: elaboración de vino con certificación varietal, total país, en unidades",
+                            "title": "prod_vincer",
+                            "type": "number",
+                            "units": "hl (hectolítro)"
+                        },
+                        {
+                            "description": "Despachos autorizados en el mercado interno",
+                            "title": "despacho_mint",
+                            "type": "number",
+                            "units": "hl (hectolítro)"
+                        },
+                        {
+                            "description": "Producción: uva ingresada a establecimientos para vinificar, total país, en unidades",
+                            "title": "prod_uvavinificar",
+                            "type": "number",
+                            "units": "en quintales métricos"
+                        },
+                        {
+                            "description": "Anual",
+                            "title": "indice_tiempo",
+                            "type": "date"
+                        }
+                    ],
                     "description": "Indicadores de la cadena de valor de vitivinicultura en valores anuales",
                     "title": "Indicadores de la cadena de valor de vitivinicultura en valores anuales",
                     "issued": "2017-09-25",
@@ -1942,6 +2066,31 @@
                 },
                 {
                     "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "field": [
+                        {
+                            "description": "Precio de traslado promedio del vino blanco escurrido",
+                            "title": "pre_vinoblescu",
+                            "type": "number",
+                            "units": "($/hl contado sin IVA)"
+                        },
+                        {
+                            "description": "Precio de traslado promedio Vino Malbec (sin certificar)",
+                            "title": "pre_vinomalbsc",
+                            "type": "number",
+                            "units": "($/hl contado sin IVA)"
+                        },
+                        {
+                            "description": "Precio de traslado promedio Vinos tintos",
+                            "title": "pre_vinotintra",
+                            "type": "number",
+                            "units": "($/hl contado sin IVA)"
+                        },
+                        {
+                            "description": "Mensual",
+                            "title": "indice_tiempo",
+                            "type": "date"
+                        }
+                    ],
                     "description": "Indicadores de la cadena de valor de vitivinicultura en valores mensuales",
                     "title": "Indicadores de la cadena de valor de vitivinicultura en valores mensuales",
                     "issued": "2017-09-25",
@@ -1990,7 +2139,8 @@
                 "pasta",
                 "tableros alistonados",
                 "tableros de fibra",
-                "tableros de particulas"
+                "tableros de particulas",
+                "datos sectoriales"
             ],
             "language": [
                 "SPA"
@@ -2385,7 +2535,7 @@
                         }
                     ],
                     "description": "Indicadores de forestales, muebles y papel en valores trimestrales",
-                    "title": "Indicadores de forestales, muebles y papel en valores trimestrales",
+                    "title": "Indicadores forestales, muebles y papel en valores trimestrales",
                     "issued": "2017-09-25",
                     "format": "CSV",
                     "modified": "2017-09-25",
@@ -2423,7 +2573,8 @@
             "keyword": [
                 "medicamentos",
                 "productos farmaceuticos",
-                "industria farmaceutica"
+                "industria farmaceutica",
+                "datos sectoriales"
             ],
             "language": [
                 "SPA"
@@ -2480,6 +2631,37 @@
                 },
                 {
                     "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "field": [
+                        {
+                            "description": "Ventas mercado interno: productos farmaceúticos nacionales, total país, en millones de pesos y a valores trimestrales",
+                            "title": "vta_prod_nac",
+                            "type": "number",
+                            "units": "Millones de pesos"
+                        },
+                        {
+                            "description": "Ventas mercado interno: productos farmaceúticos importados, total país, en millones de pesos y a valores trimestrales",
+                            "title": "vta_prod_imp",
+                            "type": "number",
+                            "units": "Millones de pesos"
+                        },
+                        {
+                            "description": "Ventas mercado interno: total productos farmaceúticos (nacionales, importados, exportacion), total país, en millones de pesos a valores trimestrales",
+                            "title": "vta_tot",
+                            "type": "number",
+                            "units": "Millones de pesos"
+                        },
+                        {
+                            "description": "Puestos de trabajo registrados en el sector privado, en valores trimestrales",
+                            "title": "empleo_2423",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Trimestral",
+                            "title": "indice_tiempo",
+                            "type": "date"
+                        }
+                    ],
                     "description": "Indicadores de la Industria Farmaceútica en valores trimestrales",
                     "title": "Indicadores de Industria Farmacéutica en valores trimestrales",
                     "issued": "2017-09-25",
@@ -2520,7 +2702,8 @@
                 "produccion primaria de leche",
                 "stock ganado lechero",
                 "precios",
-                "empleo industria lactea"
+                "empleo industria lactea",
+                "datos sectoriales"
             ],
             "language": [
                 "SPA"
@@ -2571,6 +2754,11 @@
                             "title": "empl_ind_lacteo",
                             "type": "number",
                             "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "trimestral",
+                            "title": "indice_tiempo",
+                            "type": "date"
                         }
                     ],
                     "description": "Indicadores de lacteos en valores trimestrales",
@@ -2637,7 +2825,8 @@
                 "fruta",
                 "fruta de pepita",
                 "jugo",
-                "fruticola."
+                "fruticola",
+                "datos sectoriales"
             ],
             "language": [
                 "SPA"
@@ -2913,7 +3102,8 @@
             "keyword": [
                 "metalicas basicas",
                 "siderurgia",
-                "aluminio"
+                "aluminio",
+                "datos sectoriales"
             ],
             "language": [
                 "SPA"
@@ -3012,6 +3202,11 @@
                             "title": "empl_mc",
                             "type": "number",
                             "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Trimestral",
+                            "title": "indice_tiempo",
+                            "type": "date"
                         }
                     ],
                     "description": "Indicadores de Industrias Metálicas Básicas en valores trimestrales",
@@ -3056,7 +3251,8 @@
                 "merluza",
                 "calamar",
                 "langostino",
-                "capturas"
+                "capturas",
+                "datos sectoriales"
             ],
             "language": [
                 "SPA"
@@ -3303,6 +3499,240 @@
                 }
             ],
             "identifier": "27"
+        },
+        {
+            "issued": "2017-09-25",
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ECON"
+            ],
+            "title": "Indicadores Provinciales Socioeconómicos",
+            "temporal": "1996-01-01/2017-12-31",
+            "source": "INDEC, MSAL, Ministerio de Educación, MTEySS, BCRA, MinHacienda",
+            "theme": [
+                "sociodemograficos",
+                "financiamiento",
+                "fiscal",
+                "mercado_laboral"
+            ],
+            "spatial": "ARG",
+            "description": "Indicadores Provinciales Socioeconómicos",
+            "contactPoint": {
+                "hasEmail": "sspmicro@mecon.gov.ar",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Regional."
+            },
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "keyword": [
+                "población",
+                "tasa",
+                "mortalidad",
+                "natalidad",
+                "alumnos",
+                "empleo",
+                "depósitos",
+                "préstamos",
+                "gastos",
+                "recursos",
+                "datos provinciales"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "modified": "2017-09-25",
+            "accrualPeriodicity": "R/P3M",
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "description": "Indicadores Provinciales Socioeconómicos en valores anuales",
+                    "title": "Indicadores Provinciales Socioeconómicos en valores anuales",
+                    "format": "CSV",
+                    "downloadURL": "https://minhacienda.gob.ar/datos/",
+                    "field": [
+                        {
+                            "description": "Anual",
+                            "title": "indice_tiempo",
+                            "type": "date"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros.",
+                            "title": "alcance_tipo",
+                            "type": "texto"
+                        },
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros.",
+                            "title": "alcance_id",
+                            "type": "texto"
+                        },
+                        {
+                            "description": "Noimbre de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros.",
+                            "title": "alcance_nombre",
+                            "type": "texto"
+                        },
+                        {
+                            "description": "Proyecciones de población elaboradas en base a resultados del Censo Nacional de Población, Hogares y Viviendas 2010, en habitantes y a valores anuales",
+                            "title": "pobl_proy",
+                            "type": "number",
+                            "units": "Habitantes"
+                        },
+                        {
+                            "description": "Tasa de mortalidad general por cada 1.000 habitantes y en valores anuales",
+                            "title": "tasa_mort_gral",
+                            "type": "number",
+                            "units": "por cada 1.000 habitantes"
+                        },
+                        {
+                            "description": "Tasa de natalidad por cada 1.000 habitantes y en valores anuales",
+                            "title": "tasa_nat",
+                            "type": "number",
+                            "units": "por cada 1.000 habitantes"
+                        },
+                        {
+                            "description": "Tasa de mortalidad materna por cada 10.000 nacidos vivos y a valores anuales",
+                            "title": "tasa_mort_mat",
+                            "type": "number",
+                            "units": "por cada 10.000 nacidos vivos"
+                        },
+                        {
+                            "description": "Tasas de mortalidad infantil por cada 1.000 nacidos vivos y a valores anuales",
+                            "title": "tasa_mort_inf",
+                            "type": "number",
+                            "units": "por cada 1.000 nacidos vivos"
+                        },
+                        {
+                            "description": "Alumnos de Educación Común - Inicial - Sector Estatal y Privado y a valores anuales",
+                            "title": "alum_comun_inic",
+                            "type": "number",
+                            "units": "por cada 1.000 nacidos vivos"
+                        },
+                        {
+                            "description": "Alumnos de Educación Común - Primario - Sector Estatal y Privado y a valores anuales",
+                            "title": "alum_comun_pri",
+                            "type": "number",
+                            "units": "por cada 1.000 nacidos vivos"
+                        },
+                        {
+                            "description": "Alumnos de Educación Común - Secundario Ciclo Básico - Sector Estatal y Privado y a valores anuales",
+                            "title": "alum_comun_sec_bas",
+                            "type": "number",
+                            "units": "por cada 1.000 nacidos vivos"
+                        },
+                        {
+                            "description": "Alumnos de Educación Común - Secundario Ciclo Orientado - Sector Estatal y Privado y a valores anuales",
+                            "title": "alum_comun_sec_or",
+                            "type": "number",
+                            "units": "alumnos"
+                        },
+                        {
+                            "description": "Alumnos de Educación Común - Superior no Universitario - Sector Estatal y Privado y a valores anuales",
+                            "title": "alum_comun_sup_nouniv",
+                            "type": "number",
+                            "units": "alumnos"
+                        },
+                        {
+                            "description": "Alumnos de Educación Común - Total - Sector Estatal y Privado y a valores anuales",
+                            "title": "alum_comun_tot",
+                            "type": "number",
+                            "units": "alumnos"
+                        },
+                        {
+                            "description": "Empleo asalariado registrado del sector privado: total,  en puestos y a valores anuales",
+                            "title": "puestos_tot",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Esquema ahorro inversión financiamiento - Administración Pública no Financiera: recursos de origen provincial en millones de pesos y a valores anuales",
+                            "title": "rt_origenprov",
+                            "type": "number",
+                            "units": "Millones de pesos"
+                        },
+                        {
+                            "description": "Esquema ahorro inversión financiamiento - Administración Pública no Financiera: recursos corrientes en millones de pesos y a valores anuales",
+                            "title": "recursos_ctes",
+                            "type": "number",
+                            "units": "Millones de pesos"
+                        },
+                        {
+                            "description": "Esquema ahorro inversión financiamiento - Administración Pública no Financiera: gastos totales en millones de pesos y a valores anuales",
+                            "title": "gasto_tot",
+                            "type": "number",
+                            "units": "Millones de pesos"
+                        },
+                        {
+                            "description": "Esquema ahorro inversión financiamiento - Administración Pública no Financiera: resultado financiero en millones de pesos y a valores anuales",
+                            "title": "resultado_financiero",
+                            "type": "number",
+                            "units": "Millones de pesos"
+                        }
+                    ],
+                    "identifier": "99.1"
+                },
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "description": "Indicadores Provinciales Socioeconómicos en valores trimestrales",
+                    "title": "Indicadores Provinciales Socioeconómicos en valores trimestrales",
+                    "format": "CSV",
+                    "downloadURL": "https://minhacienda.gob.ar/datos/",
+                    "field": [
+                        {
+                            "description": "Trimestral",
+                            "title": "indice_tiempo",
+                            "type": "date"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros.",
+                            "title": "alcance_tipo",
+                            "type": "texto"
+                        },
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros.",
+                            "title": "alcance_id",
+                            "type": "texto"
+                        },
+                        {
+                            "description": "Noimbre de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros.",
+                            "title": "alcance_nombre",
+                            "type": "texto"
+                        },
+                        {
+                            "description": "Empleo asalariado registrado del sector privado: total, en puestos y a valores trimestrales",
+                            "title": "puestos_tot",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Depósitos del sector privado en moneda local y extranjera en miles de pesos y a valores trimestrales",
+                            "title": "dep_priv_monlocyext",
+                            "type": "number",
+                            "units": "Miles de pesos corrientes"
+                        },
+                        {
+                            "description": "Depósitos del sector público en moneda local y extranjera en miles de pesos y a valores trimestrales",
+                            "title": "dep_publ_monlocyext",
+                            "type": "number",
+                            "units": "Miles de pesos corrientes"
+                        },
+                        {
+                            "description": "Préstamos del sector privado en moneda local y extranjera en miles de pesos y a valores trimestrales",
+                            "title": "prest_priv_monlocyext",
+                            "type": "number",
+                            "units": "Miles de pesos corrientes"
+                        },
+                        {
+                            "description": "Préstamos del sector público en moneda local y extranjera en miles de pesos y a valores trimestrales",
+                            "title": "prest_publ_monlocyext",
+                            "type": "number",
+                            "units": "Miles de pesos corrientes"
+                        }
+                    ],
+                    "identifier": "99.2"
+                }
+            ],
+            "identifier": "99"
         }
     ],
     "language": [
