@@ -15,23 +15,25 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 239
-- **Cantidad Total de Distribuciones**: 415
+- **Cantidad Total de Datasets**: 240
+- **Cantidad Total de Distribuciones**: 417
 
-- **Cantidad de Datasets Federados**: 235
-- **Cantidad de Datasets NO Federados**: 4
-- **Porcentaje de Datasets NO Federados**: 1.67%
+- **Cantidad de Datasets Federados**: 234
+- **Cantidad de Datasets NO Federados**: 6
+- **Porcentaje de Datasets NO Federados**: 2.5%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
-
+- [Estimados Mensual Industrial (EMI). Variaciones interanuales. Base 2012](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 
 ## Datasets no federados
 
+- [Estimados Mensual Industrial (EMI). Variaciones interanuales. Base 2004](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Indicadores de evolución del sector agropecuario](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Faena pecuaria](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Distribución funcional del ingreso. Total de la economía y sector privado. Como Porcentaje del Producto Interno Bruto a costo de factores](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Distribución Personal del Ingreso. Coeficiente de Gini y Brecha de Ingresos para el Ingreso de la Ocupación Principal e Ingreso per cápita Familiar. Ratio Percentil 90/ Percentil 10](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Índice de Precios al Consumidor GBA - Base 1974](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 
 ## Datasets federados
 
@@ -48,7 +50,6 @@
 - [Estimador Mensual de Actividad Económica (EMAE). Base 2004](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Estimados Mensual Industrial (EMI). Índice. Base 2004](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Estimados Mensual Industrial (EMI). Índice. Base 2012](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Estimados Mensual Industrial (EMI). Variaciones interanuales. Base 2012](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Encuesta industrial. Índice de Volumen Físico (IVF).  Base 1997](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Encuesta industrial. Índices de Obreros Ocupados (IOO).  Base 1997](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Encuesta industrial. Índices de Horas trabajadas (IHT).  Base 1997](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
