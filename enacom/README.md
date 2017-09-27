@@ -15,27 +15,29 @@
 
 - **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 64
-- **Cantidad Total de Distribuciones**: 192
+- **Cantidad Total de Datasets**: 61
+- **Cantidad Total de Distribuciones**: 183
 
-- **Cantidad de Datasets Federados**: 36
+- **Cantidad de Datasets Federados**: 33
 - **Cantidad de Datasets NO Federados**: 28
-- **Porcentaje de Datasets NO Federados**: 43.75%
+- **Porcentaje de Datasets NO Federados**: 45.9%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
-
+- [Numeración no geográfica](http://www.enacom.gob.ar/multimedia/noticias/archivos/201608/archivo_20160822125509_341.xls)
+- [Numeración geográfica](http://www.enacom.gob.ar/multimedia/noticias/archivos/201608/archivo_20160822125338_7490.xls)
+- [Listado de prestadores de telefonía](https://junar-selfpub-storage.s3.amazonaws.com/15121/43921/15077373221980263436446390108373443130?Signature=2Wj7zByQ5Prsrut1oK%2BKVGSoG%2Bg%3D&Expires=1506376712&AWSAccessKeyId=AKIAI652OHJ6H2VI25OA&response-content-disposition=attachment%3B%20filename%3D%22licenciatarios.xlsx%22)
 
 ## Datasets no federados
 
+- [Ventas trimestrales de servicios postales por provincia](None)
+- [Unidades trimestrales vendidas de servicios postales por provincia](None)
 - [Ventas mensuales de servicios postales del correo oficial y operadores privados](None)
 - [Ventas mensuales de servicios monetarios postales del correo oficial (en $)](None)
 - [Ventas mensuales de servicios telegráficos del correo oficial y privados](None)
 - [Unidades mensuales vendidas de servicios monetarios postales del correo oficial](None)
 - [Unidades mensuales vendidas de servicios postales del correo oficial y privados](None)
 - [Unidades mensuales vendidas de servicios telegráficos, correo oficial y privados](None)
-- [Unidades trimestrales vendidas de servicios postales, correo oficial y privados](None)
-- [Ventas trimestrales de servicios postales del correo oficial y privados](None)
 - [Accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros)](None)
 - [Penetración provincial de la telefonía fija](None)
 - [Penetración provincial de la televisión por suscripción](None)
@@ -59,6 +61,12 @@
 
 ## Datasets federados
 
+- [Número de SMS enviados](None)
+- [Telefonía móvil: número de llamadas salientes](None)
+- [Ingresos trimestrales por la prestación del servicio de telefonía móvil](None)
+- [Penetración nacional de la telefonía móvil (accesos por cada 100 habitantes)](None)
+- [Telefonía móvil: minutos salientes (miles)](None)
+- [Total nacional de accesos a telefonía móvil](None)
 - [Personal ocupado por trimestre en el correo oficial y en operadores privados](None)
 - [Total nacional de accesos a telefonía fija](None)
 - [Ingresos trimestrales por la prestación del servicio de telefonía fija](None)
@@ -74,12 +82,6 @@
 - [Fomeca: montos aprobados y pagados por entidad beneficiada](None)
 - [Portabilidad numérica móvil: portaciones netas mensuales por operador](None)
 - [Licenciatarios TIC](None)
-- [Ingresos trimestrales por la prestación del servicio de telefonía móvil](None)
-- [Penetración nacional de la telefonía móvil (accesos por cada 100 habitantes)](None)
-- [Total nacional de accesos a telefonía móvil](None)
-- [Telefonía móvil: minutos salientes (miles)](None)
-- [Número de SMS enviados](None)
-- [Telefonía móvil: número de llamadas salientes](None)
 - [Ingresos por la operación del servicio de Internet fijo](None)
 - [Penetración del Internet fijo por provincia (accesos por cada 100 habitantes)](None)
 - [Total nacional de accesos a Internet fijo por banda ancha y banda angosta](None)
@@ -89,12 +91,9 @@
 - [Listado de Radioaficionados](None)
 - [Registro de Proveedores Postales](None)
 - [Homologación de empresas inscriptas](None)
-- [Listado de prestadores de telefonía](None)
 - [Listado de radioclubes](None)
 - [Homologación de equipos inscriptos](None)
 - [Listado de estaciones repetidoras](None)
-- [Numeración geográfica](None)
-- [Numeración no geográfica](None)
 
 ## Reporte
 
