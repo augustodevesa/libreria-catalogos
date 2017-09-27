@@ -18,15 +18,19 @@
 - **Cantidad Total de Datasets**: 15
 - **Cantidad Total de Distribuciones**: 35
 
-- **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 15
-- **Porcentaje de Datasets NO Federados**: 100.0%
+- **Cantidad de Datasets Federados**: 15
+- **Cantidad de Datasets NO Federados**: 0
+- **Porcentaje de Datasets NO Federados**: 0.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
 
 
 ## Datasets no federados
+
+
+
+## Datasets federados
 
 - [Indicadores Sectoriales de la Minería Metalífera](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
 - [Indicadores Sectoriales de Azúcar](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
@@ -43,10 +47,6 @@
 - [Indicadores Sectoriales de la Industria Metálicas Básicas](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
 - [Indicadores Sectoriales de Pesca Marítima](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
 - [Indicadores Provinciales Socioeconómicos](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
-
-## Datasets federados
-
-
 
 ## Reporte
 
