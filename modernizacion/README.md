@@ -18,9 +18,9 @@
 - **Cantidad Total de Datasets**: 7
 - **Cantidad Total de Distribuciones**: 32
 
-- **Cantidad de Datasets Federados**: 6
-- **Cantidad de Datasets NO Federados**: 1
-- **Porcentaje de Datasets NO Federados**: 14.29%
+- **Cantidad de Datasets Federados**: 7
+- **Cantidad de Datasets NO Federados**: 0
+- **Porcentaje de Datasets NO Federados**: 0.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -28,7 +28,7 @@
 
 ## Datasets no federados
 
-- [Base de Series de Tiempo de la Administración Pública Nacional](http://datos.gob.ar/dataset/base-series-tiempo-administracion-publica-nacional)
+
 
 ## Datasets federados
 
@@ -38,6 +38,7 @@
 - [Puntos Digitales](http://puntodigital.gob.ar/)
 - [Sistema de Contrataciones Electrónicas  (Argentina Compra)](https://www.argentinacompra.gov.ar/contrataciones)
 - [Planes de Apertura de Datos](https://datosgobar.github.io/pad)
+- [Base de Series de Tiempo de la Administración Pública Nacional](http://datos.gob.ar/dataset/base-series-tiempo-administracion-publica-nacional)
 
 ## Reporte
 
