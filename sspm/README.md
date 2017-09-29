@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 240
-- **Cantidad Total de Distribuciones**: 417
+- **Cantidad Total de Datasets**: 241
+- **Cantidad Total de Distribuciones**: 418
 
 - **Cantidad de Datasets Federados**: 234
-- **Cantidad de Datasets NO Federados**: 6
-- **Porcentaje de Datasets NO Federados**: 2.5%
+- **Cantidad de Datasets NO Federados**: 7
+- **Porcentaje de Datasets NO Federados**: 2.9%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -33,6 +33,7 @@
 - [Faena pecuaria](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Distribución funcional del ingreso. Total de la economía y sector privado. Como Porcentaje del Producto Interno Bruto a costo de factores](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Distribución Personal del Ingreso. Coeficiente de Gini y Brecha de Ingresos para el Ingreso de la Ocupación Principal e Ingreso per cápita Familiar. Ratio Percentil 90/ Percentil 10](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Tipos de Cambio Históricos](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índice de Precios al Consumidor GBA - Base 1974](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 
 ## Datasets federados
