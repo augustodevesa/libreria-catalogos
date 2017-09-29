@@ -18,17 +18,17 @@
             "title": "Estaciones de medición, valores de parámetros y productos de la Red",
             "issued": "2017-09-25T15:02:21.947371",
             "temporal": "1904-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
-            "modified": "2017-09-27T16:44:09.641711",
+            "modified": "2017-09-29T14:13:59.094007",
             "language": "spa",
             "distribution": [
                 {
-                    "accessURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/357a6ad0-2c37-4f33-a633-3c8d323dc4c5/download/estacionesred2.csv",
+                    "accessURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/357a6ad0-2c37-4f33-a633-3c8d323dc4c5/download/estacionesred.csv",
                     "description": "Presenta información sobre el nombre, ubicación, cuenca, rio a la que pertenecen las estaciones de medición de la Red",
                     "title": "Listado de Estaciones de la Red",
                     "issued": "2017-09-25T15:48:38.729026",
                     "format": "CSV",
-                    "modified": "2017-09-25T15:48:38.597869",
-                    "downloadURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/357a6ad0-2c37-4f33-a633-3c8d323dc4c5/download/estacionesred2.csv",
+                    "modified": "2017-09-29T14:13:59.040482",
+                    "downloadURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/357a6ad0-2c37-4f33-a633-3c8d323dc4c5/download/estacionesred.csv",
                     "field": [
                         {
                             "type": "integer",
@@ -63,14 +63,19 @@
                     ]
                 },
                 {
-                    "accessURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/ff6f0957-d65b-4133-ac40-3ee7805f801f/download/datosabiertos2.csv",
+                    "accessURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/ff6f0957-d65b-4133-ac40-3ee7805f801f/download/lin-ks.csv",
                     "description": "Detalle de como se accede a la Base de datos de la Red y como se extrae información de la misma. Se presenta",
                     "title": "Tutorial de acceso, y productos de la Red",
                     "issued": "2017-09-25T15:58:32.695261",
                     "format": "CSV",
-                    "modified": "2017-09-25T15:58:32.610616",
-                    "downloadURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/ff6f0957-d65b-4133-ac40-3ee7805f801f/download/datosabiertos2.csv",
+                    "modified": "2017-09-28T16:03:46.768297",
+                    "downloadURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/ff6f0957-d65b-4133-ac40-3ee7805f801f/download/lin-ks.csv",
                     "field": [
+                        {
+                            "type": "string",
+                            "description": "Titulo del Recurso",
+                            "title": "Titulo"
+                        },
                         {
                             "type": "string",
                             "description": "Contiene las URL del tutorial y los recursos producto",
@@ -79,13 +84,13 @@
                     ]
                 },
                 {
-                    "accessURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/26d292a4-4d7f-48e1-872a-50a0dca35386/download/estalatlon.csv",
+                    "accessURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/26d292a4-4d7f-48e1-872a-50a0dca35386/download/estacioneslalon.csv",
                     "description": "Ubicación y nombre de las estaciones",
                     "title": "Listado de Estaciones de la Red (lat-lon)",
                     "issued": "2017-09-25T17:19:07.658717",
                     "format": "CSV",
-                    "modified": "2017-09-27T16:44:09.603858",
-                    "downloadURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/26d292a4-4d7f-48e1-872a-50a0dca35386/download/estalatlon.csv",
+                    "modified": "2017-09-28T16:42:50.463677",
+                    "downloadURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/26d292a4-4d7f-48e1-872a-50a0dca35386/download/estacioneslalon.csv",
                     "field": [
                         {
                             "type": "number",
@@ -96,6 +101,11 @@
                             "type": "number",
                             "description": "Longitud",
                             "title": "Longitud"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre de la Estacion",
+                            "title": "Nombre"
                         }
                     ]
                 }
