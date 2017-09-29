@@ -13,27 +13,96 @@
                 "name": "ANMAT"
             },
             "accessLevel": "public",
-            "description": "Listado y localización de productos elaboradores, importadores y exportadores de productos cosméticos.",
+            "description": "Base de datos de Registro Nacional de Establecimientos de Alimentos  (RNE). Establecimientos certificados por autoridades sanitarias jurisdiccionales. Empresas elaboradoras de productos alimenticios o suplementos dietarios. \r\nSistema de Información Federal para la Gestión del Control de Alimentos (SIFeGA)",
             "license": "Creative Commons Attribution",
-            "title": "Cosméticos. Listado de estabelecimientos.",
-            "issued": "2017-08-31T20:10:46.054116",
-            "modified": "2017-08-31T20:11:12.652311",
+            "title": "Alimentos. Registro Nacional de Establecimientos (RNE)",
+            "issued": "2017-09-29T15:23:43.226209",
+            "modified": "2017-09-29T15:28:20.405699",
             "theme": [
                 "ANMAT"
+            ],
+            "keyword": [
+                "alimentos",
+                "establecimientos",
+                "habilitación"
+            ],
+            "accrualPeriodicity": "R/PT1S",
+            "superTheme": [
+                "HEAL"
+            ],
+            "landingPage": "http://inal.sifega.anmat.gov.ar/dataset/registro-nacional-de-establecimientos-de-alimentos",
+            "identifier": "fe300dc7-2729-4e7f-a486-27ffe52517cd",
+            "distribution": [
+                {
+                    "accessURL": "http://inal.sifega.anmat.gov.ar/consultadeRegistro/",
+                    "description": "Base de datos de Registro Nacional de Establecimientos de Alimentos. Establecimientos certificados por autoridades sanitarias jurisdiccionales. Empresas elaboradoras de productos alimenticios o suplementos dietarios. \r\nSistema de Información Federal para la Gestión del Control de Alimentos (SIFeGA)",
+                    "title": "Registro Nacional de Establecimientos de Alimentos",
+                    "issued": "2017-09-29T15:24:22.426729",
+                    "format": "otro",
+                    "downloadURL": "http://inal.sifega.anmat.gov.ar/consultadeRegistro/"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Dirección de SIDA y ETS"
+            },
+            "accessLevel": "public",
+            "description": "Estadísticas que surgen de las notificaciones nacionales de infecciones por VIH/sida desglosadas por provincias. Incluye indicadores de gestión en prevención, diagnóstico y tratamiento.",
+            "license": "Creative Commons Attribution",
+            "title": "Estadísticas Nacionales de VIH/SIDA",
+            "issued": "2017-09-29T14:14:06.902910",
+            "modified": "2017-09-29T14:15:02.701418",
+            "theme": [
+                "Estadísticas Nacionales de VIH/SIDA"
             ],
             "superTheme": [
                 "HEAL"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "landingPage": "http://www.anmat.gov.ar/dataset/cosmeticos-listado-de-estabelecimientos",
-            "identifier": "30cbaed4-dadf-4044-8e30-3fbce0a48a6f",
+            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/estadisticas-nacionales-de-vih-sida",
+            "identifier": "ba70d1a2-ab0f-40f6-a7bd-da41d2d4e534",
             "distribution": [
                 {
-                    "accessURL": "http://www.anmat.gov.ar/cosmeticos/Cosmeticos.asp",
-                    "issued": "2017-08-31T20:11:12.144913",
-                    "downloadURL": "http://www.anmat.gov.ar/cosmeticos/Cosmeticos.asp",
-                    "description": "Listado y localización de productos elaboradores, importadores y exportadores de productos cosméticos.",
-                    "title": "Cosméticos. Listado de estabelecimientos."
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/ba70d1a2-ab0f-40f6-a7bd-da41d2d4e534/resource/c8c7b683-71a2-4661-92a6-28825c3c84a2/download/datos-vih-por-provincia.pdf",
+                    "description": "Estadísticas que surgen de las notificaciones nacionales de infecciones por VIH/sida desglosadas por provincias. Incluye indicadores de gestión en prevención, diagnóstico y tratamiento.",
+                    "title": "Estadísticas Nacionales de VIH/SIDA",
+                    "issued": "2017-09-29T14:15:02.474293",
+                    "format": "PDF",
+                    "modified": "2017-09-29T14:15:02.445915",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/ba70d1a2-ab0f-40f6-a7bd-da41d2d4e534/resource/c8c7b683-71a2-4661-92a6-28825c3c84a2/download/datos-vih-por-provincia.pdf"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "ANMAT"
+            },
+            "accessLevel": "public",
+            "description": "Listado de Productos destinados a la limpieza, lavado, odorización, higienización del hogar certificados por ANMAT. Se entiende por producto domisanitario a aquellas sustancias o preparaciones destinadas a la limpieza, lavado, odorización, desodorización, higienización, desinfección o desinfestación, para su utilización en el hogar, y/o ambientes colectivos públicos y/o privado",
+            "license": "Creative Commons Attribution",
+            "title": "Productos Domisanitarios. Prod. destinados a limpieza, lavado, odorización, higienización del hogar.",
+            "issued": "2017-09-29T13:52:05.955574",
+            "modified": "2017-09-29T13:58:57.886680",
+            "keyword": [
+                "Domisanitarios"
+            ],
+            "accrualPeriodicity": "R/PT1S",
+            "superTheme": [
+                "HEAL"
+            ],
+            "landingPage": "http://www.anmat.gov.ar/dataset/productos-domisanitarios",
+            "identifier": "4d9acee3-4288-4de8-aa24-657a105f37a5",
+            "distribution": [
+                {
+                    "accessURL": "http://www.anmat.gov.ar/Domisanitarios/Domisanitarios.asp",
+                    "description": "Productos Domisanitarios - Productos destinados a la limpieza, lavado, odorización, higienización del hogar certificados por ANMAT.\r\nSe entiende por producto domisanitario a aquellas sustancias o preparaciones destinadas a la limpieza, lavado, odorización, desodorización, higienización, desinfección o desinfestación, para su utilización en el hogar, y/o ambientes colectivos públicos y/o privados",
+                    "title": "Productos Domisanitarios - Productos destinados a la limpieza, lavado, odorización, higienización del hogar certificados por ANMAT",
+                    "issued": "2017-09-29T13:53:30.148683",
+                    "format": "PDF",
+                    "downloadURL": "http://www.anmat.gov.ar/Domisanitarios/Domisanitarios.asp"
                 }
             ]
         },
@@ -47,7 +116,7 @@
             "license": "Creative Commons Attribution",
             "title": "Listado de faltantes de medicamentos",
             "issued": "2017-08-31T20:09:12.728343",
-            "modified": "2017-08-31T20:09:57.974111",
+            "modified": "2017-09-29T13:57:57.294225",
             "theme": [
                 "ANMAT"
             ],
@@ -59,11 +128,100 @@
             "identifier": "d9ebb3a9-ea4a-416c-be3c-0f51c82d5304",
             "distribution": [
                 {
-                    "accessURL": "http://www.anmat.gov.ar/",
-                    "issued": "2017-08-31T20:09:57.706286",
-                    "downloadURL": "http://www.anmat.gov.ar/",
+                    "accessURL": "http://www.anmat.gov.ar/listados/Listado_Faltantes_csv.asp",
                     "description": "Listado de medicamentos que, por distintas circunstancias, no se encuentran disponibles para su dispensación.",
-                    "title": "Listado de faltantes de medicamentos"
+                    "title": "Listado de faltantes de medicamentos",
+                    "issued": "2017-08-31T20:09:57.706286",
+                    "format": "CSV",
+                    "downloadURL": "http://www.anmat.gov.ar/listados/Listado_Faltantes_csv.asp"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "ANMAT"
+            },
+            "accessLevel": "public",
+            "description": "Listado y localización de productos elaboradores, importadores y exportadores de productos cosméticos.",
+            "license": "Creative Commons Attribution",
+            "title": "Cosméticos. Listado de estabelecimientos.",
+            "issued": "2017-08-31T20:10:46.054116",
+            "modified": "2017-09-29T13:56:36.725987",
+            "theme": [
+                "ANMAT"
+            ],
+            "superTheme": [
+                "HEAL"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "landingPage": "http://www.anmat.gov.ar/dataset/cosmeticos-listado-de-estabelecimientos",
+            "identifier": "30cbaed4-dadf-4044-8e30-3fbce0a48a6f",
+            "distribution": [
+                {
+                    "accessURL": "http://www.anmat.gov.ar/cosmeticos/Cosmeticos.asp",
+                    "description": "Listado y localización de productos elaboradores, importadores y exportadores de productos cosméticos.",
+                    "title": "Cosméticos. Listado de establecimientos.",
+                    "issued": "2017-08-31T20:11:12.144913",
+                    "format": "CSV",
+                    "downloadURL": "http://www.anmat.gov.ar/cosmeticos/Cosmeticos.asp"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "jmrodriguez@snr.gob.ar",
+                "name": " Juan Manuel Rodríguez"
+            },
+            "accessLevel": "public",
+            "description": "Esta base contiene variables seleccionadas del Registro Nacional de Personas con Discapacidad. El mismo se conforma por la información referente a las personas que han tramitado el Certificado Único de Discapacidad (CUD).",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Certificado Único de Discapacidad",
+            "issued": "2017-09-28T19:23:51.727310",
+            "temporal": "2009-06-30T03:00:00.000Z/2017-09-01T03:00:00.000Z",
+            "modified": "2017-09-28T19:36:09.240293",
+            "language": "spa",
+            "keyword": [
+                "SNR"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "HEAL",
+                "SOCI"
+            ],
+            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/certificado-unico-de-discapacidad",
+            "identifier": "d1fca43e-cfbc-4c06-8b8f-d8828e629e21",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/d1fca43e-cfbc-4c06-8b8f-d8828e629e21/resource/92581a3b-d34e-4dd0-91ec-9a764b2fece7/download/certificado-unico-discapacidad-201709.csv",
+                    "description": "Certificados Únicos de Discapacidad tramitados desde el año 2009 y vigentes hasta septiembre de 2017",
+                    "title": "Certificado Único de discapacidad",
+                    "issued": "2017-09-28T19:36:08.651769",
+                    "format": "CSV",
+                    "modified": "2017-09-28T19:36:08.602934",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/d1fca43e-cfbc-4c06-8b8f-d8828e629e21/resource/92581a3b-d34e-4dd0-91ec-9a764b2fece7/download/certificado-unico-discapacidad-201709.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Sexo ",
+                            "title": "sexo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Provincia de residencia\n",
+                            "title": "provincia_residencia"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Edad  al momento de la emisión del Certificado Único de Discapacidad ",
+                            "title": "edad_solicitud"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de discapacidad ",
+                            "title": "tipo_discapacidad"
+                        }
+                    ]
                 }
             ]
         },
@@ -355,6 +513,11 @@
             "description": "Dirección de Estadísticas e Información en Salud (DEIS)",
             "id": "direccion-de-estadisticas-e-informacion-en-salud-deis",
             "label": "Dirección de Estadísticas e Información en Salud (DEIS)"
+        },
+        {
+            "description": "Estadísticas Nacionales de VIH/SIDA",
+            "id": "estadisticas-nacionales-de-vih-sida",
+            "label": "Estadísticas Nacionales de VIH/SIDA"
         },
         {
             "description": "Estadisticas de Pacientes en lista de espera para órganos y tejidos,  expresiones de voluntad para la donación, pacientes con ERC (Enf. Renal crónica)\r\n",
