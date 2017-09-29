@@ -16,7 +16,7 @@
 - **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
 - **Cantidad Total de Datasets**: 30
-- **Cantidad Total de Distribuciones**: 230
+- **Cantidad Total de Distribuciones**: 233
 
 - **Cantidad de Datasets Federados**: 29
 - **Cantidad de Datasets NO Federados**: 1
