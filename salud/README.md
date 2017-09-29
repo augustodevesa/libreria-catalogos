@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 14
-- **Cantidad Total de Distribuciones**: 14
+- **Cantidad Total de Datasets**: 17
+- **Cantidad Total de Distribuciones**: 17
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 14
+- **Cantidad de Datasets NO Federados**: 17
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -28,11 +28,14 @@
 
 ## Datasets no federados
 
-- [Alimentos. Registro Nacional de Establecimientos (RNE)](http://inal.sifega.anmat.gov.ar/dataset/registro-nacional-de-establecimientos-de-alimentos)
-- [Estadísticas Nacionales de VIH/SIDA](http://datos.sisa.msal.gov.ar/dataset/estadisticas-nacionales-de-vih-sida)
-- [Productos Domisanitarios. Prod. destinados a limpieza, lavado, odorización, higienización del hogar.](http://www.anmat.gov.ar/dataset/productos-domisanitarios)
+- [Sistema Nacional de Farmacovigilancia](http://www.anmat.gov.ar/dataset/sistema-nacional-de-farmacovigilancia)
 - [Listado de faltantes de medicamentos](http://www.anmat.gov.ar/dataset/listado-de-faltantes-de-medicamentos)
 - [Cosméticos. Listado de estabelecimientos.](http://www.anmat.gov.ar/dataset/cosmeticos-listado-de-estabelecimientos)
+- [Productos Domisanitarios. Prod. destinados a limpieza, lavado, odorización, higienización del hogar.](http://www.anmat.gov.ar/dataset/productos-domisanitarios)
+- [Vademecun Nacional de Medicamentos (VNM)](http://anmatvademecum.servicios.pami.org.ar/dataset/vademecun-nacional-de-medicamentos)
+- [Sistema de Información Federal para la Gestión del Control de los Alimentos (SIFeGA)](http://portal.anmat.gov.ar/dataset/sistema-de-informacion-federal-para-la-gestion-del-control-de-los-alimentos)
+- [Alimentos. Registro Nacional de Establecimientos (RNE)](http://inal.sifega.anmat.gov.ar/dataset/registro-nacional-de-establecimientos-de-alimentos)
+- [Estadísticas Nacionales de VIH/SIDA](http://datos.sisa.msal.gov.ar/dataset/estadisticas-nacionales-de-vih-sida)
 - [Certificado Único de Discapacidad](http://datos.sisa.msal.gov.ar/dataset/certificado-unico-de-discapacidad)
 - [Registro Federal de Droguerias (REDRO)](http://datos.sisa.msal.gov.ar/dataset/registro-federal-de-droguerias-redro)
 - [INCUCAI](http://datos.sisa.msal.gov.ar/dataset/incucai)
