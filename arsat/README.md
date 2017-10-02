@@ -49,6 +49,7 @@
 ## Datasets federados
 
 - [Registro de Audiencias](None)
+- [Datos de uso de la plataforma](None)
 - [Licitaciones](None)
 - [Declaraciones Juradas Patrimoniales - Directorio y Gerentes](None)
 - [Escuelas de próxima conexión](None)
@@ -64,7 +65,6 @@
 - [Fibra óptica tendida](None)
 - [Fibra óptica en obra](None)
 - [Fibra óptica planificada](None)
-- [Datos de uso de la plataforma](None)
 - [Listado de Proveedores](None)
 - [Categorías y escalas salariales](None)
 - [Áreas de cobertura de la televisión digital abierta](None)
