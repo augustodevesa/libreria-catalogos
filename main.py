@@ -146,11 +146,11 @@ def process_catalog(org, datajson):
         # For XLSX catalogs, creates corresponding JSON
         file_ext = config["formato"]
         if file_ext == 'xlsx':
-            res = requests.get(config['url'])
+            res = requests.get(config['url'], verify=False)
             with open('data.xlsx', 'w') as xlsx_file:
                 xlsx_file.write(res.content)
             logger.info('- Transformación de XLSX a JSON')
-            catalog = read_catalog('data.xlsx')
+            catalog = DataJson('data.xlsx')
 
         elif file_ext == 'json':
             catalog = read_catalog(config['url'])

@@ -32,10 +32,10 @@ arsat:
   federado: true
 
 # hay que ver qué pasa con esta URL, tal vez cambió
-# mincyt:
-#   url: "http://datos.mincyt.gob.ar/datasets/data.json"
-#   formato: "json"
-#   federado: true
+mincyt:
+  url: "http://datos.mincyt.gob.ar/datasets/data.json"
+  formato: "json"
+  federado: true
 
 energia:
   url: "https://datos.minem.gob.ar/"
@@ -101,4 +101,3 @@ sspmi:
   url: "http://minhacienda.gob.ar/catalogo-sspmi/catalog.xlsx"
   formato: "xlsx"
   federado: true
-
