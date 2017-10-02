@@ -9,6 +9,661 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "accessLevel": "public",
+            "description": "Indicadores Provinciales Socioeconómicos",
+            "license": "No se especificó la licencia",
+            "title": "Indicadores Provinciales Socioeconómicos",
+            "issued": "2017-09-27T02:46:37.335646",
+            "modified": "2017-09-29T21:52:32.617595",
+            "theme": [
+                "Economía y finanzas"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/99_indicadoresprovinciales_dataset.xlsx",
+                    "description": "Indicadores Provinciales Socioeconómicos en valores anuales",
+                    "title": "Indicadores Provinciales Socioeconómicos en valores anuales",
+                    "issued": "2017-09-29T21:52:32.635564",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/99_indicadoresprovinciales_dataset.xlsx"
+                },
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/99_indicadoresprovinciales_dataset.xlsx",
+                    "description": "Indicadores Provinciales Socioeconómicos en valores trimestrales",
+                    "title": "Indicadores Provinciales Socioeconómicos en valores trimestrales",
+                    "issued": "2017-09-29T21:52:32.635574",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/99_indicadoresprovinciales_dataset.xlsx"
+                }
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "identifier": "220e9915-d6cd-4605-a8cc-fbc72252895a",
+            "contactPoint": {
+                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Regional."
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "accessLevel": "public",
+            "description": "Indicadores de la cadena de valor Pesca y Puertos Pesqueros",
+            "license": "No se especificó la licencia",
+            "title": "Indicadores Sectoriales de Pesca Marítima",
+            "issued": "2017-09-27T02:46:33.471201",
+            "modified": "2017-09-29T21:52:24.735820",
+            "theme": [
+                "Economía y finanzas"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/27_pesca_dataset.xlsx",
+                    "description": "Indicadores de Pesca Marítima en valores anuales",
+                    "title": "Indicadores de Pesca Marítima en valores anuales",
+                    "issued": "2017-09-29T21:52:24.784253",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/27_pesca_dataset.xlsx"
+                },
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/27_pesca_dataset.xlsx",
+                    "description": "Indicadores de Pesca Marítima en valores trimestrales",
+                    "title": "Indicadores de Pesca Marítima en valores trimestrales",
+                    "issued": "2017-09-29T21:52:24.784272",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/27_pesca_dataset.xlsx"
+                },
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/27_pesca_dataset.xlsx",
+                    "description": "Indicadores de Pesca Marítima en valores mensuales",
+                    "title": "Indicadores de Pesca Marítima en valores mensuales",
+                    "issued": "2017-09-29T21:52:24.784293",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/27_pesca_dataset.xlsx"
+                }
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "identifier": "5c6da512-7e98-4b54-81e0-5c58e8357452",
+            "contactPoint": {
+                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "accessLevel": "public",
+            "description": "Indicadores de la cadena de valor Industrias Metálicas Básicas",
+            "license": "No se especificó la licencia",
+            "title": "Indicadores Sectoriales de la Industria Metálicas Básicas",
+            "issued": "2017-09-27T02:46:31.791816",
+            "modified": "2017-09-29T21:52:15.908927",
+            "theme": [
+                "Economía y finanzas"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/26_industrias_metalicas_basicas_dataset.xlsx",
+                    "description": "Indicadores de Industrias Metálicas Básicas en valores anuales",
+                    "title": "Indicadores de Industrias Metálicas Básicas en valores anuales",
+                    "issued": "2017-09-29T21:52:15.926987",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/26_industrias_metalicas_basicas_dataset.xlsx"
+                },
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/26_industrias_metalicas_basicas_dataset.xlsx",
+                    "description": "Indicadores de Industrias Metálicas Básicas en valores trimestrales",
+                    "title": "Indicadores de Industrias Metálicas Básicas en valores trimestrales",
+                    "issued": "2017-09-29T21:52:15.926996",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/26_industrias_metalicas_basicas_dataset.xlsx"
+                }
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "identifier": "18dcdc8b-72ab-43bd-ae90-8ffce9c1683c",
+            "contactPoint": {
+                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "accessLevel": "public",
+            "description": "Indicadores de la cadena de valor Manzana y Pera",
+            "license": "No se especificó la licencia",
+            "title": "Indicadores Sectoriales de Manzana y Pera",
+            "issued": "2017-09-27T02:46:23.086942",
+            "modified": "2017-09-29T21:52:06.189867",
+            "theme": [
+                "Economía y finanzas"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/23_manzana_pera_dataset.xlsx",
+                    "description": "Indicadores de Manzana y Pera en valores anuales",
+                    "title": "Indicadores de Manzana y Pera en valores anuales",
+                    "issued": "2017-09-29T21:52:06.207812",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/23_manzana_pera_dataset.xlsx"
+                },
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/23_manzana_pera_dataset.xlsx",
+                    "description": "Indicadores de Manzana y Pera en valores mensuales",
+                    "title": "Indicadores de Manzana y Pera en valores mensuales",
+                    "issued": "2017-09-29T21:52:06.207821",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/23_manzana_pera_dataset.xlsx"
+                }
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "identifier": "dff3e0a0-184e-42a1-b7c9-f6c7028bd2b8",
+            "contactPoint": {
+                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Regional."
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "accessLevel": "public",
+            "description": "Indicadores de la cadena de valor Lacteos",
+            "license": "No se especificó la licencia",
+            "title": "Indicadores Sectoriales de Lácteos",
+            "issued": "2017-09-27T02:46:13.365277",
+            "modified": "2017-09-29T21:51:55.463340",
+            "theme": [
+                "Economía y finanzas"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/22_lacteo_dataset.xlsx",
+                    "description": "Indicadores de lacteos en valores anuales",
+                    "title": "Indicadores de lacteos en valores anuales",
+                    "issued": "2017-09-29T21:51:55.487528",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/22_lacteo_dataset.xlsx"
+                },
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/22_lacteo_dataset.xlsx",
+                    "description": "Indicadores de lacteos en valores trimestrales",
+                    "title": "Indicadores de lacteos en valores trimestrales",
+                    "issued": "2017-09-29T21:51:55.487538",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/22_lacteo_dataset.xlsx"
+                },
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/22_lacteo_dataset.xlsx",
+                    "description": "Indicadores de lacteos en valores mensuales",
+                    "title": "Indicadores de lacteos en valores mensuales",
+                    "issued": "2017-09-29T21:51:55.487543",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/22_lacteo_dataset.xlsx"
+                }
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "identifier": "791bf499-89cd-40f0-936e-aaecbcb1ccb2",
+            "contactPoint": {
+                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Regional."
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "accessLevel": "public",
+            "description": "Indicadores de la Industria Farmaceútica.",
+            "license": "No se especificó la licencia",
+            "title": "Indicadores Sectoriales de la Industria Farmaceútica",
+            "issued": "2017-09-27T02:46:06.692717",
+            "modified": "2017-09-29T21:51:47.720247",
+            "theme": [
+                "Economía y finanzas"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/21_farmacia_dataset.xlsx",
+                    "description": "Indicadores de la Industria Farmaceútica en valores anuales",
+                    "title": "Indicadores de la Industria Farmacéutica en valores anuales",
+                    "issued": "2017-09-29T21:51:47.739196",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/21_farmacia_dataset.xlsx"
+                },
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/21_farmacia_dataset.xlsx",
+                    "description": "Indicadores de la Industria Farmaceútica en valores trimestrales",
+                    "title": "Indicadores de Industria Farmacéutica en valores trimestrales",
+                    "issued": "2017-09-29T21:51:47.739206",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/21_farmacia_dataset.xlsx"
+                }
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "identifier": "6a02bd61-f25e-42d3-99d7-6ea577a42061",
+            "contactPoint": {
+                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "accessLevel": "public",
+            "description": "Indicadores de la cadena de valor Forestal, muebles y papel",
+            "license": "No se especificó la licencia",
+            "title": "Indicadores Sectoriales Forestales",
+            "issued": "2017-09-27T02:45:56.897988",
+            "modified": "2017-09-29T21:51:35.857521",
+            "theme": [
+                "Economía y finanzas"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/14_forestal_dataset.xlsx",
+                    "description": "Indicadores forestales, muebles y papel en valores anuales",
+                    "title": "Indicadores forestales, muebles y papel en valores anuales",
+                    "issued": "2017-09-29T21:51:35.876653",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/14_forestal_dataset.xlsx"
+                },
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/14_forestal_dataset.xlsx",
+                    "description": "Indicadores de forestales, muebles y papel en valores trimestrales",
+                    "title": "Indicadores forestales, muebles y papel en valores trimestrales",
+                    "issued": "2017-09-29T21:51:35.876663",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/14_forestal_dataset.xlsx"
+                }
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "identifier": "f443d25a-43dd-4ebf-bdad-e6cf9c0fce8d",
+            "contactPoint": {
+                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "accessLevel": "public",
+            "description": "Indicadores de la cadena de valor Vitivinicultura",
+            "license": "No se especificó la licencia",
+            "title": "Indicadores Sectoriales de Vitivinicultura",
+            "issued": "2017-09-27T02:45:47.192698",
+            "modified": "2017-09-29T21:51:26.001881",
+            "theme": [
+                "Economía y finanzas"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/13_vitivinicultura_dataset.xlsx",
+                    "description": "Indicadores de la cadena de valor de vitivinicultura en valores anuales",
+                    "title": "Indicadores de la cadena de valor de vitivinicultura en valores anuales",
+                    "issued": "2017-09-29T21:51:26.083239",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/13_vitivinicultura_dataset.xlsx"
+                },
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/13_vitivinicultura_dataset.xlsx",
+                    "description": "Indicadores de la cadena de valor de vitivinicultura en valores mensuales",
+                    "title": "Indicadores de la cadena de valor de vitivinicultura en valores mensuales",
+                    "issued": "2017-09-29T21:51:26.083250",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/13_vitivinicultura_dataset.xlsx"
+                }
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "identifier": "0d050ef4-6726-47c3-8c9b-9b2f351f570e",
+            "contactPoint": {
+                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Regional."
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "accessLevel": "public",
+            "description": "Indicadores de la cadena de valor Servicios Turísticos",
+            "license": "No se especificó la licencia",
+            "title": "Indicadores Sectoriales de Servicios Turísticos",
+            "issued": "2017-09-27T02:45:40.342404",
+            "modified": "2017-09-29T21:51:15.151779",
+            "theme": [
+                "Economía y finanzas"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/11_turismo_dataset.xlsx",
+                    "description": "Indicadores de Servicios Turísticos en valores anuales",
+                    "title": "Indicadores de Servicios Turísticos en valores anuales",
+                    "issued": "2017-09-29T21:51:15.168517",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/11_turismo_dataset.xlsx"
+                }
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "identifier": "d2b12510-806c-48db-a70e-1dd7f74ac8e9",
+            "contactPoint": {
+                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "accessLevel": "public",
+            "description": "Indicadores de la cadena de valor Maquinaria Agrícola",
+            "license": "No se especificó la licencia",
+            "title": "Indicadores Sectoriales de Maquinaria Agrícola",
+            "issued": "2017-09-27T02:45:36.584982",
+            "modified": "2017-09-29T21:51:03.461395",
+            "theme": [
+                "Economía y finanzas"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/08_maquinaria_agricola_%20dataset.xlsx",
+                    "description": "Indicadores de Maquinaria Agrícola en valores anuales",
+                    "title": "Indicadores de Maquinaria Agrícola en valores anuales",
+                    "issued": "2017-09-29T21:51:03.479811",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/08_maquinaria_agricola_%20dataset.xlsx"
+                },
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/08_maquinaria_agricola_%20dataset.xlsx",
+                    "description": "Indicadores de Maquinaria Agrícola en valores trimestrales",
+                    "title": "Indicadores de Maquinaria Agrícola en valores trimestrales",
+                    "issued": "2017-09-29T21:51:03.479820",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/08_maquinaria_agricola_%20dataset.xlsx"
+                }
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "identifier": "1f85df8d-00d5-44da-8ec0-a02e384b68ab",
+            "contactPoint": {
+                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "accessLevel": "public",
+            "description": "Indicadores de la cadena de valor Hidrocarburos",
+            "license": "No se especificó la licencia",
+            "title": "Indicadores Sectoriales de Hidrocarburos",
+            "issued": "2017-09-27T02:45:32.905007",
+            "modified": "2017-09-29T21:50:52.412667",
+            "theme": [
+                "Economía y finanzas"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/06_hidrocarburos_dataset.xlsx",
+                    "description": "Indicadores de Hidrocarburos en valores anuales",
+                    "title": "Indicadores de Hidrocarburos en valores anuales",
+                    "issued": "2017-09-29T21:50:52.431591",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/06_hidrocarburos_dataset.xlsx"
+                },
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/06_hidrocarburos_dataset.xlsx",
+                    "description": "Indicadores de Hidrocarburos en valores trimestrales",
+                    "title": "Indicadores de Hidrocarburos en valores trimestrales",
+                    "issued": "2017-09-29T21:50:52.431601",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/06_hidrocarburos_dataset.xlsx"
+                },
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/06_hidrocarburos_dataset.xlsx",
+                    "description": "Indicadores de Hidrocarburos  en valores mensuales",
+                    "title": "Indicadores de Hidrocarburos en valores mensuales",
+                    "issued": "2017-09-29T21:50:52.431606",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/06_hidrocarburos_dataset.xlsx"
+                }
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "identifier": "9456de5a-1841-44b3-abbc-b93b949d3ff6",
+            "contactPoint": {
+                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "accessLevel": "public",
+            "description": "Indicadores de la cadena de carne aviar",
+            "license": "No se especificó la licencia",
+            "title": "Indicadores Sectoriales de Carne Aviar",
+            "issued": "2017-09-27T02:45:23.121095",
+            "modified": "2017-09-29T21:50:42.552003",
+            "theme": [
+                "Economía y finanzas"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/05_carne_aviar_dataset.xlsx",
+                    "description": "Indicadores de carne aviar en valores anuales",
+                    "title": "Indicadores de carne aviar en valores anuales",
+                    "issued": "2017-09-29T21:50:42.573792",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/05_carne_aviar_dataset.xlsx"
+                },
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/05_carne_aviar_dataset.xlsx",
+                    "description": "Indicadores de carne aviar en valores trimestrales",
+                    "title": "Indicadores de carne aviar en valores trimestrales",
+                    "issued": "2017-09-29T21:50:42.573804",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/05_carne_aviar_dataset.xlsx"
+                },
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/05_carne_aviar_dataset.xlsx",
+                    "description": "Indicadores de carne aviar en valores mensuales",
+                    "title": "Indicadores de carne aviar en valores mensuales",
+                    "issued": "2017-09-29T21:50:42.573809",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/05_carne_aviar_dataset.xlsx"
+                }
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "identifier": "23d312fc-9649-4893-9a74-7cee3ab71216",
+            "contactPoint": {
+                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Regional."
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "accessLevel": "public",
+            "description": "Indicadores de la cadena de valor Automotriz",
+            "license": "No se especificó la licencia",
+            "title": "Indicadores Sectoriales Automotriz",
+            "issued": "2017-09-27T02:45:21.504771",
+            "modified": "2017-09-29T21:50:31.726633",
+            "theme": [
+                "Economía y finanzas"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/04_automotriz_dataset.xlsx",
+                    "description": "Indicadores de Automotriz en valores anuales",
+                    "title": "Indicadores de Automotriz en valores anuales",
+                    "issued": "2017-09-29T21:50:31.750376",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/04_automotriz_dataset.xlsx"
+                },
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/04_automotriz_dataset.xlsx",
+                    "description": "Indicadores de Automotriz en valores trimestrales",
+                    "title": "Indicadores de Automotriz en valores trimestrales",
+                    "issued": "2017-09-29T21:50:31.750386",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/04_automotriz_dataset.xlsx"
+                },
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/04_automotriz_dataset.xlsx",
+                    "description": "Indicadores de Automotriz en valores mensuales",
+                    "title": "Indicadores de Automotriz en valores mensuales",
+                    "issued": "2017-09-29T21:50:31.750391",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/04_automotriz_dataset.xlsx"
+                }
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "identifier": "298c2ea1-d73f-4389-bebf-790a85df68b0",
+            "contactPoint": {
+                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "accessLevel": "public",
+            "description": "Indicadores de la cadena de valor de Azúcar",
+            "license": "No se especificó la licencia",
+            "title": "Indicadores Sectoriales de Azúcar",
+            "issued": "2017-09-27T02:45:11.409848",
+            "modified": "2017-09-29T21:50:22.983772",
+            "theme": [
+                "Economía y finanzas"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/03_azucar_dataset.xlsx",
+                    "description": "Indicadores de azúcar en valores anuales",
+                    "title": "Indicadores de azúcar en valores anuales",
+                    "issued": "2017-09-29T21:50:23.001434",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/03_azucar_dataset.xlsx"
+                },
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/03_azucar_dataset.xlsx",
+                    "description": "Indicadores de azúcar en valores mensuales",
+                    "title": "Indicadores de azúcar en valores mensuales",
+                    "issued": "2017-09-29T21:50:23.001443",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/03_azucar_dataset.xlsx"
+                }
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "identifier": "3eaa265d-1f8d-4351-931a-4baa8d06e178",
+            "contactPoint": {
+                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Regional."
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "accessLevel": "public",
+            "description": "Indicadores de la cadena de valor Minería Metalífera",
+            "license": "No se especificó la licencia",
+            "title": "Indicadores Sectoriales de la Minería Metalífera",
+            "issued": "2017-09-27T02:45:01.661732",
+            "modified": "2017-09-29T21:50:12.973871",
+            "theme": [
+                "Economía y finanzas"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/02_mineria_metalifera_dataset.xlsx",
+                    "description": "Indicadores de Minería Metalífera en valores anuales",
+                    "title": "Indicadores de Minería Metalífera en valores anuales",
+                    "issued": "2017-09-29T21:50:12.993500",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/02_mineria_metalifera_dataset.xlsx"
+                },
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/02_mineria_metalifera_dataset.xlsx",
+                    "description": "Indicadores de Minería Metalífera en valores trimestrales",
+                    "title": "Indicadores de Minería Metalífera en valores trimestrales",
+                    "issued": "2017-09-29T21:50:12.993509",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/02_mineria_metalifera_dataset.xlsx"
+                },
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/02_mineria_metalifera_dataset.xlsx",
+                    "description": "Indicadores de Minería Metalífera en valores mensuales",
+                    "title": "Indicadores de Minería Metalífera en valores mensuales",
+                    "issued": "2017-09-29T21:50:12.993513",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/02_mineria_metalifera_dataset.xlsx"
+                }
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "identifier": "0cfee573-927a-4768-a3c8-a321f1035460",
+            "contactPoint": {
+                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "datos@modernizacion.gob.ar",
                 "name": "Ministerio de Modernización. Subsecretaría de Innovación Pública y Gobierno Abierto."
             },
@@ -9035,661 +9690,6 @@
             "contactPoint": {
                 "@type": "vcard:Contact",
                 "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Macroeconómica. Dirección de Información y Coyuntura"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "sspmicro@mecon.gov.ar",
-                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
-            },
-            "accessLevel": "public",
-            "description": "Indicadores Provinciales Socioeconómicos",
-            "license": "No se especificó la licencia",
-            "title": "Indicadores Provinciales Socioeconómicos",
-            "issued": "2017-09-27T02:46:37.335646",
-            "modified": "2017-09-27T02:46:37.373851",
-            "theme": [
-                "Economía y finanzas"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores Provinciales Socioeconómicos en valores anuales",
-                    "title": "Indicadores Provinciales Socioeconómicos en valores anuales",
-                    "issued": "2017-09-27T02:46:37.382671",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                },
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores Provinciales Socioeconómicos en valores trimestrales",
-                    "title": "Indicadores Provinciales Socioeconómicos en valores trimestrales",
-                    "issued": "2017-09-27T02:46:37.382680",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                }
-            ],
-            "accrualPeriodicity": "R/P3M",
-            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
-            "identifier": "220e9915-d6cd-4605-a8cc-fbc72252895a",
-            "contactPoint": {
-                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Regional."
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "sspmicro@mecon.gov.ar",
-                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
-            },
-            "accessLevel": "public",
-            "description": "Indicadores de la cadena de valor Pesca y Puertos Pesqueros",
-            "license": "No se especificó la licencia",
-            "title": "Indicadores Sectoriales de Pesca Marítima",
-            "issued": "2017-09-27T02:46:33.471201",
-            "modified": "2017-09-27T02:46:33.481163",
-            "theme": [
-                "Economía y finanzas"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de Pesca Marítima en valores anuales",
-                    "title": "Indicadores de Pesca Marítima en valores anuales",
-                    "issued": "2017-09-27T02:46:33.484686",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                },
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de Pesca Marítima en valores trimestrales",
-                    "title": "Indicadores de Pesca Marítima en valores trimestrales",
-                    "issued": "2017-09-27T02:46:33.484694",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                },
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de Pesca Marítima en valores mensuales",
-                    "title": "Indicadores de Pesca Marítima en valores mensuales",
-                    "issued": "2017-09-27T02:46:33.484699",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                }
-            ],
-            "accrualPeriodicity": "R/P3M",
-            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
-            "identifier": "5c6da512-7e98-4b54-81e0-5c58e8357452",
-            "contactPoint": {
-                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "sspmicro@mecon.gov.ar",
-                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
-            },
-            "accessLevel": "public",
-            "description": "Indicadores de la cadena de valor Industrias Metálicas Básicas",
-            "license": "No se especificó la licencia",
-            "title": "Indicadores Sectoriales de la Industria Metálicas Básicas",
-            "issued": "2017-09-27T02:46:31.791816",
-            "modified": "2017-09-27T02:46:31.802713",
-            "theme": [
-                "Economía y finanzas"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de Industrias Metálicas Básicas en valores anuales",
-                    "title": "Indicadores de Industrias Metálicas Básicas en valores anuales",
-                    "issued": "2017-09-27T02:46:31.806689",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                },
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de Industrias Metálicas Básicas en valores trimestrales",
-                    "title": "Indicadores de Industrias Metálicas Básicas en valores trimestrales",
-                    "issued": "2017-09-27T02:46:31.806697",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                }
-            ],
-            "accrualPeriodicity": "R/P3M",
-            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
-            "identifier": "18dcdc8b-72ab-43bd-ae90-8ffce9c1683c",
-            "contactPoint": {
-                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "sspmicro@mecon.gov.ar",
-                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
-            },
-            "accessLevel": "public",
-            "description": "Indicadores de la cadena de valor Manzana y Pera",
-            "license": "No se especificó la licencia",
-            "title": "Indicadores Sectoriales de Manzana y Pera",
-            "issued": "2017-09-27T02:46:23.086942",
-            "modified": "2017-09-27T02:46:23.097155",
-            "theme": [
-                "Economía y finanzas"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de Manzana y Pera en valores anuales",
-                    "title": "Indicadores de Manzana y Pera en valores anuales",
-                    "issued": "2017-09-27T02:46:23.100568",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                },
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de Manzana y Pera en valores mensuales",
-                    "title": "Indicadores de Manzana y Pera en valores mensuales",
-                    "issued": "2017-09-27T02:46:23.100577",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                }
-            ],
-            "accrualPeriodicity": "R/P3M",
-            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
-            "identifier": "dff3e0a0-184e-42a1-b7c9-f6c7028bd2b8",
-            "contactPoint": {
-                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Regional."
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "sspmicro@mecon.gov.ar",
-                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
-            },
-            "accessLevel": "public",
-            "description": "Indicadores de la cadena de valor Lacteos",
-            "license": "No se especificó la licencia",
-            "title": "Indicadores Sectoriales de Lácteos",
-            "issued": "2017-09-27T02:46:13.365277",
-            "modified": "2017-09-27T02:46:13.375700",
-            "theme": [
-                "Economía y finanzas"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de lacteos en valores anuales",
-                    "title": "Indicadores de lacteos en valores anuales",
-                    "issued": "2017-09-27T02:46:13.379407",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                },
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de lacteos en valores trimestrales",
-                    "title": "Indicadores de lacteos en valores trimestrales",
-                    "issued": "2017-09-27T02:46:13.379416",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                },
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de lacteos en valores mensuales",
-                    "title": "Indicadores de lacteos en valores mensuales",
-                    "issued": "2017-09-27T02:46:13.379421",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                }
-            ],
-            "accrualPeriodicity": "R/P3M",
-            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
-            "identifier": "791bf499-89cd-40f0-936e-aaecbcb1ccb2",
-            "contactPoint": {
-                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Regional."
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "sspmicro@mecon.gov.ar",
-                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
-            },
-            "accessLevel": "public",
-            "description": "Indicadores de la Industria Farmaceútica.",
-            "license": "No se especificó la licencia",
-            "title": "Indicadores Sectoriales de la Industria Farmaceútica",
-            "issued": "2017-09-27T02:46:06.692717",
-            "modified": "2017-09-27T02:46:06.703453",
-            "theme": [
-                "Economía y finanzas"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de la Industria Farmaceútica en valores anuales",
-                    "title": "Indicadores de la Industria Farmacéutica en valores anuales",
-                    "issued": "2017-09-27T02:46:06.707177",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                },
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de la Industria Farmaceútica en valores trimestrales",
-                    "title": "Indicadores de Industria Farmacéutica en valores trimestrales",
-                    "issued": "2017-09-27T02:46:06.707188",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                }
-            ],
-            "accrualPeriodicity": "R/P3M",
-            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
-            "identifier": "6a02bd61-f25e-42d3-99d7-6ea577a42061",
-            "contactPoint": {
-                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "sspmicro@mecon.gov.ar",
-                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
-            },
-            "accessLevel": "public",
-            "description": "Indicadores de la cadena de valor Forestal, muebles y papel",
-            "license": "No se especificó la licencia",
-            "title": "Indicadores Sectoriales Forestales",
-            "issued": "2017-09-27T02:45:56.897988",
-            "modified": "2017-09-27T02:45:56.909434",
-            "theme": [
-                "Economía y finanzas"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores forestales, muebles y papel en valores anuales",
-                    "title": "Indicadores forestales, muebles y papel en valores anuales",
-                    "issued": "2017-09-27T02:45:56.912767",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                },
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de forestales, muebles y papel en valores trimestrales",
-                    "title": "Indicadores forestales, muebles y papel en valores trimestrales",
-                    "issued": "2017-09-27T02:45:56.912775",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                }
-            ],
-            "accrualPeriodicity": "R/P3M",
-            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
-            "identifier": "f443d25a-43dd-4ebf-bdad-e6cf9c0fce8d",
-            "contactPoint": {
-                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "sspmicro@mecon.gov.ar",
-                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
-            },
-            "accessLevel": "public",
-            "description": "Indicadores de la cadena de valor Vitivinicultura",
-            "license": "No se especificó la licencia",
-            "title": "Indicadores Sectoriales de Vitivinicultura",
-            "issued": "2017-09-27T02:45:47.192698",
-            "modified": "2017-09-27T02:45:47.203306",
-            "theme": [
-                "Economía y finanzas"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de la cadena de valor de vitivinicultura en valores anuales",
-                    "title": "Indicadores de la cadena de valor de vitivinicultura en valores anuales",
-                    "issued": "2017-09-27T02:45:47.206639",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                },
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de la cadena de valor de vitivinicultura en valores mensuales",
-                    "title": "Indicadores de la cadena de valor de vitivinicultura en valores mensuales",
-                    "issued": "2017-09-27T02:45:47.206647",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                }
-            ],
-            "accrualPeriodicity": "R/P3M",
-            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
-            "identifier": "0d050ef4-6726-47c3-8c9b-9b2f351f570e",
-            "contactPoint": {
-                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Regional."
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "sspmicro@mecon.gov.ar",
-                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
-            },
-            "accessLevel": "public",
-            "description": "Indicadores de la cadena de valor Servicios Turísticos",
-            "license": "No se especificó la licencia",
-            "title": "Indicadores Sectoriales de Servicios Turísticos",
-            "issued": "2017-09-27T02:45:40.342404",
-            "modified": "2017-09-27T02:45:40.366025",
-            "theme": [
-                "Economía y finanzas"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de Servicios Turísticos en valores anuales",
-                    "title": "Indicadores de Servicios Turísticos en valores anuales",
-                    "issued": "2017-09-27T02:45:40.373565",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                }
-            ],
-            "accrualPeriodicity": "R/P3M",
-            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
-            "identifier": "d2b12510-806c-48db-a70e-1dd7f74ac8e9",
-            "contactPoint": {
-                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "sspmicro@mecon.gov.ar",
-                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
-            },
-            "accessLevel": "public",
-            "description": "Indicadores de la cadena de valor Maquinaria Agrícola",
-            "license": "No se especificó la licencia",
-            "title": "Indicadores Sectoriales de Maquinaria Agrícola",
-            "issued": "2017-09-27T02:45:36.584982",
-            "modified": "2017-09-27T02:45:36.595218",
-            "theme": [
-                "Economía y finanzas"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de Maquinaria Agrícola en valores anuales",
-                    "title": "Indicadores de Maquinaria Agrícola en valores anuales",
-                    "issued": "2017-09-27T02:45:36.599063",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                },
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de Maquinaria Agrícola en valores trimestrales",
-                    "title": "Indicadores de Maquinaria Agrícola en valores trimestrales",
-                    "issued": "2017-09-27T02:45:36.599075",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                }
-            ],
-            "accrualPeriodicity": "R/P3M",
-            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
-            "identifier": "1f85df8d-00d5-44da-8ec0-a02e384b68ab",
-            "contactPoint": {
-                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "sspmicro@mecon.gov.ar",
-                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
-            },
-            "accessLevel": "public",
-            "description": "Indicadores de la cadena de valor Hidrocarburos",
-            "license": "No se especificó la licencia",
-            "title": "Indicadores Sectoriales de Hidrocarburos",
-            "issued": "2017-09-27T02:45:32.905007",
-            "modified": "2017-09-27T02:45:32.915661",
-            "theme": [
-                "Economía y finanzas"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de Hidrocarburos en valores anuales",
-                    "title": "Indicadores de Hidrocarburos en valores anuales",
-                    "issued": "2017-09-27T02:45:32.919163",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                },
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de Hidrocarburos en valores trimestrales",
-                    "title": "Indicadores de Hidrocarburos en valores trimestrales",
-                    "issued": "2017-09-27T02:45:32.919170",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                },
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de Hidrocarburos  en valores mensuales",
-                    "title": "Indicadores de Hidrocarburos en valores mensuales",
-                    "issued": "2017-09-27T02:45:32.919175",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                }
-            ],
-            "accrualPeriodicity": "R/P3M",
-            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
-            "identifier": "9456de5a-1841-44b3-abbc-b93b949d3ff6",
-            "contactPoint": {
-                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "sspmicro@mecon.gov.ar",
-                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
-            },
-            "accessLevel": "public",
-            "description": "Indicadores de la cadena de carne aviar",
-            "license": "No se especificó la licencia",
-            "title": "Indicadores Sectoriales de Carne Aviar",
-            "issued": "2017-09-27T02:45:23.121095",
-            "modified": "2017-09-27T02:45:23.131468",
-            "theme": [
-                "Economía y finanzas"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de carne aviar en valores anuales",
-                    "title": "Indicadores de carne aviar en valores anuales",
-                    "issued": "2017-09-27T02:45:23.135295",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                },
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de carne aviar en valores trimestrales",
-                    "title": "Indicadores de carne aviar en valores trimestrales",
-                    "issued": "2017-09-27T02:45:23.135316",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                },
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de carne aviar en valores mensuales",
-                    "title": "Indicadores de carne aviar en valores mensuales",
-                    "issued": "2017-09-27T02:45:23.135321",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                }
-            ],
-            "accrualPeriodicity": "R/P3M",
-            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
-            "identifier": "23d312fc-9649-4893-9a74-7cee3ab71216",
-            "contactPoint": {
-                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Regional."
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "sspmicro@mecon.gov.ar",
-                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
-            },
-            "accessLevel": "public",
-            "description": "Indicadores de la cadena de valor Automotriz",
-            "license": "No se especificó la licencia",
-            "title": "Indicadores Sectoriales Automotriz",
-            "issued": "2017-09-27T02:45:21.504771",
-            "modified": "2017-09-27T02:45:21.515768",
-            "theme": [
-                "Economía y finanzas"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de Automotriz en valores anuales",
-                    "title": "Indicadores de Automotriz en valores anuales",
-                    "issued": "2017-09-27T02:45:21.519537",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                },
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de Automotriz en valores trimestrales",
-                    "title": "Indicadores de Automotriz en valores trimestrales",
-                    "issued": "2017-09-27T02:45:21.519545",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                },
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de Automotriz en valores mensuales",
-                    "title": "Indicadores de Automotriz en valores mensuales",
-                    "issued": "2017-09-27T02:45:21.519550",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                }
-            ],
-            "accrualPeriodicity": "R/P3M",
-            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
-            "identifier": "298c2ea1-d73f-4389-bebf-790a85df68b0",
-            "contactPoint": {
-                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "sspmicro@mecon.gov.ar",
-                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
-            },
-            "accessLevel": "public",
-            "description": "Indicadores de la cadena de valor de Azúcar",
-            "license": "No se especificó la licencia",
-            "title": "Indicadores Sectoriales de Azúcar",
-            "issued": "2017-09-27T02:45:11.409848",
-            "modified": "2017-09-27T02:45:11.438785",
-            "theme": [
-                "Economía y finanzas"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de azúcar en valores anuales",
-                    "title": "Indicadores de azúcar en valores anuales",
-                    "issued": "2017-09-27T02:45:11.444748",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                },
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de azúcar en valores mensuales",
-                    "title": "Indicadores de azúcar en valores mensuales",
-                    "issued": "2017-09-27T02:45:11.444765",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                }
-            ],
-            "accrualPeriodicity": "R/P3M",
-            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
-            "identifier": "3eaa265d-1f8d-4351-931a-4baa8d06e178",
-            "contactPoint": {
-                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Regional."
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "sspmicro@mecon.gov.ar",
-                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
-            },
-            "accessLevel": "public",
-            "description": "Indicadores de la cadena de valor Minería Metalífera",
-            "license": "No se especificó la licencia",
-            "title": "Indicadores Sectoriales de la Minería Metalífera",
-            "issued": "2017-09-27T02:45:01.661732",
-            "modified": "2017-09-27T02:45:01.672321",
-            "theme": [
-                "Economía y finanzas"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de Minería Metalífera en valores anuales",
-                    "title": "Indicadores de Minería Metalífera en valores anuales",
-                    "issued": "2017-09-27T02:45:01.676265",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                },
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de Minería Metalífera en valores trimestrales",
-                    "title": "Indicadores de Minería Metalífera en valores trimestrales",
-                    "issued": "2017-09-27T02:45:01.676273",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                },
-                {
-                    "accessURL": "https://minhacienda.gob.ar/datos/",
-                    "description": "Indicadores de Minería Metalífera en valores mensuales",
-                    "title": "Indicadores de Minería Metalífera en valores mensuales",
-                    "issued": "2017-09-27T02:45:01.676278",
-                    "format": "CSV",
-                    "downloadURL": "https://minhacienda.gob.ar/datos/"
-                }
-            ],
-            "accrualPeriodicity": "R/P3M",
-            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
-            "identifier": "0cfee573-927a-4768-a3c8-a321f1035460",
-            "contactPoint": {
-                "hasEmail": "mailto:sspmicro@mecon.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
             }
         },
         {
