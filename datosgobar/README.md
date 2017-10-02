@@ -32,6 +32,7 @@
 
 ## Datasets federados
 
+- [Base de Series de Tiempo de la Administración Pública Nacional](http://datos.gob.ar/dataset/base-series-tiempo-administracion-publica-nacional)
 - [Indicadores Provinciales Socioeconómicos](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
 - [Indicadores Sectoriales de Pesca Marítima](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
 - [Indicadores Sectoriales de la Industria Metálicas Básicas](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
@@ -47,7 +48,6 @@
 - [Indicadores Sectoriales Automotriz](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
 - [Indicadores Sectoriales de Azúcar](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
 - [Indicadores Sectoriales de la Minería Metalífera](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
-- [Base de Series de Tiempo de la Administración Pública Nacional](http://datos.gob.ar/dataset/base-series-tiempo-administracion-publica-nacional)
 - [Títulos Públicos de Deuda](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índice de Precios al Consumidor histórico](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Series históricas de estadísticas monetarias](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
