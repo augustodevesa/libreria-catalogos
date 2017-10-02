@@ -9,6 +9,165 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "datos@modernizacion.gob.ar",
+                "name": "Ministerio de Modernización. Subsecretaría de Innovación Pública y Gobierno Abierto."
+            },
+            "accessLevel": "public",
+            "description": "Base de series de tiempo de distintas fuentes primarias y secundarias de la Administración Pública Nacional, compilada por el Ministerio de Modernización. Estas series son normalizadas por organismos de la APN de acuerdo a los estandares propuestos por Modernización.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Base de Series de Tiempo de la Administración Pública Nacional",
+            "issued": "2017-09-27T04:54:12.178159",
+            "modified": "2017-10-02T19:07:46.702430",
+            "language": "spa",
+            "theme": [
+                "Agroganadería, pesca y forestación",
+                "Economía y finanzas",
+                "Energía",
+                "Gobierno y sector público",
+                "Población y sociedad",
+                "Regiones y ciudades"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.1/download/series-tiempo-csv.zip",
+                    "description": "Valores y metadatos básicos de las series (CSV). Contiene todos los pares (fecha, valor) que componen cada una de las series de la base, enriquecidos con sus metadatos básicos.",
+                    "title": "Base de Series de Tiempo: valores y metadatos (CSV)",
+                    "issued": "2017-09-27T04:54:12.208684",
+                    "format": "ZIP",
+                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.1/download/series-tiempo-csv.zip"
+                },
+                {
+                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.2/download/series-tiempo-metadatos.csv",
+                    "description": "Listado de las series de tiempo disponibles en la base (CSV). Contiene los metadatos básicos de la series enriquecidos con indicadores descriptivos actualizados al día de la fecha.",
+                    "title": "Base de Series de Tiempo: metadatos enriquecidos de las series (CSV)",
+                    "issued": "2017-09-27T04:54:12.208693",
+                    "format": "CSV",
+                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.2/download/series-tiempo-metadatos.csv"
+                },
+                {
+                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.3/download/series-tiempo-valores.csv",
+                    "description": "Valores de las series (CSV). Contiene todos los pares (fecha, valor) que componen cada una de las series de la base.",
+                    "title": "Base de Series de Tiempo: valores (CSV)",
+                    "issued": "2017-09-27T04:54:12.208698",
+                    "format": "CSV",
+                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.3/download/series-tiempo-valores.csv"
+                },
+                {
+                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.4/download/series-tiempo-fuentes.csv",
+                    "description": "Fuentes primarias de las series (CSV). Contiene la cantidad de series y valores presentes en la base de cada una de las fuentes primarias compiladas.",
+                    "title": "Base de Series de Tiempo: fuentes (CSV)",
+                    "issued": "2017-09-27T04:54:12.208702",
+                    "format": "CSV",
+                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.4/download/series-tiempo-fuentes.csv"
+                },
+                {
+                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.5/download/series-tiempo.xlsx",
+                    "description": "Valores y metadatos básicos de las series (XLSX). Contiene todos los pares (fecha, valor) que componen cada una de las series de la base, enriquecidos con sus metadatos básicos.",
+                    "title": "Base de Series de Tiempo: valores y metadatos (XLSX)",
+                    "issued": "2017-09-27T04:54:12.208706",
+                    "format": "XLSX",
+                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.5/download/series-tiempo.xlsx"
+                },
+                {
+                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.6/download/series-tiempo-metadatos.xlsx",
+                    "description": "Listado de las series de tiempo disponibles en la base (XLSX). Contiene los metadatos básicos de la series enriquecidos con indicadores descriptivos actualizados al día de la fecha.",
+                    "title": "Base de Series de Tiempo: metadatos enriquecidos de las series (XLSX)",
+                    "issued": "2017-09-27T04:54:12.208710",
+                    "format": "XLSX",
+                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.6/download/series-tiempo-metadatos.xlsx"
+                },
+                {
+                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.7/download/series-tiempo-valores.xlsx",
+                    "description": "Valores de las series (XLSX). Contiene todos los pares (fecha, valor) que componen cada una de las series de la base.",
+                    "title": "Base de Series de Tiempo: valores (XLSX)",
+                    "issued": "2017-09-27T04:54:12.208714",
+                    "format": "XLSX",
+                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.7/download/series-tiempo-valores.xlsx"
+                },
+                {
+                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.8/download/series-tiempo-fuentes.xlsx",
+                    "description": "Fuentes primarias de las series (XLSX). Contiene la cantidad de series y valores presentes en la base de cada una de las fuentes primarias compiladas.",
+                    "title": "Base de Series de Tiempo: fuentes (XLSX)",
+                    "issued": "2017-09-27T04:54:12.208718",
+                    "format": "XLSX",
+                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.8/download/series-tiempo-fuentes.xlsx"
+                },
+                {
+                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.9/download/series-tiempo-dta.zip",
+                    "description": "Valores y metadatos básicos de las series (DTA). Contiene todos los pares (fecha, valor) que componen cada una de las series de la base, enriquecidos con sus metadatos básicos.",
+                    "title": "Base de Series de Tiempo: valores y metadatos (DTA)",
+                    "issued": "2017-09-27T04:54:12.208722",
+                    "format": "ZIP",
+                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.9/download/series-tiempo-dta.zip"
+                },
+                {
+                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.10/download/series-tiempo-metadatos.dta",
+                    "description": "Listado de las series de tiempo disponibles en la base (DTA). Contiene los metadatos básicos de la series enriquecidos con indicadores descriptivos actualizados al día de la fecha.",
+                    "title": "Base de Series de Tiempo: metadatos enriquecidos de las series (DTA)",
+                    "issued": "2017-09-27T04:54:12.208726",
+                    "format": "DTA",
+                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.10/download/series-tiempo-metadatos.dta"
+                },
+                {
+                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.11/download/series-tiempo-valores.dta",
+                    "description": "Valores de las series (DTA). Contiene todos los pares (fecha, valor) que componen cada una de las series de la base.",
+                    "title": "Base de Series de Tiempo: valores (DTA)",
+                    "issued": "2017-09-27T04:54:12.208730",
+                    "format": "DTA",
+                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.11/download/series-tiempo-valores.dta"
+                },
+                {
+                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.12/download/series-tiempo-fuentes.dta",
+                    "description": "Fuentes primarias de las series (DTA). Contiene la cantidad de series y valores presentes en la base de cada una de las fuentes primarias compiladas.",
+                    "title": "Base de Series de Tiempo: fuentes (DTA)",
+                    "issued": "2017-09-27T04:54:12.208734",
+                    "format": "DTA",
+                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.12/download/series-tiempo-fuentes.dta"
+                },
+                {
+                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.13/download/series-tiempo-db.zip",
+                    "description": "Valores y metadatos básicos de las series (DB). Contiene todos los pares (fecha, valor) que componen cada una de las series de la base, enriquecidos con sus metadatos básicos.",
+                    "title": "Base de Series de Tiempo: valores y metadatos (DB)",
+                    "issued": "2017-09-27T04:54:12.208738",
+                    "format": "ZIP",
+                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.13/download/series-tiempo-db.zip"
+                },
+                {
+                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.14/download/series-tiempo-metadatos.db",
+                    "description": "Listado de las series de tiempo disponibles en la base (DB). Contiene los metadatos básicos de la series enriquecidos con indicadores descriptivos actualizados al día de la fecha.",
+                    "title": "Base de Series de Tiempo: metadatos enriquecidos de las series (DB)",
+                    "issued": "2017-09-27T04:54:12.208742",
+                    "format": "DB",
+                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.14/download/series-tiempo-metadatos.db"
+                },
+                {
+                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.15/download/series-tiempo-valores.db",
+                    "description": "Valores de las series (DB). Contiene todos los pares (fecha, valor) que componen cada una de las series de la base.",
+                    "title": "Base de Series de Tiempo: valores (DB)",
+                    "issued": "2017-09-27T04:54:12.208746",
+                    "format": "DB",
+                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.15/download/series-tiempo-valores.db"
+                },
+                {
+                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.16/download/series-tiempo-fuentes.db",
+                    "description": "Fuentes primarias de las series (DB). Contiene la cantidad de series y valores presentes en la base de cada una de las fuentes primarias compiladas.",
+                    "title": "Base de Series de Tiempo: fuentes (DB)",
+                    "issued": "2017-09-27T04:54:12.208756",
+                    "format": "DB",
+                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.16/download/series-tiempo-fuentes.db"
+                }
+            ],
+            "accrualPeriodicity": "R/P1D",
+            "landingPage": "http://datos.gob.ar/dataset/base-series-tiempo-administracion-publica-nacional",
+            "identifier": "71c623c0-50b1-413e-ade4-85e0c78d322b",
+            "contactPoint": {
+                "hasEmail": "mailto:datos@modernizacion.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Modernización. Subsecretaría de Innovación Pública y Gobierno Abierto. Dirección Nacional de Datos e Información Pública."
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "sspmicro@mecon.gov.ar",
                 "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
             },
@@ -660,164 +819,6 @@
                 "hasEmail": "mailto:sspmicro@mecon.gov.ar",
                 "@type": "vcard:Contact",
                 "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "datos@modernizacion.gob.ar",
-                "name": "Ministerio de Modernización. Subsecretaría de Innovación Pública y Gobierno Abierto."
-            },
-            "accessLevel": "public",
-            "description": "Base de series de tiempo de distintas fuentes primarias y secundarias de la Administración Pública Nacional, compilada por el Ministerio de Modernización. Estas series son normalizadas por organismos de la APN de acuerdo a los estandares propuestos por Modernización.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Base de Series de Tiempo de la Administración Pública Nacional",
-            "issued": "2017-09-27T04:54:12.178159",
-            "modified": "2017-09-27T04:54:12.202433",
-            "theme": [
-                "Agroganadería, pesca y forestación",
-                "Economía y finanzas",
-                "Energía",
-                "Gobierno y sector público",
-                "Población y sociedad",
-                "Regiones y ciudades"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.1/download/series-tiempo-csv.zip",
-                    "description": "Valores y metadatos básicos de las series (CSV). Contiene todos los pares (fecha, valor) que componen cada una de las series de la base, enriquecidos con sus metadatos básicos.",
-                    "title": "Base de Series de Tiempo: valores y metadatos (CSV)",
-                    "issued": "2017-09-27T04:54:12.208684",
-                    "format": "ZIP",
-                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.1/download/series-tiempo-csv.zip"
-                },
-                {
-                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.2/download/series-tiempo-metadatos.csv",
-                    "description": "Listado de las series de tiempo disponibles en la base (CSV). Contiene los metadatos básicos de la series enriquecidos con indicadores descriptivos actualizados al día de la fecha.",
-                    "title": "Base de Series de Tiempo: metadatos enriquecidos de las series (CSV)",
-                    "issued": "2017-09-27T04:54:12.208693",
-                    "format": "CSV",
-                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.2/download/series-tiempo-metadatos.csv"
-                },
-                {
-                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.3/download/series-tiempo-valores.csv",
-                    "description": "Valores de las series (CSV). Contiene todos los pares (fecha, valor) que componen cada una de las series de la base.",
-                    "title": "Base de Series de Tiempo: valores (CSV)",
-                    "issued": "2017-09-27T04:54:12.208698",
-                    "format": "CSV",
-                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.3/download/series-tiempo-valores.csv"
-                },
-                {
-                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.4/download/series-tiempo-fuentes.csv",
-                    "description": "Fuentes primarias de las series (CSV). Contiene la cantidad de series y valores presentes en la base de cada una de las fuentes primarias compiladas.",
-                    "title": "Base de Series de Tiempo: fuentes (CSV)",
-                    "issued": "2017-09-27T04:54:12.208702",
-                    "format": "CSV",
-                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.4/download/series-tiempo-fuentes.csv"
-                },
-                {
-                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.5/download/series-tiempo.xlsx",
-                    "description": "Valores y metadatos básicos de las series (XLSX). Contiene todos los pares (fecha, valor) que componen cada una de las series de la base, enriquecidos con sus metadatos básicos.",
-                    "title": "Base de Series de Tiempo: valores y metadatos (XLSX)",
-                    "issued": "2017-09-27T04:54:12.208706",
-                    "format": "XLSX",
-                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.5/download/series-tiempo.xlsx"
-                },
-                {
-                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.6/download/series-tiempo-metadatos.xlsx",
-                    "description": "Listado de las series de tiempo disponibles en la base (XLSX). Contiene los metadatos básicos de la series enriquecidos con indicadores descriptivos actualizados al día de la fecha.",
-                    "title": "Base de Series de Tiempo: metadatos enriquecidos de las series (XLSX)",
-                    "issued": "2017-09-27T04:54:12.208710",
-                    "format": "XLSX",
-                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.6/download/series-tiempo-metadatos.xlsx"
-                },
-                {
-                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.7/download/series-tiempo-valores.xlsx",
-                    "description": "Valores de las series (XLSX). Contiene todos los pares (fecha, valor) que componen cada una de las series de la base.",
-                    "title": "Base de Series de Tiempo: valores (XLSX)",
-                    "issued": "2017-09-27T04:54:12.208714",
-                    "format": "XLSX",
-                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.7/download/series-tiempo-valores.xlsx"
-                },
-                {
-                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.8/download/series-tiempo-fuentes.xlsx",
-                    "description": "Fuentes primarias de las series (XLSX). Contiene la cantidad de series y valores presentes en la base de cada una de las fuentes primarias compiladas.",
-                    "title": "Base de Series de Tiempo: fuentes (XLSX)",
-                    "issued": "2017-09-27T04:54:12.208718",
-                    "format": "XLSX",
-                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.8/download/series-tiempo-fuentes.xlsx"
-                },
-                {
-                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.9/download/series-tiempo-dta.zip",
-                    "description": "Valores y metadatos básicos de las series (DTA). Contiene todos los pares (fecha, valor) que componen cada una de las series de la base, enriquecidos con sus metadatos básicos.",
-                    "title": "Base de Series de Tiempo: valores y metadatos (DTA)",
-                    "issued": "2017-09-27T04:54:12.208722",
-                    "format": "ZIP",
-                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.9/download/series-tiempo-dta.zip"
-                },
-                {
-                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.10/download/series-tiempo-metadatos.dta",
-                    "description": "Listado de las series de tiempo disponibles en la base (DTA). Contiene los metadatos básicos de la series enriquecidos con indicadores descriptivos actualizados al día de la fecha.",
-                    "title": "Base de Series de Tiempo: metadatos enriquecidos de las series (DTA)",
-                    "issued": "2017-09-27T04:54:12.208726",
-                    "format": "DTA",
-                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.10/download/series-tiempo-metadatos.dta"
-                },
-                {
-                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.11/download/series-tiempo-valores.dta",
-                    "description": "Valores de las series (DTA). Contiene todos los pares (fecha, valor) que componen cada una de las series de la base.",
-                    "title": "Base de Series de Tiempo: valores (DTA)",
-                    "issued": "2017-09-27T04:54:12.208730",
-                    "format": "DTA",
-                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.11/download/series-tiempo-valores.dta"
-                },
-                {
-                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.12/download/series-tiempo-fuentes.dta",
-                    "description": "Fuentes primarias de las series (DTA). Contiene la cantidad de series y valores presentes en la base de cada una de las fuentes primarias compiladas.",
-                    "title": "Base de Series de Tiempo: fuentes (DTA)",
-                    "issued": "2017-09-27T04:54:12.208734",
-                    "format": "DTA",
-                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.12/download/series-tiempo-fuentes.dta"
-                },
-                {
-                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.13/download/series-tiempo-db.zip",
-                    "description": "Valores y metadatos básicos de las series (DB). Contiene todos los pares (fecha, valor) que componen cada una de las series de la base, enriquecidos con sus metadatos básicos.",
-                    "title": "Base de Series de Tiempo: valores y metadatos (DB)",
-                    "issued": "2017-09-27T04:54:12.208738",
-                    "format": "ZIP",
-                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.13/download/series-tiempo-db.zip"
-                },
-                {
-                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.14/download/series-tiempo-metadatos.db",
-                    "description": "Listado de las series de tiempo disponibles en la base (DB). Contiene los metadatos básicos de la series enriquecidos con indicadores descriptivos actualizados al día de la fecha.",
-                    "title": "Base de Series de Tiempo: metadatos enriquecidos de las series (DB)",
-                    "issued": "2017-09-27T04:54:12.208742",
-                    "format": "DB",
-                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.14/download/series-tiempo-metadatos.db"
-                },
-                {
-                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.15/download/series-tiempo-valores.db",
-                    "description": "Valores de las series (DB). Contiene todos los pares (fecha, valor) que componen cada una de las series de la base.",
-                    "title": "Base de Series de Tiempo: valores (DB)",
-                    "issued": "2017-09-27T04:54:12.208746",
-                    "format": "DB",
-                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.15/download/series-tiempo-valores.db"
-                },
-                {
-                    "accessURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.16/download/series-tiempo-fuentes.db",
-                    "description": "Fuentes primarias de las series (DB). Contiene la cantidad de series y valores presentes en la base de cada una de las fuentes primarias compiladas.",
-                    "title": "Base de Series de Tiempo: fuentes (DB)",
-                    "issued": "2017-09-27T04:54:12.208756",
-                    "format": "DB",
-                    "downloadURL": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/1/distribution/1.16/download/series-tiempo-fuentes.db"
-                }
-            ],
-            "accrualPeriodicity": "R/P1D",
-            "landingPage": "http://datos.gob.ar/dataset/base-series-tiempo-administracion-publica-nacional",
-            "identifier": "71c623c0-50b1-413e-ade4-85e0c78d322b",
-            "contactPoint": {
-                "hasEmail": "mailto:datos@modernizacion.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Modernización. Subsecretaría de Innovación Pública y Gobierno Abierto. Dirección Nacional de Datos e Información Pública."
             }
         },
         {
