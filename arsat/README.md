@@ -18,25 +18,27 @@
 - **Cantidad Total de Datasets**: 45
 - **Cantidad Total de Distribuciones**: 135
 
-- **Cantidad de Datasets Federados**: 28
-- **Cantidad de Datasets NO Federados**: 17
-- **Porcentaje de Datasets NO Federados**: 37.78%
+- **Cantidad de Datasets Federados**: 27
+- **Cantidad de Datasets NO Federados**: 18
+- **Porcentaje de Datasets NO Federados**: 40.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
+- [Escuelas Conectadas con Tecnología Gillat](https://junar-selfpub-storage.s3.amazonaws.com/65121/25921/164022147322162434636545523307357409612?Signature=8W9vhcjImhjQvoU7L1kWAAUnUSU%3D&Expires=1506376715&AWSAccessKeyId=AKIAI652OHJ6H2VI25OA&response-content-disposition=attachment%3B%20filename%3D%22ESCUELAS_GILLAT_20170911_V1.xlsx%22)
 - [Megabits de velocidad entregados por provincia](http://datos.arsat.com.ar/dataviews/235847/megabits-de-velocidad-entregados-por-provincia/)
 
 ## Datasets no federados
 
 - [Registro de Visitas](None)
+- [Ausentismo - Total mensual de días por motivo de ausencia](None)
+- [Escuelas Conectadas con Tecnología Gilat](None)
+- [Distribución por provincia de las escuelas conectadas con tecnología Gilat](None)
 - [Tráfico de Internet entrante y saliente](None)
 - [Cantidad Total de Megabits en servicio por provincia](None)
 - [Cantidad de clientes por provincia](None)
 - [Salarios Gerentes](None)
 - [Puntos de Conexión al Plan Federal de Internet por provincia](None)
 - [Porcentaje de avance del Plan](None)
-- [Distribución por provincia de las escuelas conectadas con tecnología Gillat](None)
-- [Ausentismo - Total mensual de días por motivo de ausencia](None)
 - [Total de personal por género](None)
 - [Personal por provincia](None)
 - [Personal de ARSAT asignado a áreas operativas o de soporte](None)
@@ -57,7 +59,6 @@
 - [Puntos de conexión al Plan Federal de Internet](None)
 - [Futuros puntos de conexión al Plan Federal de Internet](None)
 - [Honorarios de Directores](None)
-- [Escuelas Conectadas con Tecnología Gillat](None)
 - [Listado de Personal](None)
 - [Promedios de edad y antigüedad del personal](None)
 - [Personal por Gerencia](None)
