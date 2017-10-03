@@ -311,7 +311,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Base Infoleg de Normativa Nacional",
             "issued": "2016-09-05T18:25:21.249967",
-            "modified": "2017-10-03T15:28:53.578422",
+            "modified": "2017-10-03T16:08:51.226891",
             "theme": [
                 "informacion-juridica"
             ],
@@ -341,7 +341,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-10-03T12:28:53.525733",
+                    "modified": "2017-10-03T13:08:51.180670",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/8db246a2-48dd-4f2f-b08e-ab6293747882/download/base-infoleg-normativa-nacional.csv",
                     "issued": "2016-09-29T11:17:50.274309",
                     "identifier": "8db246a2-48dd-4f2f-b08e-ab6293747882"
@@ -1040,7 +1040,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Entidades constituidas en la Inspección General de Justicia",
             "issued": "2016-09-19T13:46:06.092494",
-            "modified": "2017-10-03T15:13:14.882542",
+            "modified": "2017-10-03T18:59:37.737718",
             "theme": [
                 "sistema-registral"
             ],
@@ -1826,7 +1826,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-10-03T09:26:52.406318",
+                    "modified": "2017-10-03T14:41:41.196467",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/76627d7d-8743-4ecb-949a-710d98261adb/download/igj-entidades-2017-09.csv",
                     "issued": "2017-10-03T09:26:53.592454",
                     "identifier": "76627d7d-8743-4ecb-949a-710d98261adb"
@@ -1838,7 +1838,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-10-03T12:13:14.645156",
+                    "modified": "2017-10-03T14:45:25.985481",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/18c078d3-c6db-48af-a01a-fedad9062ada/download/igj-autoridades-2017-09.csv",
                     "issued": "2017-10-03T12:13:15.209808",
                     "identifier": "18c078d3-c6db-48af-a01a-fedad9062ada"
@@ -2037,7 +2037,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Estadística de mediaciones prejudiciales y judiciales",
             "issued": "2016-07-12T13:51:29.820576",
-            "modified": "2017-09-08T17:19:27.982329",
+            "modified": "2017-10-03T15:43:29.330848",
             "theme": [
                 "acceso-a-justicia"
             ],
@@ -2103,6 +2103,18 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/a9767469-d903-4158-aa76-b21dd37e8aff/resource/8770b322-0bd9-47b2-bbe5-1645823183ca/download/estadistica-mediaciones-prejudiciales-y-judiciales-2017-08.csv",
                     "issued": "2017-09-08T14:17:24.490346",
                     "identifier": "8770b322-0bd9-47b2-bbe5-1645823183ca"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/a9767469-d903-4158-aa76-b21dd37e8aff/resource/6628b402-3eea-47bb-8259-84f14b55e309",
+                    "description": "Estadística de mediaciones prejudiciales y judiciales efectuadas desde febrero de 2014",
+                    "title": "Estadística de mediaciones prejudiciales y judiciales 2017-09",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-10-03T12:42:54.035494",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/a9767469-d903-4158-aa76-b21dd37e8aff/resource/6628b402-3eea-47bb-8259-84f14b55e309/download/estadistica-mediaciones-prejudiciales-y-judiciales-2017-09.csv",
+                    "issued": "2017-10-03T12:42:54.182754",
+                    "identifier": "6628b402-3eea-47bb-8259-84f14b55e309"
                 }
             ]
         },
@@ -2549,7 +2561,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Listado de mediadores",
             "issued": "2017-05-19T18:49:36.717681",
-            "modified": "2017-09-08T17:19:01.537033",
+            "modified": "2017-10-03T15:51:42.237058",
             "theme": [
                 "acceso-a-justicia"
             ],
@@ -2614,6 +2626,18 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/194a4863-67fe-4344-8bdd-e7b6e7e35886/resource/3a2890e7-7329-4061-ba93-347624ec9d7f/download/listado-mediadores-2017-08.csv",
                     "issued": "2017-09-08T14:18:35.807034",
                     "identifier": "3a2890e7-7329-4061-ba93-347624ec9d7f"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/194a4863-67fe-4344-8bdd-e7b6e7e35886/resource/b0d32ae1-84e6-4a85-b07e-b614caf93f7b",
+                    "description": "Listado de mediadores registrados para realizar mediaciones prejudiciales y judiciales en el Sistema MEPRE.",
+                    "title": "Listado de mediadores - 2017-09",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-10-03T12:50:57.903393",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/194a4863-67fe-4344-8bdd-e7b6e7e35886/resource/b0d32ae1-84e6-4a85-b07e-b614caf93f7b/download/listado-mediadores-2017-09.csv",
+                    "issued": "2017-10-03T12:50:58.032196",
+                    "identifier": "b0d32ae1-84e6-4a85-b07e-b614caf93f7b"
                 }
             ]
         },
@@ -2833,7 +2857,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Listado de mediaciones prejudiciales y judiciales. Ley 26.589",
             "issued": "2017-05-19T18:15:55.648665",
-            "modified": "2017-09-08T17:19:46.213530",
+            "modified": "2017-10-03T16:40:09.276530",
             "theme": [
                 "acceso-a-justicia"
             ],
@@ -2899,6 +2923,18 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/5c75711c-c93f-482f-af11-657bd30d3aab/resource/a8f3bf07-820e-4b93-9111-0e39d552a50f/download/mediaciones-prejudiciales-y-judiciales-2017-08.csv",
                     "issued": "2017-09-08T14:16:00.888062",
                     "identifier": "a8f3bf07-820e-4b93-9111-0e39d552a50f"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/5c75711c-c93f-482f-af11-657bd30d3aab/resource/28172ff3-585a-4c61-be5e-fc6b0bd1bf63",
+                    "description": "Listado de mediaciones prejudiciales y judiciales efectuadas desde febrero de 2014",
+                    "title": "Listado de mediaciones prejudiciales y judiciales - 2017-09",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-10-03T12:56:58.863667",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/5c75711c-c93f-482f-af11-657bd30d3aab/resource/28172ff3-585a-4c61-be5e-fc6b0bd1bf63/download/mediaciones-prejudiciales-y-judiciales-2017-09.csv",
+                    "issued": "2017-10-03T12:47:00.095586",
+                    "identifier": "28172ff3-585a-4c61-be5e-fc6b0bd1bf63"
                 }
             ]
         },
