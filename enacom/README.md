@@ -61,6 +61,7 @@
 
 ## Datasets federados
 
+- [Licenciatarios TIC](None)
 - [Total nacional de accesos a Internet fijo por tipo de tecnología](None)
 - [Total nacional de accesos a Internet fijo por banda ancha y banda angosta](None)
 - [Ingresos por la operación del servicio de Internet fijo](None)
@@ -86,7 +87,6 @@
 - [Reclamos mensuales recibidos por motivo de reclamo](None)
 - [Fomeca: montos aprobados y pagados por entidad beneficiada](None)
 - [Portabilidad numérica móvil: portaciones netas mensuales por operador](None)
-- [Licenciatarios TIC](None)
 - [Conectividad al servicio de Internet](None)
 - [Listado de Radioaficionados](None)
 - [Registro de Proveedores Postales](None)
