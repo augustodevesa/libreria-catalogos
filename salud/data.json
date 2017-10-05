@@ -9,6 +9,134 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "sistemasdeinformacion@snr.gob.ar",
+                "name": "SNR (Servicio Nacional de Rehabilitación)"
+            },
+            "accessLevel": "public",
+            "description": "Registro público en el que se inscriben los prestadores de servicios de atención y rehabilitación a personas con discapacidad de todo el país que han sido categorizados o recategorizados de conformidad con las normas reglamentarias y complementarias de la Ley Nº 24.901 y, por lo tanto, forman parte del padrón de prestadores a nivel nacional. El Servicio Nacional de Rehabilitación tiene actualmente a su cargo la inscripción, permanencia y baja de la totalidad de las instituciones inscriptas en el dicho registro.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Registro Nacional de Prestadores",
+            "issued": "2017-10-04T17:54:22.104159",
+            "temporal": "1999-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
+            "modified": "2017-10-04T18:06:51.225315",
+            "keyword": [
+                "Discapacidad",
+                "Ley Nº 24.901",
+                "Prestadores",
+                "SNR"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "HEAL",
+                "SOCI"
+            ],
+            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/registro-nacional-prestadores",
+            "identifier": "d5666ee3-51ee-4149-8f25-db759a407ffa",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/d5666ee3-51ee-4149-8f25-db759a407ffa/resource/227d1437-4d60-46ef-89f0-786f0fac1254/download/registro-nacional-prestadores-201709.csv",
+                    "description": "Padrón de prestadores a nivel nacional de servicios de atención y rehabilitación a personas con discapacidad categorizados o recategorizados de conformidad con las normas reglamentarias y complementarias de la Ley Nº 24.901.",
+                    "title": "Registro Nacional de Prestadores",
+                    "issued": "2017-10-04T18:02:38.151412",
+                    "format": "CSV",
+                    "modified": "2017-10-04T18:02:38.112246",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/d5666ee3-51ee-4149-8f25-db759a407ffa/resource/227d1437-4d60-46ef-89f0-786f0fac1254/download/registro-nacional-prestadores-201709.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Razón social del prestador. Una misma institución puede estar repetida más de una vez, ya que puede brindar más de una prestación y cada prestación categoriza de forma separada.",
+                            "title": "razon_social"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Localidad en que se ubica el prestador",
+                            "title": "localidad"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Provincia en que se ubica el prestador",
+                            "title": "provincia"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de prestación categorizada",
+                            "title": "prestacion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Modalidad de concurrencia de la prestación",
+                            "title": "modalidad_de_concurrencia"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Cupos disponibles por prestación",
+                            "title": "cupos"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "sistemasdeinformacion@snr.gob.ar",
+                "name": "SNR (Servicio Nacional de Rehabilitación)"
+            },
+            "accessLevel": "public",
+            "description": "Esta base contiene variables seleccionadas del Registro Nacional de Personas con Discapacidad. El mismo se conforma por la información referente a las personas que han tramitado el Certificado Único de Discapacidad (CUD).",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Certificado Único de Discapacidad",
+            "issued": "2017-09-28T19:23:51.727310",
+            "temporal": "2009-06-30T03:00:00.000Z/2017-09-01T03:00:00.000Z",
+            "modified": "2017-10-04T18:05:05.885522",
+            "language": "spa",
+            "keyword": [
+                "CUD",
+                "Discapacidad",
+                "SNR"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "HEAL",
+                "SOCI"
+            ],
+            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/certificado-unico-de-discapacidad",
+            "identifier": "d1fca43e-cfbc-4c06-8b8f-d8828e629e21",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/d1fca43e-cfbc-4c06-8b8f-d8828e629e21/resource/92581a3b-d34e-4dd0-91ec-9a764b2fece7/download/certificado-unico-discapacidad-201709.csv",
+                    "description": "Certificados Únicos de Discapacidad tramitados desde el año 2009 y vigentes hasta septiembre de 2017",
+                    "title": "Certificado Único de discapacidad",
+                    "issued": "2017-09-28T19:36:08.651769",
+                    "format": "CSV",
+                    "modified": "2017-09-28T19:36:08.602934",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/d1fca43e-cfbc-4c06-8b8f-d8828e629e21/resource/92581a3b-d34e-4dd0-91ec-9a764b2fece7/download/certificado-unico-discapacidad-201709.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Sexo ",
+                            "title": "sexo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Provincia de residencia\n",
+                            "title": "provincia_residencia"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Edad  al momento de la emisión del Certificado Único de Discapacidad ",
+                            "title": "edad_solicitud"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de discapacidad ",
+                            "title": "tipo_discapacidad"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "",
                 "name": "ANMAT"
             },
@@ -268,63 +396,6 @@
                     "format": "PDF",
                     "modified": "2017-09-29T14:15:02.445915",
                     "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/ba70d1a2-ab0f-40f6-a7bd-da41d2d4e534/resource/c8c7b683-71a2-4661-92a6-28825c3c84a2/download/datos-vih-por-provincia.pdf"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "jmrodriguez@snr.gob.ar",
-                "name": " Juan Manuel Rodríguez"
-            },
-            "accessLevel": "public",
-            "description": "Esta base contiene variables seleccionadas del Registro Nacional de Personas con Discapacidad. El mismo se conforma por la información referente a las personas que han tramitado el Certificado Único de Discapacidad (CUD).",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Certificado Único de Discapacidad",
-            "issued": "2017-09-28T19:23:51.727310",
-            "temporal": "2009-06-30T03:00:00.000Z/2017-09-01T03:00:00.000Z",
-            "modified": "2017-09-28T19:36:09.240293",
-            "language": "spa",
-            "keyword": [
-                "SNR"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "superTheme": [
-                "HEAL",
-                "SOCI"
-            ],
-            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/certificado-unico-de-discapacidad",
-            "identifier": "d1fca43e-cfbc-4c06-8b8f-d8828e629e21",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/d1fca43e-cfbc-4c06-8b8f-d8828e629e21/resource/92581a3b-d34e-4dd0-91ec-9a764b2fece7/download/certificado-unico-discapacidad-201709.csv",
-                    "description": "Certificados Únicos de Discapacidad tramitados desde el año 2009 y vigentes hasta septiembre de 2017",
-                    "title": "Certificado Único de discapacidad",
-                    "issued": "2017-09-28T19:36:08.651769",
-                    "format": "CSV",
-                    "modified": "2017-09-28T19:36:08.602934",
-                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/d1fca43e-cfbc-4c06-8b8f-d8828e629e21/resource/92581a3b-d34e-4dd0-91ec-9a764b2fece7/download/certificado-unico-discapacidad-201709.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Sexo ",
-                            "title": "sexo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Provincia de residencia\n",
-                            "title": "provincia_residencia"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Edad  al momento de la emisión del Certificado Único de Discapacidad ",
-                            "title": "edad_solicitud"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tipo de discapacidad ",
-                            "title": "tipo_discapacidad"
-                        }
-                    ]
                 }
             ]
         },
