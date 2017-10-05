@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 50
-- **Cantidad Total de Distribuciones**: 98
+- **Cantidad Total de Datasets**: 51
+- **Cantidad Total de Distribuciones**: 99
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 50
+- **Cantidad de Datasets NO Federados**: 51
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -28,6 +28,8 @@
 
 ## Datasets no federados
 
+- [Diccionario Panamericano OIMA - Región Cono Sur](https://datos.agroindustria.gob.ar/dataset/diccionario-panamericano-region-cono-sur)
+- [Tasa de ruralidad por radio censal](https://datos.agroindustria.gob.ar/dataset/tasa-de-ruralidad-por-radio-censal)
 - [Estimaciones agrícolas](https://datos.agroindustria.gob.ar/dataset/estimaciones-agricolas)
 - [Producción nacional fiscalizada por especies registrada en el INASE](http://datos.agroindustria.gob.ar/dataset/produccion-nacional-fiscalizada-por-especies-registrada-en-el-inase)
 - [Establecimientos vigentes inscriptos en el RNCyF de Semillas](http://datos.agroindustria.gob.ar/dataset/establecimientos-vigentes-inscriptos-en-el-rncyf-de-semillas)
@@ -62,7 +64,6 @@
 - [Indicadores anuales del sector bovino](http://datos.agroindustria.gob.ar/dataset/indicadores-anuales-del-sector-bovino)
 - [Extracciones forestales](http://datos.agroindustria.gob.ar/dataset/extracciones-forestales)
 - [Siembra directa según el Censo Nacional Agropecuario 2002](http://datos.agroindustria.gob.ar/dataset/siembra-directa)
-- [Tasa de ruralidad por radio censal](INDEC)
 - [Probabilidad de exceso hídrico](http://datos.agroindustria.gob.ar/dataset/probabilidad-exceso-hidrico)
 - [Probabilidad de déficit hídrico](http://datos.agroindustria.gob.ar/dataset/probabilidad-deficit-hidrico)
 - [Ley 25.080, superficie forestal promocionada](http://datos.agroindustria.gob.ar/dataset/ley-25080-superficie-promocionada)
