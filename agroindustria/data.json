@@ -9,6 +9,121 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "sma@magyp.gob.ar",
+                "name": "Subsecretaría de Mercados Agropecuarios, Dirección Nacional de Estudios de Mercados"
+            },
+            "identifier": "4cfd1404-c3b5-42f0-898b-3166d25f1fa1",
+            "description": "Diccionario de productos agrícolas de países del Cono Sur, miembros de la Organización de Información de Mercados de Las Américas (OIMA).",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Diccionario Panamericano OIMA - Región Cono Sur",
+            "issued": "2017-10-03T19:50:39.167542",
+            "modified": "2017-10-05T18:02:22.832716",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "Registros, censos y encuestas"
+            ],
+            "keyword": [
+                "America",
+                "Cono Sur",
+                "OIMA",
+                "agricolas",
+                "diccionario",
+                "productos"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "AGRI"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/4cfd1404-c3b5-42f0-898b-3166d25f1fa1/archivo/2c8690d9-5e84-4a69-8a1b-f88970e3d101",
+                    "description": "Diccionario de productos agrícolas de países del Cono Sur, miembros de la Organización de Información de Mercados de Las Américas (OIMA).",
+                    "license": "odc-odbl",
+                    "title": "Diccionario Panamericano OIMA - Región Cono Sur",
+                    "issued": "2017-10-03T20:20:31.431949",
+                    "format": "CSV",
+                    "modified": "2017-10-05T14:30:17.029793",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/4cfd1404-c3b5-42f0-898b-3166d25f1fa1/resource/2c8690d9-5e84-4a69-8a1b-f88970e3d101/download/oima---diccionario-2017.csv"
+                }
+            ],
+            "landingPage": "https://datos.agroindustria.gob.ar/dataset/diccionario-panamericano-region-cono-sur"
+        },
+        {
+            "publisher": {
+                "mbox": "datospublicos@magyp.gob.ar",
+                "name": "Subsecretaría de Información y Estadística Pública"
+            },
+            "identifier": "e3152064-2394-4820-bc80-291f85596642",
+            "description": "Información a nivel de radio censal sobre el porcentaje de población que vive en zonas rurales, definidas sobre aquellas áreas que no superen los 2000 habitantes.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Tasa de ruralidad por radio censal",
+            "issued": "2017-09-05T17:09:18.100947",
+            "modified": "2017-10-05T15:44:40.418453",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "Análisis Territorial",
+                "Registros, censos y encuestas"
+            ],
+            "keyword": [
+                "Buenos Aires",
+                "Catamarca",
+                "Chaco",
+                "Chubut",
+                "Cordoba",
+                "Corrientes",
+                "Entre Rios",
+                "Formosa",
+                "Jujuy",
+                "La Pampa",
+                "La Rioja",
+                "Mendoza",
+                "Misiones",
+                "Neuquen",
+                "Rio Negro",
+                "Salta",
+                "San Juan",
+                "San Luis",
+                "Santa Cruz",
+                "Santa Fe",
+                "Santiago del Estero",
+                "Tucuman",
+                "ruralidad",
+                "tasa"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "AGRI"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/e3152064-2394-4820-bc80-291f85596642/archivo/3c3de08a-ed6a-4b5f-b151-984f5bb9e3f4",
+                    "description": "Información a nivel de radio censal sobre el porcentaje de población que vive en zonas rurales definidas sobre aquellas áreas que no superen los 2000 habitantes.",
+                    "license": "odc-odbl",
+                    "title": "Tasa de ruralidad por radio censal",
+                    "issued": "2017-09-05T17:10:30.710663",
+                    "format": "CSV",
+                    "modified": "2017-09-05T17:14:51.650420",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/e3152064-2394-4820-bc80-291f85596642/resource/3c3de08a-ed6a-4b5f-b151-984f5bb9e3f4/download/censo2010ruralidad.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/e3152064-2394-4820-bc80-291f85596642/archivo/d952a566-d401-4524-80a4-f115664d0c17",
+                    "description": "Detalle de cada una de las columnas que integran el recurso.",
+                    "license": "odc-odbl",
+                    "title": "Referencias tasa de ruralidad por radio censal",
+                    "issued": "2017-09-05T17:16:19.118039",
+                    "format": "CSV",
+                    "modified": "2017-09-05T17:16:18.971602",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/e3152064-2394-4820-bc80-291f85596642/resource/d952a566-d401-4524-80a4-f115664d0c17/download/referenciaruralidadcenso2010.csv"
+                }
+            ],
+            "landingPage": "https://datos.agroindustria.gob.ar/dataset/tasa-de-ruralidad-por-radio-censal"
+        },
+        {
+            "publisher": {
                 "mbox": "direstiagri@magyp.gob.ar",
                 "name": "Subsecretaría de Agricultura, Dirección Nacional de Estimaciones, Delegaciones y Estudios Económicos"
             },
@@ -2969,78 +3084,6 @@
                 }
             ],
             "landingPage": "http://datos.agroindustria.gob.ar/dataset/siembra-directa"
-        },
-        {
-            "publisher": {
-                "mbox": "datospublicos@magyp.gob.ar",
-                "name": "Subsecretaría de Información y Estadística Pública"
-            },
-            "identifier": "e3152064-2394-4820-bc80-291f85596642",
-            "description": "Información a nivel de radio censal sobre el porcentaje de población que vive en zonas rurales, definidas sobre aquellas áreas que no superen los 2000 habitantes.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Tasa de ruralidad por radio censal",
-            "issued": "2017-09-05T17:09:18.100947",
-            "modified": "2017-09-29T19:18:31.290283",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "Análisis Territorial",
-                "Registros, censos y encuestas"
-            ],
-            "keyword": [
-                "Buenos Aires",
-                "Catamarca",
-                "Chaco",
-                "Chubut",
-                "Cordoba",
-                "Corrientes",
-                "Entre Rios",
-                "Formosa",
-                "Jujuy",
-                "La Pampa",
-                "La Rioja",
-                "Mendoza",
-                "Misiones",
-                "Neuquen",
-                "Rio Negro",
-                "Salta",
-                "San Juan",
-                "San Luis",
-                "Santa Cruz",
-                "Santa Fe",
-                "Santiago del Estero",
-                "Tucuman",
-                "ruralidad",
-                "tasa"
-            ],
-            "accrualPeriodicity": "eventual",
-            "superTheme": [
-                "AGRI"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.agroindustria.gob.ar/dataset/e3152064-2394-4820-bc80-291f85596642/archivo/3c3de08a-ed6a-4b5f-b151-984f5bb9e3f4",
-                    "description": "Información a nivel de radio censal sobre el porcentaje de población que vive en zonas rurales definidas sobre aquellas áreas que no superen los 2000 habitantes.",
-                    "license": "odc-odbl",
-                    "title": "Tasa de ruralidad por radio censal",
-                    "issued": "2017-09-05T17:10:30.710663",
-                    "format": "CSV",
-                    "modified": "2017-09-05T17:14:51.650420",
-                    "downloadURL": "http://datos.agroindustria.gob.ar/dataset/e3152064-2394-4820-bc80-291f85596642/resource/3c3de08a-ed6a-4b5f-b151-984f5bb9e3f4/download/censo2010ruralidad.csv"
-                },
-                {
-                    "accessURL": "http://datos.agroindustria.gob.ar/dataset/e3152064-2394-4820-bc80-291f85596642/archivo/d952a566-d401-4524-80a4-f115664d0c17",
-                    "description": "Detalle de cada una de las columnas que integran el recurso.",
-                    "license": "odc-odbl",
-                    "title": "Referencias tasa de ruralidad por radio censal",
-                    "issued": "2017-09-05T17:16:19.118039",
-                    "format": "CSV",
-                    "modified": "2017-09-05T17:16:18.971602",
-                    "downloadURL": "http://datos.agroindustria.gob.ar/dataset/e3152064-2394-4820-bc80-291f85596642/resource/d952a566-d401-4524-80a4-f115664d0c17/download/referenciaruralidadcenso2010.csv"
-                }
-            ],
-            "landingPage": "INDEC"
         },
         {
             "publisher": {
