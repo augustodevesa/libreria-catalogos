@@ -18,12 +18,13 @@
 - **Cantidad Total de Datasets**: 241
 - **Cantidad Total de Distribuciones**: 418
 
-- **Cantidad de Datasets Federados**: 234
-- **Cantidad de Datasets NO Federados**: 7
-- **Porcentaje de Datasets NO Federados**: 2.9%
+- **Cantidad de Datasets Federados**: 233
+- **Cantidad de Datasets NO Federados**: 8
+- **Porcentaje de Datasets NO Federados**: 3.32%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
+- [Títulos Públicos de Deuda](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Estimados Mensual Industrial (EMI). Variaciones interanuales. Base 2012](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 
 ## Datasets no federados
@@ -35,6 +36,7 @@
 - [Distribución Personal del Ingreso. Coeficiente de Gini y Brecha de Ingresos para el Ingreso de la Ocupación Principal e Ingreso per cápita Familiar. Ratio Percentil 90/ Percentil 10](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Tipos de Cambio Históricos](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índice de Precios al Consumidor GBA - Base 1974](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Titulos Publicos de Deuda](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 
 ## Datasets federados
 
@@ -271,7 +273,6 @@
 - [IPC Categorías. Tasas de variación mensual. Base Dic-2016](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Series históricas de estadísticas monetarias](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índice de Precios al Consumidor histórico](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Títulos Públicos de Deuda](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 
 ## Reporte
 
