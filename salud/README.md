@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 17
-- **Cantidad Total de Distribuciones**: 17
+- **Cantidad Total de Datasets**: 18
+- **Cantidad Total de Distribuciones**: 18
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 17
+- **Cantidad de Datasets NO Federados**: 18
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -28,6 +28,8 @@
 
 ## Datasets no federados
 
+- [Registro Nacional de Prestadores](http://datos.sisa.msal.gov.ar/dataset/registro-nacional-prestadores)
+- [Certificado Único de Discapacidad](http://datos.sisa.msal.gov.ar/dataset/certificado-unico-de-discapacidad)
 - [Sistema Nacional de Farmacovigilancia](http://www.anmat.gov.ar/dataset/sistema-nacional-de-farmacovigilancia)
 - [Listado de faltantes de medicamentos](http://www.anmat.gov.ar/dataset/listado-de-faltantes-de-medicamentos)
 - [Cosméticos. Listado de estabelecimientos.](http://www.anmat.gov.ar/dataset/cosmeticos-listado-de-estabelecimientos)
@@ -36,7 +38,6 @@
 - [Sistema de Información Federal para la Gestión del Control de los Alimentos (SIFeGA)](http://portal.anmat.gov.ar/dataset/sistema-de-informacion-federal-para-la-gestion-del-control-de-los-alimentos)
 - [Alimentos. Registro Nacional de Establecimientos (RNE)](http://inal.sifega.anmat.gov.ar/dataset/registro-nacional-de-establecimientos-de-alimentos)
 - [Estadísticas Nacionales de VIH/SIDA](http://datos.sisa.msal.gov.ar/dataset/estadisticas-nacionales-de-vih-sida)
-- [Certificado Único de Discapacidad](http://datos.sisa.msal.gov.ar/dataset/certificado-unico-de-discapacidad)
 - [Registro Federal de Droguerias (REDRO)](http://datos.sisa.msal.gov.ar/dataset/registro-federal-de-droguerias-redro)
 - [INCUCAI](http://datos.sisa.msal.gov.ar/dataset/incucai)
 - [Legislacion en Salud de la República Argentina (LEGISALUD)](http://leg.msal.gov.ar/)
