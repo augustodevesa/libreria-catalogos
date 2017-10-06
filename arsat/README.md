@@ -29,15 +29,15 @@
 
 ## Datasets no federados
 
-- [Registro de Visitas](None)
-- [Ausentismo - Total mensual de días por motivo de ausencia](None)
-- [Escuelas Conectadas con Tecnología Gilat](None)
 - [Distribución por provincia de las escuelas conectadas con tecnología Gilat](None)
-- [Tráfico de Internet entrante y saliente](None)
-- [Cantidad Total de Megabits en servicio por provincia](None)
+- [Escuelas Conectadas con Tecnología Gilat](None)
+- [Ausentismo - Total mensual de días por motivo de ausencia](None)
 - [Cantidad de clientes por provincia](None)
-- [Salarios Gerentes](None)
+- [Cantidad Total de Megabits en servicio por provincia](None)
 - [Puntos de Conexión al Plan Federal de Internet por provincia](None)
+- [Registro de Visitas](None)
+- [Tráfico de Internet entrante y saliente](None)
+- [Salarios Gerentes](None)
 - [Porcentaje de avance del Plan](None)
 - [Total de personal por género](None)
 - [Personal por provincia](None)
@@ -50,14 +50,14 @@
 
 ## Datasets federados
 
+- [Futuros puntos de conexión al Plan Federal de Internet](None)
+- [Puntos de conexión al Plan Federal de Internet](None)
 - [Registro de Audiencias](None)
 - [Datos de uso de la plataforma](None)
 - [Licitaciones](None)
 - [Declaraciones Juradas Patrimoniales - Directorio y Gerentes](None)
 - [Escuelas de próxima conexión](None)
 - [Escuelas conectadas](None)
-- [Puntos de conexión al Plan Federal de Internet](None)
-- [Futuros puntos de conexión al Plan Federal de Internet](None)
 - [Honorarios de Directores](None)
 - [Listado de Personal](None)
 - [Promedios de edad y antigüedad del personal](None)
