@@ -54,6 +54,10 @@ all_local:
 	$(PYTHON_PATH) main.py
 	git push
 
+reset_git:
+	git fetch --all
+	git reset --hard origin/master
+
 clean:
 	rm -rf venv/
 	cat /dev/null | crontab
