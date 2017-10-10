@@ -9,6 +9,51 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "pgall@indec.mecon.gov.ar",
+                "name": "Dirección de Estadísticas del Sector Primario (INDEC)"
+            },
+            "identifier": "f5b90f55-551c-4b2e-8ac7-c56abe469724",
+            "description": "El Censo Nacional Agropecuario se realizó durante el cuarto trimestre del año 2002. A continuación se presenta un conjunto de cuadros correspondientes a los Resultados Definitivos, que ofrecen una imagen estructural del sector agropecuario, con los cambios producidos desde el último censo realizado en 1988.",
+            "license": "Creative Commons Attribution",
+            "title": "Datos del Censo Nacional Agropecuario 1988 - 2002",
+            "issued": "2017-10-06T15:12:25.500860",
+            "modified": "2017-10-10T13:23:56.669747",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "Registros, censos y encuestas"
+            ],
+            "keyword": [
+                "1988",
+                "2002",
+                "Agropecuario",
+                "Censo",
+                "Indec",
+                "Nacional"
+            ],
+            "accrualPeriodicity": "R/P10Y",
+            "superTheme": [
+                "AGRI",
+                "GOVE",
+                "REGI",
+                "SOCI"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://www.indec.gob.ar/nivel4_default.asp?id_tema_1=3&id_tema_2=8&id_tema_3=8",
+                    "description": "http://www.indec.gob.ar/nivel4_default.asp?id_tema_1=3&id_tema_2=8&id_tema_3=87",
+                    "license": "cc-by",
+                    "title": "Link a los Datos del Censo Nacional Agropecuario 1988 - 2002",
+                    "issued": "2017-10-06T15:13:26.761610",
+                    "format": "CSV",
+                    "downloadURL": "http://www.indec.gob.ar/nivel4_default.asp?id_tema_1=3&id_tema_2=8&id_tema_3=87"
+                }
+            ],
+            "landingPage": "www.indec.gob.ar"
+        },
+        {
+            "publisher": {
                 "mbox": "sma@magyp.gob.ar",
                 "name": "Subsecretaría de Mercados Agropecuarios, Dirección Nacional de Estudios de Mercados"
             },
