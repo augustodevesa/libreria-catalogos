@@ -4058,6 +4058,51 @@
         },
         {
             "publisher": {
+                "mbox": "lmosquera@jus.gov.ar",
+                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Coordinación. Dirección de Despacho, Mesas de Entradas e Información al Público"
+            },
+            "landingPage": "",
+            "description": "Este conjunto de datos Contiene las solicitudes generadas por todo aquel recurrente, ciudadano u organización civil, que bajo el amparo de la Ley N° 27275 solicitan acceso a la información pública en las distintas mesas de entradas, tanto físicas como virtuales, en el marco del Ministerio de Justicia y Derechos Humanos.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Solicitudes de acceso a la información pública en el Ministerio de Justicia y Derechos Humanos",
+            "issued": "2017-07-04T15:14:39.142937",
+            "modified": "2017-10-24T17:58:40.981148",
+            "theme": [
+                "anticorrupcion"
+            ],
+            "keyword": [
+                "Ley 27275",
+                "despacho",
+                "información pública",
+                "solicitud",
+                "transparencia"
+            ],
+            "superTheme": [
+                "JUST"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "contactPoint": {
+                "hasEmail": "lmosquera@jus.gov.ar",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Coordinación. Dirección de Despacho, Mesas de Entradas e Información al Público"
+            },
+            "identifier": "4442f10e-4822-43d1-bddc-d82dd5c43db6",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/ff4cdc0c-c794-44dd-9e0e-911d0c0c0d8d",
+                    "description": "Solicitudes de acceso a la información pública",
+                    "title": "Solicitudes de acceso a la información pública - actualizado al 2017-10-24",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-10-24T14:17:03.240327",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/ff4cdc0c-c794-44dd-9e0e-911d0c0c0d8d/download/solicitudes-acceso-informacion-publica-2017-10-24.csv",
+                    "issued": "2017-10-24T14:15:34.399071",
+                    "identifier": "ff4cdc0c-c794-44dd-9e0e-911d0c0c0d8d"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "datosabiertos@saij.gob.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
             },
