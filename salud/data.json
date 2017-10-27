@@ -12,7 +12,7 @@
                 "mbox": "sistemasdeinformacion@snr.gob.ar",
                 "name": "SNR (Servicio Nacional de Rehabilitación)"
             },
-            "accessLevel": "public",
+            "identifier": "d5666ee3-51ee-4149-8f25-db759a407ffa",
             "description": "Registro público en el que se inscriben los prestadores de servicios de atención y rehabilitación a personas con discapacidad de todo el país que han sido categorizados o recategorizados de conformidad con las normas reglamentarias y complementarias de la Ley Nº 24.901 y, por lo tanto, forman parte del padrón de prestadores a nivel nacional. El Servicio Nacional de Rehabilitación tiene actualmente a su cargo la inscripción, permanencia y baja de la totalidad de las instituciones inscriptas en el dicho registro.",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Registro Nacional de Prestadores",
@@ -30,12 +30,11 @@
                 "HEAL",
                 "SOCI"
             ],
-            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/registro-nacional-prestadores",
-            "identifier": "d5666ee3-51ee-4149-8f25-db759a407ffa",
             "distribution": [
                 {
-                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/d5666ee3-51ee-4149-8f25-db759a407ffa/resource/227d1437-4d60-46ef-89f0-786f0fac1254/download/registro-nacional-prestadores-201709.csv",
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/d5666ee3-51ee-4149-8f25-db759a407ffa/archivo/227d1437-4d60-46ef-89f0-786f0fac1254",
                     "description": "Padrón de prestadores a nivel nacional de servicios de atención y rehabilitación a personas con discapacidad categorizados o recategorizados de conformidad con las normas reglamentarias y complementarias de la Ley Nº 24.901.",
+                    "license": "odc-odbl",
                     "title": "Registro Nacional de Prestadores",
                     "issued": "2017-10-04T18:02:38.151412",
                     "format": "CSV",
@@ -74,21 +73,24 @@
                         }
                     ]
                 }
-            ]
+            ],
+            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/registro-nacional-prestadores"
         },
         {
             "publisher": {
                 "mbox": "sistemasdeinformacion@snr.gob.ar",
                 "name": "SNR (Servicio Nacional de Rehabilitación)"
             },
-            "accessLevel": "public",
+            "identifier": "d1fca43e-cfbc-4c06-8b8f-d8828e629e21",
             "description": "Esta base contiene variables seleccionadas del Registro Nacional de Personas con Discapacidad. El mismo se conforma por la información referente a las personas que han tramitado el Certificado Único de Discapacidad (CUD).",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Certificado Único de Discapacidad",
             "issued": "2017-09-28T19:23:51.727310",
             "temporal": "2009-06-30T03:00:00.000Z/2017-09-01T03:00:00.000Z",
             "modified": "2017-10-04T18:05:05.885522",
-            "language": "spa",
+            "language": [
+                "spa"
+            ],
             "keyword": [
                 "CUD",
                 "Discapacidad",
@@ -99,12 +101,11 @@
                 "HEAL",
                 "SOCI"
             ],
-            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/certificado-unico-de-discapacidad",
-            "identifier": "d1fca43e-cfbc-4c06-8b8f-d8828e629e21",
             "distribution": [
                 {
-                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/d1fca43e-cfbc-4c06-8b8f-d8828e629e21/resource/92581a3b-d34e-4dd0-91ec-9a764b2fece7/download/certificado-unico-discapacidad-201709.csv",
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/d1fca43e-cfbc-4c06-8b8f-d8828e629e21/archivo/92581a3b-d34e-4dd0-91ec-9a764b2fece7",
                     "description": "Certificados Únicos de Discapacidad tramitados desde el año 2009 y vigentes hasta septiembre de 2017",
+                    "license": "odc-odbl",
                     "title": "Certificado Único de discapacidad",
                     "issued": "2017-09-28T19:36:08.651769",
                     "format": "CSV",
@@ -133,14 +134,15 @@
                         }
                     ]
                 }
-            ]
+            ],
+            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/certificado-unico-de-discapacidad"
         },
         {
             "publisher": {
                 "mbox": "",
                 "name": "ANMAT"
             },
-            "accessLevel": "public",
+            "identifier": "76f0758c-a74f-483c-9937-e20dabe0b747",
             "description": "Informe anual del Sistema Nacional de Farmacovigilancia que se encarga de detectar, evaluar, comprender y prevenir efectos adversos derivados del uso de los medicamentos.",
             "license": "Creative Commons Attribution",
             "title": "Sistema Nacional de Farmacovigilancia",
@@ -153,25 +155,25 @@
                 "HEAL"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "landingPage": "http://www.anmat.gov.ar/dataset/sistema-nacional-de-farmacovigilancia",
-            "identifier": "76f0758c-a74f-483c-9937-e20dabe0b747",
             "distribution": [
                 {
-                    "accessURL": "http://www.anmat.gov.ar/farmacovigilancia/informesanuales.asp",
+                    "accessURL": "http://www.anmat.gov.ar/farmacovigilancia/informesanuales.as",
                     "description": "Informe anual del Sistema Nacional de Farmacovigilancia que se encarga de detectar, evaluar, comprender y prevenir efectos adversos derivados del uso de los medicamentos.",
+                    "license": "cc-by",
                     "title": "Sistema Nacional de Farmacovigilancia",
                     "issued": "2017-09-29T15:47:34.759218",
                     "format": "PDF",
                     "downloadURL": "http://www.anmat.gov.ar/farmacovigilancia/informesanuales.asp"
                 }
-            ]
+            ],
+            "landingPage": "http://www.anmat.gov.ar/dataset/sistema-nacional-de-farmacovigilancia"
         },
         {
             "publisher": {
                 "mbox": "",
                 "name": "ANMAT"
             },
-            "accessLevel": "public",
+            "identifier": "d9ebb3a9-ea4a-416c-be3c-0f51c82d5304",
             "description": "Listado de medicamentos que, por distintas circunstancias, no se encuentran disponibles para su dispensación.",
             "license": "Creative Commons Attribution",
             "title": "Listado de faltantes de medicamentos",
@@ -184,25 +186,25 @@
                 "HEAL"
             ],
             "accrualPeriodicity": "R/P1M",
-            "landingPage": "http://www.anmat.gov.ar/dataset/listado-de-faltantes-de-medicamentos",
-            "identifier": "d9ebb3a9-ea4a-416c-be3c-0f51c82d5304",
             "distribution": [
                 {
-                    "accessURL": "http://www.anmat.gov.ar/listados/Listado_Faltantes_csv.asp",
+                    "accessURL": "http://www.anmat.gov.ar/listados/Listado_Faltantes_csv.as",
                     "description": "Listado de medicamentos que, por distintas circunstancias, no se encuentran disponibles para su dispensación.",
+                    "license": "cc-by",
                     "title": "Listado de faltantes de medicamentos",
                     "issued": "2017-08-31T20:09:57.706286",
                     "format": "CSV",
                     "downloadURL": "http://www.anmat.gov.ar/listados/Listado_Faltantes_csv.asp"
                 }
-            ]
+            ],
+            "landingPage": "http://www.anmat.gov.ar/dataset/listado-de-faltantes-de-medicamentos"
         },
         {
             "publisher": {
                 "mbox": "",
                 "name": "ANMAT"
             },
-            "accessLevel": "public",
+            "identifier": "30cbaed4-dadf-4044-8e30-3fbce0a48a6f",
             "description": "Listado y localización de productos elaboradores, importadores y exportadores de productos cosméticos.",
             "license": "Creative Commons Attribution",
             "title": "Cosméticos. Listado de estabelecimientos.",
@@ -215,25 +217,25 @@
                 "HEAL"
             ],
             "accrualPeriodicity": "R/P1M",
-            "landingPage": "http://www.anmat.gov.ar/dataset/cosmeticos-listado-de-estabelecimientos",
-            "identifier": "30cbaed4-dadf-4044-8e30-3fbce0a48a6f",
             "distribution": [
                 {
-                    "accessURL": "http://www.anmat.gov.ar/cosmeticos/Cosmeticos.asp",
+                    "accessURL": "http://www.anmat.gov.ar/cosmeticos/Cosmeticos.as",
                     "description": "Listado y localización de productos elaboradores, importadores y exportadores de productos cosméticos.",
+                    "license": "cc-by",
                     "title": "Cosméticos. Listado de establecimientos.",
                     "issued": "2017-08-31T20:11:12.144913",
                     "format": "CSV",
                     "downloadURL": "http://www.anmat.gov.ar/cosmeticos/Cosmeticos.asp"
                 }
-            ]
+            ],
+            "landingPage": "http://www.anmat.gov.ar/dataset/cosmeticos-listado-de-estabelecimientos"
         },
         {
             "publisher": {
                 "mbox": "",
                 "name": "ANMAT"
             },
-            "accessLevel": "public",
+            "identifier": "4d9acee3-4288-4de8-aa24-657a105f37a5",
             "description": "Listado de Productos destinados a la limpieza, lavado, odorización, higienización del hogar certificados por ANMAT. Se entiende por producto domisanitario a aquellas sustancias o preparaciones destinadas a la limpieza, lavado, odorización, desodorización, higienización, desinfección o desinfestación, para su utilización en el hogar, y/o ambientes colectivos públicos y/o privado",
             "license": "Creative Commons Attribution",
             "title": "Productos Domisanitarios. Prod. destinados a limpieza, lavado, odorización, higienización del hogar.",
@@ -249,25 +251,25 @@
             "superTheme": [
                 "HEAL"
             ],
-            "landingPage": "http://www.anmat.gov.ar/dataset/productos-domisanitarios",
-            "identifier": "4d9acee3-4288-4de8-aa24-657a105f37a5",
             "distribution": [
                 {
-                    "accessURL": "http://www.anmat.gov.ar/Domisanitarios/Domisanitarios.asp",
+                    "accessURL": "http://www.anmat.gov.ar/Domisanitarios/Domisanitarios.as",
                     "description": "Productos Domisanitarios - Productos destinados a la limpieza, lavado, odorización, higienización del hogar certificados por ANMAT.\r\nSe entiende por producto domisanitario a aquellas sustancias o preparaciones destinadas a la limpieza, lavado, odorización, desodorización, higienización, desinfección o desinfestación, para su utilización en el hogar, y/o ambientes colectivos públicos y/o privados",
+                    "license": "cc-by",
                     "title": "Productos Domisanitarios - Productos destinados a la limpieza, lavado, odorización, higienización del hogar certificados por ANMAT",
                     "issued": "2017-09-29T13:53:30.148683",
                     "format": "PDF",
                     "downloadURL": "http://www.anmat.gov.ar/Domisanitarios/Domisanitarios.asp"
                 }
-            ]
+            ],
+            "landingPage": "http://www.anmat.gov.ar/dataset/productos-domisanitarios"
         },
         {
             "publisher": {
                 "mbox": "",
                 "name": "ANMAT"
             },
-            "accessLevel": "public",
+            "identifier": "4be028c3-d4ca-40e9-823c-2a0f159e9b2a",
             "description": "Vademecun Nacional de Medicamentos.  Se pueden consultar todos los medicamentos actualmente comercializados en la República Argentina. Entre otros datos, permite la posibilidad de corroborar que, sobre el medicamento prescripto y/o dispensado, no pesan restricciones de uso y/o comercialización, y si se trata de un producto alcanzado por el Sistema Nacional de Trazabilidad de Medicamentos.",
             "license": "Creative Commons Attribution",
             "title": "Vademecun Nacional de Medicamentos (VNM)",
@@ -283,25 +285,25 @@
             "superTheme": [
                 "HEAL"
             ],
-            "landingPage": "http://anmatvademecum.servicios.pami.org.ar/dataset/vademecun-nacional-de-medicamentos",
-            "identifier": "4be028c3-d4ca-40e9-823c-2a0f159e9b2a",
             "distribution": [
                 {
-                    "accessURL": "http://anmatvademecum.servicios.pami.org.ar/index.html",
+                    "accessURL": "http://anmatvademecum.servicios.pami.org.ar/index.htm",
                     "description": "Vademecun Nacional de Medicamentos.  Se pueden consultar todos los medicamentos actualmente comercializados en la República Argentina. Entre otros datos, permite la posibilidad de corroborar que, sobre el medicamento prescripto y/o dispensado, no pesan restricciones de uso y/o comercialización, y si se trata de un producto alcanzado por el Sistema Nacional de Trazabilidad de Medicamentos.",
+                    "license": "cc-by",
                     "title": "Vademecun Nacional de Medicamento (VNM)",
                     "issued": "2017-09-29T15:38:04.200561",
                     "format": "otro",
                     "downloadURL": "http://anmatvademecum.servicios.pami.org.ar/index.html"
                 }
-            ]
+            ],
+            "landingPage": "http://anmatvademecum.servicios.pami.org.ar/dataset/vademecun-nacional-de-medicamentos"
         },
         {
             "publisher": {
                 "mbox": "",
                 "name": "ANMAT"
             },
-            "accessLevel": "public",
+            "identifier": "b1ca32fc-922f-4d97-aa72-170965c99d7c",
             "description": "Sistema de Información Federal para la Gestión del Control de los Alimentos (SIFeGA).",
             "license": "Creative Commons Attribution",
             "title": "Sistema de Información Federal para la Gestión del Control de los Alimentos (SIFeGA)",
@@ -318,25 +320,25 @@
             "superTheme": [
                 "HEAL"
             ],
-            "landingPage": "http://portal.anmat.gov.ar/dataset/sistema-de-informacion-federal-para-la-gestion-del-control-de-los-alimentos",
-            "identifier": "b1ca32fc-922f-4d97-aa72-170965c99d7c",
             "distribution": [
                 {
-                    "accessURL": "http://portal.anmat.gov.ar/sifega_inicio.html",
+                    "accessURL": "http://portal.anmat.gov.ar/sifega_inicio.htm",
                     "description": "Sistema de Información Federal para la Gestión del Control de los Alimentos (SIFeGA)",
+                    "license": "cc-by",
                     "title": "Sistema de Información Federal para la Gestión del Control de los Alimentos (SIFeGA)",
                     "issued": "2017-09-29T15:33:24.322812",
                     "format": "otro",
                     "downloadURL": "http://portal.anmat.gov.ar/sifega_inicio.html"
                 }
-            ]
+            ],
+            "landingPage": "http://portal.anmat.gov.ar/dataset/sistema-de-informacion-federal-para-la-gestion-del-control-de-los-alimentos"
         },
         {
             "publisher": {
                 "mbox": "",
                 "name": "ANMAT"
             },
-            "accessLevel": "public",
+            "identifier": "fe300dc7-2729-4e7f-a486-27ffe52517cd",
             "description": "Base de datos de Registro Nacional de Establecimientos de Alimentos  (RNE). Establecimientos certificados por autoridades sanitarias jurisdiccionales. Empresas elaboradoras de productos alimenticios o suplementos dietarios. \r\nSistema de Información Federal para la Gestión del Control de Alimentos (SIFeGA)",
             "license": "Creative Commons Attribution",
             "title": "Alimentos. Registro Nacional de Establecimientos (RNE)",
@@ -354,25 +356,25 @@
             "superTheme": [
                 "HEAL"
             ],
-            "landingPage": "http://inal.sifega.anmat.gov.ar/dataset/registro-nacional-de-establecimientos-de-alimentos",
-            "identifier": "fe300dc7-2729-4e7f-a486-27ffe52517cd",
             "distribution": [
                 {
-                    "accessURL": "http://inal.sifega.anmat.gov.ar/consultadeRegistro/",
+                    "accessURL": "http://inal.sifega.anmat.gov.ar/consultadeRegistro",
                     "description": "Base de datos de Registro Nacional de Establecimientos de Alimentos. Establecimientos certificados por autoridades sanitarias jurisdiccionales. Empresas elaboradoras de productos alimenticios o suplementos dietarios. \r\nSistema de Información Federal para la Gestión del Control de Alimentos (SIFeGA)",
+                    "license": "cc-by",
                     "title": "Registro Nacional de Establecimientos de Alimentos",
                     "issued": "2017-09-29T15:24:22.426729",
                     "format": "otro",
                     "downloadURL": "http://inal.sifega.anmat.gov.ar/consultadeRegistro/"
                 }
-            ]
+            ],
+            "landingPage": "http://inal.sifega.anmat.gov.ar/dataset/registro-nacional-de-establecimientos-de-alimentos"
         },
         {
             "publisher": {
                 "mbox": "",
                 "name": "Dirección de SIDA y ETS"
             },
-            "accessLevel": "public",
+            "identifier": "ba70d1a2-ab0f-40f6-a7bd-da41d2d4e534",
             "description": "Estadísticas que surgen de las notificaciones nacionales de infecciones por VIH/sida desglosadas por provincias. Incluye indicadores de gestión en prevención, diagnóstico y tratamiento.",
             "license": "Creative Commons Attribution",
             "title": "Estadísticas Nacionales de VIH/SIDA",
@@ -385,26 +387,26 @@
                 "HEAL"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/estadisticas-nacionales-de-vih-sida",
-            "identifier": "ba70d1a2-ab0f-40f6-a7bd-da41d2d4e534",
             "distribution": [
                 {
-                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/ba70d1a2-ab0f-40f6-a7bd-da41d2d4e534/resource/c8c7b683-71a2-4661-92a6-28825c3c84a2/download/datos-vih-por-provincia.pdf",
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/ba70d1a2-ab0f-40f6-a7bd-da41d2d4e534/archivo/c8c7b683-71a2-4661-92a6-28825c3c84a2",
                     "description": "Estadísticas que surgen de las notificaciones nacionales de infecciones por VIH/sida desglosadas por provincias. Incluye indicadores de gestión en prevención, diagnóstico y tratamiento.",
+                    "license": "cc-by",
                     "title": "Estadísticas Nacionales de VIH/SIDA",
                     "issued": "2017-09-29T14:15:02.474293",
                     "format": "PDF",
                     "modified": "2017-09-29T14:15:02.445915",
                     "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/ba70d1a2-ab0f-40f6-a7bd-da41d2d4e534/resource/c8c7b683-71a2-4661-92a6-28825c3c84a2/download/datos-vih-por-provincia.pdf"
                 }
-            ]
+            ],
+            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/estadisticas-nacionales-de-vih-sida"
         },
         {
             "publisher": {
                 "mbox": "",
                 "name": "Dirección Nacional de Regulación"
             },
-            "accessLevel": "public",
+            "identifier": "11b7b107-17cf-4eb9-bfaf-4bcfcfc5d146",
             "description": "Registro Federal de Droguerias (REDRO) de todo el país registrado por la autoridad jurisdiccional",
             "license": "Creative Commons Attribution",
             "title": "Registro Federal de Droguerias (REDRO)",
@@ -417,26 +419,26 @@
                 "HEAL"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/registro-federal-de-droguerias-redro",
-            "identifier": "11b7b107-17cf-4eb9-bfaf-4bcfcfc5d146",
             "distribution": [
                 {
-                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/11b7b107-17cf-4eb9-bfaf-4bcfcfc5d146/resource/2d87b962-6a5e-4d67-891d-0280094e6e8e/download/listadosisa1500553465412.csv",
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/11b7b107-17cf-4eb9-bfaf-4bcfcfc5d146/archivo/2d87b962-6a5e-4d67-891d-0280094e6e8e",
                     "description": "Registro Federal de Droguerias (REDRO) de todo el país registrado por la autoridad jurisdiccional",
+                    "license": "cc-by",
                     "title": "Registro Federal de Droguerias (REDRO)",
                     "issued": "2017-07-20T12:28:00.944453",
                     "format": "CSV",
                     "modified": "2017-07-20T12:28:00.914034",
                     "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/11b7b107-17cf-4eb9-bfaf-4bcfcfc5d146/resource/2d87b962-6a5e-4d67-891d-0280094e6e8e/download/listadosisa1500553465412.csv"
                 }
-            ]
+            ],
+            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/registro-federal-de-droguerias-redro"
         },
         {
             "publisher": {
                 "mbox": "",
                 "name": "INCUCAI"
             },
-            "accessLevel": "public",
+            "identifier": "10e70ea5-5ef2-4127-92f6-2480e403f668",
             "description": "Datos INCUCAI",
             "license": "Creative Commons Attribution",
             "title": "INCUCAI",
@@ -449,26 +451,26 @@
                 "HEAL"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/incucai",
-            "identifier": "10e70ea5-5ef2-4127-92f6-2480e403f668",
             "distribution": [
                 {
-                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/10e70ea5-5ef2-4127-92f6-2480e403f668/resource/6c24022d-d5d6-40cf-b5d8-48be28ecf438/download/ptes-le-x-j.csv",
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/10e70ea5-5ef2-4127-92f6-2480e403f668/archivo/6c24022d-d5d6-40cf-b5d8-48be28ecf438",
                     "description": "Pacientes en lista de espera",
+                    "license": "cc-by",
                     "title": "Pacientes en lista de espera",
                     "issued": "2017-07-11T20:47:43.936586",
                     "format": "CSV",
                     "modified": "2017-07-11T20:47:43.906197",
                     "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/10e70ea5-5ef2-4127-92f6-2480e403f668/resource/6c24022d-d5d6-40cf-b5d8-48be28ecf438/download/ptes-le-x-j.csv"
                 }
-            ]
+            ],
+            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/incucai"
         },
         {
             "publisher": {
                 "mbox": "",
                 "name": "Legisalud (Dirección Nacional de Regulación)"
             },
-            "accessLevel": "public",
+            "identifier": "0b9a303e-3208-4618-a70a-5990ef8f87be",
             "description": "Acceso libre, gratuito y universal a los textos completos de la legislación sanitaria nacional y provincial vigente, ordenada por tipos jurídicos, jurisdicción y temáticas sanitarias. Se publica también la normativa nacional e internacional sobre la bioética, y legislación",
             "license": "Creative Commons Attribution",
             "title": "Legislacion en Salud de la República Argentina (LEGISALUD)",
@@ -484,24 +486,24 @@
             "superTheme": [
                 "HEAL"
             ],
-            "landingPage": "http://leg.msal.gov.ar/",
-            "identifier": "0b9a303e-3208-4618-a70a-5990ef8f87be",
             "distribution": [
                 {
-                    "accessURL": "http://leg.msal.gov.ar/",
-                    "issued": "2017-07-10T14:35:58.292567",
-                    "downloadURL": "http://leg.msal.gov.ar/",
+                    "accessURL": "http://leg.msal.gov.ar",
                     "description": "Acceso libre, gratuito y universal a los textos completos de la legislación sanitaria nacional y provincial vigente, ordenada por tipos jurídicos, jurisdicción y temáticas sanitarias. Se publica también la normativa nacional e internacional sobre la bioética, y legislación sobre DDHH.",
-                    "title": "Legislacion en Salud de la República Argentina (LEGISALUD)"
+                    "license": "cc-by",
+                    "title": "Legislacion en Salud de la República Argentina (LEGISALUD)",
+                    "issued": "2017-07-10T14:35:58.292567",
+                    "downloadURL": "http://leg.msal.gov.ar/"
                 }
-            ]
+            ],
+            "landingPage": "http://leg.msal.gov.ar/"
         },
         {
             "publisher": {
                 "mbox": "",
                 "name": "Dirección de Epidemiología"
             },
-            "accessLevel": "public",
+            "identifier": "20796b81-87f7-4f4e-9b62-cbd4c04d804c",
             "description": "Casos registrados de eventos bajo vigilancia (incluye Chagas, Dengue, Zika, infecciones respiratorias agudas)",
             "license": "Creative Commons Attribution",
             "title": "Boletin integrado de vigilancia",
@@ -517,23 +519,23 @@
             "superTheme": [
                 "HEAL"
             ],
-            "landingPage": "http://www.msal.gob.ar/dataset/boletin-integrado-de-vigilancia",
-            "identifier": "20796b81-87f7-4f4e-9b62-cbd4c04d804c",
             "distribution": [
                 {
-                    "accessURL": "http://www.msal.gob.ar/index.php/home/boletin-integrado-de-vigilancia",
+                    "accessURL": "http://www.msal.gob.ar/index.php/home/boletin-integrado-de-vigilanci",
                     "issued": "2017-07-10T14:32:43.296406",
                     "downloadURL": "http://www.msal.gob.ar/index.php/home/boletin-integrado-de-vigilancia",
+                    "license": "cc-by",
                     "title": "Boletin integrado de vigilancia"
                 }
-            ]
+            ],
+            "landingPage": "http://www.msal.gob.ar/dataset/boletin-integrado-de-vigilancia"
         },
         {
             "publisher": {
                 "mbox": "",
                 "name": "SISA"
             },
-            "accessLevel": "public",
+            "identifier": "18494b24-f6b1-46fb-bee0-c1cbab850ff1",
             "description": "Registro oficial de farmacias de atención al público, hospitalarias de todo el país registrado por la autoridad jurisdiccional",
             "license": "Creative Commons Attribution",
             "title": "Registro Federal de Farmacias (REFAR)",
@@ -550,26 +552,26 @@
             "superTheme": [
                 "HEAL"
             ],
-            "landingPage": "sisa.msal.gov.ar",
-            "identifier": "18494b24-f6b1-46fb-bee0-c1cbab850ff1",
             "distribution": [
                 {
-                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/18494b24-f6b1-46fb-bee0-c1cbab850ff1/resource/0a0ac777-068f-45d4-8812-ebab2ee026cc/download/refar.csv",
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/18494b24-f6b1-46fb-bee0-c1cbab850ff1/archivo/0a0ac777-068f-45d4-8812-ebab2ee026cc",
                     "description": "Registro oficial de farmacias de atención al público, hospitalarias de todo el país registrado por la autoridad jurisdiccional",
+                    "license": "cc-by",
                     "title": "Registro Federal de Farmacias (REFAR)",
                     "issued": "2017-07-04T19:30:32.484202",
                     "format": "CSV",
                     "modified": "2017-07-04T19:30:32.445000",
                     "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/18494b24-f6b1-46fb-bee0-c1cbab850ff1/resource/0a0ac777-068f-45d4-8812-ebab2ee026cc/download/refar.csv"
                 }
-            ]
+            ],
+            "landingPage": "sisa.msal.gov.ar"
         },
         {
             "publisher": {
                 "mbox": "",
                 "name": "MSAL - DEIS"
             },
-            "accessLevel": "public",
+            "identifier": "2aeccb4c-a1c3-4940-802e-c61482c1bca1",
             "description": "Estadísticas vitales SERIE 5 - Información sobre nacidos vivos, defunciones, indicadores relacionados, etc.",
             "license": "Creative Commons Attribution",
             "title": "Estadísticas vitales SERIE 5",
@@ -586,25 +588,25 @@
             "superTheme": [
                 "HEAL"
             ],
-            "landingPage": "http://www.deis.msal.gov.ar/",
-            "identifier": "2aeccb4c-a1c3-4940-802e-c61482c1bca1",
             "distribution": [
                 {
-                    "accessURL": "http://www.deis.msal.gov.ar/wp-content/uploads/2016/12/Serie5Numero59.pdf",
+                    "accessURL": "http://www.deis.msal.gov.ar/wp-content/uploads/2016/12/Serie5Numero59.pd",
                     "description": "Estadísticas vitales SERIE 5",
+                    "license": "cc-by",
                     "title": "Estadísticas vitales SERIE 5",
                     "issued": "2017-07-03T15:23:30.505912",
                     "format": "PDF",
                     "downloadURL": "http://www.deis.msal.gov.ar/wp-content/uploads/2016/12/Serie5Numero59.pdf"
                 }
-            ]
+            ],
+            "landingPage": "http://www.deis.msal.gov.ar/"
         },
         {
             "publisher": {
                 "mbox": "",
                 "name": "MSAL - DEIS"
             },
-            "accessLevel": "public",
+            "identifier": "e236af2c-5d5f-4eaf-bf51-9b8f1cd33bea",
             "description": "Estadísticas de consultas e internaciones en establecimientos públicos SERIE 11",
             "license": "Creative Commons Attribution",
             "title": "Estadísticas de consultas e internaciones en establecimientos públicos SERIE 11",
@@ -621,31 +623,34 @@
             "superTheme": [
                 "HEAL"
             ],
-            "landingPage": "http://www.deis.msal.gov.ar/",
-            "identifier": "e236af2c-5d5f-4eaf-bf51-9b8f1cd33bea",
             "distribution": [
                 {
-                    "accessURL": "http://www.deis.msal.gov.ar/wp-content/uploads/2016/07/Serie11Nro14.pdf",
+                    "accessURL": "http://www.deis.msal.gov.ar/wp-content/uploads/2016/07/Serie11Nro14.pd",
                     "description": "Estadísticas de consultas e internaciones en establecimientos públicos SERIE 11",
+                    "license": "cc-by",
                     "title": "Estadísticas de consultas e internaciones en establecimientos públicos SERIE 11",
                     "issued": "2017-07-03T15:26:49.071739",
                     "format": "PDF",
                     "downloadURL": "http://www.deis.msal.gov.ar/wp-content/uploads/2016/07/Serie11Nro14.pdf"
                 }
-            ]
+            ],
+            "landingPage": "http://www.deis.msal.gov.ar/"
         },
         {
             "publisher": {
                 "mbox": "soporte@sisa.msal.gov.ar",
                 "name": "SISA"
             },
-            "accessLevel": "public",
+            "identifier": "41a6263e-8c84-41fc-90e0-32150e1d7620",
             "description": "Todos los establecimientos de salud de pais de cualquier tipologia y dependencia.",
             "license": "Creative Commons Attribution",
             "title": "Registro Federal de Establecimientos de Salud (REFES)",
             "issued": "2017-06-30T15:36:24.001541",
             "modified": "2017-06-30T15:43:06.476570",
-            "language": "abk, spa",
+            "language": [
+                "abk",
+                "spa"
+            ],
             "theme": [
                 "SISA"
             ],
@@ -657,19 +662,19 @@
             "superTheme": [
                 "HEAL"
             ],
-            "landingPage": "http://sisa.msal.gov.ar",
-            "identifier": "41a6263e-8c84-41fc-90e0-32150e1d7620",
             "distribution": [
                 {
-                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/41a6263e-8c84-41fc-90e0-32150e1d7620/resource/37b058e9-057e-4843-8852-d9a31874b19c/download/refes.csv",
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/41a6263e-8c84-41fc-90e0-32150e1d7620/archivo/37b058e9-057e-4843-8852-d9a31874b19c",
                     "description": "Efectores de salud de todas las tipologias y dependencias del pais.",
+                    "license": "cc-by",
                     "title": "Registro Federal de Establecimientos de Salud (REFES)",
                     "issued": "2017-06-30T15:43:05.199211",
                     "format": "CSV",
                     "modified": "2017-06-30T15:43:05.153644",
                     "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/41a6263e-8c84-41fc-90e0-32150e1d7620/resource/37b058e9-057e-4843-8852-d9a31874b19c/download/refes.csv"
                 }
-            ]
+            ],
+            "landingPage": "http://sisa.msal.gov.ar"
         }
     ],
     "themeTaxonomy": [
@@ -707,6 +712,11 @@
             "description": "Sistema Integrado de Informacion Sanitaria Argentino",
             "id": "sisa",
             "label": "Sistema Integrado de Información Sanitaria Argentino (SISA)"
+        },
+        {
+            "description": "Superintendencia de Servicios de Salud.",
+            "id": "s-s-salud",
+            "label": "S.S.SALUD"
         }
     ]
 }
