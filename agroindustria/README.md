@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 51
-- **Cantidad Total de Distribuciones**: 99
+- **Cantidad Total de Datasets**: 52
+- **Cantidad Total de Distribuciones**: 100
 
-- **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 51
-- **Porcentaje de Datasets NO Federados**: 100.0%
+- **Cantidad de Datasets Federados**: 48
+- **Cantidad de Datasets NO Federados**: 4
+- **Porcentaje de Datasets NO Federados**: 7.69%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -28,13 +28,21 @@
 
 ## Datasets no federados
 
+- [Datos del Censo Nacional Agropecuario 1988 - 2002](www.indec.gob.ar)
 - [Diccionario Panamericano OIMA - Región Cono Sur](https://datos.agroindustria.gob.ar/dataset/diccionario-panamericano-region-cono-sur)
+- [Datos de comercio exterior](https://comex.indec.gov.ar/dataset/datos-de-comercio-exterior)
+- [Montos pagados por la Ley 25.080 / 26.432 para la actividad plantación](http://datos.agroindustria.gob.ar/dataset/montos-pagados-por-la-ley-25080-264-32-para-la-actividad-plantacion)
+
+## Datasets federados
+
+- [Siembra directa según el Censo Nacional Agropecuario 2002](https://datos.agroindustria.gob.ar/dataset/siembra-directa)
+- [Inventario nacional de plantaciones forestales por superficie](https://datos.agroindustria.gob.ar/dataset/inventario-nacional-de-plantaciones-forestales-por-superficie)
+- [Inventario nacional de plantaciones forestales por volumen](https://datos.agroindustria.gob.ar/dataset/inventario-nacional-de-plantaciones-forestales-por-volumen)
 - [Tasa de ruralidad por radio censal](https://datos.agroindustria.gob.ar/dataset/tasa-de-ruralidad-por-radio-censal)
 - [Estimaciones agrícolas](https://datos.agroindustria.gob.ar/dataset/estimaciones-agricolas)
 - [Producción nacional fiscalizada por especies registrada en el INASE](http://datos.agroindustria.gob.ar/dataset/produccion-nacional-fiscalizada-por-especies-registrada-en-el-inase)
 - [Establecimientos vigentes inscriptos en el RNCyF de Semillas](http://datos.agroindustria.gob.ar/dataset/establecimientos-vigentes-inscriptos-en-el-rncyf-de-semillas)
 - [Superficie nacional fiscalizada por especie y ubicación registrada en el INASE](http://datos.agroindustria.gob.ar/dataset/superficie-nacional-fiscalizada-por-especie-y-ubicacion-registrada-en-el-inase)
-- [Inventario nacional de plantaciones forestales por volumen](http://datos.agroindustria.gob.ar/dataset/inventario-nacional-de-plantaciones-forestales-por-volumen)
 - [Catálogo nacional de cultivares registrados en el RNC y RNPC](http://datos.agroindustria.gob.ar/dataset/catalogo-nacional-de-cultivares)
 - [Series de precios de productos forestales](http://datos.agroindustria.gob.ar/dataset/series-de-precios-de-productos-forestales)
 - [Padrón de operadores orgánicos certificados](http://datos.agroindustria.gob.ar/dataset/padron-de-operadores-organicos-certificados)
@@ -56,21 +64,17 @@
 - [Producción nacional fiscalizada por especies y ubicación registrada en el INASE](http://datos.agroindustria.gob.ar/dataset/produccion-nacional-fiscalizada-por-especies-y-ubicacion-registrada-en-el-inase)
 - [Precio promedio diario internacional de azúcar](http://datos.agroindustria.gob.ar/dataset/precio-promedio-diario-de-azucar)
 - [Industrias forestales](http://datos.agroindustria.gob.ar/dataset/industrias-forestales)
-- [Datos de comercio exterior](https://comex.indec.gov.ar/dataset/datos-de-comercio-exterior)
 - [Empresas vigentes inscriptas en el RNCyF de Semillas](http://datos.agroindustria.gob.ar/dataset/empresas-vigentes)
 - [Series de precios de productos forestales discontinuado](http://datos.agroindustria.gob.ar/dataset/series-de-precios-de-productos-forestales-discontinuado)
 - [Existencia de ciervo colorado](http://datos.agroindustria.gob.ar/dataset/existencia-de-ciervo-colorado)
-- [Inventario nacional de plantaciones forestales por superficie](http://datos.agroindustria.gob.ar/dataset/inventario-nacional-de-plantaciones-forestales-por-superficie)
 - [Indicadores anuales del sector bovino](http://datos.agroindustria.gob.ar/dataset/indicadores-anuales-del-sector-bovino)
 - [Extracciones forestales](http://datos.agroindustria.gob.ar/dataset/extracciones-forestales)
-- [Siembra directa según el Censo Nacional Agropecuario 2002](http://datos.agroindustria.gob.ar/dataset/siembra-directa)
 - [Probabilidad de exceso hídrico](http://datos.agroindustria.gob.ar/dataset/probabilidad-exceso-hidrico)
 - [Probabilidad de déficit hídrico](http://datos.agroindustria.gob.ar/dataset/probabilidad-deficit-hidrico)
 - [Ley 25.080, superficie forestal promocionada](http://datos.agroindustria.gob.ar/dataset/ley-25080-superficie-promocionada)
 - [Precio promedio por kg de sólidos útiles pagados al productor](http://datos.agroindustria.gob.ar/dataset/precio-promedio-por-kg-de-solidos-utiles)
 - [Centros de acopio de granos](http://datos.agroindustria.gob.ar/dataset/centros-de-acopio-de-granos)
 - [Estimación del consumo de productos lácteos](http://datos.agroindustria.gob.ar/dataset/estimacion-del-consumo-de-productos-lacteos)
-- [Montos pagados por la Ley 25.080 / 26.432 para la actividad plantación](http://datos.agroindustria.gob.ar/dataset/montos-pagados-por-la-ley-25080-264-32-para-la-actividad-plantacion)
 - [Existencias lácteas del período comprendido entre los años 1998  y  2008](http://datos.agroindustria.gob.ar/dataset/existencias-lacteas-del-periodo-comprendido-entre-los-anos-1998-y-2008)
 - [Elaboración de productos lácteos](http://datos.agroindustria.gob.ar/dataset/elaboracion-de-productos-lacteos)
 - [Producción de leche a nivel nacional](http://datos.agroindustria.gob.ar/dataset/produccion-de-leche-a-nivel-nacional)
@@ -79,10 +83,6 @@
 - [Reservas de agua en el suelo por cultivo](http://datos.agroindustria.gob.ar/dataset/reservas-de-agua-en-el-suelo-por-cultivo)
 - [Superficie nacional fiscalizada por especies](http://datos.agroindustria.gob.ar/dataset/superficie-nacional-fiscalizada-por-especies)
 - [Precio promedio del litro de leche pagado al productor](http://datos.agroindustria.gob.ar/dataset/precio-promedio-del-litro-de-leche-pagado-al-productor)
-
-## Datasets federados
-
-
 
 ## Reporte
 
