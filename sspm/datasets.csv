@@ -32,7 +32,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 30,Utilización de la capacidad instalada en la industria. En porcentaje. Base 2004,31,OK,0,2
 31,Indicador sintético de la actividad de la construcción. Índice. Base 2004,32,OK,0,3
 32,Indicador sintético de la actividad de la construcción. Variaciones interanuales. Base 2004,33,OK,0,1
-33,Indicadores de evolución del sector agropecuario,34,ERROR,1,2
+33,Indicadores de evolución del sector agropecuario,34,OK,0,2
 34,Estadisticas de Servicios Publicos. Base 1993,35,OK,0,3
 35,Ventas de Supermercados (Base 1996) y evolución de artículos por grupos (base 2008),36,OK,0,3
 36,Centros de Compras. Base 2008,37,OK,0,3
@@ -82,16 +82,16 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 80,"Índices de valor, precio y cantidad de las importaciones de bienes",81,OK,0,2
 81,Índice de términos del intercambio. Base 2004,82,OK,0,2
 82,Poder de compra de las exportaciones de bienes y ganancia del intercambio. Base 2004,83,OK,0,1
-83,Balance de Pagos (MBP5),84,OK,0,2
+83,Balance de Pagos (MBP5),84,OK,0,1
 84,Posición de inversión Nacional (Base 1991),86,OK,0,1
 85,Precios internacionales e índices de materias primas. Base 1980,87,OK,0,3
 86,Índice de precios de materias primas. Base 1995,88,OK,0,3
 87,Principales tasas de interés,89,OK,0,2
-88,Agregados monetarios,90,ERROR,1,1
+88,Agregados monetarios,90,OK,0,1
 89,Préstamos a las entidades financieras,91,OK,0,1
 90,Reservas internacionales y pasivos del BCRA,92,OK,0,1
 91,Exigencias de encaje o liquidez,93,OK,0,1
-92,"CER, UVA y UVI",94,OK,0,2
+92,"CER, UVA y UVI",94,OK,0,1
 93,Tasas trimestrales de variación de precios,95,OK,0,1
 94,Índice de Precios al Consumidor. Bienes y Servicios. Base abril 2008,96,OK,0,3
 95,Índice de Precios al Consumidor. Por capítulos. Base abril 2008.,97,OK,0,2
@@ -134,7 +134,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 132,Participación de los principales socios comerciales en el comercio argentino,140,OK,0,1
 133,Recursos tributarios totales y por tributo,142,OK,0,3
 134,Estimador Mensual de Actividad Económica (EMAE),143,OK,0,3
-135,Posición de Inversión Internacional neta,144,OK,0,3
+135,Posición de Inversión Internacional neta,144,OK,0,4
 136,Índice de Precios al Consumidor. Nivel General. Base diciembre 2016.,145,OK,0,1
 137,Índice de Precios al Consumidor. Por capítulos. Base diciembre 2016.,146,OK,0,1
 138,Índice de Precios al Consumidor. Bienes y Servicios. Base diciembre 2016.,147,OK,0,1
@@ -232,11 +232,36 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 230,Ahorro del resto del mundo. Base 2004,167,OK,0,2
 231,Tipo de Cambio $-USD - Futuro Dólar - NDF,168,OK,0,1
 232,Índices Bursátiles Argentina,169,OK,0,1
-233,Fondos Comunes de Inversión,171,OK,0,1
-234,Principales subgrupos de recaudación tributaria,172,OK,0,3
-235,IPC Categorías. Tasas de variación mensual. Base Dic-2016,173,OK,0,1
-236,Series históricas de estadísticas monetarias,174,OK,0,1
-237,Tipos de Cambio Históricos,175,OK,0,1
-238,Índice de Precios al Consumidor GBA - Base 1974,177,OK,0,1
-239,Índice de Precios al Consumidor histórico,178,OK,0,1
-240,Titulos Publicos de Deuda,179,OK,0,1
+233,Financiamiento privado en mercado de capitales,170,OK,0,1
+234,Fondos Comunes de Inversión,171,OK,0,2
+235,Principales subgrupos de recaudación tributaria,172,OK,0,3
+236,IPC Categorías. Tasas de variación mensual. Base Dic-2016,173,OK,0,1
+237,Series históricas de estadísticas monetarias,174,OK,0,1
+238,Tipos de Cambio Históricos,175,OK,0,1
+239,Índice de Precios al Consumidor GBA - Base 1988,176,OK,0,1
+240,Índice de Precios al Consumidor GBA - Base 1974,177,OK,0,1
+241,Índice de Precios al Consumidor histórico,178,OK,0,1
+242,Títulos Públicos de Deuda,179,OK,0,1
+243,Indices Bursátiles Argentina. Desagregación sectorial,180,OK,0,1
+244,Exportaciones e importaciones por Intensidad tecnológica,181,OK,0,1
+245,Balance Cambiario,182,OK,0,1
+246,Cobros y pagos por bienes por modalidad de pago - Balance Cambiario,183,OK,0,1
+247,Cobros y pagos por bienes sectorial - Balance Cambiario,184,OK,0,1
+248,Cobros y pagos por tipo de servicio - Balance Cambiario,185,OK,0,1
+249,"Gasto Público del Gobierno Nacional en Política de Ingresos, por programa. Devengado mensual en pesos corrientes",186,OK,0,1
+250,Política de Ingresos. Prestaciones de la seguridad social. BESS-MTESS,187,OK,0,1
+251,Política de Ingresos. Asignación Universal Por Hijo para la Protección Social y por Embarazo. BESS-MTESS,188,OK,0,1
+252,Política de Ingresos. Prestaciones de la seguridad social. ANSES,189,OK,0,1
+253,Política de Ingresos.  Prestaciones de la seguridad social y otros programas de transferencia de ingresos. Cuenta de Inversión. Secretaría de Hacienda.,190,OK,0,1
+254,Política de Ingresos. Prestaciones de la seguridad social y otros programas de transferencia de ingresos. Seguimiento Físico-Financiero. Oficina Nacional de Presupuesto. Secretaría de Hacienda,191,OK,0,1
+255,PIB Subtotal Agrícola en millones de pesos de 1960,192,ERROR,1,1
+256,Índice de Precios al Consumidor de la Ciudad de Buenos Aires. Nivel general y principales aperturas,193,OK,0,1
+257,Índice de Precios al Consumidor de la Provincia de Córdoba. Base 2014 = 100,194,OK,0,1
+258,Índice de Precios al Consumidor de la Provincia de Mendoza. Base 2010 = 100,195,OK,0,1
+259,Índice de Precios al Consumidor de la Provincia de Neuquen. Base 2010 = 100,196,OK,0,1
+260,Índice de Precios al Consumidor de la Provincia de San Luis. Base oct 2005 = 100,197,OK,0,1
+261,Índice de Precios al Consumidor de la Provincia de Santa Fé. Base oct 2005 = 100,198,OK,0,1
+262,Índice de Precios al Consumidor de la Provincia de Tucuman. Base oct 2005 = 100,199,OK,0,1
+263,Distribución personal del ingreso por  deciles de la ocupación principal (IOP). En pesos corrientes promedio por decil,301,OK,0,1
+264,Estadísticas de servicios públicos.,302,OK,0,3
+265,Evolución de la tasa de asalarización y de asalariados sin descuento jubilatorio. EPH Continua. En %,303,OK,0,1
