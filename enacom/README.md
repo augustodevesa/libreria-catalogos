@@ -15,21 +15,26 @@
 
 - **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 61
-- **Cantidad Total de Distribuciones**: 183
+- **Cantidad Total de Datasets**: 62
+- **Cantidad Total de Distribuciones**: 186
 
-- **Cantidad de Datasets Federados**: 33
-- **Cantidad de Datasets NO Federados**: 28
-- **Porcentaje de Datasets NO Federados**: 45.9%
+- **Cantidad de Datasets Federados**: 31
+- **Cantidad de Datasets NO Federados**: 31
+- **Porcentaje de Datasets NO Federados**: 50.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
+- [Listado de estaciones repetidoras](http://www.enacom.gob.ar/multimedia/noticias/archivos/201604/archivo_20160419033059_9612.xlsx)
+- [Listado de Radioaficionados](https://enacom.gob.ar/public/enacom/Autorizacion_RAF_20170323165149.xls)
 - [Numeración no geográfica](http://www.enacom.gob.ar/multimedia/noticias/archivos/201608/archivo_20160822125509_341.xls)
 - [Numeración geográfica](http://www.enacom.gob.ar/multimedia/noticias/archivos/201608/archivo_20160822125338_7490.xls)
 - [Listado de prestadores de telefonía](https://junar-selfpub-storage.s3.amazonaws.com/15121/43921/15077373221980263436446390108373443130?Signature=2Wj7zByQ5Prsrut1oK%2BKVGSoG%2Bg%3D&Expires=1506376712&AWSAccessKeyId=AKIAI652OHJ6H2VI25OA&response-content-disposition=attachment%3B%20filename%3D%22licenciatarios.xlsx%22)
 
 ## Datasets no federados
 
+- [Listado de radioaficionados](None)
+- [Listado de señales distintivas especiales](None)
+- [Listado de estaciones repetidoras autorizadas](None)
 - [Ventas mensuales de servicios telegráficos del correo oficial y privados](None)
 - [Ventas mensuales de servicios monetarios postales del correo oficial (en $)](None)
 - [Ventas mensuales de servicios postales del correo oficial y operadores privados](None)
@@ -61,6 +66,7 @@
 
 ## Datasets federados
 
+- [Listado de radioclubes](None)
 - [Licenciatarios TIC](None)
 - [Total nacional de accesos a Internet fijo por tipo de tecnología](None)
 - [Total nacional de accesos a Internet fijo por banda ancha y banda angosta](None)
@@ -88,12 +94,9 @@
 - [Fomeca: montos aprobados y pagados por entidad beneficiada](None)
 - [Portabilidad numérica móvil: portaciones netas mensuales por operador](None)
 - [Conectividad al servicio de Internet](None)
-- [Listado de Radioaficionados](None)
 - [Registro de Proveedores Postales](None)
 - [Homologación de empresas inscriptas](None)
-- [Listado de radioclubes](None)
 - [Homologación de equipos inscriptos](None)
-- [Listado de estaciones repetidoras](None)
 
 ## Reporte
 
