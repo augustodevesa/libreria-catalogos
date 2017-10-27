@@ -14,29 +14,50 @@
 ## Estado de los metadatos y cantidad de recursos
 
 - **Estado metadatos globales**: ERROR
-- **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 241
-- **Cantidad Total de Distribuciones**: 418
+- **Estado metadatos catálogo**: OK
+- **Cantidad Total de Datasets**: 266
+- **Cantidad Total de Distribuciones**: 445
 
-- **Cantidad de Datasets Federados**: 233
-- **Cantidad de Datasets NO Federados**: 8
-- **Porcentaje de Datasets NO Federados**: 3.32%
+- **Cantidad de Datasets Federados**: 236
+- **Cantidad de Datasets NO Federados**: 30
+- **Porcentaje de Datasets NO Federados**: 11.28%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
-- [Títulos Públicos de Deuda](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Estimados Mensual Industrial (EMI). Variaciones interanuales. Base 2012](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 
 ## Datasets no federados
 
-- [Estimados Mensual Industrial (EMI). Variaciones interanuales. Base 2004](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Indicadores de evolución del sector agropecuario](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Faena pecuaria](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Distribución funcional del ingreso. Total de la economía y sector privado. Como Porcentaje del Producto Interno Bruto a costo de factores](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Distribución Personal del Ingreso. Coeficiente de Gini y Brecha de Ingresos para el Ingreso de la Ocupación Principal e Ingreso per cápita Familiar. Ratio Percentil 90/ Percentil 10](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Tipos de Cambio Históricos](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Índice de Precios al Consumidor GBA - Base 1974](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Titulos Publicos de Deuda](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Recursos tributarios totales y por tributo](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Financiamiento privado en mercado de capitales](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Índice de Precios al Consumidor GBA - Base 1988](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Indices Bursátiles Argentina. Desagregación sectorial](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Exportaciones e importaciones por Intensidad tecnológica](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Balance Cambiario](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Cobros y pagos por bienes por modalidad de pago - Balance Cambiario](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Cobros y pagos por bienes sectorial - Balance Cambiario](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Cobros y pagos por tipo de servicio - Balance Cambiario](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Gasto Público del Gobierno Nacional en Política de Ingresos, por programa. Devengado mensual en pesos corrientes](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Política de Ingresos. Prestaciones de la seguridad social. BESS-MTESS](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Política de Ingresos. Asignación Universal Por Hijo para la Protección Social y por Embarazo. BESS-MTESS](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Política de Ingresos. Prestaciones de la seguridad social. ANSES](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Política de Ingresos.  Prestaciones de la seguridad social y otros programas de transferencia de ingresos. Cuenta de Inversión. Secretaría de Hacienda.](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Política de Ingresos. Prestaciones de la seguridad social y otros programas de transferencia de ingresos. Seguimiento Físico-Financiero. Oficina Nacional de Presupuesto. Secretaría de Hacienda](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [PIB Subtotal Agrícola en millones de pesos de 1960](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Índice de Precios al Consumidor de la Ciudad de Buenos Aires. Nivel general y principales aperturas](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Índice de Precios al Consumidor de la Provincia de Córdoba. Base 2014 = 100](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Índice de Precios al Consumidor de la Provincia de Mendoza. Base 2010 = 100](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Índice de Precios al Consumidor de la Provincia de Neuquen. Base 2010 = 100](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Índice de Precios al Consumidor de la Provincia de San Luis. Base oct 2005 = 100](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Índice de Precios al Consumidor de la Provincia de Santa Fé. Base oct 2005 = 100](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Índice de Precios al Consumidor de la Provincia de Tucuman. Base oct 2005 = 100](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Distribución personal del ingreso por  deciles de la ocupación principal (IOP). En pesos corrientes promedio por decil](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Estadísticas de servicios públicos.](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Evolución de la tasa de asalarización y de asalariados sin descuento jubilatorio. EPH Continua. En %](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 
 ## Datasets federados
 
@@ -53,6 +74,7 @@
 - [Estimador Mensual de Actividad Económica (EMAE). Base 2004](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Estimados Mensual Industrial (EMI). Índice. Base 2004](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Estimados Mensual Industrial (EMI). Índice. Base 2012](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Estimados Mensual Industrial (EMI). Variaciones interanuales. Base 2004](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Encuesta industrial. Índice de Volumen Físico (IVF).  Base 1997](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Encuesta industrial. Índices de Obreros Ocupados (IOO).  Base 1997](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Encuesta industrial. Índices de Horas trabajadas (IHT).  Base 1997](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -168,7 +190,6 @@
 - [Tipo de cambio nominal](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índices de precios al consumidor, por país](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Participación de los principales socios comerciales en el comercio argentino](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Recursos tributarios totales y por tributo](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Estimador Mensual de Actividad Económica (EMAE)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Posición de Inversión Internacional neta](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índice de Precios al Consumidor. Nivel General. Base diciembre 2016.](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -272,7 +293,10 @@
 - [Principales subgrupos de recaudación tributaria](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [IPC Categorías. Tasas de variación mensual. Base Dic-2016](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Series históricas de estadísticas monetarias](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Tipos de Cambio Históricos](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Índice de Precios al Consumidor GBA - Base 1974](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índice de Precios al Consumidor histórico](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Títulos Públicos de Deuda](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 
 ## Reporte
 
