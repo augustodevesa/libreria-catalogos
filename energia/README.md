@@ -13,14 +13,14 @@
 
 ## Estado de los metadatos y cantidad de recursos
 
-- **Estado metadatos globales**: OK
+- **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 176
-- **Cantidad Total de Distribuciones**: 982
+- **Cantidad Total de Datasets**: 177
+- **Cantidad Total de Distribuciones**: 983
 
 - **Cantidad de Datasets Federados**: 104
-- **Cantidad de Datasets NO Federados**: 72
-- **Porcentaje de Datasets NO Federados**: 40.91%
+- **Cantidad de Datasets NO Federados**: 73
+- **Porcentaje de Datasets NO Federados**: 41.24%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -79,6 +79,7 @@
 - [Mapas de refinación y comercialización de hidrocarburos]()
 - [Mapas de Transporte de Hidrocarburos]()
 - [Mapas históricos de Argentina](http://www.davidrumsey.com/)
+- [Matriz de Contabilidad Social para Argentina 2015]()
 - [Parques Nacionales Protegidos]()
 - [Parques Provinciales Protegidos]()
 - [Partes diarios de gas natural](http://www.enargas.gov.ar)
