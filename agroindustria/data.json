@@ -10,6 +10,63 @@
         {
             "publisher": {
                 "mbox": "datospublicos@magyp.gob.ar",
+                "name": "Subsecretaría de Información y Estadísticas Públicas"
+            },
+            "identifier": "449be2f5-bc77-4bec-bd24-d4601c870536",
+            "description": "FAO es una organización de Naciones Unidas que se encargar de la alimentación y la agricultura. Las series de datos que poseen se inician en 1961 y se van actualizando anualmente. Estas series involucran: Producción, Insumos, Comercio, Población, Inversión, Uso de la tierra, Seguridad alimentaria, entre otros temas.",
+            "license": "No se especificó la licencia",
+            "title": "Datos agricolo-ganaderos y de alimentos de los países pertenecientes a las Naciones Unidas",
+            "issued": "2017-11-01T14:50:49.496429",
+            "modified": "2017-11-01T15:25:35.352594",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "Registros, censos y encuestas"
+            ],
+            "keyword": [
+                "FAO",
+                "ONU",
+                "agricultura",
+                "agroambientales",
+                "agroinsumos",
+                "alimentarios",
+                "alimentos",
+                "balances",
+                "comercio",
+                "emisión",
+                "ganadería",
+                "indicadores",
+                "insumos",
+                "inversión",
+                "población",
+                "producción",
+                "tierra"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "AGRI",
+                "ECON",
+                "ENVI",
+                "GOVE",
+                "HEAL",
+                "INTR"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://www.fao.org/faostat/es/#dat",
+                    "description": "http://www.fao.org/faostat/es/#data",
+                    "license": "cc-by",
+                    "title": "Link a los datos de la FAO",
+                    "issued": "2017-11-01T14:51:33.347226",
+                    "downloadURL": "http://www.fao.org/faostat/es/#data"
+                }
+            ],
+            "landingPage": "http://www.fao.org/faostat/es/#data"
+        },
+        {
+            "publisher": {
+                "mbox": "datospublicos@magyp.gob.ar",
                 "name": "Subsecretaría de Información y Estadística Pública"
             },
             "identifier": "c1e6c0a5-2e23-49ac-a80e-7ede4f1e6ac0",
