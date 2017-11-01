@@ -396,7 +396,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Base SAIJ de Normativa Provincial",
             "issued": "2016-11-22T16:09:24.483249",
-            "modified": "2017-11-01T14:49:24.028713",
+            "modified": "2017-11-01T15:09:44.083300",
             "theme": [
                 "informacion-juridica"
             ],
@@ -1905,7 +1905,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Estadística de trámites de automotores",
             "issued": "2017-06-28T17:28:28.132200",
-            "modified": "2017-11-01T14:58:16.834429",
+            "modified": "2017-11-01T15:18:45.162269",
             "theme": [
                 "sistema-registral"
             ],
@@ -1976,6 +1976,30 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/83fab2e3-fb5a-486b-b4d7-af85006ea0a2/download/estadistica-transferencias-automotores-2017-09.csv",
                     "issued": "2017-10-05T11:16:37.455513",
                     "identifier": "83fab2e3-fb5a-486b-b4d7-af85006ea0a2"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/80b38a1a-83d7-4bc4-aac6-5f818397a4d6",
+                    "description": "Estadística de inscripciones iniciales de automotores por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.",
+                    "title": "Estadística de inscripciones iniciales de automotores 2017-10",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-11-01T12:14:44.149766",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/80b38a1a-83d7-4bc4-aac6-5f818397a4d6/download/estadistica-inscripciones-iniciales-automotores-2017-10.csv",
+                    "issued": "2017-11-01T12:12:02.716026",
+                    "identifier": "80b38a1a-83d7-4bc4-aac6-5f818397a4d6"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/ec722349-f3f9-4c63-8949-810463a19d04",
+                    "description": "Estadística de transferencias de automotores por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.",
+                    "title": "Estadística de transferencias de automotores 2017-10",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-11-01T12:18:37.247033",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/ec722349-f3f9-4c63-8949-810463a19d04/download/estadistica-transferencias-automotores-2017-10.csv",
+                    "issued": "2017-11-01T12:18:37.410159",
+                    "identifier": "ec722349-f3f9-4c63-8949-810463a19d04"
                 }
             ]
         },
@@ -1989,7 +2013,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Estadística de trámites de maquinarias",
             "issued": "2017-06-28T18:19:55.932924",
-            "modified": "2017-10-05T14:51:22.413874",
+            "modified": "2017-11-01T16:50:44.676084",
             "theme": [
                 "sistema-registral"
             ],
@@ -2062,6 +2086,30 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/cf25d100-0d7b-438f-a09b-96cc03816a7d/download/estadistica-transferencias-maquinarias-2017-09.csv",
                     "issued": "2017-10-05T11:51:15.431092",
                     "identifier": "cf25d100-0d7b-438f-a09b-96cc03816a7d"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/a7fe4f0a-d2e3-4488-acb9-b64690a0622c",
+                    "description": "Estadística de inscripciones iniciales de maquinarias agrícolas, viales e industriales,  por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.",
+                    "title": "Estadística de inscripciones iniciales de maquinarias 2017-10",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-11-01T13:48:36.804350",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/a7fe4f0a-d2e3-4488-acb9-b64690a0622c/download/estadistica-inscripciones-iniciales-maquinarias-2017-10.csv",
+                    "issued": "2017-11-01T13:48:36.979721",
+                    "identifier": "a7fe4f0a-d2e3-4488-acb9-b64690a0622c"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/e4bc1251-e9ba-489e-987a-35e9ca4a7fbe",
+                    "description": "Estadística de transferencias de maquinarias agrícolas, viales e industriales  por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.",
+                    "title": "Estadística de transferencias de maquinarias 2017-10",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-11-01T13:50:35.571074",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/e4bc1251-e9ba-489e-987a-35e9ca4a7fbe/download/estadistica-transferencias-maquinarias-2017-10.csv",
+                    "issued": "2017-11-01T13:50:35.742740",
+                    "identifier": "e4bc1251-e9ba-489e-987a-35e9ca4a7fbe"
                 }
             ]
         },
@@ -2075,7 +2123,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Estadística de trámites de motovehículos",
             "issued": "2017-06-28T18:08:53.679300",
-            "modified": "2017-10-05T14:39:15.012379",
+            "modified": "2017-11-01T16:55:12.454837",
             "theme": [
                 "sistema-registral"
             ],
@@ -2146,6 +2194,30 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/3aae7d2b-79a7-40a1-8ce5-bb53234a7d03/download/estadistica-transferencias-motovehiculos-2017-09.csv",
                     "issued": "2017-10-05T11:39:06.901727",
                     "identifier": "3aae7d2b-79a7-40a1-8ce5-bb53234a7d03"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/bd3518b3-330e-4657-ae8b-050c7092acf8",
+                    "description": "Estadística de inscripciones iniciales de motovehículos por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.",
+                    "title": "Estadística de inscripciones iniciales de motovehículos 2017-10",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-11-01T13:39:48.834782",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/bd3518b3-330e-4657-ae8b-050c7092acf8/download/estadistica-inscripciones-iniciales-motovehiculos-2017-10.csv",
+                    "issued": "2017-11-01T13:39:48.980273",
+                    "identifier": "bd3518b3-330e-4657-ae8b-050c7092acf8"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/78fb416e-7e06-4d02-ab67-0ab312e22c4a",
+                    "description": "Transferencias de motovehículos por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.",
+                    "title": "Estadística de transferencias de motovehículos 2017-10",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-11-01T13:41:28.344115",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/78fb416e-7e06-4d02-ab67-0ab312e22c4a/download/estadistica-transferencias-motovehiculos-2017-10.csv",
+                    "issued": "2017-11-01T13:41:28.518481",
+                    "identifier": "78fb416e-7e06-4d02-ab67-0ab312e22c4a"
                 }
             ]
         },
@@ -2159,7 +2231,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Estadística de mediaciones prejudiciales y judiciales",
             "issued": "2016-07-12T13:51:29.820576",
-            "modified": "2017-10-03T15:43:29.330848",
+            "modified": "2017-11-01T17:49:09.097048",
             "theme": [
                 "acceso-a-justicia"
             ],
@@ -2237,6 +2309,18 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/a9767469-d903-4158-aa76-b21dd37e8aff/resource/6628b402-3eea-47bb-8259-84f14b55e309/download/estadistica-mediaciones-prejudiciales-y-judiciales-2017-09.csv",
                     "issued": "2017-10-03T12:42:54.182754",
                     "identifier": "6628b402-3eea-47bb-8259-84f14b55e309"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/a9767469-d903-4158-aa76-b21dd37e8aff/resource/4df86281-b8fc-4e5d-b326-70a804a0fc2a",
+                    "description": "Estadística de mediaciones prejudiciales y judiciales efectuadas desde febrero de 2014.",
+                    "title": "Estadística de mediaciones prejudiciales y judiciales 2017-10",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-11-01T14:47:24.229822",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/a9767469-d903-4158-aa76-b21dd37e8aff/resource/4df86281-b8fc-4e5d-b326-70a804a0fc2a/download/estadistica-mediaciones-prejudiciales-y-judiciales-2017-10.csv",
+                    "issued": "2017-11-01T14:40:50.682090",
+                    "identifier": "4df86281-b8fc-4e5d-b326-70a804a0fc2a"
                 }
             ]
         },
@@ -3781,7 +3865,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego",
             "issued": "2016-09-02T18:14:39.283242",
-            "modified": "2017-11-01T12:21:31.374969",
+            "modified": "2017-11-01T17:19:22.297959",
             "theme": [
                 "sistema-registral"
             ],
@@ -3845,8 +3929,8 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-07-05T12:52:44.628794",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/4be8ec0f-7915-46a7-a1fd-e63de52cf3e8/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "modified": "2017-11-01T13:58:55.145924",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/4be8ec0f-7915-46a7-a1fd-e63de52cf3e8/download/solicitudes-condicion-legitimo-usuario-armas-fuego-2016-12-quincena-1.csv",
                     "issued": "2017-07-05T12:52:44.839452",
                     "identifier": "4be8ec0f-7915-46a7-a1fd-e63de52cf3e8"
                 },
@@ -3857,8 +3941,8 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-07-05T12:49:29.253737",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/8a2ed739-751f-4b2e-abbd-6031b572b013/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "modified": "2017-11-01T14:12:37.439123",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/8a2ed739-751f-4b2e-abbd-6031b572b013/download/solicitudes-condicion-legitimo-usuario-armas-fuego-2016-12-quincena-2.csv",
                     "issued": "2017-07-05T12:49:29.471795",
                     "identifier": "8a2ed739-751f-4b2e-abbd-6031b572b013"
                 },
@@ -3869,7 +3953,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-10-31T15:59:24.546985",
+                    "modified": "2017-11-01T14:17:19.496251",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/959f2b70-d6d0-4d7b-ae2e-187f8c1c6d25/download/solicitudes-condicion-legitimo-usuario-armas-fuego-2017-02-quincena-2.csv",
                     "issued": "2017-08-18T16:48:17.576075",
                     "identifier": "959f2b70-d6d0-4d7b-ae2e-187f8c1c6d25"
@@ -3881,7 +3965,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-11-01T09:05:18.123099",
+                    "modified": "2017-11-01T14:15:25.121801",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/fd567672-735c-4b0f-990b-9eff7e8c760d/download/solicitudes-condicion-legitimo-usuario-armas-fuego-2017-02-quincena-1.csv",
                     "issued": "2017-08-18T16:37:04.332103",
                     "identifier": "fd567672-735c-4b0f-990b-9eff7e8c760d"
@@ -3905,8 +3989,8 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-08-18T16:57:50.925348",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/eac3dc49-0de8-4ecd-b3cd-ca1486940125/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "modified": "2017-11-01T14:18:54.636487",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/eac3dc49-0de8-4ecd-b3cd-ca1486940125/download/solicitudes-condicion-legitimo-usuario-armas-fuego-2017-03-quincena-2.csv",
                     "issued": "2017-08-18T16:56:39.065318",
                     "identifier": "eac3dc49-0de8-4ecd-b3cd-ca1486940125"
                 },
@@ -4013,8 +4097,8 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-08-29T15:47:02.984771",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/b7c5b123-949b-4a7c-98e9-dc761e2b6314/download/solicitudes-codicion-legitimo-usuario-armas-fuego.csv",
+                    "modified": "2017-11-01T12:08:30.678985",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/b7c5b123-949b-4a7c-98e9-dc761e2b6314/download/solicitudes-condicion-legitimo-usuario-armas-fuego-2016-11-quincena-2.csv",
                     "issued": "2017-08-29T15:47:03.256367",
                     "identifier": "b7c5b123-949b-4a7c-98e9-dc761e2b6314"
                 },
@@ -4049,8 +4133,8 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-08-29T12:43:47.981646",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/16ab47c3-a387-4aef-97b2-999ebdff472b/download/solicitudes-codicion-legitimo-usuario-armas-fuego.csv",
+                    "modified": "2017-11-01T13:56:57.513793",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/16ab47c3-a387-4aef-97b2-999ebdff472b/download/solicitudes-condicion-legitimo-usuario-armas-fuego-2016-11-quincena-1.csv",
                     "issued": "2017-08-29T12:43:48.235321",
                     "identifier": "16ab47c3-a387-4aef-97b2-999ebdff472b"
                 },
