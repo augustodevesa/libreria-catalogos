@@ -9,6 +9,304 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "lecheria@magyp.gob.ar",
+                "name": "Subsecretaría de Lechería"
+            },
+            "identifier": "904bcc30-6a67-4241-b641-4e9f466dc839",
+            "description": "Miles de unidades formadoras de colonias y células somáticas en cada cm3 de leche cruda. Se presenta el promedio a nivel nacional y provincial.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Calidad higiénico sanitaria de la producción de leche cruda a nivel nacional y provincial",
+            "issued": "2017-10-23T15:40:49.114472",
+            "temporal": "2013-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
+            "modified": "2017-11-02T14:43:31.496676",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "Producción Agroindustrial"
+            ],
+            "keyword": [
+                "Argentina",
+                "Buenos Aires",
+                "CCP",
+                "Cordoba",
+                "Entre Rios",
+                "La Pampa",
+                "Santa fe",
+                "Santiago del Estero",
+                "año",
+                "calidad",
+                "celulas",
+                "cruda",
+                "higienico",
+                "leche",
+                "leche cruda",
+                "mes",
+                "miles de celulas",
+                "miles de unidades",
+                "producto",
+                "promedio",
+                "sanitaria",
+                "somáticas",
+                "unidades"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "superTheme": [
+                "AGRI"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/904bcc30-6a67-4241-b641-4e9f466dc839/archivo/73c45576-7503-4816-8756-f9a0aa1253d8",
+                    "description": "Recuento de células somáticas promedio nacional desde enero 2013 hasta la actualidad.",
+                    "license": "odc-odbl",
+                    "title": "Recuento de células somáticas promedio nacional",
+                    "issued": "2017-10-23T15:44:14.739474",
+                    "format": "CSV",
+                    "modified": "2017-10-23T15:44:14.694941",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/904bcc30-6a67-4241-b641-4e9f466dc839/resource/73c45576-7503-4816-8756-f9a0aa1253d8/download/11-recuento-de-celulas-somaticas-promedio-nacional.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/904bcc30-6a67-4241-b641-4e9f466dc839/archivo/a3e25335-5323-4866-ac88-39ad1916abec",
+                    "description": "Recuento de células somáticas promedio por provincia desde enero 2014 hasta la actualidad.",
+                    "license": "odc-odbl",
+                    "title": "Recuento de células somáticas promedio por provincia",
+                    "issued": "2017-10-23T15:47:24.851514",
+                    "format": "CSV",
+                    "modified": "2017-10-23T15:47:24.802302",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/904bcc30-6a67-4241-b641-4e9f466dc839/resource/a3e25335-5323-4866-ac88-39ad1916abec/download/11-recuento-de-celulas-somaticas-promedio-por-provincia.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/904bcc30-6a67-4241-b641-4e9f466dc839/archivo/3311b181-3828-4901-b210-446c86e31cda",
+                    "description": "Unidades formadoras de colonias promedio nacional desde enero 2013 hasta la actualidad.",
+                    "license": "odc-odbl",
+                    "title": "Unidades formadoras de colonias promedio nacional",
+                    "issued": "2017-10-23T15:48:44.278821",
+                    "format": "CSV",
+                    "modified": "2017-10-23T15:48:44.227493",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/904bcc30-6a67-4241-b641-4e9f466dc839/resource/3311b181-3828-4901-b210-446c86e31cda/download/11-unidades-formadoras-de-colonias-promedio-nacional.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/904bcc30-6a67-4241-b641-4e9f466dc839/archivo/e741e0d6-1445-4a0c-8a0b-5afac06303ca",
+                    "description": "Unidades formadoras de colonias promedio por provincia desde enero 2014 hasta la actualidad.",
+                    "license": "odc-odbl",
+                    "title": "Unidades formadoras de colonias promedio por provincia",
+                    "issued": "2017-10-23T15:49:59.210505",
+                    "format": "CSV",
+                    "modified": "2017-10-23T15:49:59.154133",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/904bcc30-6a67-4241-b641-4e9f466dc839/resource/e741e0d6-1445-4a0c-8a0b-5afac06303ca/download/11-unidades-formadoras-de-colonias-promedio-por-provincia.csv"
+                }
+            ],
+            "landingPage": "https://datos.agroindustria.gob.ar/dataset/calidad-higienico-sanitaria-de-la-produccion-de-leche-cruda-a-nivel-nacional-y-provincial"
+        },
+        {
+            "publisher": {
+                "mbox": "estadisticaslecheria@magyp.gob.ar",
+                "name": "Subsecretaría de Lechería"
+            },
+            "identifier": "36371415-5ded-451c-914d-d1c4c7b0bf17",
+            "description": "Estimación de la variación interanual e intermensual de la producción nacional y provincial, porcentual, a tambo constante y por estrato productivo (enero 2015 - actualidad).\r\nSe obtiene mensualmente del volumen de venta de leche cruda a nivel de tambo individual a través de un relevamiento móvil de los periodos analizados:\r\n\r\n• mes actual y mes inmediato anterior\r\n• mes actual y mismo mes del año anterior",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Estimación de la variación interanual e intermensual de la producción de leche cruda",
+            "issued": "2017-10-23T13:29:55.439913",
+            "modified": "2017-11-02T14:43:24.339845",
+            "theme": [
+                "Producción Agroindustrial"
+            ],
+            "keyword": [
+                "Buenos Aires",
+                "CCP",
+                "Córdoba",
+                "Entre Ríos",
+                "La Pampa",
+                "Santa Fe",
+                "Santiago del Estero",
+                "año",
+                "cantidad",
+                "constante",
+                "cruda",
+                "estrato",
+                "interanual",
+                "intermensual",
+                "leche",
+                "mes",
+                "orígen",
+                "país",
+                "producción",
+                "productivo",
+                "producto",
+                "provincia",
+                "tambo",
+                "unidad",
+                "variación"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "superTheme": [
+                "AGRI"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/36371415-5ded-451c-914d-d1c4c7b0bf17/archivo/2d5e292c-cd1b-42b0-b502-4fba8a8300e1",
+                    "description": "Estimación de la variación interanual nacional a tambo constante (enero 2015 - actualidad)",
+                    "license": "odc-odbl",
+                    "title": "Estimación de la variación interanual nacional (tbo cte)",
+                    "issued": "2017-10-23T13:34:19.140765",
+                    "format": "CSV",
+                    "modified": "2017-10-23T13:34:19.029233",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/36371415-5ded-451c-914d-d1c4c7b0bf17/resource/2d5e292c-cd1b-42b0-b502-4fba8a8300e1/download/estimacion-de-la-variacion-interanual-nacional-tbo-cte.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/36371415-5ded-451c-914d-d1c4c7b0bf17/archivo/80ed49e0-8f5d-4924-8300-75584a249369",
+                    "description": "Estimación de la variación interanual por estrato a tambo constante (enero 2015 - actualidad)",
+                    "license": "odc-odbl",
+                    "title": "Estimación de la variación interanual por estrato (tbo cte)",
+                    "issued": "2017-10-23T13:35:16.717420",
+                    "format": "CSV",
+                    "modified": "2017-10-23T13:35:16.592305",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/36371415-5ded-451c-914d-d1c4c7b0bf17/resource/80ed49e0-8f5d-4924-8300-75584a249369/download/estimacion-de-la-variacion-interanual-por-estrato-tbo-cte.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/36371415-5ded-451c-914d-d1c4c7b0bf17/archivo/ad6d40d7-17db-4455-8596-71ca23dc64ca",
+                    "description": "Estimación de la variación interanual por provincia a tambo constante (enero 2015 - actualidad)",
+                    "license": "odc-odbl",
+                    "title": "Estimación de la variación interanual por provincia (tbo cte)",
+                    "issued": "2017-10-23T13:35:43.168737",
+                    "format": "CSV",
+                    "modified": "2017-10-23T13:35:43.070914",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/36371415-5ded-451c-914d-d1c4c7b0bf17/resource/ad6d40d7-17db-4455-8596-71ca23dc64ca/download/estimacion-de-la-variacion-interanual-por-provincia-tbo-cte.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/36371415-5ded-451c-914d-d1c4c7b0bf17/archivo/40c29e4f-c246-47b3-a0ae-80a56569e556",
+                    "description": "Estimación de la variación intermensual nacional a tambo constante (enero 2015 - actualidad)",
+                    "license": "odc-odbl",
+                    "title": "Estimación de la variación intermensual nacional (tbo cte)",
+                    "issued": "2017-10-23T13:36:06.580975",
+                    "format": "CSV",
+                    "modified": "2017-10-23T13:36:06.485242",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/36371415-5ded-451c-914d-d1c4c7b0bf17/resource/40c29e4f-c246-47b3-a0ae-80a56569e556/download/estimacion-de-la-variacion-intermensual-nacional-tbo-cte.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/36371415-5ded-451c-914d-d1c4c7b0bf17/archivo/0933b5fc-942b-49bd-a285-081862be88df",
+                    "description": "Estimación de la variación intermensual por estrato a tambo constante (enero 2015 - actualidad)",
+                    "license": "odc-odbl",
+                    "title": "Estimación de la variación intermensual por estrato (tbo cte)",
+                    "issued": "2017-10-23T13:36:36.125413",
+                    "format": "CSV",
+                    "modified": "2017-10-23T13:36:36.027442",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/36371415-5ded-451c-914d-d1c4c7b0bf17/resource/0933b5fc-942b-49bd-a285-081862be88df/download/estimacion-de-la-variacion-intermensual-por-estrato-tbo-cte.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/36371415-5ded-451c-914d-d1c4c7b0bf17/archivo/b884d0fa-390a-481d-afda-9f6be398a766",
+                    "description": "Estimación de la variación intermensual por provincia a tambo constante (enero 2015 - actualidad)",
+                    "license": "odc-odbl",
+                    "title": "Estimación de la variación intermensual por provincia (tbo cte)",
+                    "issued": "2017-10-23T13:38:03.066353",
+                    "format": "CSV",
+                    "modified": "2017-10-23T13:38:02.961727",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/36371415-5ded-451c-914d-d1c4c7b0bf17/resource/b884d0fa-390a-481d-afda-9f6be398a766/download/estimacion-de-la-variacion-intermensual-por-provincia-tbo-cte.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/36371415-5ded-451c-914d-d1c4c7b0bf17/archivo/3fab4618-1267-4045-92e0-89a8cf26648e",
+                    "description": "Estimación de la variación interanual e intermensual de la producción de leche cruda - referencias",
+                    "license": "odc-odbl",
+                    "title": "Estimación de la variación interanual e intermensual de la producción de leche cruda ( Referencias )",
+                    "issued": "2017-10-23T13:38:38.900459",
+                    "format": "CSV",
+                    "modified": "2017-10-23T13:38:38.802171",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/36371415-5ded-451c-914d-d1c4c7b0bf17/resource/3fab4618-1267-4045-92e0-89a8cf26648e/download/referencias.csv"
+                }
+            ],
+            "landingPage": "SIGLeA, LUME y RENSPA"
+        },
+        {
+            "publisher": {
+                "mbox": "sgoldc@magyp.gob.ar",
+                "name": "Subsecretaría de Lechería"
+            },
+            "identifier": "534a4ff8-9eb2-47db-b449-aef801d963a3",
+            "description": "El dataset consta de 4 recursos diferentes en donde se muestra el % de grasa butirosa y % de proteínas por kg de sólidos que contiene la leche cruda, tanto a nivel nacional como provincial, desde 2013 hasta la actualidad",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Producción leche cruda a nivel nacional y provincial, expresada en porcentaje de sólidos",
+            "issued": "2017-10-20T18:05:41.616299",
+            "modified": "2017-11-02T14:43:15.776546",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "Producción Agroindustrial"
+            ],
+            "keyword": [
+                "Argentina",
+                "Buenos Aires",
+                "Córdoba",
+                "Entre Ríos",
+                "La Pampa",
+                "Santa Fe",
+                "Santiago del Estero",
+                "año",
+                "butirosa",
+                "cantidad",
+                "cruda",
+                "grasa",
+                "kilogramo",
+                "leche",
+                "mes",
+                "pais",
+                "porcentaje",
+                "producto",
+                "proteína",
+                "provincia",
+                "solidos"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "superTheme": [
+                "AGRI"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/534a4ff8-9eb2-47db-b449-aef801d963a3/archivo/0a8c550e-36c4-49f6-9595-3d37e784d046",
+                    "description": "Porcentaje de grasa butirosa por kilogramo de sólidos en leche cruda, a nivel nacional, desde 2013 a la actualidad.",
+                    "license": "odc-odbl",
+                    "title": "Porcentaje de grasa butirosa por kilogramo de sólidos en leche cruda, a nivel nacional",
+                    "issued": "2017-10-20T18:14:45.514165",
+                    "format": "CSV",
+                    "modified": "2017-10-20T18:14:45.371579",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/534a4ff8-9eb2-47db-b449-aef801d963a3/resource/0a8c550e-36c4-49f6-9595-3d37e784d046/download/datasetlecheria9grasabutirosanacional.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/534a4ff8-9eb2-47db-b449-aef801d963a3/archivo/f68cc1ac-c2cf-47d9-8efb-fc13393f34e9",
+                    "description": "Porcentaje de grasa butirosa por kilogramo de sólidos en leche cruda, a nivel provincial, desde 2013 a la actualidad.",
+                    "license": "odc-odbl",
+                    "title": "Porcentaje de grasa butirosa por kilogramo de sólidos en leche cruda, a nivel provincial",
+                    "issued": "2017-10-20T18:15:34.451323",
+                    "format": "CSV",
+                    "modified": "2017-10-20T18:15:34.163196",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/534a4ff8-9eb2-47db-b449-aef801d963a3/resource/f68cc1ac-c2cf-47d9-8efb-fc13393f34e9/download/datasetlecheria9grasabutirosaporprovincia.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/534a4ff8-9eb2-47db-b449-aef801d963a3/archivo/acb3ec47-7691-4e2b-b948-0decdcaafa00",
+                    "description": "Porcentaje de proteína por kilogramo de sólidos en leche cruda, a nivel nacional, desde  2013 a la actualidad.",
+                    "license": "cc-by",
+                    "title": "Porcentaje de proteína por kilogramo de sólidos en leche cruda, a nivel nacional",
+                    "issued": "2017-10-20T18:16:26.668606",
+                    "format": "CSV",
+                    "modified": "2017-10-20T18:16:26.613028",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/534a4ff8-9eb2-47db-b449-aef801d963a3/resource/acb3ec47-7691-4e2b-b948-0decdcaafa00/download/datasetlecheria9proteinanacional.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/534a4ff8-9eb2-47db-b449-aef801d963a3/archivo/05a3c4bd-53c6-460b-88ad-bf8f3593c86f",
+                    "description": "Porcentaje de proteína por kilogramo de sólidos en leche cruda, a nivel provincial, desde 2013 a la actualidad.",
+                    "license": "odc-odbl",
+                    "title": "Porcentaje de proteína por kilogramo de sólidos en leche cruda, a nivel provincial",
+                    "issued": "2017-10-20T18:17:28.981142",
+                    "format": "CSV",
+                    "modified": "2017-10-20T18:17:28.910744",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/534a4ff8-9eb2-47db-b449-aef801d963a3/resource/05a3c4bd-53c6-460b-88ad-bf8f3593c86f/download/datasetlecheria9proteinaporprovincia.csv"
+                }
+            ],
+            "landingPage": "https://datos.agroindustria.gob.ar/dataset/produccion-leche-cruda-a-nivel-nacional-y-provincial-expresada-en-porcentaje-de-solidos"
+        },
+        {
+            "publisher": {
                 "mbox": "azucar@magyp.gob.ar",
                 "name": "Subsecretaría de Alimentos y Bebidas "
             },
