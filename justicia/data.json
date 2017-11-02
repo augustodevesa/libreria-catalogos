@@ -17,7 +17,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Solicitudes de Autorización de Portación de Armas de Fuego",
             "issued": "2017-08-22T18:33:16.495717",
-            "modified": "2017-10-31T14:27:38.497453",
+            "modified": "2017-11-02T14:02:57.816643",
             "theme": [
                 "sistema-registral"
             ],
@@ -312,6 +312,18 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/defccbb5-acaa-4fbc-a94e-bce6c828c0a7/download/solicitudes-autorizacion-portacion-armas-fuego-2017-10-quincena-1.csv",
                     "issued": "2017-10-19T15:10:48.659183",
                     "identifier": "defccbb5-acaa-4fbc-a94e-bce6c828c0a7"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/e4fa412e-46d2-4169-84d8-82bd0a8da061",
+                    "description": "En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-10 quincena 2",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-11-02T11:02:57.687909",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/e4fa412e-46d2-4169-84d8-82bd0a8da061/download/solicitudes-autorizacion-portacion-armas-fuego-2017-10-quincena-2.csv",
+                    "issued": "2017-11-02T11:02:58.128863",
+                    "identifier": "e4fa412e-46d2-4169-84d8-82bd0a8da061"
                 }
             ]
         },
@@ -576,7 +588,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.",
             "issued": "2016-09-28T14:57:47.665668",
-            "modified": "2017-11-01T12:01:48.710147",
+            "modified": "2017-11-02T12:13:34.203134",
             "theme": [
                 "sistema-registral"
             ],
@@ -597,12 +609,12 @@
             "distribution": [
                 {
                     "accessURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/a95d0e79-08c4-49b9-88b8-d569484bf1d7",
-                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 01-11-2017. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
+                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 02-11-2017. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
                     "title": "Sistema de Consulta Nacional de Rebeldías y Capturas",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-11-01T08:56:28.677117",
+                    "modified": "2017-11-02T09:09:51.908910",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/a95d0e79-08c4-49b9-88b8-d569484bf1d7/download/rebeldias-y-capturas.csv",
                     "issued": "2016-10-06T13:36:46.495627",
                     "identifier": "a95d0e79-08c4-49b9-88b8-d569484bf1d7"
@@ -1090,7 +1102,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Entidades constituidas en la Inspección General de Justicia",
             "issued": "2016-09-19T13:46:06.092494",
-            "modified": "2017-10-11T18:27:45.325219",
+            "modified": "2017-11-02T13:33:05.422405",
             "theme": [
                 "sistema-registral"
             ],
@@ -1892,6 +1904,66 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/18c078d3-c6db-48af-a01a-fedad9062ada/download/igj-autoridades-2017-09.csv",
                     "issued": "2017-10-03T12:13:15.209808",
                     "identifier": "18c078d3-c6db-48af-a01a-fedad9062ada"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/da95a71d-7de9-4622-9d76-d3290ad3937c",
+                    "description": "Entidades constituidas en la IGJ",
+                    "title": "IGJ. Entidades 2017-10",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-11-02T10:12:47.776975",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/da95a71d-7de9-4622-9d76-d3290ad3937c/download/igj-entidades-2017-10.csv",
+                    "issued": "2017-11-02T10:12:48.205008",
+                    "identifier": "da95a71d-7de9-4622-9d76-d3290ad3937c"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/9c80eba1-fcd8-4d10-8f4e-173bde2310d5",
+                    "description": "Domicilios de entidades constituidas en la IGJ",
+                    "title": "IGJ. Domicilios de entidades constituidas en la IGJ 2017-10",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-11-02T10:19:32.290619",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/9c80eba1-fcd8-4d10-8f4e-173bde2310d5/download/igj-domicilios-2017-10.csv",
+                    "issued": "2017-11-02T10:19:32.668517",
+                    "identifier": "9c80eba1-fcd8-4d10-8f4e-173bde2310d5"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/ec4a5a9b-6dd6-42af-86de-57873e10a385",
+                    "description": "Autoridades de entidades constituidas en la IGJ",
+                    "title": "IGJ. Autoridades de entidades 2017-10",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-11-02T10:24:25.977653",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/ec4a5a9b-6dd6-42af-86de-57873e10a385/download/igj-autoridades-2017-10.csv",
+                    "issued": "2017-11-02T10:24:26.269315",
+                    "identifier": "ec4a5a9b-6dd6-42af-86de-57873e10a385"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/3e44d646-65e9-421e-b0fe-16129dc44ce9",
+                    "description": "Balances presentados por entidades constituidas en la IGJ",
+                    "title": "IGJ. Balances presentados por entidades constituidas en la IGJ 2017-10",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-11-02T10:27:41.637657",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/3e44d646-65e9-421e-b0fe-16129dc44ce9/download/igj-balances-2017-10.csv",
+                    "issued": "2017-11-02T10:27:42.827703",
+                    "identifier": "3e44d646-65e9-421e-b0fe-16129dc44ce9"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/5ebf6841-595c-481c-a0e5-1f8284a790c3",
+                    "description": "Asambleas de entidades constituidas en la IGJ",
+                    "title": "IGJ. Asambleas de entidades constituidas en la IGJ 2017-10",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-11-02T10:32:31.798471",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/5ebf6841-595c-481c-a0e5-1f8284a790c3/download/igj-asambleas-2017-10.csv",
+                    "issued": "2017-11-02T10:32:33.180155",
+                    "identifier": "5ebf6841-595c-481c-a0e5-1f8284a790c3"
                 }
             ]
         },
@@ -3889,7 +3961,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego",
             "issued": "2016-09-02T18:14:39.283242",
-            "modified": "2017-11-01T17:19:22.297959",
+            "modified": "2017-11-02T13:55:50.746007",
             "theme": [
                 "sistema-registral"
             ],
@@ -4025,8 +4097,8 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-08-22T09:27:14.066462",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/1559fe51-8989-45df-9b81-8767eeca30ad/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "modified": "2017-11-02T09:15:18.379709",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/1559fe51-8989-45df-9b81-8767eeca30ad/download/solicitudes-condicion-legitimo-usuario-armas-fuego-2017-04-quincena-2.csv",
                     "issued": "2017-08-22T09:27:14.293772",
                     "identifier": "1559fe51-8989-45df-9b81-8767eeca30ad"
                 },
@@ -4037,8 +4109,8 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-08-22T09:31:53.360845",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/b877a423-cca5-401f-8bf1-4a664d9fd727/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "modified": "2017-11-02T09:24:29.363490",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/b877a423-cca5-401f-8bf1-4a664d9fd727/download/solicitudes-condicion-legitimo-usuario-armas-fuego-2017-05-quincena-2.csv",
                     "issued": "2017-08-22T09:31:53.595351",
                     "identifier": "b877a423-cca5-401f-8bf1-4a664d9fd727"
                 },
@@ -4049,8 +4121,8 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-08-22T09:29:39.344625",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/396cd64f-238a-47ba-a018-70737555d2e7/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "modified": "2017-11-02T09:18:06.783558",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/396cd64f-238a-47ba-a018-70737555d2e7/download/solicitudes-condicion-legitimo-usuario-armas-fuego-2017-05-quincena-1.csv",
                     "issued": "2017-08-22T09:29:39.564967",
                     "identifier": "396cd64f-238a-47ba-a018-70737555d2e7"
                 },
@@ -4061,8 +4133,8 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-08-22T09:24:00.078668",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/3db0c4fc-8eb4-44b6-b645-0906e79548b5/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "modified": "2017-11-02T09:13:14.210576",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/3db0c4fc-8eb4-44b6-b645-0906e79548b5/download/solicitudes-condicion-legitimo-usuario-armas-fuego-2017-04-quincena-1.csv",
                     "issued": "2017-08-22T09:24:00.239095",
                     "identifier": "3db0c4fc-8eb4-44b6-b645-0906e79548b5"
                 },
@@ -4185,6 +4257,18 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/6fab1ce8-a352-4a10-82ca-b0ae07e74f9e/download/solicitudes-condicion-legitimo-usuario-armas.csv",
                     "issued": "2017-10-19T15:05:15.282126",
                     "identifier": "6fab1ce8-a352-4a10-82ca-b0ae07e74f9e"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/f5531540-b80c-4e98-8e03-0d6710e687c3",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-10 quincena 2",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-11-02T10:55:37.777126",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/f5531540-b80c-4e98-8e03-0d6710e687c3/download/solicitudes-condicion-legitimo-usuario-armas-fuego-2017-10-quincena-2.csv",
+                    "issued": "2017-11-02T10:55:38.453293",
+                    "identifier": "f5531540-b80c-4e98-8e03-0d6710e687c3"
                 }
             ]
         },
