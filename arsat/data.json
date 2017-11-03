@@ -54,7 +54,7 @@
                 "audiencias"
             ],
             "title": "Registro de Audiencias",
-            "issued": "2017-06-26T18:14:16",
+            "issued": "2017-06-26T17:14:16",
             "modified": "2017-10-04T19:12:22",
             "language": [
                 "spa"
@@ -68,7 +68,7 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/239713/registro-de-audiencias/",
                     "description": ".Listado de Audiencias realizadas en Arsat desde el 20/03/17 hasta el presente.",
                     "title": "Registro de Audiencias",
-                    "issued": "2017-06-26T18:14:16",
+                    "issued": "2017-06-26T17:14:16",
                     "format": "CSV",
                     "modified": "2017-10-04T19:12:22",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
@@ -77,7 +77,7 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/239713/registro-de-audiencias/",
                     "description": ".Listado de Audiencias realizadas en Arsat desde el 20/03/17 hasta el presente.",
                     "title": "Registro de Audiencias",
-                    "issued": "2017-06-26T18:14:16",
+                    "issued": "2017-06-26T17:14:16",
                     "format": "XLS",
                     "modified": "2017-10-04T19:12:22",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
@@ -86,7 +86,7 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/239713/registro-de-audiencias/",
                     "description": ".Listado de Audiencias realizadas en Arsat desde el 20/03/17 hasta el presente.",
                     "title": "Registro de Audiencias",
-                    "issued": "2017-06-26T18:14:16",
+                    "issued": "2017-06-26T17:14:16",
                     "format": "JSON",
                     "modified": "2017-10-04T19:12:22",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
@@ -109,7 +109,7 @@
                 "Visitas"
             ],
             "title": "Registro de Visitas",
-            "issued": "2017-06-26T22:51:38",
+            "issued": "2017-06-26T21:51:38",
             "modified": "2017-10-04T19:05:22",
             "language": [
                 "spa"
@@ -123,7 +123,7 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/239722/registro-de-visitas/",
                     "description": "Listado de visitas recibidas en Arsat desde el 20/03/17 hasta el presente.",
                     "title": "Registro de Visitas",
-                    "issued": "2017-06-26T22:51:38",
+                    "issued": "2017-06-26T21:51:38",
                     "format": "CSV",
                     "modified": "2017-10-04T19:05:22",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
@@ -132,7 +132,7 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/239722/registro-de-visitas/",
                     "description": "Listado de visitas recibidas en Arsat desde el 20/03/17 hasta el presente.",
                     "title": "Registro de Visitas",
-                    "issued": "2017-06-26T22:51:38",
+                    "issued": "2017-06-26T21:51:38",
                     "format": "XLS",
                     "modified": "2017-10-04T19:05:22",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
@@ -141,7 +141,7 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/239722/registro-de-visitas/",
                     "description": "Listado de visitas recibidas en Arsat desde el 20/03/17 hasta el presente.",
                     "title": "Registro de Visitas",
-                    "issued": "2017-06-26T22:51:38",
+                    "issued": "2017-06-26T21:51:38",
                     "format": "JSON",
                     "modified": "2017-10-04T19:05:22",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
@@ -150,6 +150,62 @@
             "identifier": "REGIS-DE-VISIT-31415",
             "homepage": "http://datos.arsat.com.ar/dataviews/239722/registro-de-visitas/",
             "description": "Listado de visitas recibidas en Arsat desde el 20/03/17 hasta el presente."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "ARSAT",
+                "transparencia",
+                "Licitaciones Públicas"
+            ],
+            "title": "Licitaciones",
+            "issued": "2017-11-03T14:54:09",
+            "modified": "2017-11-03T14:54:29",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "gestion-transparente"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
+                    "description": "Procesos de Licitaciones Públicas y Privades, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
+                    "title": "Licitaciones",
+                    "issued": "2017-11-03T14:54:09",
+                    "format": "CSV",
+                    "modified": "2017-11-03T14:54:29",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
+                    "description": "Procesos de Licitaciones Públicas y Privades, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
+                    "title": "Licitaciones",
+                    "issued": "2017-11-03T14:54:09",
+                    "format": "XLS",
+                    "modified": "2017-11-03T14:54:29",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
+                    "description": "Procesos de Licitaciones Públicas y Privades, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
+                    "title": "Licitaciones",
+                    "issued": "2017-11-03T14:54:09",
+                    "format": "JSON",
+                    "modified": "2017-11-03T14:54:29",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "LICIT-PUBLI",
+            "homepage": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
+            "description": "Procesos de Licitaciones Públicas y Privades, adjudicadas y en proceso, correspondientes a los años 2016 y 2017."
         },
         {
             "publisher": {
@@ -1430,62 +1486,6 @@
             "superTheme": [
                 "TECH"
             ],
-            "keyword": [
-                "ARSAT",
-                "transparencia",
-                "Licitaciones Públicas"
-            ],
-            "title": "Licitaciones",
-            "issued": "2017-09-21T12:33:23",
-            "modified": "2017-09-21T12:33:28",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "gestion-transparente"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
-                    "description": "Procesos de Licitaciones Públicas y Privades, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
-                    "title": "Licitaciones",
-                    "issued": "2017-09-21T12:33:23",
-                    "format": "CSV",
-                    "modified": "2017-09-21T12:33:28",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
-                    "description": "Procesos de Licitaciones Públicas y Privades, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
-                    "title": "Licitaciones",
-                    "issued": "2017-09-21T12:33:23",
-                    "format": "XLS",
-                    "modified": "2017-09-21T12:33:28",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
-                    "description": "Procesos de Licitaciones Públicas y Privades, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
-                    "title": "Licitaciones",
-                    "issued": "2017-09-21T12:33:23",
-                    "format": "JSON",
-                    "modified": "2017-09-21T12:33:28",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "LICIT-PUBLI",
-            "homepage": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
-            "description": "Procesos de Licitaciones Públicas y Privades, adjudicadas y en proceso, correspondientes a los años 2016 y 2017."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
             "keyword": [],
             "title": "Salarios Gerentes",
             "issued": "2017-09-19T18:28:45",
@@ -1925,8 +1925,8 @@
                 "proveedores"
             ],
             "title": "Listado de Proveedores",
-            "issued": "2017-07-11T19:06:59",
-            "modified": "2017-07-11T19:08:24",
+            "issued": "2017-07-11T18:06:59",
+            "modified": "2017-07-11T18:08:24",
             "language": [
                 "spa"
             ],
@@ -1939,27 +1939,27 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237843/listado-de-proveedores/",
                     "description": "El listado muestra los proveedores de Arsat que facturan más de $Ars 100.000 por año, y no incluye los contratos de locación de servicios",
                     "title": "Listado de Proveedores",
-                    "issued": "2017-07-11T19:06:59",
+                    "issued": "2017-07-11T18:06:59",
                     "format": "CSV",
-                    "modified": "2017-07-11T19:08:24",
+                    "modified": "2017-07-11T18:08:24",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PROVE-79569/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237843/listado-de-proveedores/",
                     "description": "El listado muestra los proveedores de Arsat que facturan más de $Ars 100.000 por año, y no incluye los contratos de locación de servicios",
                     "title": "Listado de Proveedores",
-                    "issued": "2017-07-11T19:06:59",
+                    "issued": "2017-07-11T18:06:59",
                     "format": "XLS",
-                    "modified": "2017-07-11T19:08:24",
+                    "modified": "2017-07-11T18:08:24",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PROVE-79569/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237843/listado-de-proveedores/",
                     "description": "El listado muestra los proveedores de Arsat que facturan más de $Ars 100.000 por año, y no incluye los contratos de locación de servicios",
                     "title": "Listado de Proveedores",
-                    "issued": "2017-07-11T19:06:59",
+                    "issued": "2017-07-11T18:06:59",
                     "format": "JSON",
-                    "modified": "2017-07-11T19:08:24",
+                    "modified": "2017-07-11T18:08:24",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PROVE-79569/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -1981,8 +1981,8 @@
                 "Personal"
             ],
             "title": "Categorías y escalas salariales",
-            "issued": "2017-05-31T12:38:06",
-            "modified": "2017-05-31T12:38:12",
+            "issued": "2017-05-31T11:38:06",
+            "modified": "2017-05-31T11:38:12",
             "language": [
                 "spa"
             ],
@@ -1995,27 +1995,27 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238683/categorias-y-escalas-salariales/",
                     "description": "Listado de categorías y escala salarial bruta en ARSAT.",
                     "title": "Categorías y escalas salariales",
-                    "issued": "2017-05-31T12:38:06",
+                    "issued": "2017-05-31T11:38:06",
                     "format": "CSV",
-                    "modified": "2017-05-31T12:38:12",
+                    "modified": "2017-05-31T11:38:12",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCAL-SALAR/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238683/categorias-y-escalas-salariales/",
                     "description": "Listado de categorías y escala salarial bruta en ARSAT.",
                     "title": "Categorías y escalas salariales",
-                    "issued": "2017-05-31T12:38:06",
+                    "issued": "2017-05-31T11:38:06",
                     "format": "XLS",
-                    "modified": "2017-05-31T12:38:12",
+                    "modified": "2017-05-31T11:38:12",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCAL-SALAR/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238683/categorias-y-escalas-salariales/",
                     "description": "Listado de categorías y escala salarial bruta en ARSAT.",
                     "title": "Categorías y escalas salariales",
-                    "issued": "2017-05-31T12:38:06",
+                    "issued": "2017-05-31T11:38:06",
                     "format": "JSON",
-                    "modified": "2017-05-31T12:38:12",
+                    "modified": "2017-05-31T11:38:12",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCAL-SALAR/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -2036,8 +2036,8 @@
                 "TDA"
             ],
             "title": "Áreas de cobertura de la televisión digital abierta",
-            "issued": "2017-05-26T18:10:49",
-            "modified": "2017-05-26T19:39:48",
+            "issued": "2017-05-26T17:10:49",
+            "modified": "2017-05-26T18:39:48",
             "language": [
                 "spa"
             ],
@@ -2050,27 +2050,27 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
                     "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
                     "title": "Áreas de cobertura de la televisión digital abierta",
-                    "issued": "2017-05-26T18:10:49",
+                    "issued": "2017-05-26T17:10:49",
                     "format": "CSV",
-                    "modified": "2017-05-26T19:39:48",
+                    "modified": "2017-05-26T18:39:48",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
                     "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
                     "title": "Áreas de cobertura de la televisión digital abierta",
-                    "issued": "2017-05-26T18:10:49",
+                    "issued": "2017-05-26T17:10:49",
                     "format": "XLS",
-                    "modified": "2017-05-26T19:39:48",
+                    "modified": "2017-05-26T18:39:48",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
                     "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
                     "title": "Áreas de cobertura de la televisión digital abierta",
-                    "issued": "2017-05-26T18:10:49",
+                    "issued": "2017-05-26T17:10:49",
                     "format": "JSON",
-                    "modified": "2017-05-26T19:39:48",
+                    "modified": "2017-05-26T18:39:48",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -2091,8 +2091,8 @@
                 "PLAN FEDERAL DE INTERNET"
             ],
             "title": "Fibra óptica de la empresa Transener",
-            "issued": "2017-05-19T16:28:25",
-            "modified": "2017-05-19T16:28:29",
+            "issued": "2017-05-19T15:28:25",
+            "modified": "2017-05-19T15:28:29",
             "language": [
                 "spa"
             ],
@@ -2105,27 +2105,27 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238787/fibra-optica-de-la-empresa-transener/",
                     "description": "Red de fibra óptica de la empresa Transener con convenio marco por la utilización de la infraestructura existente sobre las redes eléctricas.",
                     "title": "Fibra óptica de la empresa Transener",
-                    "issued": "2017-05-19T16:28:25",
+                    "issued": "2017-05-19T15:28:25",
                     "format": "CSV",
-                    "modified": "2017-05-19T16:28:29",
+                    "modified": "2017-05-19T15:28:29",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238787/fibra-optica-de-la-empresa-transener/",
                     "description": "Red de fibra óptica de la empresa Transener con convenio marco por la utilización de la infraestructura existente sobre las redes eléctricas.",
                     "title": "Fibra óptica de la empresa Transener",
-                    "issued": "2017-05-19T16:28:25",
+                    "issued": "2017-05-19T15:28:25",
                     "format": "XLS",
-                    "modified": "2017-05-19T16:28:29",
+                    "modified": "2017-05-19T15:28:29",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238787/fibra-optica-de-la-empresa-transener/",
                     "description": "Red de fibra óptica de la empresa Transener con convenio marco por la utilización de la infraestructura existente sobre las redes eléctricas.",
                     "title": "Fibra óptica de la empresa Transener",
-                    "issued": "2017-05-19T16:28:25",
+                    "issued": "2017-05-19T15:28:25",
                     "format": "JSON",
-                    "modified": "2017-05-19T16:28:29",
+                    "modified": "2017-05-19T15:28:29",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -2146,8 +2146,8 @@
                 "TDA"
             ],
             "title": "Datos de las estaciones de transmisión en construcción o planificadas",
-            "issued": "2017-05-18T13:53:49",
-            "modified": "2017-05-18T13:53:54",
+            "issued": "2017-05-18T12:53:49",
+            "modified": "2017-05-18T12:53:54",
             "language": [
                 "spa"
             ],
@@ -2160,27 +2160,27 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
                     "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
                     "title": "Datos de las estaciones de transmisión en construcción o planificadas",
-                    "issued": "2017-05-18T13:53:49",
+                    "issued": "2017-05-18T12:53:49",
                     "format": "CSV",
-                    "modified": "2017-05-18T13:53:54",
+                    "modified": "2017-05-18T12:53:54",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
                     "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
                     "title": "Datos de las estaciones de transmisión en construcción o planificadas",
-                    "issued": "2017-05-18T13:53:49",
+                    "issued": "2017-05-18T12:53:49",
                     "format": "XLS",
-                    "modified": "2017-05-18T13:53:54",
+                    "modified": "2017-05-18T12:53:54",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
                     "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
                     "title": "Datos de las estaciones de transmisión en construcción o planificadas",
-                    "issued": "2017-05-18T13:53:49",
+                    "issued": "2017-05-18T12:53:49",
                     "format": "JSON",
-                    "modified": "2017-05-18T13:53:54",
+                    "modified": "2017-05-18T12:53:54",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -2201,8 +2201,8 @@
                 "TDA"
             ],
             "title": "Datos de las estaciones transmisoras",
-            "issued": "2017-05-18T13:52:40",
-            "modified": "2017-05-18T13:52:46",
+            "issued": "2017-05-18T12:52:40",
+            "modified": "2017-05-18T12:52:46",
             "language": [
                 "spa"
             ],
@@ -2215,27 +2215,27 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
                     "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
                     "title": "Datos de las estaciones transmisoras",
-                    "issued": "2017-05-18T13:52:40",
+                    "issued": "2017-05-18T12:52:40",
                     "format": "CSV",
-                    "modified": "2017-05-18T13:52:46",
+                    "modified": "2017-05-18T12:52:46",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
                     "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
                     "title": "Datos de las estaciones transmisoras",
-                    "issued": "2017-05-18T13:52:40",
+                    "issued": "2017-05-18T12:52:40",
                     "format": "XLS",
-                    "modified": "2017-05-18T13:52:46",
+                    "modified": "2017-05-18T12:52:46",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
                     "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
                     "title": "Datos de las estaciones transmisoras",
-                    "issued": "2017-05-18T13:52:40",
+                    "issued": "2017-05-18T12:52:40",
                     "format": "JSON",
-                    "modified": "2017-05-18T13:52:46",
+                    "modified": "2017-05-18T12:52:46",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -2257,8 +2257,8 @@
                 "satelital"
             ],
             "title": "Datos del área de cobertura de la Banda KU del satélite ARSAT-1",
-            "issued": "2017-05-17T18:55:01",
-            "modified": "2017-05-17T18:55:08",
+            "issued": "2017-05-17T17:55:01",
+            "modified": "2017-05-17T17:55:08",
             "language": [
                 "spa"
             ],
@@ -2271,27 +2271,27 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236042/datos-del-area-de-cobertura-de-la-banda-ku-del-satelite-arsat-1/",
                     "description": "Esta tabla muestra las coordenadas satelitales",
                     "title": "Datos del área de cobertura de la Banda KU del satélite ARSAT-1",
-                    "issued": "2017-05-17T18:55:01",
+                    "issued": "2017-05-17T17:55:01",
                     "format": "CSV",
-                    "modified": "2017-05-17T18:55:08",
+                    "modified": "2017-05-17T17:55:08",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-1/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236042/datos-del-area-de-cobertura-de-la-banda-ku-del-satelite-arsat-1/",
                     "description": "Esta tabla muestra las coordenadas satelitales",
                     "title": "Datos del área de cobertura de la Banda KU del satélite ARSAT-1",
-                    "issued": "2017-05-17T18:55:01",
+                    "issued": "2017-05-17T17:55:01",
                     "format": "XLS",
-                    "modified": "2017-05-17T18:55:08",
+                    "modified": "2017-05-17T17:55:08",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-1/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236042/datos-del-area-de-cobertura-de-la-banda-ku-del-satelite-arsat-1/",
                     "description": "Esta tabla muestra las coordenadas satelitales",
                     "title": "Datos del área de cobertura de la Banda KU del satélite ARSAT-1",
-                    "issued": "2017-05-17T18:55:01",
+                    "issued": "2017-05-17T17:55:01",
                     "format": "JSON",
-                    "modified": "2017-05-17T18:55:08",
+                    "modified": "2017-05-17T17:55:08",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-1/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
