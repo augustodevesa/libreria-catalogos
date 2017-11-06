@@ -161,6 +161,61 @@
             ],
             "keyword": [
                 "ARSAT",
+                "REFEFO"
+            ],
+            "title": "Tráfico de Internet entrante y saliente",
+            "issued": "2017-11-06T13:25:37",
+            "modified": "2017-11-06T13:26:11",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
+                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
+                    "title": "Tráfico de Internet entrante y saliente",
+                    "issued": "2017-11-06T13:25:37",
+                    "format": "CSV",
+                    "modified": "2017-11-06T13:26:11",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
+                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
+                    "title": "Tráfico de Internet entrante y saliente",
+                    "issued": "2017-11-06T13:25:37",
+                    "format": "XLS",
+                    "modified": "2017-11-06T13:26:11",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
+                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
+                    "title": "Tráfico de Internet entrante y saliente",
+                    "issued": "2017-11-06T13:25:37",
+                    "format": "JSON",
+                    "modified": "2017-11-06T13:26:11",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "TRAFI-DE-INTER",
+            "homepage": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
+            "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "ARSAT",
                 "transparencia",
                 "Licitaciones Públicas"
             ],
@@ -818,61 +873,6 @@
             "identifier": "NODOS-EN-SERVI-58179",
             "homepage": "http://datos.arsat.com.ar/dataviews/238001/puntos-de-conexion-al-plan-federal-de-internet/",
             "description": "La tabla muestra la ubicación precisa de los puntos de acceso al Plan Federal de Internet que se encuentran en servicio junto a otros datos como la población de la localidad y la fecha de conexión."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "ARSAT",
-                "REFEFO"
-            ],
-            "title": "Tráfico de Internet entrante y saliente",
-            "issued": "2017-10-31T18:48:40",
-            "modified": "2017-10-31T18:49:29",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
-                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
-                    "title": "Tráfico de Internet entrante y saliente",
-                    "issued": "2017-10-31T18:48:40",
-                    "format": "CSV",
-                    "modified": "2017-10-31T18:49:29",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
-                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
-                    "title": "Tráfico de Internet entrante y saliente",
-                    "issued": "2017-10-31T18:48:40",
-                    "format": "XLS",
-                    "modified": "2017-10-31T18:49:29",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
-                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
-                    "title": "Tráfico de Internet entrante y saliente",
-                    "issued": "2017-10-31T18:48:40",
-                    "format": "JSON",
-                    "modified": "2017-10-31T18:49:29",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "TRAFI-DE-INTER",
-            "homepage": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
-            "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s."
         },
         {
             "publisher": {
