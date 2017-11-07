@@ -9,6 +9,55 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "webmaster@afip.gob.ar",
+                "name": "AFIP - Administración Federal de Ingresos Públicos"
+            },
+            "identifier": "ef341082-633e-426d-a334-d48da57c1e47",
+            "description": "Listado de las posiciones del Nomenclador Común del Mercosur (NCM) con los aranceles vigentes.",
+            "license": "Creative Commons Attribution",
+            "title": "Aranceles de comercio exterior vigentes",
+            "issued": "2017-11-07T15:51:21.248146",
+            "modified": "2017-11-07T17:05:59.930545",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "Registros, censos y encuestas"
+            ],
+            "keyword": [
+                "AFIP",
+                "Aduana",
+                "Mercosur",
+                "arancel",
+                "comercio",
+                "comun",
+                "exterior",
+                "integrado",
+                "nomenclador",
+                "posiciones",
+                "vigentes"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "AGRI",
+                "ECON",
+                "GOVE",
+                "INTR"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://www.afip.gov.ar/aduana/arancelIntegrado/default.as",
+                    "description": "http://www.afip.gov.ar/aduana/arancelIntegrado/default.asp",
+                    "license": "cc-by",
+                    "title": "Aranceles de comercio exterior vigentes",
+                    "issued": "2017-11-07T15:52:02.534883",
+                    "downloadURL": "http://www.afip.gov.ar/aduana/arancelIntegrado/default.asp"
+                }
+            ],
+            "landingPage": "http://www.afip.gov.ar"
+        },
+        {
+            "publisher": {
                 "mbox": "azucar@magyp.gob.ar",
                 "name": "Subsecretaría de Alimentos y Bebidas "
             },
