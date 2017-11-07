@@ -161,6 +161,62 @@
             ],
             "keyword": [
                 "ARSAT",
+                "transparencia",
+                "Licitaciones Públicas"
+            ],
+            "title": "Licitaciones",
+            "issued": "2017-11-07T12:20:25",
+            "modified": "2017-11-07T12:20:34",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "gestion-transparente"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
+                    "description": "Procesos de Licitaciones Públicas y Privadas, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
+                    "title": "Licitaciones",
+                    "issued": "2017-11-07T12:20:25",
+                    "format": "CSV",
+                    "modified": "2017-11-07T12:20:34",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
+                    "description": "Procesos de Licitaciones Públicas y Privadas, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
+                    "title": "Licitaciones",
+                    "issued": "2017-11-07T12:20:25",
+                    "format": "XLS",
+                    "modified": "2017-11-07T12:20:34",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
+                    "description": "Procesos de Licitaciones Públicas y Privadas, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
+                    "title": "Licitaciones",
+                    "issued": "2017-11-07T12:20:25",
+                    "format": "JSON",
+                    "modified": "2017-11-07T12:20:34",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "LICIT-PUBLI",
+            "homepage": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
+            "description": "Procesos de Licitaciones Públicas y Privadas, adjudicadas y en proceso, correspondientes a los años 2016 y 2017."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "ARSAT",
                 "REFEFO"
             ],
             "title": "Tráfico de Internet entrante y saliente",
@@ -205,62 +261,6 @@
             "identifier": "TRAFI-DE-INTER",
             "homepage": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
             "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "ARSAT",
-                "transparencia",
-                "Licitaciones Públicas"
-            ],
-            "title": "Licitaciones",
-            "issued": "2017-11-03T14:54:09",
-            "modified": "2017-11-03T14:54:29",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "gestion-transparente"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
-                    "description": "Procesos de Licitaciones Públicas y Privades, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
-                    "title": "Licitaciones",
-                    "issued": "2017-11-03T14:54:09",
-                    "format": "CSV",
-                    "modified": "2017-11-03T14:54:29",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
-                    "description": "Procesos de Licitaciones Públicas y Privades, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
-                    "title": "Licitaciones",
-                    "issued": "2017-11-03T14:54:09",
-                    "format": "XLS",
-                    "modified": "2017-11-03T14:54:29",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
-                    "description": "Procesos de Licitaciones Públicas y Privades, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
-                    "title": "Licitaciones",
-                    "issued": "2017-11-03T14:54:09",
-                    "format": "JSON",
-                    "modified": "2017-11-03T14:54:29",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "LICIT-PUBLI",
-            "homepage": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
-            "description": "Procesos de Licitaciones Públicas y Privades, adjudicadas y en proceso, correspondientes a los años 2016 y 2017."
         },
         {
             "publisher": {
