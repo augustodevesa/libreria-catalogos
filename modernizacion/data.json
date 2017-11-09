@@ -205,7 +205,7 @@
                     "dataset_identifier": "ad5b0e15-a9ed-40d5-9827-33a0ece12433",
                     "issued": "2017-06-07T16:56:37.315359",
                     "title": "Estructura Orgánica y Autoridades del PEN Vigentes",
-                    "modified": "2017-11-08T14:42:32.842564-03:00",
+                    "modified": "2017-11-09T07:00:02.419944-03:00",
                     "downloadURL": "http://mapadelestado.modernizacion.gob.ar/dataset/gobiernoabierto/estructura_autoridades_apn.csv",
                     "draft": false,
                     "identifier": "ad5b0e15-a9ed-40d5-9827-33a0ece12433.1"
@@ -265,7 +265,7 @@
                     "dataset_identifier": "7c1a3943-eb36-4871-88cb-e5c053cb4215",
                     "issued": "2017-05-31T13:26:47.107817",
                     "title": "Ubicación de los puntos digitales",
-                    "modified": "2017-11-08T14:42:32.842564-03:00",
+                    "modified": "2017-11-09T07:00:02.419944-03:00",
                     "downloadURL": "https://servicios.puntodigital.paisdigital.modernizacion.gob.ar/ws/ws-eventos.php?method=getCsv",
                     "draft": false,
                     "identifier": "7c1a3943-eb36-4871-88cb-e5c053cb4215.1"
@@ -553,7 +553,7 @@
                         {
                             "type": "string",
                             "description": "Identificador del catálogo al que pertenece la serie. Un catálogo es la unidad de documentación de activos de datos de un nodo.",
-                            "title": "catalog_id"
+                            "title": "catalogo_id"
                         },
                         {
                             "type": "string",
@@ -563,7 +563,7 @@
                         {
                             "type": "string",
                             "description": "Identificador de la distribución a la que pertenece la serie. Es único dentro del catálogo al que pertenece la distribución.",
-                            "title": "distribution_id"
+                            "title": "distribucion_id"
                         },
                         {
                             "type": "string",
@@ -603,12 +603,12 @@
                         {
                             "type": "string",
                             "description": "Título de la distribución a la que pertenece la serie.",
-                            "title": "distribution_titulo"
+                            "title": "distribucion_titulo"
                         },
                         {
                             "type": "string",
                             "description": "Descripción completa de la información que contiene la distribución a la que pertenece la serie.",
-                            "title": "distribution_descripcion"
+                            "title": "distribucion_descripcion"
                         },
                         {
                             "type": "string",
@@ -648,7 +648,7 @@
                         {
                             "type": "string",
                             "description": "Identificador del catálogo al que pertenece la serie. Un catálogo es la unidad de documentación de activos de datos de un nodo.",
-                            "title": "catalog_id"
+                            "title": "catalogo_id"
                         },
                         {
                             "type": "string",
@@ -658,7 +658,7 @@
                         {
                             "type": "string",
                             "description": "Identificador de la distribución a la que pertenece la serie. Es único dentro del catálogo al que pertenece la distribución.",
-                            "title": "distribution_id"
+                            "title": "distribucion_id"
                         },
                         {
                             "type": "string",
@@ -688,12 +688,12 @@
                         {
                             "type": "string",
                             "description": "Título de la distribución a la que pertenece la serie.",
-                            "title": "distribution_titulo"
+                            "title": "distribucion_titulo"
                         },
                         {
                             "type": "string",
                             "description": "Descripción completa de la información que contiene la distribución a la que pertenece la serie.",
-                            "title": "distribution_descripcion"
+                            "title": "distribucion_descripcion"
                         },
                         {
                             "type": "string",
@@ -773,7 +773,7 @@
                         {
                             "type": "string",
                             "description": "Identificador del catálogo al que pertenece la serie. Un catálogo es la unidad de documentación de activos de datos de un nodo.",
-                            "title": "catalog_id"
+                            "title": "catalogo_id"
                         },
                         {
                             "type": "string",
@@ -783,7 +783,7 @@
                         {
                             "type": "string",
                             "description": "Identificador de la distribución a la que pertenece la serie. Es único dentro del catálogo al que pertenece la distribución.",
-                            "title": "distribution_id"
+                            "title": "distribucion_id"
                         },
                         {
                             "type": "string",
@@ -858,7 +858,7 @@
                         {
                             "type": "string",
                             "description": "Identificador del catálogo al que pertenece la serie. Un catálogo es la unidad de documentación de activos de datos de un nodo.",
-                            "title": "catalog_id"
+                            "title": "catalogo_id"
                         },
                         {
                             "type": "string",
@@ -868,7 +868,7 @@
                         {
                             "type": "string",
                             "description": "Identificador de la distribución a la que pertenece la serie. Es único dentro del catálogo al que pertenece la distribución.",
-                            "title": "distribution_id"
+                            "title": "distribucion_id"
                         },
                         {
                             "type": "string",
@@ -908,12 +908,12 @@
                         {
                             "type": "string",
                             "description": "Título de la distribución a la que pertenece la serie.",
-                            "title": "distribution_titulo"
+                            "title": "distribucion_titulo"
                         },
                         {
                             "type": "string",
                             "description": "Descripción completa de la información que contiene la distribución a la que pertenece la serie.",
-                            "title": "distribution_descripcion"
+                            "title": "distribucion_descripcion"
                         },
                         {
                             "type": "string",
@@ -953,7 +953,7 @@
                         {
                             "type": "string",
                             "description": "Identificador del catálogo al que pertenece la serie. Un catálogo es la unidad de documentación de activos de datos de un nodo.",
-                            "title": "catalog_id"
+                            "title": "catalogo_id"
                         },
                         {
                             "type": "string",
@@ -963,7 +963,7 @@
                         {
                             "type": "string",
                             "description": "Identificador de la distribución a la que pertenece la serie. Es único dentro del catálogo al que pertenece la distribución.",
-                            "title": "distribution_id"
+                            "title": "distribucion_id"
                         },
                         {
                             "type": "string",
@@ -993,12 +993,12 @@
                         {
                             "type": "string",
                             "description": "Título de la distribución a la que pertenece la serie.",
-                            "title": "distribution_titulo"
+                            "title": "distribucion_titulo"
                         },
                         {
                             "type": "string",
                             "description": "Descripción completa de la información que contiene la distribución a la que pertenece la serie.",
-                            "title": "distribution_descripcion"
+                            "title": "distribucion_descripcion"
                         },
                         {
                             "type": "string",
@@ -1078,7 +1078,7 @@
                         {
                             "type": "string",
                             "description": "Identificador del catálogo al que pertenece la serie. Un catálogo es la unidad de documentación de activos de datos de un nodo.",
-                            "title": "catalog_id"
+                            "title": "catalogo_id"
                         },
                         {
                             "type": "string",
@@ -1088,7 +1088,7 @@
                         {
                             "type": "string",
                             "description": "Identificador de la distribución a la que pertenece la serie. Es único dentro del catálogo al que pertenece la distribución.",
-                            "title": "distribution_id"
+                            "title": "distribucion_id"
                         },
                         {
                             "type": "string",
@@ -1163,7 +1163,7 @@
                         {
                             "type": "string",
                             "description": "Identificador del catálogo al que pertenece la serie. Un catálogo es la unidad de documentación de activos de datos de un nodo.",
-                            "title": "catalog_id"
+                            "title": "catalogo_id"
                         },
                         {
                             "type": "string",
@@ -1173,7 +1173,7 @@
                         {
                             "type": "string",
                             "description": "Identificador de la distribución a la que pertenece la serie. Es único dentro del catálogo al que pertenece la distribución.",
-                            "title": "distribution_id"
+                            "title": "distribucion_id"
                         },
                         {
                             "type": "string",
@@ -1213,7 +1213,7 @@
                         {
                             "type": "string",
                             "description": "Título de la distribución a la que pertenece la serie.",
-                            "title": "distribution_titulo"
+                            "title": "distribucion_titulo"
                         },
                         {
                             "type": "string",
@@ -1248,7 +1248,7 @@
                         {
                             "type": "string",
                             "description": "Identificador del catálogo al que pertenece la serie. Un catálogo es la unidad de documentación de activos de datos de un nodo.",
-                            "title": "catalog_id"
+                            "title": "catalogo_id"
                         },
                         {
                             "type": "string",
@@ -1258,7 +1258,7 @@
                         {
                             "type": "string",
                             "description": "Identificador de la distribución a la que pertenece la serie. Es único dentro del catálogo al que pertenece la distribución.",
-                            "title": "distribution_id"
+                            "title": "distribucion_id"
                         },
                         {
                             "type": "string",
@@ -1288,12 +1288,12 @@
                         {
                             "type": "string",
                             "description": "Título de la distribución a la que pertenece la serie.",
-                            "title": "distribution_titulo"
+                            "title": "distribucion_titulo"
                         },
                         {
                             "type": "string",
                             "description": "Descripción completa de la información que contiene la distribución a la que pertenece la serie.",
-                            "title": "distribution_descripcion"
+                            "title": "distribucion_descripcion"
                         },
                         {
                             "type": "string",
@@ -1373,7 +1373,7 @@
                         {
                             "type": "string",
                             "description": "Identificador del catálogo al que pertenece la serie. Un catálogo es la unidad de documentación de activos de datos de un nodo.",
-                            "title": "catalog_id"
+                            "title": "catalogo_id"
                         },
                         {
                             "type": "string",
@@ -1383,7 +1383,7 @@
                         {
                             "type": "string",
                             "description": "Identificador de la distribución a la que pertenece la serie. Es único dentro del catálogo al que pertenece la distribución.",
-                            "title": "distribution_id"
+                            "title": "distribucion_id"
                         },
                         {
                             "type": "string",
@@ -1458,7 +1458,7 @@
                         {
                             "type": "string",
                             "description": "Identificador del catálogo al que pertenece la serie. Un catálogo es la unidad de documentación de activos de datos de un nodo.",
-                            "title": "catalog_id"
+                            "title": "catalogo_id"
                         },
                         {
                             "type": "string",
@@ -1468,7 +1468,7 @@
                         {
                             "type": "string",
                             "description": "Identificador de la distribución a la que pertenece la serie. Es único dentro del catálogo al que pertenece la distribución.",
-                            "title": "distribution_id"
+                            "title": "distribucion_id"
                         },
                         {
                             "type": "string",
@@ -1508,12 +1508,12 @@
                         {
                             "type": "string",
                             "description": "Título de la distribución a la que pertenece la serie.",
-                            "title": "distribution_titulo"
+                            "title": "distribucion_titulo"
                         },
                         {
                             "type": "string",
                             "description": "Descripción completa de la información que contiene la distribución a la que pertenece la serie.",
-                            "title": "distribution_descripcion"
+                            "title": "distribucion_descripcion"
                         },
                         {
                             "type": "string",
@@ -1553,7 +1553,7 @@
                         {
                             "type": "string",
                             "description": "Identificador del catálogo al que pertenece la serie. Un catálogo es la unidad de documentación de activos de datos de un nodo.",
-                            "title": "catalog_id"
+                            "title": "catalogo_id"
                         },
                         {
                             "type": "string",
@@ -1563,7 +1563,7 @@
                         {
                             "type": "string",
                             "description": "Identificador de la distribución a la que pertenece la serie. Es único dentro del catálogo al que pertenece la distribución.",
-                            "title": "distribution_id"
+                            "title": "distribucion_id"
                         },
                         {
                             "type": "string",
@@ -1593,12 +1593,12 @@
                         {
                             "type": "string",
                             "description": "Título de la distribución a la que pertenece la serie.",
-                            "title": "distribution_titulo"
+                            "title": "distribucion_titulo"
                         },
                         {
                             "type": "string",
                             "description": "Descripción completa de la información que contiene la distribución a la que pertenece la serie.",
-                            "title": "distribution_descripcion"
+                            "title": "distribucion_descripcion"
                         },
                         {
                             "type": "string",
@@ -1678,7 +1678,7 @@
                         {
                             "type": "string",
                             "description": "Identificador del catálogo al que pertenece la serie. Un catálogo es la unidad de documentación de activos de datos de un nodo.",
-                            "title": "catalog_id"
+                            "title": "catalogo_id"
                         },
                         {
                             "type": "string",
@@ -1688,7 +1688,7 @@
                         {
                             "type": "string",
                             "description": "Identificador de la distribución a la que pertenece la serie. Es único dentro del catálogo al que pertenece la distribución.",
-                            "title": "distribution_id"
+                            "title": "distribucion_id"
                         },
                         {
                             "type": "string",
