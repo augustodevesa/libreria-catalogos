@@ -9,6 +9,212 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "datospublicos@magyp.gob.ar",
+                "name": "Subsecretaría de Información y Estadística Pública"
+            },
+            "identifier": "6d90f733-0365-47a8-a138-a0cb0cd709fa",
+            "description": "Área caracterizada por la combinación de la probabilidad de que se produzca un evento y sus consecuencias negativas sobre la actividad agropecuaria. Principalmente son los riesgos derivados del impacto del clima. En este caso, se trata de áreas de riesgo por exceso hídrico.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Reservas de agua en el suelo por cultivo",
+            "issued": "2017-09-05T13:15:28.579853",
+            "modified": "2017-11-14T14:33:25.677550",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "Análisis Territorial",
+                "Producción Agroindustrial"
+            ],
+            "keyword": [
+                "ORA",
+                "agua",
+                "algodón",
+                "centroide",
+                "codset",
+                "fecha",
+                "girasol",
+                "maíz",
+                "porcentaje",
+                "pradera",
+                "primera",
+                "riesgo agropecuario",
+                "sag",
+                "segunda",
+                "semana",
+                "siembra tardía",
+                "siembra temprana",
+                "soja",
+                "superficie",
+                "trigo"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "AGRI"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/6d90f733-0365-47a8-a138-a0cb0cd709fa/archivo/6b0b1a80-b6d2-46e3-bab4-4f3848f5a367",
+                    "description": "Reserva de agua en suelo por cultivo, en escala 1:50000",
+                    "license": "odc-odbl",
+                    "title": "Reserva de agua en suelo por cultivo 1:50000",
+                    "issued": "2017-09-05T13:17:49.219602",
+                    "format": "CSV",
+                    "modified": "2017-09-05T13:17:49.163444",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/6d90f733-0365-47a8-a138-a0cb0cd709fa/resource/6b0b1a80-b6d2-46e3-bab4-4f3848f5a367/download/reserva50000.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/6d90f733-0365-47a8-a138-a0cb0cd709fa/archivo/b262beb4-db27-472c-9318-07f2df5a25ba",
+                    "description": "Reserva de agua en suelo por cultivo, en escala 1:500000",
+                    "license": "odc-odbl",
+                    "title": "Reserva de agua en suelo por cultivo 1:500000",
+                    "issued": "2017-09-05T13:19:08.916407",
+                    "format": "CSV",
+                    "modified": "2017-09-05T13:19:08.838175",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/6d90f733-0365-47a8-a138-a0cb0cd709fa/resource/b262beb4-db27-472c-9318-07f2df5a25ba/download/reserva500000.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/6d90f733-0365-47a8-a138-a0cb0cd709fa/archivo/12598d19-b5ad-412d-9ac9-8e4b04e0891e",
+                    "description": "Detalle de las columnas que forman ambos recursos de reserva de agua en suelo por cultivo.",
+                    "license": "odc-odbl",
+                    "title": "Referencias",
+                    "issued": "2017-09-05T13:24:56.605179",
+                    "format": "CSV",
+                    "modified": "2017-09-05T13:24:56.547716",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/6d90f733-0365-47a8-a138-a0cb0cd709fa/resource/12598d19-b5ad-412d-9ac9-8e4b04e0891e/download/reservareferencias.csv"
+                }
+            ],
+            "landingPage": "https://datos.agroindustria.gob.ar/dataset/reservas-de-agua-en-el-suelo-por-cultivo"
+        },
+        {
+            "publisher": {
+                "mbox": "datospublicos@magyp.gob.ar",
+                "name": "Subsecretaría de Información y Estadística Pública"
+            },
+            "identifier": "1926ccfe-4b87-4064-ba3e-1ee8d3c9d846",
+            "description": "Muestra la probabilidad de que se produzca un déficit hídrico con consecuencias negativas sobre la actividad agropecuaria. Principalmente son los riesgos derivados del impacto del clima.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Probabilidad de déficit hídrico",
+            "issued": "2017-09-05T12:49:05.413510",
+            "modified": "2017-11-14T14:28:13.847253",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "Análisis Territorial",
+                "Producción Agroindustrial"
+            ],
+            "keyword": [
+                "ORA",
+                "algodón",
+                "centroide",
+                "codset",
+                "cultivares",
+                "déficit hídrico",
+                "girasol",
+                "maíz",
+                "primera",
+                "riesgo agropecuario",
+                "segunda",
+                "siembra",
+                "siembra tardía",
+                "siembra temprana",
+                "soja",
+                "trigo"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "AGRI"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/1926ccfe-4b87-4064-ba3e-1ee8d3c9d846/archivo/c6af8bcb-94f5-4158-92b1-5347aff54cdd",
+                    "description": "Muestra la probabilidad de que se produzca un déficit hídrico con consecuencias negativas sobre la actividad agropecuaria. Principalmente son los riesgos derivados del impacto del clima.",
+                    "license": "odc-odbl",
+                    "title": "Déficit hídrico",
+                    "issued": "2017-09-05T12:50:23.899920",
+                    "format": "CSV",
+                    "modified": "2017-09-05T12:50:23.825567",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/1926ccfe-4b87-4064-ba3e-1ee8d3c9d846/resource/c6af8bcb-94f5-4158-92b1-5347aff54cdd/download/deficithidrico.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/1926ccfe-4b87-4064-ba3e-1ee8d3c9d846/archivo/1f560c78-674b-42a7-8893-8eeac4e63339",
+                    "description": "Detalle de las columnas que componen el recurso.",
+                    "license": "odc-odbl",
+                    "title": "Referencias del déficit hídrico",
+                    "issued": "2017-09-05T12:52:39.681144",
+                    "format": "CSV",
+                    "modified": "2017-09-05T12:52:39.599632",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/1926ccfe-4b87-4064-ba3e-1ee8d3c9d846/resource/1f560c78-674b-42a7-8893-8eeac4e63339/download/deficithidricoreferencias.csv"
+                }
+            ],
+            "landingPage": "https://datos.agroindustria.gob.ar/dataset/probabilidad-deficit-hidrico"
+        },
+        {
+            "publisher": {
+                "mbox": "datospublicos@magyp.gob.ar",
+                "name": "Subsecretaría de Información y Estadística Pública"
+            },
+            "identifier": "e6929bfa-8cfd-4b40-96b8-7e3881ee82f7",
+            "description": "Muestra la probabilidad de que se produzca un exceso hídrico con consecuencias negativas sobre la actividad agropecuaria. Principalmente son los riesgos derivados del impacto del clima.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Probabilidad de exceso hídrico",
+            "issued": "2017-09-05T12:58:23.450692",
+            "modified": "2017-11-14T14:27:51.466414",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "Análisis Territorial",
+                "Producción Agroindustrial"
+            ],
+            "keyword": [
+                "ORA",
+                "algodón",
+                "centroide",
+                "codset",
+                "cultivares",
+                "exceso hídrico",
+                "girasol",
+                "maíz",
+                "primera",
+                "riesgo agropecuario",
+                "segunda",
+                "siembra",
+                "siembra tardía",
+                "siembra temprana",
+                "soja",
+                "trigo"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "AGRI"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/e6929bfa-8cfd-4b40-96b8-7e3881ee82f7/archivo/22b876ee-7244-4b7a-8dfc-ba9d346318c7",
+                    "description": "Muestra la probabilidad de que se produzca un exceso hídrico con consecuencias negativas sobre la actividad agropecuaria. Principalmente son los riesgos derivados del impacto del clima.",
+                    "license": "odc-odbl",
+                    "title": "Exceso hídrico",
+                    "issued": "2017-09-05T12:59:03.748925",
+                    "format": "CSV",
+                    "modified": "2017-09-05T12:59:03.656364",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/e6929bfa-8cfd-4b40-96b8-7e3881ee82f7/resource/22b876ee-7244-4b7a-8dfc-ba9d346318c7/download/excesohidrico.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/e6929bfa-8cfd-4b40-96b8-7e3881ee82f7/archivo/2ff70b70-f987-409f-9040-263011055e87",
+                    "description": "Detalle de las columnas que componen el recurso.",
+                    "license": "odc-odbl",
+                    "title": "Referencias de exceso hídrico",
+                    "issued": "2017-09-05T13:01:00.900447",
+                    "format": "CSV",
+                    "modified": "2017-09-05T13:01:00.815300",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/e6929bfa-8cfd-4b40-96b8-7e3881ee82f7/resource/2ff70b70-f987-409f-9040-263011055e87/download/excesohidricoreferencias.csv"
+                }
+            ],
+            "landingPage": "https://datos.agroindustria.gob.ar/dataset/probabilidad-exceso-hidrico"
+        },
+        {
+            "publisher": {
                 "mbox": "azucar@magyp.gob.ar",
                 "name": "Subsecretaría de Alimentos y Bebidas "
             },
@@ -18,7 +224,7 @@
             "title": "Precio diario internacional de azúcar",
             "issued": "2017-08-02T15:05:21.745929",
             "temporal": "2011-01-04T03:00:00.000Z/2017-03-03T03:00:00.000Z",
-            "modified": "2017-11-13T13:19:31.715044",
+            "modified": "2017-11-14T14:08:47.140726",
             "language": [
                 "spa"
             ],
@@ -47,7 +253,7 @@
                     "title": "Precio promedio diario en el mercado de Londres - Contrato N°5",
                     "issued": "2017-08-02T15:20:52.975191",
                     "format": "CSV",
-                    "modified": "2017-11-13T13:18:27.177668",
+                    "modified": "2017-11-14T14:07:11.806218",
                     "downloadURL": "https://datos.agroindustria.gob.ar/dataset/85337517-8ec6-415b-937a-40b91f88fce8/resource/a650e0e6-7e68-4a09-82ce-bc3bb8a405b3/download/preciobolsadelondres.csv"
                 },
                 {
@@ -57,7 +263,7 @@
                     "title": "Precio diario en el mercado de New York - Contrato N° 11",
                     "issued": "2017-08-02T15:22:17.372773",
                     "format": "CSV",
-                    "modified": "2017-11-13T13:19:31.697903",
+                    "modified": "2017-11-14T14:08:47.122588",
                     "downloadURL": "https://datos.agroindustria.gob.ar/dataset/85337517-8ec6-415b-937a-40b91f88fce8/resource/cf9ae133-0923-40c2-b903-70a5bc17268b/download/preciobolsadenewyork.csv"
                 }
             ],
@@ -3538,139 +3744,6 @@
         },
         {
             "publisher": {
-                "mbox": "datospublicos@magyp.gob.ar",
-                "name": "Subsecretaría de Información y Estadística Pública"
-            },
-            "identifier": "e6929bfa-8cfd-4b40-96b8-7e3881ee82f7",
-            "description": "Muestra la probabilidad de que se produzca un exceso hídrico con consecuencias negativas sobre la actividad agropecuaria. Principalmente son los riesgos derivados del impacto del clima.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Probabilidad de exceso hídrico",
-            "issued": "2017-09-05T12:58:23.450692",
-            "modified": "2017-09-29T19:07:05.593965",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "Análisis Territorial",
-                "Producción Agroindustrial"
-            ],
-            "keyword": [
-                "ac",
-                "al",
-                "centroide",
-                "codset",
-                "exceso",
-                "gc",
-                "gl",
-                "hidrico",
-                "mc",
-                "ml",
-                "s1c",
-                "s1l",
-                "s2c",
-                "s2l",
-                "sag",
-                "siembra",
-                "tc",
-                "tl",
-                "total"
-            ],
-            "accrualPeriodicity": "eventual",
-            "superTheme": [
-                "AGRI"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.agroindustria.gob.ar/dataset/e6929bfa-8cfd-4b40-96b8-7e3881ee82f7/archivo/22b876ee-7244-4b7a-8dfc-ba9d346318c7",
-                    "description": "Muestra la probabilidad de que se produzca un exceso hídrico con consecuencias negativas sobre la actividad agropecuaria. Principalmente son los riesgos derivados del impacto del clima.",
-                    "license": "odc-odbl",
-                    "title": "Exceso hídrico",
-                    "issued": "2017-09-05T12:59:03.748925",
-                    "format": "CSV",
-                    "modified": "2017-09-05T12:59:03.656364",
-                    "downloadURL": "http://datos.agroindustria.gob.ar/dataset/e6929bfa-8cfd-4b40-96b8-7e3881ee82f7/resource/22b876ee-7244-4b7a-8dfc-ba9d346318c7/download/excesohidrico.csv"
-                },
-                {
-                    "accessURL": "http://datos.agroindustria.gob.ar/dataset/e6929bfa-8cfd-4b40-96b8-7e3881ee82f7/archivo/2ff70b70-f987-409f-9040-263011055e87",
-                    "description": "Detalle de las columnas que componen el recurso.",
-                    "license": "odc-odbl",
-                    "title": "Referencias de exceso hídrico",
-                    "issued": "2017-09-05T13:01:00.900447",
-                    "format": "CSV",
-                    "modified": "2017-09-05T13:01:00.815300",
-                    "downloadURL": "http://datos.agroindustria.gob.ar/dataset/e6929bfa-8cfd-4b40-96b8-7e3881ee82f7/resource/2ff70b70-f987-409f-9040-263011055e87/download/excesohidricoreferencias.csv"
-                }
-            ],
-            "landingPage": "http://datos.agroindustria.gob.ar/dataset/probabilidad-exceso-hidrico"
-        },
-        {
-            "publisher": {
-                "mbox": "datospublicos@magyp.gob.ar",
-                "name": "Subsecretaría de Información y Estadística Pública"
-            },
-            "identifier": "1926ccfe-4b87-4064-ba3e-1ee8d3c9d846",
-            "description": "Muestra la probabilidad de que se produzca un déficit hídrico con consecuencias negativas sobre la actividad agropecuaria. Principalmente son los riesgos derivados del impacto del clima.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Probabilidad de déficit hídrico",
-            "issued": "2017-09-05T12:49:05.413510",
-            "modified": "2017-09-29T18:56:01.461593",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "Análisis Territorial",
-                "Producción Agroindustrial"
-            ],
-            "keyword": [
-                "ac",
-                "al",
-                "centroide",
-                "codset",
-                "deficit",
-                "gc",
-                "gl",
-                "hidrico",
-                "mc",
-                "ml",
-                "s1c",
-                "s1l",
-                "s2c",
-                "s2l",
-                "siembra",
-                "tc",
-                "tl",
-                "total"
-            ],
-            "accrualPeriodicity": "eventual",
-            "superTheme": [
-                "AGRI"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.agroindustria.gob.ar/dataset/1926ccfe-4b87-4064-ba3e-1ee8d3c9d846/archivo/c6af8bcb-94f5-4158-92b1-5347aff54cdd",
-                    "description": "Muestra la probabilidad de que se produzca un déficit hídrico con consecuencias negativas sobre la actividad agropecuaria. Principalmente son los riesgos derivados del impacto del clima.",
-                    "license": "odc-odbl",
-                    "title": "Déficit hídrico",
-                    "issued": "2017-09-05T12:50:23.899920",
-                    "format": "CSV",
-                    "modified": "2017-09-05T12:50:23.825567",
-                    "downloadURL": "http://datos.agroindustria.gob.ar/dataset/1926ccfe-4b87-4064-ba3e-1ee8d3c9d846/resource/c6af8bcb-94f5-4158-92b1-5347aff54cdd/download/deficithidrico.csv"
-                },
-                {
-                    "accessURL": "http://datos.agroindustria.gob.ar/dataset/1926ccfe-4b87-4064-ba3e-1ee8d3c9d846/archivo/1f560c78-674b-42a7-8893-8eeac4e63339",
-                    "description": "Detalle de las columnas que componen el recurso.",
-                    "license": "odc-odbl",
-                    "title": "Referencias del déficit hídrico",
-                    "issued": "2017-09-05T12:52:39.681144",
-                    "format": "CSV",
-                    "modified": "2017-09-05T12:52:39.599632",
-                    "downloadURL": "http://datos.agroindustria.gob.ar/dataset/1926ccfe-4b87-4064-ba3e-1ee8d3c9d846/resource/1f560c78-674b-42a7-8893-8eeac4e63339/download/deficithidricoreferencias.csv"
-                }
-            ],
-            "landingPage": "http://datos.agroindustria.gob.ar/dataset/probabilidad-deficit-hidrico"
-        },
-        {
-            "publisher": {
                 "mbox": "sigforestal@magyp.gob.ar",
                 "name": "Subsecretaría de Desarrollo Foresto Industrial"
             },
@@ -4315,84 +4388,6 @@
                 }
             ],
             "landingPage": "http://datos.agroindustria.gob.ar/dataset/destino-de-produccion-de-la-leche"
-        },
-        {
-            "publisher": {
-                "mbox": "datospublicos@magyp.gob.ar",
-                "name": "Subsecretaría de Información y Estadística Pública"
-            },
-            "identifier": "6d90f733-0365-47a8-a138-a0cb0cd709fa",
-            "description": "Área caracterizada por la combinación de la probabilidad de que se produzca un evento y sus consecuencias negativas sobre la actividad agropecuaria. Principalmente son los riesgos derivados del impacto del clima. En este caso, se trata de áreas de riesgo por exceso hídrico.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Reservas de agua en el suelo por cultivo",
-            "issued": "2017-09-05T13:15:28.579853",
-            "modified": "2017-09-29T12:53:10.370746",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "Análisis Territorial",
-                "Producción Agroindustrial"
-            ],
-            "keyword": [
-                "a1",
-                "a2",
-                "algodon",
-                "centroide",
-                "codset",
-                "fecha",
-                "g1",
-                "g2",
-                "m1",
-                "m2",
-                "maiz",
-                "pradera",
-                "s1",
-                "s2",
-                "sag",
-                "semana",
-                "soja",
-                "tc",
-                "tl",
-                "trigo"
-            ],
-            "accrualPeriodicity": "eventual",
-            "superTheme": [
-                "AGRI"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.agroindustria.gob.ar/dataset/6d90f733-0365-47a8-a138-a0cb0cd709fa/archivo/6b0b1a80-b6d2-46e3-bab4-4f3848f5a367",
-                    "description": "Reserva de agua en suelo por cultivo, en escala 1:50000",
-                    "license": "odc-odbl",
-                    "title": "Reserva de agua en suelo por cultivo 1:50000",
-                    "issued": "2017-09-05T13:17:49.219602",
-                    "format": "CSV",
-                    "modified": "2017-09-05T13:17:49.163444",
-                    "downloadURL": "http://datos.agroindustria.gob.ar/dataset/6d90f733-0365-47a8-a138-a0cb0cd709fa/resource/6b0b1a80-b6d2-46e3-bab4-4f3848f5a367/download/reserva50000.csv"
-                },
-                {
-                    "accessURL": "http://datos.agroindustria.gob.ar/dataset/6d90f733-0365-47a8-a138-a0cb0cd709fa/archivo/b262beb4-db27-472c-9318-07f2df5a25ba",
-                    "description": "Reserva de agua en suelo por cultivo, en escala 1:500000",
-                    "license": "odc-odbl",
-                    "title": "Reserva de agua en suelo por cultivo 1:500000",
-                    "issued": "2017-09-05T13:19:08.916407",
-                    "format": "CSV",
-                    "modified": "2017-09-05T13:19:08.838175",
-                    "downloadURL": "http://datos.agroindustria.gob.ar/dataset/6d90f733-0365-47a8-a138-a0cb0cd709fa/resource/b262beb4-db27-472c-9318-07f2df5a25ba/download/reserva500000.csv"
-                },
-                {
-                    "accessURL": "http://datos.agroindustria.gob.ar/dataset/6d90f733-0365-47a8-a138-a0cb0cd709fa/archivo/12598d19-b5ad-412d-9ac9-8e4b04e0891e",
-                    "description": "Detalle de las columnas que forman ambos recursos de reserva de agua en suelo por cultivo.",
-                    "license": "odc-odbl",
-                    "title": "Referencias",
-                    "issued": "2017-09-05T13:24:56.605179",
-                    "format": "CSV",
-                    "modified": "2017-09-05T13:24:56.547716",
-                    "downloadURL": "http://datos.agroindustria.gob.ar/dataset/6d90f733-0365-47a8-a138-a0cb0cd709fa/resource/12598d19-b5ad-412d-9ac9-8e4b04e0891e/download/reservareferencias.csv"
-                }
-            ],
-            "landingPage": "http://datos.agroindustria.gob.ar/dataset/reservas-de-agua-en-el-suelo-por-cultivo"
         },
         {
             "publisher": {
