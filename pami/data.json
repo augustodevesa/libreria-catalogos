@@ -487,9 +487,11 @@
             "license": "Creative Commons Attribution",
             "title": "Convenio con laboratorios",
             "issued": "2017-11-17T21:15:19.377864",
-            "modified": "2017-11-17T21:16:17.775780",
+            "modified": "2017-11-17T21:23:08.510664",
             "theme": [],
-            "keyword": [],
+            "keyword": [
+                "Compras y contrataciones"
+            ],
             "contactPoint": {
                 "hasEmail": "",
                 "fn": ""
@@ -683,16 +685,17 @@
                 "name": ""
             },
             "landingPage": "",
-            "description": "Buscador de licitaciones y adjudicaciones en Nivel central y UGLs del Instituto.",
+            "description": "Buscador de licitaciones y adjudicaciones en Nivel central y UGLs del Instituto\r\nNormativa relacionada",
             "license": "Creative Commons Attribution",
             "title": "Licitaciones y Adjudicaciones",
             "issued": "2016-06-23T23:14:21.295013",
-            "modified": "2016-06-23T23:15:41.120702",
+            "modified": "2017-11-17T21:40:33.187010",
             "theme": [],
             "keyword": [
                 "Adjudicaciones",
                 "Buscador",
                 "Compras",
+                "Compras y contrataciones",
                 "Gestión",
                 "Licitaciones"
             ],
@@ -725,6 +728,30 @@
                     "downloadURL": "http://institucional.pami.org.ar/result.php?c=7-2&vm=2",
                     "issued": "2016-06-23T20:15:40.886828",
                     "identifier": "e5174ac9-7c03-4778-b69a-4ccfe566ebc3"
+                },
+                {
+                    "accessURL": "http://datos.pami.org.ar:5000/dataset/0258a6e0-a1c4-4ad9-8400-068847620a7e/resource/f6316e74-58ad-46ee-84e9-b623e030f1c4",
+                    "description": "Link al Manual de Mobiliario Institucional actualizado",
+                    "title": "Manual de Mobiliario Institucional",
+                    "byteSize": null,
+                    "format": "",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://institucional.pami.org.ar/result.php?c=7-4&vm=2",
+                    "issued": "2017-11-17T18:39:35.696509",
+                    "identifier": "f6316e74-58ad-46ee-84e9-b623e030f1c4"
+                },
+                {
+                    "accessURL": "http://datos.pami.org.ar:5000/dataset/0258a6e0-a1c4-4ad9-8400-068847620a7e/resource/9e2d4e91-250e-4b9c-b506-237de59e2b61",
+                    "description": "Link a información actualizada del Marco regulatorio de Compras",
+                    "title": "Marco regulatorio de Compras",
+                    "byteSize": null,
+                    "format": "",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://institucional.pami.org.ar/result.php?c=7-3&vm=2",
+                    "issued": "2017-11-17T18:40:33.229799",
+                    "identifier": "9e2d4e91-250e-4b9c-b506-237de59e2b61"
                 }
             ]
         },
@@ -1199,7 +1226,7 @@
             "license": "Creative Commons Attribution",
             "title": "Precio de los 10 medicamentos más comprados",
             "issued": "2017-11-17T21:17:34.666725",
-            "modified": "2017-11-17T21:19:27.158098",
+            "modified": "2017-11-17T21:21:02.114329",
             "theme": [],
             "keyword": [
                 "Compras y contrataciones"
@@ -1215,10 +1242,10 @@
                     "description": "Precio unitario de los 10 (diez) medicamentos más comprados- 1er semestre 2017",
                     "title": "Medicamentos - Precio unitario de los 10 (diez) medicamentos más comprados- 1er semestre 2017",
                     "byteSize": null,
-                    "format": "PDF",
+                    "format": "XLSX",
                     "mediaType": null,
-                    "modified": "2017-11-17T21:19:27.142086",
-                    "downloadURL": "http://datos.pami.org.ar:5000/dataset/00cfdbc4-9bbd-4fc2-b82e-59d381fe41a4/resource/82d76a03-f0e1-42d6-af8f-7d9ffa655ca3/download/llamados-2017-septiembre---gob-abierto.xlsx",
+                    "modified": "2017-11-17T21:20:59.881377",
+                    "downloadURL": "http://datos.pami.org.ar:5000/dataset/00cfdbc4-9bbd-4fc2-b82e-59d381fe41a4/resource/82d76a03-f0e1-42d6-af8f-7d9ffa655ca3/download/valores-capita---reso-752-17--sept-1.xlsx",
                     "issued": "2017-11-17T18:18:29.349082",
                     "identifier": "82d76a03-f0e1-42d6-af8f-7d9ffa655ca3"
                 }
@@ -1472,7 +1499,7 @@
             "license": "Creative Commons Attribution",
             "title": "Receta Electrónica",
             "issued": "2016-06-23T21:29:01.422496",
-            "modified": "2017-11-17T20:52:09.465224",
+            "modified": "2017-11-17T21:56:35.323216",
             "theme": [
                 "gestion",
                 "servicios"
@@ -1525,6 +1552,30 @@
                     "downloadURL": "http://datos.pami.org.ar:5000/dataset/609ea56d-7244-4f3a-b7b1-185bc85624ff/resource/da1cb618-4142-4d1f-8f52-7ecbf0263151/download/recetas-electronicas-y-manuales-por-ano-2016.csv",
                     "issued": "2017-11-17T17:52:06.370068",
                     "identifier": "da1cb618-4142-4d1f-8f52-7ecbf0263151"
+                },
+                {
+                    "accessURL": "http://datos.pami.org.ar:5000/dataset/609ea56d-7244-4f3a-b7b1-185bc85624ff/resource/788b8abe-1a07-4c62-bdd4-b70eeb9d53db",
+                    "description": "Cantidad de recetas electrónicas emitidas en el año 2017, por UGL.",
+                    "title": "Utilización de la Receta electrónica en el período 2017",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-11-17T21:56:33.444196",
+                    "downloadURL": "http://datos.pami.org.ar:5000/dataset/609ea56d-7244-4f3a-b7b1-185bc85624ff/resource/788b8abe-1a07-4c62-bdd4-b70eeb9d53db/download/recetas-electronicas-y-manuales-por-ano-2017.csv",
+                    "issued": "2017-11-17T18:24:34.218124",
+                    "identifier": "788b8abe-1a07-4c62-bdd4-b70eeb9d53db"
+                },
+                {
+                    "accessURL": "http://datos.pami.org.ar:5000/dataset/609ea56d-7244-4f3a-b7b1-185bc85624ff/resource/0667932f-1b05-4d6b-93de-762134dba875",
+                    "description": "Cantidad de recetas electrónicas emitidas en el año 2017, por UGL.",
+                    "title": "Utilización de la Receta electrónica en el período 2017",
+                    "byteSize": null,
+                    "format": "XLSX",
+                    "mediaType": null,
+                    "modified": "2017-11-17T21:56:17.172340",
+                    "downloadURL": "http://datos.pami.org.ar:5000/dataset/609ea56d-7244-4f3a-b7b1-185bc85624ff/resource/0667932f-1b05-4d6b-93de-762134dba875/download/recetas-electronicas-y-manuales-por-ano-2017.xlsx",
+                    "issued": "2017-11-17T18:25:22.215050",
+                    "identifier": "0667932f-1b05-4d6b-93de-762134dba875"
                 }
             ]
         },
