@@ -9,6 +9,105 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "direstiagri@magyp.gob.ar",
+                "name": "Subsecretaría de Agricultura, Dirección Nacional de Estimaciones, Delegaciones y Estudios Económicos"
+            },
+            "identifier": "9e1e77ba-267e-4eaa-a59f-3296e86b5f36",
+            "description": "Serie de estadística agrícola por cultivo, campaña, provincia y departamento de la República Argentina con los siguientes datos: superficie sembrada, superficie cosechada, producción y rendimiento. Las superficies se muestran en hectáreas, la producción en toneladas y el rendimiento en kg/ha.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Estimaciones agrícolas",
+            "issued": "2017-08-07T13:36:59.954880",
+            "temporal": "1969-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
+            "modified": "2017-11-23T14:51:00.822188",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "Producción Agroindustrial"
+            ],
+            "keyword": [
+                "Buenos Aires",
+                "Catamarca",
+                "Chaco",
+                "Chubut",
+                "Cordoba",
+                "Corrientes",
+                "Entre Rios",
+                "Formosa",
+                "Jujuy",
+                "La Pampa",
+                "La Rioja",
+                "Mendoza",
+                "Misiones",
+                "Neuquen",
+                "Rio Negro",
+                "Salta",
+                "San Juan",
+                "San Luis",
+                "Santa Cruz",
+                "Santa fe",
+                "Santiago del Estero",
+                "Tierra del Fuego",
+                "Tucuman",
+                "ajo",
+                "algodon",
+                "alpiste",
+                "arroz",
+                "avena",
+                "azucar",
+                "banana",
+                "campana",
+                "campaña",
+                "cartamo",
+                "cebada",
+                "cebolla",
+                "centeno",
+                "colza",
+                "cosechada",
+                "cultivo",
+                "girasol",
+                "jojoba",
+                "limon",
+                "lino",
+                "maiz",
+                "mandarina",
+                "mani",
+                "mijo",
+                "naranja",
+                "papa",
+                "pomelo",
+                "poroto",
+                "produccion",
+                "rendimiento",
+                "sembrada",
+                "soja",
+                "sorgo",
+                "superficie",
+                "te",
+                "trigo",
+                "tung",
+                "yerba mate"
+            ],
+            "accrualPeriodicity": "R/P6M",
+            "superTheme": [
+                "AGRI"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/9e1e77ba-267e-4eaa-a59f-3296e86b5f36/archivo/95d066e6-8a0f-4a80-b59d-6f28f88eacd5",
+                    "description": "Serie de estadística agrícola por cultivo, campaña, provincia y departamento de la República Argentina con los siguientes datos: superficie sembrada, superficie cosechada, producción y rendimiento.",
+                    "license": "odc-odbl",
+                    "title": "Estimaciones agrícolas",
+                    "issued": "2017-08-07T13:38:04.185700",
+                    "format": "CSV",
+                    "modified": "2017-11-23T14:45:43.552491",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/9e1e77ba-267e-4eaa-a59f-3296e86b5f36/resource/95d066e6-8a0f-4a80-b59d-6f28f88eacd5/download/estimaciones.csv"
+                }
+            ],
+            "landingPage": "https://datos.agroindustria.gob.ar/dataset/estimaciones-agricolas"
+        },
+        {
+            "publisher": {
                 "mbox": "azucar@magyp.gob.ar",
                 "name": "Subsecretaría de Alimentos y Bebidas "
             },
@@ -1210,105 +1309,6 @@
                 }
             ],
             "landingPage": "https://datos.agroindustria.gob.ar/dataset/tasa-de-ruralidad-por-radio-censal"
-        },
-        {
-            "publisher": {
-                "mbox": "direstiagri@magyp.gob.ar",
-                "name": "Subsecretaría de Agricultura, Dirección Nacional de Estimaciones, Delegaciones y Estudios Económicos"
-            },
-            "identifier": "9e1e77ba-267e-4eaa-a59f-3296e86b5f36",
-            "description": "Serie de estadística agrícola por cultivo, campaña, provincia y departamento de la República Argentina con los siguientes datos: superficie sembrada, superficie cosechada, producción y rendimiento. Las superficies se muestran en hectáreas, la producción en toneladas y el rendimiento en kg/ha.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Estimaciones agrícolas",
-            "issued": "2017-08-07T13:36:59.954880",
-            "temporal": "1969-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
-            "modified": "2017-10-03T18:11:40.287923",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "Producción Agroindustrial"
-            ],
-            "keyword": [
-                "Buenos Aires",
-                "Catamarca",
-                "Chaco",
-                "Chubut",
-                "Cordoba",
-                "Corrientes",
-                "Entre Rios",
-                "Formosa",
-                "Jujuy",
-                "La Pampa",
-                "La Rioja",
-                "Mendoza",
-                "Misiones",
-                "Neuquen",
-                "Rio Negro",
-                "Salta",
-                "San Juan",
-                "San Luis",
-                "Santa Cruz",
-                "Santa fe",
-                "Santiago del Estero",
-                "Tierra del Fuego",
-                "Tucuman",
-                "ajo",
-                "algodon",
-                "alpiste",
-                "arroz",
-                "avena",
-                "azucar",
-                "banana",
-                "campana",
-                "campaña",
-                "cartamo",
-                "cebada",
-                "cebolla",
-                "centeno",
-                "colza",
-                "cosechada",
-                "cultivo",
-                "girasol",
-                "jojoba",
-                "limon",
-                "lino",
-                "maiz",
-                "mandarina",
-                "mani",
-                "mijo",
-                "naranja",
-                "papa",
-                "pomelo",
-                "poroto",
-                "produccion",
-                "rendimiento",
-                "sembrada",
-                "soja",
-                "sorgo",
-                "superficie",
-                "te",
-                "trigo",
-                "tung",
-                "yerba mate"
-            ],
-            "accrualPeriodicity": "R/P6M",
-            "superTheme": [
-                "AGRI"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/9e1e77ba-267e-4eaa-a59f-3296e86b5f36/archivo/95d066e6-8a0f-4a80-b59d-6f28f88eacd5",
-                    "description": "Serie de estadística agrícola por cultivo, campaña, provincia y departamento de la República Argentina con los siguientes datos: superficie sembrada, superficie cosechada, producción y rendimiento.",
-                    "license": "odc-odbl",
-                    "title": "Estimaciones agrícolas",
-                    "issued": "2017-08-07T13:38:04.185700",
-                    "format": "CSV",
-                    "modified": "2017-10-03T18:11:39.632839",
-                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/9e1e77ba-267e-4eaa-a59f-3296e86b5f36/resource/95d066e6-8a0f-4a80-b59d-6f28f88eacd5/download/estimaciones.csv"
-                }
-            ],
-            "landingPage": "https://datos.agroindustria.gob.ar/dataset/estimaciones-agricolas"
         },
         {
             "publisher": {
