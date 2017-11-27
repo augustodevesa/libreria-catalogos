@@ -55,7 +55,7 @@
             ],
             "title": "Registro de Audiencias",
             "issued": "2017-06-26T17:14:16",
-            "modified": "2017-11-27T12:15:17.939Z",
+            "modified": "2017-11-27T15:15:14.204Z",
             "language": [
                 "spa"
             ],
@@ -70,7 +70,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T17:14:16",
                     "format": "CSV",
-                    "modified": "2017-11-27T12:15:17.939Z",
+                    "modified": "2017-11-27T15:15:14.204Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -79,7 +79,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T17:14:16",
                     "format": "XLS",
-                    "modified": "2017-11-27T12:15:17.939Z",
+                    "modified": "2017-11-27T15:15:14.252Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -88,7 +88,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T17:14:16",
                     "format": "JSON",
-                    "modified": "2017-11-27T12:15:17.939Z",
+                    "modified": "2017-11-27T15:15:14.252Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -110,7 +110,7 @@
             ],
             "title": "Registro de Visitas",
             "issued": "2017-06-26T21:51:38",
-            "modified": "2017-11-27T12:15:17.949Z",
+            "modified": "2017-11-27T15:15:14.262Z",
             "language": [
                 "spa"
             ],
@@ -125,7 +125,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "CSV",
-                    "modified": "2017-11-27T12:15:17.949Z",
+                    "modified": "2017-11-27T15:15:14.262Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -134,7 +134,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "XLS",
-                    "modified": "2017-11-27T12:15:17.949Z",
+                    "modified": "2017-11-27T15:15:14.262Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -143,13 +143,68 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "JSON",
-                    "modified": "2017-11-27T12:15:17.950Z",
+                    "modified": "2017-11-27T15:15:14.263Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
             "identifier": "REGIS-DE-VISIT-31415",
             "homepage": "http://datos.arsat.com.ar/dataviews/239722/registro-de-visitas/",
             "description": "Listado de visitas recibidas en Arsat desde el 20/03/17 hasta el presente."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "ARSAT",
+                "REFEFO"
+            ],
+            "title": "Tráfico de Internet entrante y saliente",
+            "issued": "2017-11-27T14:57:59",
+            "modified": "2017-11-27T17:58:06Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
+                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
+                    "title": "Tráfico de Internet entrante y saliente",
+                    "issued": "2017-11-27T14:57:59",
+                    "format": "CSV",
+                    "modified": "2017-11-27T17:58:06Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
+                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
+                    "title": "Tráfico de Internet entrante y saliente",
+                    "issued": "2017-11-27T14:57:59",
+                    "format": "XLS",
+                    "modified": "2017-11-27T17:58:06Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
+                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
+                    "title": "Tráfico de Internet entrante y saliente",
+                    "issued": "2017-11-27T14:57:59",
+                    "format": "JSON",
+                    "modified": "2017-11-27T17:58:06Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "TRAFI-DE-INTER",
+            "homepage": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
+            "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s."
         },
         {
             "publisher": {
@@ -314,61 +369,6 @@
             "identifier": "REFEF-CANTI-DE-CLIEN-Y",
             "homepage": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
             "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "ARSAT",
-                "REFEFO"
-            ],
-            "title": "Tráfico de Internet entrante y saliente",
-            "issued": "2017-11-23T12:50:18",
-            "modified": "2017-11-23T15:50:22Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
-                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
-                    "title": "Tráfico de Internet entrante y saliente",
-                    "issued": "2017-11-23T12:50:18",
-                    "format": "CSV",
-                    "modified": "2017-11-23T15:50:22Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
-                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
-                    "title": "Tráfico de Internet entrante y saliente",
-                    "issued": "2017-11-23T12:50:18",
-                    "format": "XLS",
-                    "modified": "2017-11-23T15:50:22Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
-                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
-                    "title": "Tráfico de Internet entrante y saliente",
-                    "issued": "2017-11-23T12:50:18",
-                    "format": "JSON",
-                    "modified": "2017-11-23T15:50:22Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "TRAFI-DE-INTER",
-            "homepage": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
-            "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s."
         },
         {
             "publisher": {
