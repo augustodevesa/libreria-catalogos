@@ -46,14 +46,29 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2017-09-25",
+            "modified": "2017-11-24",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
                     "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
                     "field": [
                         {
-                            "description": "Puestos de trabajo registrados del sector privado de la Rama 13-Extracción de minerales metalíferos.",
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "number"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Puestos de trabajo registrados del sector privado de la Rama 13-Extracción de minerales metalíferos",
                             "title": "empleo_rama13",
                             "type": "number",
                             "units": "Puestos de trabajo"
@@ -69,25 +84,25 @@
                             "type": "date"
                         },
                         {
-                            "description": "Precio internacional nominal, cobre refinado. Cotización Bolsa de Metales de Londres (LME).",
+                            "description": "Precio internacional nominal, cobre refinado. Cotización Bolsa de Metales de Londres (LME)",
                             "title": "precio_cobre",
                             "type": "number",
                             "units": "¢/lb"
                         },
                         {
-                            "description": "Precio internacional. Cotización Bolsa de Nueva York (COMEX).",
+                            "description": "Precio internacional. Cotización Bolsa de Nueva York (COMEX)",
                             "title": "precio_oro",
                             "type": "number",
                             "units": "hl (hectolítro)"
                         },
                         {
-                            "description": "Cotización London Bullion Market Association (LBMA).",
+                            "description": "Cotización London Bullion Market Association (LBMA)",
                             "title": "precio_plata",
                             "type": "number",
                             "units": "hl (hectolítro)"
                         },
                         {
-                            "description": "Remuneración promedio de los trabajadores registrados del sector privado de la Rama 13-Extracción de minerales metalíferos.",
+                            "description": "Remuneración promedio de los trabajadores registrados del sector privado de la Rama 13-Extracción de minerales metalíferos",
                             "title": "remuneracion_rama13",
                             "type": "number",
                             "units": "En pesos corrientes"
@@ -97,8 +112,8 @@
                     "title": "Indicadores de Minería Metalífera en valores anuales, trimestrales y mensuales",
                     "issued": "2017-09-25",
                     "format": "CSV",
-                    "modified": "2017-09-25",
-                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/02_mineria_metalifera_dataset.csv",
+                    "modified": "2017-11-24",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/02-indicadores-mineria-metalifera-basecompleta.csv",
                     "identifier": "02.1"
                 }
             ],
@@ -140,14 +155,29 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2017-09-25",
+            "modified": "2017-11-24",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
                     "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
                     "field": [
                         {
-                            "description": "Empleo industria azucarera total país, en puestos de trabajo",
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "number"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Empleo industria azucarera total país",
                             "title": "empleo_industria_azucarera_1542",
                             "type": "number",
                             "units": "Puestos de trabajo"
@@ -163,30 +193,60 @@
                             "type": "date"
                         },
                         {
-                            "description": "producción azúcar blanco, total país, en toneladas métricas valor crudo",
+                            "description": "Precio interno azúcar blanco común tipo A vagón ingenio",
+                            "title": "prec_azucar_blanco_comun_tipo_a_vagon_ingenio",
+                            "type": "number",
+                            "units": "$/tonelada"
+                        },
+                        {
+                            "description": "Precio bietanol caña de azúcar",
+                            "title": "prec_bioetanol_cana_azucar",
+                            "type": "number",
+                            "units": "$/litro"
+                        },
+                        {
+                            "description": "Precio internacional, azúcar blanco, contrato Nº 5 de Londres",
+                            "title": "prec_int_azucar_blanco_londres",
+                            "type": "number",
+                            "units": "USD/tonelada"
+                        },
+                        {
+                            "description": "Precio internacional, azúcar blanco, contrato nro 11 de Nueva York",
+                            "title": "prec_int_azucar_crudo_nueva_york",
+                            "type": "number",
+                            "units": "centavos de dólar por libra"
+                        },
+                        {
+                            "description": "Producción azúcar blanco",
                             "title": "prod_azucar_blanco",
                             "type": "number",
                             "units": "TMVC (toneladas métricas valor crudo)"
                         },
                         {
-                            "description": "producción azúcar crudo total país, en toneladas métricas valor crudo",
+                            "description": "Producción azúcar crudo",
                             "title": "prod_azucar_crudo",
                             "type": "number",
                             "units": "TMVC (toneladas métricas valor crudo)"
                         },
                         {
-                            "description": "producción azúcar (blanco+crudo) total país, en toneladas métricas valor crudo",
+                            "description": "Producción azúcar (blanco+crudo)",
                             "title": "prod_azucar_total",
                             "type": "number",
                             "units": "TMVC (toneladas métricas valor crudo)"
+                        },
+                        {
+                            "description": "Producción bioetanol de caña de azúcar",
+                            "title": "prod_bioetanol_cana_azucar",
+                            "type": "number",
+                            "units": "$/Mm3 (pesos por miles de metros cúbicos)"
                         }
                     ],
                     "description": "Indicadores de azúcar en valores anuales, trimestrales y mensuales",
                     "title": "Indicadores de azúcar en valores anuales y mensuales",
                     "issued": "2017-09-25",
                     "format": "CSV",
-                    "modified": "2017-09-25",
-                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/03_azucar_dataset.csv",
+                    "modified": "2017-11-24",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/03-indicadores-azucar-basecompleta.csv",
                     "identifier": "03.1"
                 }
             ],
@@ -227,12 +287,27 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2017-09-25",
+            "modified": "2017-11-24",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
                     "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
                     "field": [
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "number"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
                         {
                             "description": "Puestos de trabajo de la rama 3410 Fabricación de vehículos automotores registrados en el sector privado",
                             "title": "empleo_3410",
@@ -240,19 +315,43 @@
                             "units": "Puestos de trabajo"
                         },
                         {
-                            "description": "Puestos de trabajo de la rama 3420 Fabricación  de  carrocerías  para  vehículos  automotores;  fabricación de remolques y semirremolques registrados en el sector privado",
+                            "description": "Puestos de trabajo de la rama 3410 Fabricación de vehículos automotores registrados en el sector privado, en valores trimestrales",
+                            "title": "empleo_3410",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Puestos de trabajo de la rama 3420 Fabricación  de  carrocerías  para  vehículos  automotores;  fabricación de remolques y semirremolques registrados en el sector privado, en valores anuales",
                             "title": "empleo_3420",
                             "type": "number",
                             "units": "Puestos de trabajo"
                         },
                         {
-                            "description": "Puestos de trabajo de la rama 3430 Fabricación de partes; piezas y accesorios para vehículos automotores y sus motores registrados en el sector privado, en valores anuales y trimestrales",
+                            "description": "Puestos de trabajo de la rama 3420 Fabricación  de  carrocerías  para  vehículos  automotores; fabricación de remolques y semirremolques registrados en el sector privado, en valores trimestrales",
+                            "title": "empleo_3420",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Puestos de trabajo de la rama 3430 Fabricación de partes; piezas y accesorios para vehículos automotores y sus motores registrados en el sector privado, en valores anuales",
                             "title": "empleo_3430",
                             "type": "number",
                             "units": "Puestos de trabajo"
                         },
                         {
-                            "description": "Puestos de trabajo totales de la rama 34 Automotores registrados en el sector privado, en valores anuales y trimestrales",
+                            "description": "Puestos de trabajo de la rama 3430 Fabricación de partes; piezas y accesorios para vehículos automotores y sus motores registrados en el sector privado, en valores trimestrales",
+                            "title": "empleo_3430",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Puestos de trabajo totales de la rama 34 Automotores registrados en el sector privado, en valores anuales",
+                            "title": "empleo_total_auto",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Puestos de trabajo totales de la rama 34 Automotores registrados en el sector privado, en valores trimestrales",
                             "title": "empleo_total_auto",
                             "type": "number",
                             "units": "Puestos de trabajo"
@@ -268,49 +367,145 @@
                             "type": "date"
                         },
                         {
-                            "description": "Patentamientos: de vehículos automotores, total país, en unidades",
+                            "description": "Patentamientos: de vehículos automotores, total país, en unidades y a valores anuales",
                             "title": "patentamientos",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Producción: automóviles, total país, en unidades",
+                            "description": "Patentamientos: de vehículos automotores, total país, en unidades y a valores trimestrales",
+                            "title": "patentamientos",
+                            "type": "number",
+                            "units": "Unidades"
+                        },
+                        {
+                            "description": "Patentamientos: de vehículos automotores, total país, en unidades y a valores mensuales",
+                            "title": "patentamientos",
+                            "type": "number",
+                            "units": "Unidades"
+                        },
+                        {
+                            "description": "Producción: automóviles, total país, en unidades y a valores anuales",
                             "title": "prod_auto",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Producción: total de vehiculos automotores del segmento A y B, total país, en unidades",
+                            "description": "Producción: automóviles, total país, en unidades y a valores trimestrales",
+                            "title": "prod_auto",
+                            "type": "number",
+                            "units": "Unidades"
+                        },
+                        {
+                            "description": "Producción: automóviles, total país, en unidades y a valores mensuales",
+                            "title": "prod_auto",
+                            "type": "number",
+                            "units": "Unidades"
+                        },
+                        {
+                            "description": "Producción: total de vehiculos automotores del segmento A y B, total país, en unidades y a valores anuales",
                             "title": "prod_autotot",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Producción: vehículos automotores del segmento A (automóviles y utilitarios), total país, en unidades",
+                            "description": "Producción: total de vehiculos automotores del segmento A y B, total país, en unidades y a valores trimestrales",
+                            "title": "prod_autotot",
+                            "type": "number",
+                            "units": "Unidades"
+                        },
+                        {
+                            "description": "Producción: total de vehiculos automotores del segmento A y B, total país, en unidades y a valores mensuales",
+                            "title": "prod_autotot",
+                            "type": "number",
+                            "units": "Unidades"
+                        },
+                        {
+                            "description": "Producción: vehículos automotores del segmento A (automóviles y utilitarios), total país, en unidades y a valores anuales",
                             "title": "prod_seg_a",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Producción: vehículos automotores del segmento B (carga y pasajeros), total país, en unidades",
+                            "description": "Producción: vehículos automotores del segmento A (automóviles y utilitarios), total país, en unidades y a valores trimestrales",
+                            "title": "prod_seg_a",
+                            "type": "number",
+                            "units": "Unidades"
+                        },
+                        {
+                            "description": "Producción: vehículos automotores del segmento A (automóviles y utilitarios), total país, en unidades y a valores mensuales",
+                            "title": "prod_seg_a",
+                            "type": "number",
+                            "units": "Unidades"
+                        },
+                        {
+                            "description": "Producción: vehículos automotores del segmento B (carga y pasajeros), total país, en unidades y a valores anuales",
                             "title": "prod_seg_b",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Producción: utilitarios, total país, en unidades",
+                            "description": "Producción: vehículos automotores del segmento B (carga y pasajeros), total país, en unidades y a valores trimestrales",
+                            "title": "prod_seg_b",
+                            "type": "number",
+                            "units": "Unidades"
+                        },
+                        {
+                            "description": "Producción: vehículos automotores del segmento B (carga y pasajeros), total país, en unidades y a valores mensuales",
+                            "title": "prod_seg_b",
+                            "type": "number",
+                            "units": "Unidades"
+                        },
+                        {
+                            "description": "Producción: utilitarios, total país, en unidades y a valores anuales",
                             "title": "prod_uti",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Ventas a mercado interno de vehículos automotores de origen nacional, total país, en unidades",
+                            "description": "Producción: utilitarios, total país, en unidades y a valores trimestrales",
+                            "title": "prod_uti",
+                            "type": "number",
+                            "units": "Unidades"
+                        },
+                        {
+                            "description": "Producción: utilitarios, total país, en unidades y a valores mensuales",
+                            "title": "prod_uti",
+                            "type": "number",
+                            "units": "Unidades"
+                        },
+                        {
+                            "description": "Ventas a mercado interno de vehículos automotores de origen nacional, total país, en unidades y a valores anuales",
                             "title": "vta_conces_nac",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Ventas a mercado interno de vehículos automotores de origen nacional e importado, total país, en unidades",
+                            "description": "Ventas a mercado interno de vehículos automotores de origen nacional, total país, en unidades y a valores trimestrales",
+                            "title": "vta_conces_nac",
+                            "type": "number",
+                            "units": "Unidades"
+                        },
+                        {
+                            "description": "Ventas a mercado interno de vehículos automotores de origen nacional, total país, en unidades y a valores mensuales",
+                            "title": "vta_conces_nac",
+                            "type": "number",
+                            "units": "Unidades"
+                        },
+                        {
+                            "description": "Ventas a mercado interno de vehículos automotores de origen nacional e importado, total país, en unidades y a valores anuales",
+                            "title": "vta_conces_tot",
+                            "type": "number",
+                            "units": "Unidades"
+                        },
+                        {
+                            "description": "Ventas a mercado interno de vehículos automotores de origen nacional e importado, total país, en unidades y a valores trimestrales",
+                            "title": "vta_conces_tot",
+                            "type": "number",
+                            "units": "Unidades"
+                        },
+                        {
+                            "description": "Ventas a mercado interno de vehículos automotores de origen nacional e importado, total país, en unidades y a valores mensuales",
                             "title": "vta_conces_tot",
                             "type": "number",
                             "units": "Unidades"
@@ -320,8 +515,8 @@
                     "title": "Indicadores de Automotriz en valores anuales, trimestrales y mensuales",
                     "issued": "2017-09-25",
                     "format": "CSV",
-                    "modified": "2017-09-25",
-                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/04_automotriz_dataset.csv",
+                    "modified": "2017-11-24",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/04-indicadores-automotriz-basecompleta.csv",
                     "identifier": "04.1"
                 }
             ],
@@ -361,26 +556,41 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2017-09-25",
+            "modified": "2017-11-24",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
                     "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
                     "field": [
                         {
-                            "description": "Consumo per cápita de carne aviar, total país, en kg por año",
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "number"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Consumo per cápita de carne aviar",
                             "title": "cons_pc_carne_aviar",
                             "type": "number",
                             "units": "Kilogramos per cápita (kg/per cápita)"
                         },
                         {
-                            "description": "Faena de aves, total país, en cabezas",
+                            "description": "Faena de aves",
                             "title": "faena_aves",
                             "type": "number",
                             "units": "Miles de cabezas"
                         },
                         {
-                            "description": "Factor de eficiencia productiva. ((peso x viabilidad)/(conversión x edad)) x 100. Donde la viabilidad es la cantidad de pollos terminados y la conversión alimenticia es la cantidad de kilos de alimento consumido por kilo de pollo vivo, total país, en número índice",
+                            "description": "Factor de eficiencia productiva. ((peso x viabilidad)/(conversión x edad)) x 100. Donde la viabilidad es la cantidad de pollos terminados y la conversión alimenticia es la cantidad de kilos de alimento consumido por kilo de pollo vivo",
                             "title": "fep",
                             "type": "number",
                             "units": "Número índice"
@@ -396,37 +606,37 @@
                             "type": "date"
                         },
                         {
-                            "description": "Precio consumidor del kg de pollo entero, en pesos",
+                            "description": "Precio consumidor del kg de pollo entero",
                             "title": "pre_cons_carne_aviar",
                             "type": "number",
                             "units": "pesos por kilogramo ($/kg)"
                         },
                         {
-                            "description": "Precio mayorista del kg de pollo eviscerado, total país, en pesos",
+                            "description": "Precio mayorista del kg de pollo eviscerado",
                             "title": "pre_may_carne_aviar",
                             "type": "number",
                             "units": "pesos por kilogramo ($/kg)"
                         },
                         {
-                            "description": "Producción de carne aviar, total país, en toneladas",
+                            "description": "Producción de carne aviar",
                             "title": "prod_carne_aviar",
                             "type": "number",
                             "units": "Miles de toneladas"
                         },
                         {
-                            "description": "Producción de pollitos BB, total país, en cabezas",
+                            "description": "Producción de pollitos BB",
                             "title": "prod_polbb",
                             "type": "number",
                             "units": "Miles de cabezas"
                         },
                         {
-                            "description": "Stock de aves reproductoras pesadas en postura, total país, cabezas",
+                            "description": "Stock de aves reproductoras pesadas en postura",
                             "title": "stock_aves_rpep",
                             "type": "number",
                             "units": "Miles de cabezas"
                         },
                         {
-                            "description": "Stock de aves reproductoras pesadas en recría, total país, cabezas",
+                            "description": "Stock de aves reproductoras pesadas en recría",
                             "title": "stock_aves_rper",
                             "type": "number",
                             "units": "Miles de cabezas"
@@ -436,8 +646,8 @@
                     "title": "Indicadores de carne aviar en valores anuales, trimestrales y mensuales",
                     "issued": "2017-09-25",
                     "format": "CSV",
-                    "modified": "2017-09-25",
-                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/05_carne_aviar_dataset.csv",
+                    "modified": "2017-11-24",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/05-indicadores-carne-aviar-basecompleta.csv",
                     "identifier": "05.1"
                 }
             ],
@@ -481,263 +691,17 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2017-09-25",
+            "modified": "2017-11-24",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
                     "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
-                    "field": [
-                        {
-                            "description": "Identifica la frecuencia del dato con valores: anual, trimestral y mensual",
-                            "title": "frec_temporal",
-                            "type": "text"
-                        },
-                        {
-                            "description": "Anual, trimestral y mensual",
-                            "title": "indice_tiempo",
-                            "type": "date"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: gas natural, Argentina, en pesos por miles de metros cúbicos",
-                            "title": "precint_gasnat_arg",
-                            "type": "number",
-                            "units": "$/Mm3 (pesos por miles de metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: gas natural, Chubut, en pesos por miles de metros cúbicos",
-                            "title": "precint_gasnat_chubut",
-                            "type": "number",
-                            "units": "$/Mm3 (pesos por miles de metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: gas natural, Estado nacional, en pesos por miles de metros cúbicos",
-                            "title": "precint_gasnat_estnac",
-                            "type": "number",
-                            "units": "$/Mm3 (pesos por miles de metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: gas natural, Jujuy, en pesos por miles de metros cúbicos",
-                            "title": "precint_gasnat_jujuy",
-                            "type": "number",
-                            "units": "$/Mm3 (pesos por miles de metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: gas natural, La Pampa, en pesos por miles de metros cúbicos",
-                            "title": "precint_gasnat_lapampa",
-                            "type": "number",
-                            "units": "$/Mm3 (pesos por miles de metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: gas natural, Mendoza, en pesos por miles de metros cúbicos",
-                            "title": "precint_gasnat_mza",
-                            "type": "number",
-                            "units": "$/Mm3 (pesos por miles de metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: gas natural, Neuquén, en pesos por miles de metros cúbicos",
-                            "title": "precint_gasnat_nqn",
-                            "type": "number",
-                            "units": "$/Mm3 (pesos por miles de metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: gas natural, Río Negro, en pesos por miles de metros cúbicos",
-                            "title": "precint_gasnat_rn",
-                            "type": "number",
-                            "units": "$/Mm3 (pesos por miles de metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: gas natural, Salta, en pesos por miles de metros cúbicos",
-                            "title": "precint_gasnat_salta",
-                            "type": "number",
-                            "units": "$/Mm3 (pesos por miles de metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: gas natural, Santa Cruz, en pesos por miles de metros cúbicos",
-                            "title": "precint_gasnat_stacruz",
-                            "type": "number",
-                            "units": "$/Mm3 (pesos por miles de metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: gas natural, Tierra del Fuego, en pesos por miles de metros cúbicos",
-                            "title": "precint_gasnat_tf",
-                            "type": "number",
-                            "units": "$/Mm3 (pesos por miles de metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: petróleo crudo, Argentina, en dólares por metros cúbicos y a valores anuales",
-                            "title": "precint_petcru_arg",
-                            "type": "number",
-                            "units": "USD/m3 (dólares por metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: petróleo crudo, Argentina, en dólares por metros cúbicos y a valores mensuales",
-                            "title": "precint_petcru_arg",
-                            "type": "number",
-                            "units": "USD/m3 (dólares por metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: petróleo crudo, Chubut, en dólares por metros cúbicos",
-                            "title": "precint_petcru_chubut",
-                            "type": "number",
-                            "units": "USD/m3 (dólares por metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: petróleo crudo, Estado nacional, en dólares por metros cúbicos",
-                            "title": "precint_petcru_estnac",
-                            "type": "number",
-                            "units": "USD/m3 (dólares por metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: petróleo crudo, Formosa, en dólares por metros cúbicos",
-                            "title": "precint_petcru_formosa",
-                            "type": "number",
-                            "units": "USD/m3 (dólares por metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: petróleo crudo, Jujuy, en dólares por metros cúbicos",
-                            "title": "precint_petcru_jujuy",
-                            "type": "number",
-                            "units": "USD/m3 (dólares por metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: petróleo crudo, La Pampa, en dólares por metros cúbicos",
-                            "title": "precint_petcru_lapampa",
-                            "type": "number",
-                            "units": "USD/m3 (dólares por metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: petróleo crudo, Mendoza, en dólares por metros cúbicos",
-                            "title": "precint_petcru_mza",
-                            "type": "number",
-                            "units": "USD/m3 (dólares por metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: petróleo crudo, Neuquén, en dólares por metros cúbicos",
-                            "title": "precint_petcru_nqn",
-                            "type": "number",
-                            "units": "USD/m3 (dólares por metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: petróleo crudo, Río Negro, en dólares por metros cúbicos",
-                            "title": "precint_petcru_rn",
-                            "type": "number",
-                            "units": "USD/m3 (dólares por metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: petróleo crudo, Salta, en dólares por metros cúbicos",
-                            "title": "precint_petcru_salta",
-                            "type": "number",
-                            "units": "USD/m3 (dólares por metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: petróleo crudo, Santa Cruz, en dólares por metros cúbicos",
-                            "title": "precint_petcru_stacruz",
-                            "type": "number",
-                            "units": "USD/m3 (dólares por metros cúbicos)"
-                        },
-                        {
-                            "description": "Precio interno promedio ponderado por volumen de ventas: petróleo crudo, Tierra del Fuego, en dólares por metros cúbicos",
-                            "title": "precint_petcru_tf",
-                            "type": "number",
-                            "units": "USD/m3 (dólares por metros cúbicos)"
-                        },
-                        {
-                            "description": "Producción: gas natural, Argentina, en miles de metros cúbicos",
-                            "title": "prod_gasnat",
-                            "type": "number",
-                            "units": "Miles de metros cúbicos"
-                        },
-                        {
-                            "description": "Producción: petróleo crudo, Argentina, en metros cúbicos",
-                            "title": "prod_petcru",
-                            "type": "number",
-                            "units": "Metros cúbicos"
-                        },
-                        {
-                            "description": "Regalías_según unidad publicada: gas natural, Argentina, en pesos corrientes",
-                            "title": "reg_gasnat",
-                            "type": "number",
-                            "units": "En pesos corrientes"
-                        },
-                        {
-                            "description": "Regalías: gas natural, Argentina, en pesos corrientes",
-                            "title": "reg_gasnat",
-                            "type": "number",
-                            "units": "En pesos corrientes"
-                        },
-                        {
-                            "description": "Regalías: gas licuado petróleo, Argentina, en pesos corrientes",
-                            "title": "reg_glp",
-                            "type": "number",
-                            "units": "En pesos corrientes"
-                        },
-                        {
-                            "description": "Regalías: gasolina y condensado, Argentina, en dólares",
-                            "title": "reg_gyc",
-                            "type": "number",
-                            "units": "USD"
-                        },
-                        {
-                            "description": "Regalías: petróleo crudo, Argentina, en dólares",
-                            "title": "reg_petcru",
-                            "type": "number",
-                            "units": "USD"
-                        },
-                        {
-                            "description": "Reservas comprobadas_hasta final vida útil yacimiento: gas natural, Argentina, en millones de metros cúbicos",
-                            "title": "rescomp_gasnat",
-                            "type": "number",
-                            "units": "Millones de metros cúbicos"
-                        },
-                        {
-                            "description": "Reservas comprobadas_hasta final vida útil yacimiento: petróleo crudo, Argentina, en miles de metros cúbicos",
-                            "title": "rescomp_petcru",
-                            "type": "number",
-                            "units": "Miles de metros cúbicos"
-                        },
-                        {
-                            "description": "Reservas posibles_hasta final vida útil yacimiento: gas natural, Argentina, en millones de metros cúbicos y a valores anuales",
-                            "title": "respos_gasnat",
-                            "type": "number",
-                            "units": "Millones de metros cúbicos"
-                        },
-                        {
-                            "description": "Reservas posibles_hasta final vida útil yacimiento: petróleo crudo, Argentina, en miles de metros cúbicos",
-                            "title": "respos_petcru",
-                            "type": "number",
-                            "units": "Miles de metros cúbicos"
-                        },
-                        {
-                            "description": "Reservas probables_hasta final vida útil yacimiento: gas natural, Argentina, en millones de metros cúbicos",
-                            "title": "resprob_gasnat",
-                            "type": "number",
-                            "units": "Millones de metros cúbicos"
-                        },
-                        {
-                            "description": "Reservas probables_hasta final vida útil yacimiento: petróleo crudo, Argentina, en miles de metros cúbicos",
-                            "title": "resprob_petcru",
-                            "type": "number",
-                            "units": "Miles de metros cúbicos"
-                        },
-                        {
-                            "description": "Venta de combustible: gas oil, Argentina, en metros cúbicos",
-                            "title": "vta_gasoil",
-                            "type": "number",
-                            "units": "Metros cúbicos"
-                        },
-                        {
-                            "description": "Venta de combustible: nafta, Argentina, en metros cúbicos",
-                            "title": "vta_nafta",
-                            "type": "number",
-                            "units": "Metros cúbicos"
-                        }
-                    ],
                     "description": "Indicadores de Hidrocarburos en valores anuales, trimestrales y mensuales",
                     "title": "Indicadores de Hidrocarburos en valores anuales, trimestrales y mensuales",
                     "issued": "2017-09-25",
                     "format": "CSV",
-                    "modified": "2017-09-25",
-                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/06_hidrocarburos_dataset.csv",
+                    "modified": "2017-11-24",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/06-indicadores-hidrocarburos-basecompleta.csv",
                     "identifier": "06.1"
                 }
             ],
@@ -782,12 +746,27 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2017-09-25",
+            "modified": "2017-11-24",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
                     "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
                     "field": [
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "number"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
                         {
                             "description": "Puestos de trabajo registrados en el sector privado",
                             "title": "empleo_2921",
@@ -801,197 +780,197 @@
                             "units": "cantidad de empresas"
                         },
                         {
-                            "description": "Identifica la frecuencia del dato con valores: anual, trimestral y mensual",
+                            "description": "Identifica la frecuencia del dato con valores: anual y  trimestral",
                             "title": "frec_temporal",
                             "type": "text"
                         },
                         {
-                            "description": "Anual, trimestral y mensual",
+                            "description": "Anual y trimestral",
                             "title": "indice_tiempo",
                             "type": "date"
                         },
                         {
-                            "description": "Producción: cabezales girasoleros para cosechadoras, total país, en unidades",
+                            "description": "Producción de cabezales girasoleros para cosechadoras",
                             "title": "prod_cabgir",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Producción: cabezales maiceros para cosechadoras, total país, en unidades",
+                            "description": "Producción de cabezales maiceros para cosechadoras",
                             "title": "prod_cabmai",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Producción: total de cabezales para cosechadoras, total país, en unidades",
+                            "description": "Producción total de cabezales para cosechadoras",
                             "title": "prod_cabtot",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Producción: cosechadoras, total país, en unidades",
+                            "description": "Producción de cosechadoras",
                             "title": "prod_cosech",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Producción: pulverizadoras autopropulsadas, total país, en unidades",
+                            "description": "Producción de pulverizadoras autopropulsadas",
                             "title": "prod_pulver",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Producción: sembradoras, total país, en unidades",
+                            "description": "Producción de sembradoras",
                             "title": "prod_sembra",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Producción: tolvas autodescargables, total país, en unidades",
+                            "description": "Producción de tolvas autodescargables",
                             "title": "prod_tolvas",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Producción: tractores, total país, en unidades",
+                            "description": "Producción de tractores",
                             "title": "prod_trac",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Ventas mercado interno: cosechadoras importadas, total país, en millones de pesos",
+                            "description": "Ventas mercado interno de cosechadoras importadas",
                             "title": "vta_cosech_imp_p",
                             "type": "number",
                             "units": "Millones de pesos"
                         },
                         {
-                            "description": "Ventas mercado interno: cosechadoras importadas, total país, en unidades",
+                            "description": "Ventas mercado interno de cosechadoras importadas",
                             "title": "vta_cosech_imp_q",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Ventas mercado interno: cosechadoras nacionales, total país, en unidades",
+                            "description": "Ventas mercado interno de cosechadoras nacionales",
                             "title": "vta_cosech_nac_q",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Ventas mercado interno: total cosechadoras, total país, en millones de pesos",
+                            "description": "Ventas mercado interno de total cosechadoras",
                             "title": "vta_cosech_tot_p",
                             "type": "number",
                             "units": "Millones de pesos"
                         },
                         {
-                            "description": "Ventas mercado interno: total cosechadoras, total país, en unidades",
+                            "description": "Ventas mercado interno de total cosechadoras",
                             "title": "vta_cosech_tot_q",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Ventas mercado interno: implementos importados, total país, en millones de pesos",
+                            "description": "Ventas mercado interno de implementos importados",
                             "title": "vta_imple_imp_p",
                             "type": "number",
                             "units": "Millones de pesos"
                         },
                         {
-                            "description": "Ventas mercado interno: implementos importados, total país, en unidades",
+                            "description": "Ventas mercado interno de implementos importados, en unidades",
                             "title": "vta_imple_imp_q",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Ventas mercado interno: implementos nacionales, total país, en millones de pesos",
+                            "description": "Ventas mercado interno de implementos nacionales, en millones de pesos",
                             "title": "vta_imple_nac_p",
                             "type": "number",
                             "units": "Millones de pesos"
                         },
                         {
-                            "description": "Ventas mercado interno: implementos nacionales, total país, en unidades",
+                            "description": "Ventas mercado interno de implementos nacionales, en unidades",
                             "title": "vta_imple_nac_q",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Ventas mercado interno: total implementos, total país, en millones de pesos",
+                            "description": "Ventas mercado interno de total implementos, en millones de pesos",
                             "title": "vta_imple_tot_p",
                             "type": "number",
                             "units": "Millones de pesos"
                         },
                         {
-                            "description": "Ventas mercado interno: total implementos, total país, en unidades y a valores trimestrales",
+                            "description": "Ventas mercado interno de total implementos, total país, en unidades y a valores trimestrales",
                             "title": "vta_imple_tot_q",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Ventas mercado interno: sembradoras importadas, total país, en millones de pesos",
+                            "description": "Ventas mercado interno de sembradoras importadas, total país, en millones de pesos",
                             "title": "vta_sembra_imp_p",
                             "type": "number",
                             "units": "Millones de pesos"
                         },
                         {
-                            "description": "Ventas mercado interno: sembradoras importadas, total país, en unidades",
+                            "description": "Ventas mercado interno de sembradoras importadas, total país, en unidades",
                             "title": "vta_sembra_imp_q",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Ventas mercado interno: sembradoras nacionales, total país, en millones de pesos",
+                            "description": "Ventas mercado interno de sembradoras nacionales, total país, en millones de pesos",
                             "title": "vta_sembra_nac_p",
                             "type": "number",
                             "units": "Millones de pesos"
                         },
                         {
-                            "description": "Ventas mercado interno: sembradoras nacionales, total país, en unidades",
+                            "description": "Ventas mercado interno de sembradoras nacionales, total país, en unidades",
                             "title": "vta_sembra_nac_q",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Ventas mercado interno: total sembradoras, total país, en millones de pesos",
+                            "description": "Ventas mercado interno de total sembradoras, total país, en millones de pesos",
                             "title": "vta_sembra_tot_p",
                             "type": "number",
                             "units": "Millones de pesos"
                         },
                         {
-                            "description": "Ventas mercado interno: total sembradoras, total país, en unidades",
+                            "description": "Ventas mercado interno de total sembradoras, total país, en unidades",
                             "title": "vta_sembra_tot_q",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Ventas mercado interno: tractores importados, total país, en millones de pesos",
+                            "description": "Ventas mercado interno de tractores importados, total país, en millones de pesos",
                             "title": "vta_trac_imp_p",
                             "type": "number",
                             "units": "Millones de pesos"
                         },
                         {
-                            "description": "Ventas mercado interno: tractores importados, total país, en unidades",
+                            "description": "Ventas mercado interno de tractores importados, total país, en unidades",
                             "title": "vta_trac_imp_q",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Ventas mercado interno: tractores nacionales, total país, en millones de pesos",
+                            "description": "Ventas mercado interno de tractores nacionales, total país, en millones de pesos",
                             "title": "vta_trac_nac_p",
                             "type": "number",
                             "units": "Millones de pesos"
                         },
                         {
-                            "description": "Ventas mercado interno: tractores nacionales, total país, en unidades",
+                            "description": "Ventas mercado interno de tractores nacionales, total país, en unidades",
                             "title": "vta_trac_nac_q",
                             "type": "number",
                             "units": "Unidades"
                         },
                         {
-                            "description": "Ventas mercado interno: total tractores, total país, en millones de pesos",
+                            "description": "Ventas mercado interno de total tractores, total país, en millones de pesos",
                             "title": "vta_trac_tot_p",
                             "type": "number",
                             "units": "Millones de pesos"
                         },
                         {
-                            "description": "Ventas mercado interno: total tractores, total país, en unidades",
+                            "description": "Ventas mercado interno de total tractores, total país, en unidades",
                             "title": "vta_trac_tot_q",
                             "type": "number",
                             "units": "Unidades"
@@ -1001,12 +980,144 @@
                     "title": "Indicadores de Maquinaria Agrícola en valores anuales y trimestrales",
                     "issued": "2017-09-25",
                     "format": "CSV",
-                    "modified": "2017-09-25",
-                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/08_maquinaria_agricola_%20dataset.csv",
+                    "modified": "2017-11-24",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/08-indicadores-maq-agricola-basecompleta.csv",
                     "identifier": "08.1"
                 }
             ],
             "identifier": "08"
+        },
+        {
+            "issued": "2017-11-24",
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ECON"
+            ],
+            "title": "Indicadores Sectoriales de Petroquímica-Plástica",
+            "temporal": "1993-12-31/2016-12-31",
+            "source": "IPA, CAIP,  MTEySS",
+            "theme": [
+                "produccion_actividad",
+                "mercado_laboral"
+            ],
+            "spatial": "ARG",
+            "description": "Indicadores de la cadena de valor Petroquímica-Plástica",
+            "contactPoint": {
+                "hasEmail": "sspmicro@mecon.gov.ar",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
+            },
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "keyword": [
+                "Politerileno",
+                "Polipropileno",
+                "PVC",
+                "PET; Poliestireno",
+                "Plástico",
+                "Caucho Sintético."
+            ],
+            "language": [
+                "SPA"
+            ],
+            "modified": "2017-11-24",
+            "accrualPeriodicity": "R/P3M",
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "field": [
+                        {
+                            "description": "Anual, trimestral y mensual",
+                            "title": "indice_tiempo",
+                            "type": "date"
+                        },
+                        {
+                            "description": "Identifica la frecuencia del dato con valores: anual, trimestral y mensual",
+                            "title": "frec_temporal",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "number"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departamento, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Producción: Polietileno",
+                            "title": "prod_poliet",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Producción: Polipropileno",
+                            "title": "prod_poliprop",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Producción: PVC",
+                            "title": "prod_pvc",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Producción: PET (uso envase)",
+                            "title": "prod_pet",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Producción: Poliestireno (convencional y alto impacto)",
+                            "title": "prod_poliestir",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Producción: Poliestireno expandible",
+                            "title": "prod_poliestir_expand",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Producción: Manufacturas de plástico",
+                            "title": "prod_manufact_plast",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Puestos de trabajo de la rama 2413 Fabricación de plásticos en formas primarias y de caucho sintético registrados en el sector privado",
+                            "title": "empleo_2413",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Puestos de trabajo de la rama 2520 Fabricación de productos de plástico registrados en el sector privado",
+                            "title": "empleo_2520",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        }
+                    ],
+                    "description": "Indicadores de Petroquímica-Plástica en valores anuales",
+                    "title": "Indicadores de Petroquímica-Plástica en valores anuales",
+                    "issued": "2017-11-23",
+                    "format": "CSV",
+                    "modified": "2017-11-24",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/10-indicadores-petroquimica-plastica-basecompleta.csv",
+                    "identifier": "10.1"
+                }
+            ],
+            "identifier": "10"
         },
         {
             "issued": "2017-09-25",
@@ -1045,38 +1156,59 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2017-09-25",
+            "modified": "2017-11-24",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
                     "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
                     "field": [
                         {
-                            "description": "Egreso de dólares al país por motivo viajes, en millones de dólares",
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "number"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Egreso de dólares al país por motivo viajes",
                             "title": "cuenta_viajes_egresos",
                             "type": "number",
                             "units": "Millones de USD"
                         },
                         {
-                            "description": "Ingreso de dólares al país por motivo viajes, en millones de dólares",
+                            "description": "Ingreso de dólares al país por motivo viajes",
                             "title": "cuenta_viajes_ingresos",
                             "type": "number",
                             "units": "Millones de USD"
                         },
                         {
-                            "description": "Empleo registrado en el sector privado, en el sector hospedajes (CIIU 551) en puestos de trabajo",
+                            "description": "Empleo registrado en el sector privado, en hoteles y restaurantes (CIIU 55) en puestos de trabajo. Total país y dato por provincia",
+                            "title": "empleo_55_hotelesyrestaurantes",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Empleo registrado en el sector privado, en el sector hospedajes (CIIU 551) en puestos de trabajo, total país",
                             "title": "empleo_551_hoteles",
                             "type": "number",
                             "units": "Puestos de trabajo"
                         },
                         {
-                            "description": "Empleo registrado en el sector privado, en el sector restaurantes (CIIU 552) en puestos de trabajo",
+                            "description": "Empleo registrado en el sector privado, en el sector restaurantes (CIIU 552) en puestos de trabajo, total país",
                             "title": "empleo_552_restaurantes",
                             "type": "number",
                             "units": "Puestos de trabajo"
                         },
                         {
-                            "description": "Empleo registrado en el sector privado, en el sector agencias de viajes (CIIU 634) en puestos de trabajo",
+                            "description": "Empleo registrado en el sector privado, en el sector agencias de viajes (CIIU 634) en puestos de trabajo, total país",
                             "title": "empleo_634_agencias_viaje",
                             "type": "number",
                             "units": "Puestos de trabajo"
@@ -1092,22 +1224,32 @@
                             "type": "date"
                         },
                         {
-                            "description": "Ocupación hotelera de no residentes, total país, en pernoctaciones (valor anual como suma de los meses).",
+                            "description": "Ocupación hotelera de no residentes, total país y localidades turísticas relevadas por la EOH, en pernoctaciones (valor anual como suma de los meses)",
                             "title": "ocup_hotelera_no_resid",
                             "type": "number",
                             "units": "pernoctaciones"
                         },
                         {
-                            "description": "Ocupación hotelera de residentes, total país, en pernoctaciones (valor anual como suma de los meses).",
+                            "description": "Ocupación hotelera de residentes, total país y localidades turísticas relevadas por la EOH, en pernoctaciones (valor anual como suma de los meses)",
                             "title": "ocup_hotelera_resid",
                             "type": "number",
                             "units": "pernoctaciones"
                         },
                         {
-                            "description": "Ocupación hotelera total, total país, en pernoctaciones (valor anual como suma de los meses).",
+                            "description": "Ocupación hotelera total, total paísy localidades turísticas relevadas por la EOH, en pernoctaciones (valor anual como suma de los meses)",
                             "title": "ocup_hotelera_total",
                             "type": "number",
                             "units": "pernoctaciones"
+                        },
+                        {
+                            "description": "Nombre del país de referencia del dato",
+                            "title": "pais",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Nombre de la provincia a la que corresponde el dato con mayor nivel de desagregación (sea departamental, región o localidad)",
+                            "title": "provincia",
+                            "type": "text"
                         },
                         {
                             "description": "Egreso de turistas argentinos, por ezeiza y aeroparque, en miles de personas",
@@ -1144,8 +1286,8 @@
                     "title": "Indicadores de Servicios Turísticos en valores anuales",
                     "issued": "2017-09-25",
                     "format": "CSV",
-                    "modified": "2017-09-25",
-                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/11_turismo_dataset.csv",
+                    "modified": "2017-11-24",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/11-indicadores-turismo-basecompleta.csv",
                     "identifier": "11.1"
                 }
             ],
@@ -1189,12 +1331,27 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2017-09-25",
+            "modified": "2017-11-24",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
                     "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
                     "field": [
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "number"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
                         {
                             "description": "Despachos autorizados en el mercado interno",
                             "title": "despacho_mint",
@@ -1264,8 +1421,8 @@
                     "title": "Indicadores de la cadena de valor de vitivinicultura en valores anuales y mensuales",
                     "issued": "2017-09-25",
                     "format": "CSV",
-                    "modified": "2017-09-25",
-                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/13_vitivinicultura_dataset.csv",
+                    "modified": "2017-11-24",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/13-indicadores-vitivinicultura-basecompleta.csv",
                     "identifier": "13.1"
                 }
             ],
@@ -1314,12 +1471,27 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2017-09-25",
+            "modified": "2017-11-24",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
                     "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
                     "field": [
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "number"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
                         {
                             "description": "Puestos de trabajo registrados en el sector privado, aserrado y cepillado de madera",
                             "title": "empelo_2010",
@@ -1623,12 +1795,607 @@
                     "title": "Indicadores forestales, muebles y papel en valores anuales y trimestrales",
                     "issued": "2017-09-25",
                     "format": "CSV",
-                    "modified": "2017-09-25",
-                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/14_forestal_dataset.csv",
+                    "modified": "2017-11-24",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/14-indicadores-forestal-basecompleta.csv",
                     "identifier": "14.1"
                 }
             ],
             "identifier": "14"
+        },
+        {
+            "issued": "2017-11-24",
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ECON"
+            ],
+            "title": "Indicadores Sectoriales de Telecomunicaciones y Electrónica de Consumo",
+            "temporal": "1993-12-31/2014-12-31",
+            "source": "INDEC, OEDE",
+            "theme": [
+                "produccion_actividad",
+                "mercado_laboral",
+                "agentes",
+                "exportaciones",
+                "importaciones"
+            ],
+            "spatial": "ARG",
+            "description": "Indicadoresde la cadena de valor Telecomunicaciones y Electrónica de Consumo",
+            "contactPoint": {
+                "hasEmail": "sspmicro@mecon.gov.ar",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
+            },
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "keyword": [
+                "celulares",
+                "pcs",
+                "computadoras",
+                "teléfonos",
+                "internet"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "modified": "2017-11-24",
+            "accrualPeriodicity": "R/P3M",
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "field": [
+                        {
+                            "description": "Acceso: cantidad de abonos de cable en el país al cuarto trimestre de cada año",
+                            "title": "abonados_cable",
+                            "type": "number",
+                            "units": "en número de abonos"
+                        },
+                        {
+                            "description": "Acceso: cantidad de accesos a Internet de las organizaciones a diciembre de cada año",
+                            "title": "accesos_internet_org",
+                            "type": "number",
+                            "units": "en número de acceso a Internet"
+                        },
+                        {
+                            "description": "Acceso: cantidad de accesos a Internet residenciales a diciembre de cada año",
+                            "title": "accesos_internet_res",
+                            "type": "number",
+                            "units": "en número de acceso a Internet"
+                        },
+                        {
+                            "description": "Acceso: cantidad de accesos a Internet totales, surge como sumatoria de los accesos móviles y fijos a diciembre de cada año",
+                            "title": "accesos_internet_tot",
+                            "type": "number",
+                            "units": "en número de acceso a Internet"
+                        },
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "number"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Empleo: puestos de trabajo registrados en el sector privado en la rama CIIU 32 \"Radio y televisión\" a valores anuales",
+                            "title": "empleo_32",
+                            "type": "date",
+                            "units": "En puestos de trabajo registrados"
+                        },
+                        {
+                            "description": "Empleo: puestos de trabajo registrados en el sector privado en la rama CIIU 64 \"Telecomunicaciones y correos\" a valores anuales",
+                            "title": "empleo_64",
+                            "type": "number",
+                            "units": "En puestos de trabajo registrados"
+                        },
+                        {
+                            "description": "Comercio exterior: ingreso de divisas por servicios de telecomunicaciones en millones de dólares a valores anuales",
+                            "title": "expo_ss_teleco",
+                            "type": "number",
+                            "units": "En millones de dólares"
+                        },
+                        {
+                            "description": "Identifica la frecuencia del dato con valores: anual, trimestral y mensual",
+                            "title": "frec_temporal",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Comercio exterior: egreso de divisas por servicios de telecomunicaciones en millones de dólares a valores anuales",
+                            "title": "impo_ss_teleco",
+                            "type": "number",
+                            "units": "En millones de dólares"
+                        },
+                        {
+                            "description": "Anual",
+                            "title": "indice_tiempo",
+                            "type": "date"
+                        },
+                        {
+                            "description": "Acceso: cantidad de líneas telefónicas fijas activas  (en servicio) a diciembre de cada año",
+                            "title": "lineas_fijas",
+                            "type": "number",
+                            "units": "en número de líneas telefónicas"
+                        },
+                        {
+                            "description": "Acceso: cantidad de líneas telefónicas móviles activas (en servicio) a diciembre de cada año",
+                            "title": "lineas_moviles",
+                            "type": "number",
+                            "units": "en número de líneas telefónicas"
+                        },
+                        {
+                            "description": "Producción: producción de teléfonos celulares, en cantidad a valores anuales",
+                            "title": "prod_celulares",
+                            "type": "number",
+                            "units": "En unidades"
+                        },
+                        {
+                            "description": "Producción: producción de computadoras portátiles y tablet PC, en cantidad a valores anuales",
+                            "title": "prod_computadoras_portatiles",
+                            "type": "number",
+                            "units": "En unidades"
+                        },
+                        {
+                            "description": "Producción: producción de televisores, en cantidad a valores anuales",
+                            "title": "prod_televisores",
+                            "type": "date",
+                            "units": "En unidades"
+                        }
+                    ],
+                    "description": "Indicadores de Telecomunicaciones y Electrónica de Consumo en valores anuales y trimestrales",
+                    "title": "Indicadores de Telecomunicaciones y Electrónica de Consumo en valores anuales y trimestrales",
+                    "issued": "2017-11-23",
+                    "format": "CSV",
+                    "modified": "2017-11-24",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/15-indicadores-teleco-basecompleta.csv",
+                    "identifier": "15.1"
+                }
+            ],
+            "identifier": "15"
+        },
+        {
+            "issued": "2017-11-24",
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ECON"
+            ],
+            "title": "Indicadores Sectoriales de Industrias Culturales",
+            "temporal": "1996-12-31/2016-12-31",
+            "source": "INDEC, MTEySS",
+            "theme": [
+                "produccion_actividad",
+                "empleo"
+            ],
+            "spatial": "ARG",
+            "description": "Indicadores de la cadena de valor Industrias Culturales",
+            "contactPoint": {
+                "hasEmail": "sspmicro@mecon.gov.ar",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
+            },
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "keyword": [
+                "Artes escénicas",
+                "Espectáculos artísticos",
+                "Artes plásticas y visuales",
+                "Audiovisual",
+                "Contenido digital",
+                "Formación cultural",
+                "Libros y publicaciones",
+                "Patrimonio material",
+                "Producción y edición musical",
+                "Publicidad"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "modified": "2017-11-24",
+            "accrualPeriodicity": "R/P3M",
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "field": [
+                        {
+                            "description": "Anual, trimestral y mensual",
+                            "title": "indice_tiempo",
+                            "type": "date"
+                        },
+                        {
+                            "description": "Identifica la frecuencia del dato con valores: anual, trimestral y mensual",
+                            "title": "frec_temporal",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "number"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departamento, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto: Cultural",
+                            "title": "vab_cult_c",
+                            "type": "number",
+                            "units": "Miles de pesos corrientes"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto:  Artes escénicas y espectáculos artísticos",
+                            "title": "vab_esc_c",
+                            "type": "number",
+                            "units": "Miles de pesos corrientes"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto: Artes plásticas y visuales",
+                            "title": "vab_plast_vis_c",
+                            "type": "number",
+                            "units": "Miles de pesos corrientes"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto: Audiovisual",
+                            "title": "vab_audiovisual_c",
+                            "type": "number",
+                            "units": "Miles de pesos corrientes"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto: Contenido digital",
+                            "title": "vab_dig_c",
+                            "type": "number",
+                            "units": "Miles de pesos corrientes"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto: Diseño",
+                            "title": "vab_dis_c",
+                            "type": "number",
+                            "units": "Miles de pesos corrientes"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto: Formación cultural",
+                            "title": "vab_fc_c",
+                            "type": "number",
+                            "units": "Miles de pesos corrientes"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto: Libros y publicaciones",
+                            "title": "vab_libros_c",
+                            "type": "number",
+                            "units": "Miles de pesos corrientes"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto: Patrimonio material",
+                            "title": "vab_pm_c",
+                            "type": "number",
+                            "units": "Miles de pesos corrientes"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto: Producción y edición musical",
+                            "title": "vab_musica_c",
+                            "type": "number",
+                            "units": "Miles de pesos corrientes"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto: Publicidad",
+                            "title": "vab_publicidad_c",
+                            "type": "number",
+                            "units": "Miles de pesos corrientes"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto: Cultural",
+                            "title": "vab_cult_k",
+                            "type": "number",
+                            "units": "Miles de pesos a precios de 2004"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto: Artes escénicas y espectáculos artísticos",
+                            "title": "vab_esc_k",
+                            "type": "number",
+                            "units": "Miles de pesos a precios de 2004"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto:  Artes plásticas y visuales",
+                            "title": "vab_plast_vis_k",
+                            "type": "number",
+                            "units": "Miles de pesos a precios de 2004"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto: Audiovisual",
+                            "title": "vab_audiovisual_k",
+                            "type": "number",
+                            "units": "Miles de pesos a precios de 2004"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto: Contenido digital",
+                            "title": "vab_dig_k",
+                            "type": "number",
+                            "units": "Miles de pesos a precios de 2004"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto:  Diseño",
+                            "title": "vab_dis_k",
+                            "type": "number",
+                            "units": "Miles de pesos a precios de 2004"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto: Formación cultural",
+                            "title": "vab_fc_k",
+                            "type": "number",
+                            "units": "Miles de pesos a precios de 2004"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto: Libros y publicaciones",
+                            "title": "vab_libros_k",
+                            "type": "number",
+                            "units": "Miles de pesos a precios de 2004"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto: Patrimonio material",
+                            "title": "vab_pm_k",
+                            "type": "number",
+                            "units": "Miles de pesos a precios de 2004"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto: Producción y edición musical",
+                            "title": "vab_musica_k",
+                            "type": "number",
+                            "units": "Miles de pesos a precios de 2004"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto: Publicidad",
+                            "title": "vab_publicidad_k",
+                            "type": "number",
+                            "units": "Miles de pesos a precios de 2004"
+                        },
+                        {
+                            "description": "Puestos de trabajo de la rama 2211 Edición de libros, folletos, partituras y otras publicaciones registrados en el sector privado",
+                            "title": "empleo_2211",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Puestos de trabajo de la rama 2212 Edición de periódicos, revistas y publicaciones periódicas registrados en el sector privado",
+                            "title": "empleo_2212",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Puestos de trabajo de la rama 2213 Edición de grabaciones registrados en el sector privado",
+                            "title": "empleo_2213",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Puestos de trabajo de la rama 2219 Edición n.c.p. registrados en el sector privado",
+                            "title": "empleo_2219",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Puestos de trabajo de la rama 2221 Impresión registrados en el sector privado",
+                            "title": "empleo_2221",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Puestos de trabajo de la rama 2222 Servicios relacionados con la impresión registrados en el sector privado",
+                            "title": "empleo_2222",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Puestos de trabajo de la rama 2230 Reproducción de grabaciones registrados en el sector privado",
+                            "title": "empleo_2230",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Puestos de trabajo de la rama 7430 Servicios de publicidad registrados en el sector privado",
+                            "title": "empleo_7430",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Puestos de trabajo de la rama 7494 Servicios de fotografía  registrados en el sector privado",
+                            "title": "empleo_7494",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Puestos de trabajo de la rama 9211 Producción y distribución de filmes y videocintas registrados en el sector privado",
+                            "title": "empleo_9211",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Puestos de trabajo de la rama 9212 Exhibición de filmes y videocintas registrados en el sector privado",
+                            "title": "empleo_9212",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Puestos de trabajo de la rama 9213 Servicios de radio y televisión  registrados en el sector privado",
+                            "title": "empleo_9213",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Puestos de trabajo de la rama 9214 Servicios teatrales y musicales y servicios artísticos n.c.p. registrados en el sector privado",
+                            "title": "empleo_9214",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Puestos de trabajo de la rama 9219 Servicios de espectáculos artísticos y de diversión  n.c.p. registrados en el sector privado",
+                            "title": "empleo_9219",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Puestos de trabajo de la rama 9220 Servicios de agencias de noticias registrados en el sector privado",
+                            "title": "empleo_9220",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Puestos de trabajo de la rama 9230 Servicios de bibliotecas, archivos y museos y  servicios culturales n.c.p. registrados en el sector privado",
+                            "title": "empleo_9230",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Puestos de trabajo de la rama 9241 Servicios para prácticas deportivas registrados en el sector privado",
+                            "title": "empleo_9241",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Puestos de trabajo de la rama 9249 Servicios de esparcimiento n.c.p. registrados en el sector privado",
+                            "title": "empleo_9249",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        }
+                    ],
+                    "description": "Indicadores de Industrias Culturales en valores anuales",
+                    "title": "Indicadores de Industrias Culturales en valores anuales",
+                    "issued": "2017-11-23",
+                    "format": "CSV",
+                    "modified": "2017-11-24",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/16-indicadores-industrias-culturales-basecompleta.csv",
+                    "identifier": "16.1"
+                }
+            ],
+            "identifier": "16"
+        },
+        {
+            "issued": "2017-11-24",
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ECON"
+            ],
+            "title": "Indicadores Sectoriales de Yerba Mate",
+            "temporal": "2003-01-01/2017-12-01",
+            "source": "INYM, DGEyCCABA",
+            "theme": [
+                "produccion_actividad",
+                "mercado_laboral",
+                "precios"
+            ],
+            "spatial": "ARG",
+            "description": "Indicadores de la cadena de valor Yerba Mate",
+            "contactPoint": {
+                "hasEmail": "sspmicro@mecon.gov.ar",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Regional."
+            },
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "keyword": [
+                "produccion hoja verde yerba mate",
+                "produccion yerba mate canchada",
+                "produccion yerba mate elaborada",
+                "precio hoja verde yerba mate",
+                "precio yerba mate canchada",
+                "precio yerba mate elaborada"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "modified": "2017-11-24",
+            "accrualPeriodicity": "R/P3M",
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "field": [
+                        {
+                            "description": "Identifica la frecuencia del dato con valores: anual, trimestral y mensual",
+                            "title": "frec_temporal",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Anual, trimestral y mensual",
+                            "title": "indice_tiempo",
+                            "type": "date"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "number"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departamento, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Producción yerba mate hoja verde (la suma por provincias puede no coincidir con el total país debido a ajustes no publicados)",
+                            "title": "prod_yerba_mate_hoja_verde",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Producción yerba mate canchada (la suma por provincias puede no coincidir con el total país debido a ajustes no publicados)",
+                            "title": "prod_yerba_mate_canchada",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Producción yerba mate elaborada",
+                            "title": "prod_yerba_mate_elaborada",
+                            "type": "number",
+                            "units": "kilogramos (kg)"
+                        },
+                        {
+                            "description": "Precio yerba mate hoja verde puesta en secadero",
+                            "title": "prec_yerba_mate_hoja_verde",
+                            "type": "number",
+                            "units": "$/tonelada"
+                        },
+                        {
+                            "description": "Precio yerba mate canchada puesta en secadero",
+                            "title": "prec_yerba_mate_canchada",
+                            "type": "number",
+                            "units": "$/tonelada"
+                        },
+                        {
+                            "description": "Precio al consumidor de Capital Federal del paquete de yerba mate",
+                            "title": "prec_yerba_mate_consumidor",
+                            "type": "number",
+                            "units": "pesos por kilogramo ($/kg)"
+                        }
+                    ],
+                    "description": "Indicadores de Yerba Mate en valores anuales, trimestrales y mensuales",
+                    "title": "Indicadores de Yerba Mate en valores anuales, trimestrales y mensuales",
+                    "issued": "2017-11-23",
+                    "format": "CSV",
+                    "modified": "2017-11-24",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/17-indicadores-yerba-mate-basecompleta.csv",
+                    "identifier": "17.1"
+                }
+            ],
+            "identifier": "17"
         },
         {
             "issued": "2017-09-25",
@@ -1664,12 +2431,27 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2017-09-25",
+            "modified": "2017-11-24",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
                     "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
                     "field": [
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "number"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
                         {
                             "description": "Puestos de trabajo registrados en el sector privado",
                             "title": "empleo_2423",
@@ -1683,7 +2465,7 @@
                             "units": "cantidad de empresas"
                         },
                         {
-                            "description": "Identifica la frecuencia del dato con valores: anual, trimestral y mensual",
+                            "description": "Identifica la frecuencia del dato con valores: anual y  trimestral",
                             "title": "frec_temporal",
                             "type": "text"
                         },
@@ -1715,8 +2497,8 @@
                     "title": "Indicadores de la Industria Farmacéutica en valores anuales y trimestrales",
                     "issued": "2017-09-25",
                     "format": "CSV",
-                    "modified": "2017-09-25",
-                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/21_farmacia_dataset.csv",
+                    "modified": "2017-11-24",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/21-indicadores-farmacia-basecompleta.csv",
                     "identifier": "21.1"
                 }
             ],
@@ -1757,12 +2539,27 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2017-09-25",
+            "modified": "2017-11-24",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
                     "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
                     "field": [
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "number"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
                         {
                             "description": "Puestos de trabajo en la industria lactea. Rama 1520",
                             "title": "empl_ind_lacteo",
@@ -1802,8 +2599,8 @@
                     "title": "Indicadores de lacteos en valores anuales, trimestrales y mensuales",
                     "issued": "2017-09-25",
                     "format": "CSV",
-                    "modified": "2017-09-25",
-                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/22_lacteo_dataset.csv",
+                    "modified": "2017-11-24",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/22-indicadores-lacteo-basecompleta.csv",
                     "identifier": "22.1"
                 }
             ],
@@ -1845,152 +2642,167 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2017-09-25",
+            "modified": "2017-11-24",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
                     "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
                     "field": [
                         {
-                            "description": "Pronóstico de Area cultivada de Manzana, por provincia (incluye MZA), en hectáreas",
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "number"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Pronóstico de Area cultivada de Manzana, en hectáreas",
                             "title": "area_p_manzana",
                             "type": "number",
                             "units": "Hectáreas"
                         },
                         {
-                            "description": "Pronóstico de Area cultivada de Pera, por provincia (incluye MZA), en hectáreas",
+                            "description": "Pronóstico de Area cultivada de Pera, en hectáreas",
                             "title": "area_p_pera",
                             "type": "number",
                             "units": "Hectáreas"
                         },
                         {
-                            "description": "Egreso según destino: Exportación de Manzana, en Río Negro y Neuquén, en toneladas",
+                            "description": "Egreso según destino: Exportación de Manzana, en toneladas",
                             "title": "egreso_expo_manzana",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Egreso según destino: Exportación de Pera, en Río Negro y Neuquén, en toneladas",
+                            "description": "Egreso según destino: Exportación de Pera,  en toneladas",
                             "title": "egreso_expo_pera",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Egreso según destino: Industria, de Manzana, en Río Negro y Neuquén, en toneladas",
+                            "description": "Egreso según destino: Industria, de Manzana, en toneladas",
                             "title": "egreso_industria_manzana",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Egreso según destino: Industria, de Pera, en Río Negro y Neuquén, en toneladas",
+                            "description": "Egreso según destino: Industria, de Pera, en toneladas",
                             "title": "egreso_industria_pera",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Egreso según destino: Mercado Interno con Destino Consumo de Manzana, en Río Negro y Neuquén, en toneladas",
+                            "description": "Egreso según destino: Mercado Interno con Destino Consumo de Manzana, en toneladas",
                             "title": "egreso_minterno_cons_manzana",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Egreso según destino: Mercado Interno con Destino Consumo de Pera, en Río Negro y Neuquén, en toneladas",
+                            "description": "Egreso según destino: Mercado Interno con Destino Consumo de Pera, en toneladas",
                             "title": "egreso_minterno_cons_pera",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Egreso según destino: Mercado Interno con Destino Industria de Manzana, en Río Negro y Neuquén, en toneladas",
+                            "description": "Egreso según destino: Mercado Interno con Destino Industria de Manzana, en toneladas",
                             "title": "egreso_minterno_ind_manzana",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Egreso según destino: Mercado Interno con Destino Industria de Pera, en Río Negro y Neuquén, en toneladas",
+                            "description": "Egreso según destino: Mercado Interno con Destino Industria de Pera, en toneladas",
                             "title": "egreso_minterno_ind_pera",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Egreso según destino: Mercado Interno, de Manzana, en Río Negro y Neuquén, en toneladas",
+                            "description": "Egreso según destino: Mercado Interno, de Manzana, en toneladas",
                             "title": "egreso_minterno_manzana",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Egreso según destino: Mercado Interno, de Pera, en Río Negro y Neuquén, en toneladas",
+                            "description": "Egreso según destino: Mercado Interno, de Pera, en toneladas",
                             "title": "egreso_minterno_pera",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Egreso según destino: Subproductos de Manzana, Aroma, en Río Negro y Neuquén, en toneladas",
+                            "description": "Egreso según destino: Subproductos de Manzana, Aroma, en toneladas",
                             "title": "egreso_subp_aroma_manzana",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Egreso según destino: Subproductos de Pera, Aroma, en Río Negro y Neuquén, en toneladas",
+                            "description": "Egreso según destino: Subproductos de Pera, Aroma, en toneladas",
                             "title": "egreso_subp_aroma_pera",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Egreso según destino: Subproductos de Pera, Caldo de Pera, en Río Negro y Neuquén, en toneladas",
+                            "description": "Egreso según destino: Subproductos de Pera, Caldo de Pera, en toneladas",
                             "title": "egreso_subp_caldop_pera",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Egreso según destino: Subproductos de Manzana, Caldo de Sidra, en Río Negro y Neuquén, en toneladas",
+                            "description": "Egreso según destino: Subproductos de Manzana, Caldo de Sidra, en toneladas",
                             "title": "egreso_subp_caldos_manzana",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Egreso según destino: Subproductos de Pera, Caldo de Sidra, en Río Negro y Neuquén, en toneladas, a valores anuales.",
+                            "description": "Egreso según destino: Subproductos de Pera, Caldo de Sidra, en toneladas",
                             "title": "egreso_subp_caldos_pera",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Egreso según destino: Subproductos de Manzana, Conserva al natural, en Río Negro y Neuquén, en toneladas",
+                            "description": "Egreso según destino: Subproductos de Manzana, Conserva al natural, en toneladas",
                             "title": "egreso_subp_conser_manzana",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Egreso según destino: Subproductos de Pera, Conserva al natural, en Río Negro y Neuquén, en toneladas",
+                            "description": "Egreso según destino: Subproductos de Pera, Conserva al natural, en toneladas",
                             "title": "egreso_subp_conser_pera",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Egreso según destino: Subproductos de Manzana, Deshidratado, en Río Negro y Neuquén, en toneladas",
+                            "description": "Egreso según destino: Subproductos de Manzana, Deshidratado, en toneladas",
                             "title": "egreso_subp_deshid_manzana",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Egreso según destino: Subproductos de Manzana, J.C. Tipo Clear, en Río Negro y Neuquén, en toneladas",
+                            "description": "Egreso según destino: Subproductos de Manzana, J.C. Tipo Clear, en toneladas",
                             "title": "egreso_subp_jctc_manzana",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Egreso según destino: Subproductos de Pera, J.C. Tipo Clear, en Río Negro y Neuquén, en toneladas",
+                            "description": "Egreso según destino: Subproductos de Pera, J.C. Tipo Clear, en toneladas",
                             "title": "egreso_subp_jctc_pera",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Egreso según destino: Subproductos de Manzana, Otros Subproductos, en Río Negro y Neuquén, en toneladas",
+                            "description": "Egreso según destino: Subproductos de Manzana, Otros Subproductos, en toneladas",
                             "title": "egreso_subp_otros_manzana",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Egreso según destino: Subproductos de Pera, Otros Subproductos, en Río Negro y Neuquén, en toneladas",
+                            "description": "Egreso según destino: Subproductos de Pera, Otros Subproductos, en toneladas",
                             "title": "egreso_subp_otros_pera",
                             "type": "number",
                             "units": "Toneladas"
@@ -2030,38 +2842,26 @@
                             "units": "pesos por kilogramo ($/kg)"
                         },
                         {
-                            "description": "Pronóstco de producción de manzana, por provincia (incluye MZA), en toneladas",
+                            "description": "Pronóstco de producción de manzana, en toneladas",
                             "title": "prod_p_manzana",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Pronóstco de producción de pera, por provincia (incluye MZA), en toneladas",
+                            "description": "Pronóstco de producción de pera, en toneladas",
                             "title": "prod_p_pera",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Superficie implantada de Manzana, por provincia (incluye NQN), en hectáreas",
-                            "title": "sup_manzana_nqn",
+                            "description": "Superficie implantada de Manzana, en hectáreas",
+                            "title": "sup_manzana",
                             "type": "number",
                             "units": "Hectáreas"
                         },
                         {
-                            "description": "Superficie implantada de Manzana, por provincia (incluye RN), en hectáreas",
-                            "title": "sup_manzana_rn",
-                            "type": "number",
-                            "units": "Hectáreas"
-                        },
-                        {
-                            "description": "Superficie implantada de Pera, por provincia (incluye NQN), en hectáreas",
-                            "title": "sup_pera_nqn",
-                            "type": "number",
-                            "units": "Hectáreas"
-                        },
-                        {
-                            "description": "Superficie implantada de Pera, por provincia (incluye RN), en hectáreas",
-                            "title": "sup_pera_rn",
+                            "description": "Superficie implantada de Pera, en hectáreas",
+                            "title": "sup_pera",
                             "type": "number",
                             "units": "Hectáreas"
                         }
@@ -2070,8 +2870,8 @@
                     "title": "Indicadores de Manzana y Pera en valores anuales y mensuales",
                     "issued": "2017-09-25",
                     "format": "CSV",
-                    "modified": "2017-09-25",
-                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/23_manzana_pera_dataset.csv",
+                    "modified": "2017-11-24",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/23-indicadores-manzana-pera-basecompelta.csv",
                     "identifier": "23.1"
                 }
             ],
@@ -2110,27 +2910,42 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2017-09-25",
+            "modified": "2017-11-24",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
                     "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
                     "field": [
                         {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "number"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
+                        {
                             "description": "Empleo: Metales comunes",
-                            "title": "empl_mc",
+                            "title": "empl_mc_prov",
                             "type": "number",
                             "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Anual",
+                            "title": "indice_tiempo",
+                            "type": "date"
                         },
                         {
                             "description": "Identifica la frecuencia del dato con valores: anual, trimestral y mensual",
                             "title": "frec_temporal",
                             "type": "text"
-                        },
-                        {
-                            "description": "Anual, trimestral y mensual",
-                            "title": "indice_tiempo",
-                            "type": "date"
                         },
                         {
                             "description": "Producción: Acero crudo en miles de toneladas",
@@ -2197,8 +3012,8 @@
                     "title": "Indicadores de Industrias Metálicas Básicas en valores anuales y trimestrales",
                     "issued": "2017-09-25",
                     "format": "CSV",
-                    "modified": "2017-09-25",
-                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/26_industrias_metalicas_basicas_dataset.csv",
+                    "modified": "2017-11-24",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/26-indicadores-metalicas-basicas-basecompleta.csv",
                     "identifier": "26.1"
                 }
             ],
@@ -2241,12 +3056,27 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2017-09-26",
+            "modified": "2017-11-24",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
                     "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
                     "field": [
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "number"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
                         {
                             "description": "Capturas: calamar illex, total país, en toneladas",
                             "title": "cap_cal",
@@ -2278,43 +3108,13 @@
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Capturas: total, provincia buenos aires, en tonaledas",
-                            "title": "cap_pcia_bsas",
-                            "type": "number",
-                            "units": "Toneladas"
-                        },
-                        {
-                            "description": "Capturas: total, provincia chubut, en tonaledas",
-                            "title": "cap_pcia_chubut",
-                            "type": "number",
-                            "units": "Toneladas"
-                        },
-                        {
-                            "description": "Capturas: total, provincia rio ngro, en tonaledas",
-                            "title": "cap_pcia_rn",
-                            "type": "number",
-                            "units": "Toneladas"
-                        },
-                        {
-                            "description": "Capturas: total, provincia santa cruz, en tonaledas",
-                            "title": "cap_pcia_sc",
-                            "type": "number",
-                            "units": "Toneladas"
-                        },
-                        {
-                            "description": "Capturas: total, provincia tierra del fuego, en tonaledas",
-                            "title": "cap_pcia_tf",
-                            "type": "number",
-                            "units": "Toneladas"
-                        },
-                        {
                             "description": "Capturas: peces, total país, en toneladas",
                             "title": "cap_peces",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Capturas: total, total país, en toneladas",
+                            "description": "Capturas: volumen total. Apertura por total país y provincias de Buenos Aires, Chubut, Río Negro, Santa Cruz y Tierra del Fuego. En toneladas",
                             "title": "cap_tot",
                             "type": "number",
                             "units": "Toneladas"
@@ -2358,8 +3158,8 @@
                     "title": "Indicadores de Pesca Marítima en valores anuales, trimestrales y mensuales",
                     "issued": "2017-09-25",
                     "format": "CSV",
-                    "modified": "2017-09-25",
-                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/27_pesca_dataset.csv",
+                    "modified": "2017-11-24",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/27-indicadores-pesca-basecompleta.csv",
                     "identifier": "27.1"
                 }
             ],
@@ -2372,8 +3172,8 @@
                 "ECON"
             ],
             "title": "Indicadores Provinciales Socioeconómicos",
-            "temporal": "1996-01-01/2017-12-31",
-            "source": "INDEC, MSAL, Ministerio de Educación, MTEySS, BCRA, MinHacienda",
+            "temporal": "1991-01-01/2017-12-31",
+            "source": "INDEC, MSAL, Ministerio de Educación, MTEySS, BCRA, MinHacienda, DPEyC, CEP",
             "theme": [
                 "sociodemograficos",
                 "financiamiento",
@@ -2419,19 +3219,14 @@
                             "type": "texto"
                         },
                         {
-                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros.",
-                            "title": "alcance_id",
-                            "type": "texto"
-                        },
-                        {
-                            "description": "Nombre de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
                             "title": "alcance_nombre",
-                            "type": "texto"
+                            "type": "text"
                         },
                         {
-                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros.",
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
                             "title": "alcance_tipo",
-                            "type": "texto"
+                            "type": "text"
                         },
                         {
                             "description": "Alumnos de Educación Común - Inicial - Sector Estatal y Privado",
@@ -2498,6 +3293,30 @@
                             "type": "date"
                         },
                         {
+                            "description": "Producto bruto geográfico total, Base Año 1993,  en miles de pesos a precios de 1993",
+                            "title": "pbg_base1993_constantes",
+                            "type": "number",
+                            "units": "Miles de pesos a precios de 1993"
+                        },
+                        {
+                            "description": "Producto bruto geográfico total, Base Año 1993,  en miles de pesos corrientes",
+                            "title": "pbg_base1993_corrientes",
+                            "type": "number",
+                            "units": "Miles de pesos corrientes"
+                        },
+                        {
+                            "description": "Producto bruto geográfico total, Base Año 2004, en miles de pesos a precios de 2004",
+                            "title": "pbg_base2004_constantes",
+                            "type": "number",
+                            "units": "Miles de pesos a precios de 2004"
+                        },
+                        {
+                            "description": "Producto bruto geográfico total, Base Año 2004, en miles de pesos corrientes",
+                            "title": "pbg_base2004_corrientes",
+                            "type": "number",
+                            "units": "Miles de pesos corrientes"
+                        },
+                        {
                             "description": "Proyecciones de población elaboradas en base a resultados del Censo Nacional de Población, Hogares y Viviendas 2010, en habitantes",
                             "title": "pobl_proy",
                             "type": "number",
@@ -2516,25 +3335,25 @@
                             "units": "Miles de pesos corrientes"
                         },
                         {
-                            "description": "Empleo asalariado registrado del sector privado: total,  en puestos",
+                            "description": "Empleo asalariado registrado del sector privado: total",
                             "title": "puestos_tot",
                             "type": "number",
                             "units": "Puestos de trabajo"
                         },
                         {
-                            "description": "Esquema ahorro inversión financiamiento - Administración Pública no Financiera: recursos corrientes en millones de pesos",
+                            "description": "Esquema ahorro inversión financiamiento - Administración Pública no Financiera: recursos corrientes",
                             "title": "recursos_ctes",
                             "type": "number",
                             "units": "Millones de pesos"
                         },
                         {
-                            "description": "Esquema ahorro inversión financiamiento - Administración Pública no Financiera: resultado financiero en millones de pesos",
+                            "description": "Esquema ahorro inversión financiamiento - Administración Pública no Financiera: resultado financiero",
                             "title": "resultado_financiero",
                             "type": "number",
                             "units": "Millones de pesos"
                         },
                         {
-                            "description": "Esquema ahorro inversión financiamiento - Administración Pública no Financiera: recursos de origen provincial en millones de pesos",
+                            "description": "Esquema ahorro inversión financiamiento - Administración Pública no Financiera: recursos de origen provincial",
                             "title": "rt_origenprov",
                             "type": "number",
                             "units": "Millones de pesos"
@@ -2568,8 +3387,8 @@
                     "title": "Indicadores Provinciales Socioeconómicos en valores anuales y trimestrales",
                     "issued": "2017-09-26",
                     "format": "CSV",
-                    "modified": "2017-09-26",
-                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/99_indicadoresprovinciales_dataset.csv",
+                    "modified": "2017-11-24",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/99-indicadores-provinciales-basecompleta.csv",
                     "identifier": "99.1"
                 }
             ],
