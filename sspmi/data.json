@@ -134,7 +134,7 @@
                 "precios"
             ],
             "spatial": "ARG",
-            "description": "Indicadores de la cadena de valor de Azúcar",
+            "description": "Indicadores de la cadena de valor Azúcar",
             "contactPoint": {
                 "hasEmail": "sspmicro@mecon.gov.ar",
                 "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Regional."
@@ -536,7 +536,7 @@
                 "precios"
             ],
             "spatial": "ARG",
-            "description": "Indicadores de la cadena de carne aviar",
+            "description": "Indicadores de la cadena de valor Carne Aviar",
             "contactPoint": {
                 "hasEmail": "sspmicro@mecon.gov.ar",
                 "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Regional."
@@ -660,7 +660,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Hidrocarburos",
-            "temporal": "1994-01-01/2017-07-01",
+            "temporal": "1994-01-01/2017-09-01",
             "source": "MinEM",
             "theme": [
                 "produccion_actividad",
@@ -696,6 +696,129 @@
             "distribution": [
                 {
                     "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "field": [
+                        {
+                            "description": "Anual, trimestral y mensual",
+                            "title": "indice_tiempo",
+                            "type": "date"
+                        },
+                        {
+                            "description": "Identifica la frecuencia del dato con valores: anual, trimestral y mensual",
+                            "title": "frec_temporal",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "texto"
+                        },
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "texto"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "texto"
+                        },
+                        {
+                            "description": "Producción: gas natural",
+                            "title": "prod_gasnat",
+                            "type": "number",
+                            "units": "Miles de metros cúbicos"
+                        },
+                        {
+                            "description": "Producción: petróleo crudo",
+                            "title": "prod_petcru",
+                            "type": "number",
+                            "units": "Metros cúbicos"
+                        },
+                        {
+                            "description": "Reservas comprobadas_hasta final vida útil yacimiento: gas natural",
+                            "title": "rescomp_gasnat",
+                            "type": "number",
+                            "units": "Millones de metros cúbicos"
+                        },
+                        {
+                            "description": "Reservas posibles_hasta final vida útil yacimiento: gas natural",
+                            "title": "respos_gasnat",
+                            "type": "number",
+                            "units": "Millones de metros cúbicos"
+                        },
+                        {
+                            "description": "Reservas probables_hasta final vida útil yacimiento: gas natural",
+                            "title": "resprob_gasnat",
+                            "type": "number",
+                            "units": "Millones de metros cúbicos"
+                        },
+                        {
+                            "description": "Reservas comprobadas_hasta final vida útil yacimiento: petróleo crudo",
+                            "title": "rescomp_petcru",
+                            "type": "number",
+                            "units": "Miles de metros cúbicos"
+                        },
+                        {
+                            "description": "Reservas posibles_hasta final vida útil yacimiento: petróleo crudo",
+                            "title": "respos_petcru",
+                            "type": "number",
+                            "units": "Miles de metros cúbicos"
+                        },
+                        {
+                            "description": "Reservas probables_hasta final vida útil yacimiento: petróleo crudo",
+                            "title": "resprob_petcru",
+                            "type": "number",
+                            "units": "Miles de metros cúbicos"
+                        },
+                        {
+                            "description": "Venta de combustible: gas oil",
+                            "title": "vta_gasoil",
+                            "type": "number",
+                            "units": "Metros cúbicos"
+                        },
+                        {
+                            "description": "Venta de combustible: nafta",
+                            "title": "vta_nafta",
+                            "type": "number",
+                            "units": "Metros cúbicos"
+                        },
+                        {
+                            "description": "Regalías: gas natural",
+                            "title": "reg_gasnat",
+                            "type": "number",
+                            "units": "En pesos corrientes"
+                        },
+                        {
+                            "description": "Regalías: petróleo crudo",
+                            "title": "reg_petcru",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Regalías: gas licuado petróleo",
+                            "title": "reg_glp",
+                            "type": "number",
+                            "units": "En pesos corrientes"
+                        },
+                        {
+                            "description": "Regalías: gasolina y condensado",
+                            "title": "reg_gyc",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Precio interno promedio ponderado por volumen de ventas: gas natural",
+                            "title": "precint_gasnat",
+                            "type": "number",
+                            "units": "$/Mm3 (pesos por miles de metros cúbicos)"
+                        },
+                        {
+                            "description": "Precio interno promedio ponderado por volumen de ventas: petróleo crudo",
+                            "title": "precint_petcru",
+                            "type": "number",
+                            "units": "USD/m3 (dólares por metros cúbicos)"
+                        }
+                    ],
                     "description": "Indicadores de Hidrocarburos en valores anuales, trimestrales y mensuales",
                     "title": "Indicadores de Hidrocarburos en valores anuales, trimestrales y mensuales",
                     "issued": "2017-09-25",
@@ -2412,7 +2535,7 @@
                 "agentes"
             ],
             "spatial": "ARG",
-            "description": "Indicadores de la Industria Farmaceútica.",
+            "description": "Indicadores de la Industria Farmaceútica",
             "contactPoint": {
                 "hasEmail": "sspmicro@mecon.gov.ar",
                 "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
@@ -2519,7 +2642,7 @@
                 "mercado_laboral"
             ],
             "spatial": "ARG",
-            "description": "Indicadores de la cadena de valor Lacteos",
+            "description": "Indicadores de la cadena de valor Lácteos",
             "contactPoint": {
                 "hasEmail": "sspmicro@mecon.gov.ar",
                 "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Regional."
@@ -2883,7 +3006,7 @@
             "superTheme": [
                 "ECON"
             ],
-            "title": "Indicadores Sectoriales de la Industria Metálicas Básicas",
+            "title": "Indicadores Sectoriales de Metálicas Básicas",
             "temporal": "2002-01-01/2017-07-01",
             "source": "CAA, MinHacienda, MTEySS",
             "theme": [
@@ -2891,7 +3014,7 @@
                 "empleo"
             ],
             "spatial": "ARG",
-            "description": "Indicadores de la cadena de valor Industrias Metálicas Básicas",
+            "description": "Indicadores de la cadena de valor Metálicas Básicas",
             "contactPoint": {
                 "hasEmail": "sspmicro@mecon.gov.ar",
                 "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
