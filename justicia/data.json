@@ -420,7 +420,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Base SAIJ de Normativa Provincial",
             "issued": "2016-11-22T16:09:24.483249",
-            "modified": "2017-11-01T15:09:44.083300",
+            "modified": "2017-12-01T15:27:42.401674",
             "theme": [
                 "informacion-juridica"
             ],
@@ -448,7 +448,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-11-01T11:49:15.862560",
+                    "modified": "2017-12-01T12:27:37.380499",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/d59c2d29-d561-4ad2-a032-cc82b40db2d3/resource/0ebc70cc-0e71-4158-ab75-9759339e4cbd/download/base-saij-normativa-provincial.csv",
                     "issued": "2016-12-19T12:13:11.208126",
                     "identifier": "0ebc70cc-0e71-4158-ab75-9759339e4cbd"
@@ -2025,7 +2025,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Estadística de trámites de automotores",
             "issued": "2017-06-28T17:28:28.132200",
-            "modified": "2017-12-01T14:59:16.930795",
+            "modified": "2017-12-01T15:03:01.123917",
             "theme": [
                 "sistema-registral"
             ],
@@ -2128,7 +2128,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-12-01T11:58:14.073327",
+                    "modified": "2017-12-01T12:02:01.537593",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/392c8364-34d5-4f65-a14a-14be8545d11e/download/estadistica-inscripciones-iniciales-automotores-2017-11.csv",
                     "issued": "2017-12-01T11:58:14.248554",
                     "identifier": "392c8364-34d5-4f65-a14a-14be8545d11e"
@@ -2140,7 +2140,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-12-01T11:59:08.037270",
+                    "modified": "2017-12-01T12:02:15.981142",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/1d96ffe0-1ad7-462e-9a52-9f0b49830056/download/estadistica-transferencias-automotores-2017-11.csv",
                     "issued": "2017-12-01T11:59:08.233018",
                     "identifier": "1d96ffe0-1ad7-462e-9a52-9f0b49830056"
@@ -2157,7 +2157,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Estadística de trámites de maquinarias",
             "issued": "2017-06-28T18:19:55.932924",
-            "modified": "2017-11-01T16:50:44.676084",
+            "modified": "2017-12-01T15:20:33.701736",
             "theme": [
                 "sistema-registral"
             ],
@@ -2254,6 +2254,30 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/e4bc1251-e9ba-489e-987a-35e9ca4a7fbe/download/estadistica-transferencias-maquinarias-2017-10.csv",
                     "issued": "2017-11-01T13:50:35.742740",
                     "identifier": "e4bc1251-e9ba-489e-987a-35e9ca4a7fbe"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/5342251a-a4ae-48ae-bd69-eee26a1ab4fc",
+                    "description": "Estadística de inscripciones iniciales de maquinarias agrícolas, viales e industriales,  por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.",
+                    "title": "Estadística de inscripciones iniciales de maquinarias 2017-11",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-12-01T12:19:48.668915",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/5342251a-a4ae-48ae-bd69-eee26a1ab4fc/download/estadistica-inscripciones-iniciales-maquinarias-2017-11.csv",
+                    "issued": "2017-12-01T12:19:48.848891",
+                    "identifier": "5342251a-a4ae-48ae-bd69-eee26a1ab4fc"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/4855f8d8-d975-42af-8fe8-3928d4ffe375",
+                    "description": "Estadística de transferencias de maquinarias agrícolas, viales e industriales  por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.",
+                    "title": "Estadística de transferencias de maquinarias 2017-11",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-12-01T12:20:25.981861",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/4855f8d8-d975-42af-8fe8-3928d4ffe375/download/estadistica-transferencias-maquinarias-2017-11.csv",
+                    "issued": "2017-12-01T12:20:26.168796",
+                    "identifier": "4855f8d8-d975-42af-8fe8-3928d4ffe375"
                 }
             ]
         },
@@ -2267,7 +2291,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Estadística de trámites de motovehículos",
             "issued": "2017-06-28T18:08:53.679300",
-            "modified": "2017-11-07T19:09:50.125985",
+            "modified": "2017-12-01T15:10:07.519509",
             "theme": [
                 "sistema-registral"
             ],
@@ -2362,6 +2386,30 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/3aae7d2b-79a7-40a1-8ce5-bb53234a7d03/download/estadistica-transferencias-motovehiculos-2017-09.csv",
                     "issued": "2017-10-05T11:39:06.901727",
                     "identifier": "3aae7d2b-79a7-40a1-8ce5-bb53234a7d03"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/f59c7611-0ff2-486c-8cfa-649ab0e7e92c",
+                    "description": "Estadística de inscripciones iniciales de motovehículos por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.",
+                    "title": "Estadística de inscripciones iniciales de motovehículos 2017-11",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-12-01T12:09:17.319209",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/f59c7611-0ff2-486c-8cfa-649ab0e7e92c/download/estadistica-inscripciones-iniciales-motovehiculos-2017-11.csv",
+                    "issued": "2017-12-01T12:09:17.716323",
+                    "identifier": "f59c7611-0ff2-486c-8cfa-649ab0e7e92c"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/4a3508d3-3a2a-4787-adc6-c86ced4f255b",
+                    "description": "Transferencias de motovehículos por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.",
+                    "title": "Estadística de transferencias de motovehículos 2017-11",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-12-01T12:09:59.572906",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/4a3508d3-3a2a-4787-adc6-c86ced4f255b/download/estadistica-transferencias-motovehiculos-2017-11.csv",
+                    "issued": "2017-12-01T12:09:59.764011",
+                    "identifier": "4a3508d3-3a2a-4787-adc6-c86ced4f255b"
                 }
             ]
         },
