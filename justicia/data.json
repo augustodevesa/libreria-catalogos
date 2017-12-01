@@ -349,7 +349,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Base Infoleg de Normativa Nacional",
             "issued": "2016-09-05T18:25:21.249967",
-            "modified": "2017-11-01T14:43:26.345386",
+            "modified": "2017-12-01T14:53:18.822290",
             "theme": [
                 "informacion-juridica"
             ],
@@ -379,7 +379,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-11-01T09:48:49.739597",
+                    "modified": "2017-12-01T09:43:44.670132",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/8db246a2-48dd-4f2f-b08e-ab6293747882/download/base-infoleg-normativa-nacional.csv",
                     "issued": "2016-09-29T11:17:50.274309",
                     "identifier": "8db246a2-48dd-4f2f-b08e-ab6293747882"
@@ -391,7 +391,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-11-01T11:07:35.153283",
+                    "modified": "2017-12-01T11:26:59.353609",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/3a7e6165-f3f6-40ae-87b7-384992481595/download/base-complementaria-infoleg-normas-modificadas.csv",
                     "issued": "2017-08-07T14:00:10.146182",
                     "identifier": "3a7e6165-f3f6-40ae-87b7-384992481595"
@@ -403,7 +403,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-11-01T11:08:15.296181",
+                    "modified": "2017-12-01T11:52:45.058234",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/a145b885-098d-4a21-ae42-495c70feff61/download/base-complementaria-infoleg-normas-modificatorias.csv",
                     "issued": "2017-08-07T16:03:42.553531",
                     "identifier": "a145b885-098d-4a21-ae42-495c70feff61"
@@ -612,7 +612,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.",
             "issued": "2016-09-28T14:57:47.665668",
-            "modified": "2017-11-30T12:34:19.193942",
+            "modified": "2017-12-01T12:07:36.195230",
             "theme": [
                 "sistema-registral"
             ],
@@ -633,12 +633,12 @@
             "distribution": [
                 {
                     "accessURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/ba6f82b3-5714-4974-8c03-6b55ec9811b4",
-                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 30-11-2017. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
+                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 01-12-2017. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
                     "title": "Sistema de Consulta Nacional de Rebeldías y Capturas",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-11-30T09:03:24.659624",
+                    "modified": "2017-12-01T09:01:17.999076",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/ba6f82b3-5714-4974-8c03-6b55ec9811b4/download/rebeldias-y-capturas.csv",
                     "issued": "2017-11-23T09:23:43.569306",
                     "identifier": "ba6f82b3-5714-4974-8c03-6b55ec9811b4"
@@ -2025,7 +2025,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Estadística de trámites de automotores",
             "issued": "2017-06-28T17:28:28.132200",
-            "modified": "2017-11-07T18:21:35.188855",
+            "modified": "2017-12-01T14:59:16.930795",
             "theme": [
                 "sistema-registral"
             ],
@@ -2120,6 +2120,30 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/091ff910-c3fd-4882-8e92-393640545053/download/estadistica-transferencias-automotores-2017-08.csv",
                     "issued": "2017-06-28T15:01:19.382420",
                     "identifier": "091ff910-c3fd-4882-8e92-393640545053"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/392c8364-34d5-4f65-a14a-14be8545d11e",
+                    "description": "Estadística de inscripciones iniciales de automotores por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.",
+                    "title": "Estadística de inscripciones iniciales de automotores 2017-11",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-12-01T11:58:14.073327",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/392c8364-34d5-4f65-a14a-14be8545d11e/download/estadistica-inscripciones-iniciales-automotores-2017-11.csv",
+                    "issued": "2017-12-01T11:58:14.248554",
+                    "identifier": "392c8364-34d5-4f65-a14a-14be8545d11e"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/1d96ffe0-1ad7-462e-9a52-9f0b49830056",
+                    "description": "Estadística de transferencias de automotores por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.",
+                    "title": "Estadística de transferencias de automotores 2017-11",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-12-01T11:59:08.037270",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/1d96ffe0-1ad7-462e-9a52-9f0b49830056/download/estadistica-transferencias-automotores-2017-11.csv",
+                    "issued": "2017-12-01T11:59:08.233018",
+                    "identifier": "1d96ffe0-1ad7-462e-9a52-9f0b49830056"
                 }
             ]
         },
