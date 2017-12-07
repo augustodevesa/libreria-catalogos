@@ -1,12 +1,12 @@
 
-# Catálogo: Ministerio de Desarrollos Social
+# Catálogo: Título del portal
 
 ## Información General
 
 - **Autor**: 
 - **Correo Electrónico**: 
 - **Ruta del catálogo**: None
-- **Nombre del catálogo**: Ministerio de Desarrollos Social
+- **Nombre del catálogo**: Título del portal
 - **Descripción**:
 
 > Describí el portal. Explicá de qué se trata tu catálogo de datos. Por favor, hacelo en no más de tres líneas.
