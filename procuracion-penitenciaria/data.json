@@ -9,6 +9,61 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "bgarcia@ppn.gov.ar ",
+                "name": "Equipo de estadística y bases de datos"
+            },
+            "accessLevel": "public",
+            "description": "Recopila la información producida por organismo en el marco de la aplicación del procedimiento correspondiente inspirado en los principios y criterios del Protocolo de Estambul. La unidad de análisis está constituida por cada una de las personas agredidas en cada hecho de tortura y/o malos tratos de los que se toma conocimiento. La base de datos reúne los hechos registrados y sistematizados desde el año 2009 hasta la actualidad. Produce información sobre las víctimas, las intervenciones efectuadas, los hechos –unidad donde se produjo, circunstancias, modalidad de golpes, objetos utilizados, presencia y descripción de lesiones, etc.-, sus principales consecuencias –amenazas para evitar la denuncia de lo sucedido, aislamiento, sanciones, etc., así como de las estrategias de impunidad desplegadas por la administración penitenciaria.",
+            "license": "Creative Commons Attribution",
+            "title": "Casos de Tortura y Malos Tratos registrados e investigados por la PPN",
+            "issued": "2017-05-08T15:57:47.307377",
+            "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
+            "modified": "2017-12-06T13:41:55.048550",
+            "language": "spa",
+            "theme": [
+                "Malos tratos"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://181.209.63.46/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/6d05d6f7-d399-4987-a8d7-cc9d50384c67/download/base-de-datos-de-casos-de-tortura-y-malos-tratos-investigados-y-documentados-por-la-ppn-2009-201.csv",
+                    "description": "Recopila la información producida por organismo en el marco de la aplicación del procedimiento correspondiente inspirado en los principios y criterios del Protocolo de Estambul. La unidad de análisis está constituida por cada una de las personas agredidas en cada hecho de tortura y/o malos tratos de los que se toma conocimiento. La base de datos reúne los hechos registrados y sistematizados desde el año 2009 hasta la actualidad. Produce información sobre las víctimas, las intervenciones efectuadas, los hechos –unidad donde se produjo, circunstancias, modalidad de golpes, objetos utilizados, presencia y descripción de lesiones, etc.-, sus principales consecuencias –amenazas para evitar la denuncia de lo sucedido, aislamiento, sanciones, etc., así como de las estrategias de impunidad desplegadas por la administración penitenciaria.",
+                    "title": "Casos de Tortura y Malos Tratos registrados e investigados por la PPN",
+                    "issued": "2017-05-08T15:59:46.177309",
+                    "format": "CSV",
+                    "modified": "2017-12-05T12:56:21.592257",
+                    "downloadURL": "http://181.209.63.46/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/6d05d6f7-d399-4987-a8d7-cc9d50384c67/download/base-de-datos-de-casos-de-tortura-y-malos-tratos-investigados-y-documentados-por-la-ppn-2009-201.csv"
+                }
+            ],
+            "keyword": [
+                "agresiones",
+                "cárcel",
+                "degradantes",
+                "derechos humanos",
+                "detenidos",
+                "golpes",
+                "malos tratos",
+                "presos",
+                "prisión",
+                "servicio penitencario federal",
+                "tortura",
+                "tratos crueles",
+                "tratos inhumanos",
+                "violencia institucional"
+            ],
+            "accrualPeriodicity": "R/P6M",
+            "superTheme": [
+                "JUST"
+            ],
+            "landingPage": "www.ppn.gov.ar",
+            "identifier": "80b0e1e2-8052-48a5-9f05-090fa34e5c50",
+            "contactPoint": {
+                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Equipo de estadística y bases de datos"
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "cmotto@ppn.gov.ar",
                 "name": "RNCT"
             },
@@ -18,7 +73,7 @@
             "title": "REGISTRO NACIONAL DE CASOS DE TORTURA Y/O MALOS TRATOS (RNCT)",
             "issued": "2017-12-01T14:15:13.354337",
             "temporal": "2015-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
-            "modified": "2017-12-01T15:32:15.108458",
+            "modified": "2017-12-06T13:41:21.420396",
             "language": "spa",
             "theme": [
                 "Aislamiento",
@@ -28,22 +83,58 @@
             ],
             "distribution": [
                 {
+                    "accessURL": "http://181.209.63.46/dataset/4ab10495-240e-4c8e-a379-adf3e7e7c160/resource/b9546bb2-d2ee-4287-b679-2125457e396a/download/2016rnct-victimas.csv",
+                    "description": "Datos sobre tortura y malos tratos teniendo como unidad de análisis las víctimas, producidos por la Procuración Penitenciaria de la Nación y la Comisión Provincial por la Memoria en sus procedimientos regulares. Además se integran los producidos en relevamientos específicos del Registro Nacional de Casos de Tortura.",
+                    "title": "Víctimas relevadas por el RNCT en el ámbito penitenciario 2016",
+                    "issued": "2017-12-01T14:27:48.001471",
+                    "format": "CSV",
+                    "modified": "2017-12-01T14:27:47.953261",
+                    "downloadURL": "http://181.209.63.46/dataset/4ab10495-240e-4c8e-a379-adf3e7e7c160/resource/b9546bb2-d2ee-4287-b679-2125457e396a/download/2016rnct-victimas.csv"
+                },
+                {
                     "accessURL": "http://181.209.63.46/dataset/4ab10495-240e-4c8e-a379-adf3e7e7c160/resource/fbf114df-927d-4b8b-8656-1bb6e1a6cb3c/download/2015rnct-victimas.csv",
-                    "description": "Registro de los casos de las personas privadas de libertad que han sido sometidas a tortura. El registro se logró por acuerdo entre la CPM)la PPN y el GESPyDH del Instituto de Investigaciones Gino Germani de la Facultad de Ciencias Sociales, Universidad de Buenos Aires. Para mas datos vea el documento descriptivo.",
-                    "title": "REGISTRO NACIONAL DE CASOS DE TORTURA Y/O MALOS TRATOS (RNCT) 2015",
+                    "description": "Datos sobre tortura y malos tratos teniendo como unidad de análisis las víctimas, producidos por la Procuración Penitenciaria de la Nación y la Comisión Provincial por la Memoria en sus procedimientos regulares. Además se integran los producidos en relevamientos específicos del Registro Nacional de Casos de Tortura.",
+                    "title": "Víctimas relevadas por el RNCT en el ámbito penitenciario 2015",
                     "issued": "2017-12-01T14:21:32.869193",
                     "format": "CSV",
                     "modified": "2017-12-01T14:25:21.941330",
                     "downloadURL": "http://181.209.63.46/dataset/4ab10495-240e-4c8e-a379-adf3e7e7c160/resource/fbf114df-927d-4b8b-8656-1bb6e1a6cb3c/download/2015rnct-victimas.csv"
                 },
                 {
-                    "accessURL": "http://181.209.63.46/dataset/4ab10495-240e-4c8e-a379-adf3e7e7c160/resource/b9546bb2-d2ee-4287-b679-2125457e396a/download/2016rnct-victimas.csv",
-                    "description": "Registro de los casos de las personas privadas de libertad que han sido sometidas a tortura. El registro se logró por acuerdo entre la CPM)la PPN y el GESPyDH del Instituto de Investigaciones Gino Germani de la Facultad de Ciencias Sociales, Universidad de Buenos Aires. Para mas datos vea el documento descriptivo.",
-                    "title": "REGISTRO NACIONAL DE CASOS DE TORTURA Y/O MALOS TRATOS (RNCT) 2016",
-                    "issued": "2017-12-01T14:27:48.001471",
+                    "accessURL": "http://181.209.63.46/dataset/4ab10495-240e-4c8e-a379-adf3e7e7c160/resource/4d02fe73-edd1-44d0-9462-9827432999f1/download/2014rnct-victimas.csv",
+                    "description": "Datos sobre tortura y malos tratos teniendo como unidad de análisis las víctimas, producidos por la Procuración Penitenciaria de la Nación y la Comisión Provincial por la Memoria en sus procedimientos regulares. Además se integran los producidos en relevamientos específicos del Registro Nacional de Casos de Tortura.sobre los distintos tipos de tortura y malos tratos perpetrados contra las víctimas, los lugares de ocurrencia y las agencias de seguridad y penitenciarias implicadas.",
+                    "title": "Víctimas relevadas por el Registro Nacional de Casos de Tortura en el ámbito penitenciario 2014",
+                    "issued": "2017-12-05T13:55:18.469647",
                     "format": "CSV",
-                    "modified": "2017-12-01T14:27:47.953261",
-                    "downloadURL": "http://181.209.63.46/dataset/4ab10495-240e-4c8e-a379-adf3e7e7c160/resource/b9546bb2-d2ee-4287-b679-2125457e396a/download/2016rnct-victimas.csv"
+                    "modified": "2017-12-05T13:55:18.409581",
+                    "downloadURL": "http://181.209.63.46/dataset/4ab10495-240e-4c8e-a379-adf3e7e7c160/resource/4d02fe73-edd1-44d0-9462-9827432999f1/download/2014rnct-victimas.csv"
+                },
+                {
+                    "accessURL": "http://181.209.63.46/dataset/4ab10495-240e-4c8e-a379-adf3e7e7c160/resource/f0356cd8-5833-428c-be7d-5c65f665924b/download/2013rnct-victimas.csv",
+                    "description": "Datos sobre tortura y malos tratos teniendo como unidad de análisis las víctimas, producidos por la Procuración Penitenciaria de la Nación y la Comisión Provincial por la Memoria en sus procedimientos regulares. Además se integran los producidos en relevamientos específicos del Registro Nacional de Casos de Tortura.",
+                    "title": "Víctimas relevadas por el Registro Nacional de Casos de Tortura en el ámbito penitenciario 2013",
+                    "issued": "2017-12-05T14:04:48.746192",
+                    "format": "CSV",
+                    "modified": "2017-12-05T14:04:48.689947",
+                    "downloadURL": "http://181.209.63.46/dataset/4ab10495-240e-4c8e-a379-adf3e7e7c160/resource/f0356cd8-5833-428c-be7d-5c65f665924b/download/2013rnct-victimas.csv"
+                },
+                {
+                    "accessURL": "http://181.209.63.46/dataset/4ab10495-240e-4c8e-a379-adf3e7e7c160/resource/c2894f0d-0fd9-447e-91e5-e6e4695c596c/download/2012rnct-victimas.csv",
+                    "description": "Datos sobre tortura y malos tratos teniendo como unidad de análisis las víctimas, producidos por la Procuración Penitenciaria de la Nación y la Comisión Provincial por la Memoria en sus procedimientos regulares. Además se integran los producidos en relevamientos específicos del Registro Nacional de Casos de Tortura.",
+                    "title": "Víctimas relevadas por el RNCT en el ámbito penitenciario 2012",
+                    "issued": "2017-12-05T14:14:33.003555",
+                    "format": "CSV",
+                    "modified": "2017-12-05T14:14:32.944391",
+                    "downloadURL": "http://181.209.63.46/dataset/4ab10495-240e-4c8e-a379-adf3e7e7c160/resource/c2894f0d-0fd9-447e-91e5-e6e4695c596c/download/2012rnct-victimas.csv"
+                },
+                {
+                    "accessURL": "http://181.209.63.46/dataset/4ab10495-240e-4c8e-a379-adf3e7e7c160/resource/be116254-0c3f-4130-8c1d-2932fbc20e52/download/2011rnct-victimas.csv",
+                    "description": "Datos sobre tortura y malos tratos teniendo como unidad de análisis las víctimas, producidos por la Procuración Penitenciaria de la Nación y la Comisión Provincial por la Memoria en sus procedimientos regulares. Además se integran los producidos en relevamientos específicos del Registro Nacional de Casos de Tortura.",
+                    "title": "Víctimas relevadas por el RNCT en el ámbito penitenciario 2011",
+                    "issued": "2017-12-05T14:16:11.785495",
+                    "format": "CSV",
+                    "modified": "2017-12-05T14:16:11.694878",
+                    "downloadURL": "http://181.209.63.46/dataset/4ab10495-240e-4c8e-a379-adf3e7e7c160/resource/be116254-0c3f-4130-8c1d-2932fbc20e52/download/2011rnct-victimas.csv"
                 },
                 {
                     "accessURL": "http://181.209.63.46/dataset/4ab10495-240e-4c8e-a379-adf3e7e7c160/resource/938342cd-e642-4a64-8235-c8d8bb0d1c52/download/ficha-tecnica-rnct-para-public.-de-bases-1-1.docx",
@@ -53,15 +144,6 @@
                     "format": "DOCX",
                     "modified": "2017-12-01T14:29:26.507113",
                     "downloadURL": "http://181.209.63.46/dataset/4ab10495-240e-4c8e-a379-adf3e7e7c160/resource/938342cd-e642-4a64-8235-c8d8bb0d1c52/download/ficha-tecnica-rnct-para-public.-de-bases-1-1.docx"
-                },
-                {
-                    "accessURL": "http://181.209.63.46/dataset/4ab10495-240e-4c8e-a379-adf3e7e7c160/resource/651fcaf0-7e66-416e-97bb-e2331c2833ee/download/2011-2013rnct-victimas.csv",
-                    "description": "Registro de los casos de las personas privadas de libertad que han sido victimas de tortura. El registro se logró por acuerdo entre la CPM)la PPN y el GESPyDH del Instituto de Investigaciones Gino Germani de la Facultad de Ciencias Sociales, Universidad de Buenos Aires. Para mas datos vea el documento descriptivo.",
-                    "title": "REGISTRO NACIONAL DE CASOS DE TORTURA Y/O MALOS TRATOS 2011-2013",
-                    "issued": "2017-12-01T15:32:15.139051",
-                    "format": "CSV",
-                    "modified": "2017-12-01T15:32:15.085521",
-                    "downloadURL": "http://181.209.63.46/dataset/4ab10495-240e-4c8e-a379-adf3e7e7c160/resource/651fcaf0-7e66-416e-97bb-e2331c2833ee/download/2011-2013rnct-victimas.csv"
                 }
             ],
             "keyword": [
@@ -81,6 +163,109 @@
                 "hasEmail": "mailto:masheehan@ppn.gov.ar",
                 "@type": "vcard:Contact",
                 "fn": "Maximiliano Sheehan"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "bgarcia@ppn.gov.ar ",
+                "name": "Equipo de estadística y base de datos"
+            },
+            "accessLevel": "public",
+            "description": "En esta base se reponen los datos remitidos por el SPF en las síntesis semanales de población. La misma está construida mediante la última información disponible de cada mes. Su principal función es la de dar cuenta de la situación de superpoblación y manejo arbitrario de los cupos de alojamiento. El volumen de detenidos alojados en cada establecimiento puede ser observado así en su dinamismo a lo largo del tiempo.",
+            "license": "Creative Commons Attribution",
+            "title": "Población y alojamiento en el Servicio Penitenciario Federal",
+            "issued": "2017-04-27T14:23:40.200122",
+            "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
+            "modified": "2017-12-05T12:59:11.536065",
+            "language": "spa",
+            "theme": [
+                "Capacidad y nivel de ocupación "
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://181.209.63.46/dataset/c8a7c0ec-775f-4f3d-982f-72290d29e6e8/resource/06534f1d-c89d-42e3-87c3-8dc2894f0c8e/download/poblacion-y-alojamiento-en-el-servicio-penitenciario-federal.csv",
+                    "description": "En esta base se reponen los datos remitidos por el SERVICIO PENITENCIARIO FEDERAL en las síntesis semanales de población. La misma está construida mediante la última información disponible de cada mes. Su principal función es la de dar cuenta de la situación de superpoblación y manejo arbitrario de los cupos de alojamiento. El volumen de detenidos alojados en cada establecimiento puede ser observado así en su dinamismo a lo largo del tiempo.",
+                    "title": "Población y alojamiento en el Servicio Penitenciario Federal",
+                    "issued": "2017-04-27T14:26:09.130963",
+                    "format": "CSV",
+                    "modified": "2017-05-02T15:22:13.053808",
+                    "downloadURL": "http://181.209.63.46/dataset/c8a7c0ec-775f-4f3d-982f-72290d29e6e8/resource/06534f1d-c89d-42e3-87c3-8dc2894f0c8e/download/poblacion-y-alojamiento-en-el-servicio-penitenciario-federal.csv"
+                },
+                {
+                    "accessURL": "http://181.209.63.46/dataset/c8a7c0ec-775f-4f3d-982f-72290d29e6e8/resource/f97fa4cd-f0f7-41f5-82bd-d06e655e5163/download/base-de-datos-de-poblacion-y-alojamiento-en-el-spf-2009-2017-1er-semestre.csv",
+                    "issued": "2017-12-05T12:59:11.586872",
+                    "downloadURL": "http://181.209.63.46/dataset/c8a7c0ec-775f-4f3d-982f-72290d29e6e8/resource/f97fa4cd-f0f7-41f5-82bd-d06e655e5163/download/base-de-datos-de-poblacion-y-alojamiento-en-el-spf-2009-2017-1er-semestre.csv",
+                    "modified": "2017-12-05T12:59:11.517895",
+                    "format": "CSV"
+                }
+            ],
+            "keyword": [
+                "cárcel",
+                "derechos humanos",
+                "hacinamiento",
+                "presos",
+                "prisión",
+                "servicio penitenciario federal",
+                "sobrepoblación"
+            ],
+            "accrualPeriodicity": "R/P6M",
+            "superTheme": [
+                "SOCI"
+            ],
+            "landingPage": "http://181.209.63.46/dataset/base-de-datos-de-poblacion-y-alojamiento-en-el-spf",
+            "identifier": "c8a7c0ec-775f-4f3d-982f-72290d29e6e8",
+            "contactPoint": {
+                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Equipo de estadística y base de datos"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "bgarcia@ppn.gov.ar ",
+                "name": "Equipo de estadística y base de datos"
+            },
+            "accessLevel": "public",
+            "description": "La información resultante acerca de cada uno de los fallecimientos registrados es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada una de las muertes bajo custodia penitenciaria. A los efectos de este relevamiento se contabiliza la totalidad de fallecimientos, cualquiera sea su causa, de personas detenidas bajo la custodia de la administración penitenciaria federal, indistintamente que la muerte ocurra dentro del centro de detención, en hospital extramuros o durante un traslado.",
+            "license": "Creative Commons Attribution",
+            "title": "Fallecimientos en Prisión",
+            "issued": "2017-04-27T13:48:21.909008",
+            "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
+            "modified": "2017-12-05T12:55:12.551369",
+            "language": "spa",
+            "theme": [
+                "Fallecimientos"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://181.209.63.46/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision--2009--2017-1er-semestre.csv",
+                    "description": "La información resultante acerca de cada uno de los fallecimientos registrados es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada una de las muertes bajo custodia penitenciaria. A los efectos de este relevamiento se contabiliza la totalidad de fallecimientos, cualquiera sea su causa, de personas detenidas bajo la custodia de la administración penitenciaria federal, indistintamente que la muerte ocurra dentro del centro de detención, en hospital extramuros o durante un traslado.",
+                    "title": "BASE DE DATOS DE FALLECIMIENTOS EN PRISION",
+                    "issued": "2017-04-27T13:51:30.804506",
+                    "format": "CSV",
+                    "modified": "2017-12-05T12:55:12.536618",
+                    "downloadURL": "http://181.209.63.46/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision--2009--2017-1er-semestre.csv"
+                }
+            ],
+            "keyword": [
+                "cárcel",
+                "derechos humanos",
+                "fallecimientos",
+                "muerte",
+                "presos",
+                "prisión"
+            ],
+            "accrualPeriodicity": "R/P6M",
+            "superTheme": [
+                "SOCI",
+                "TECH"
+            ],
+            "landingPage": "www.ppn.gov.ar",
+            "identifier": "8b9dce12-7069-4fd6-b78b-08e1f03e3732",
+            "contactPoint": {
+                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Equipo de estadística y base de datos"
             }
         },
         {
@@ -131,157 +316,6 @@
                 "hasEmail": "mailto:bgarcia@ppn.gov.ar",
                 "@type": "vcard:Contact",
                 "fn": "Equipo de estadística y bases de datos"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "bgarcia@ppn.gov.ar ",
-                "name": "Equipo de estadística y bases de datos"
-            },
-            "accessLevel": "public",
-            "description": "Recopila la información producida por organismo en el marco de la aplicación del procedimiento correspondiente inspirado en los principios y criterios del Protocolo de Estambul. La unidad de análisis está constituida por cada una de las personas agredidas en cada hecho de tortura y/o malos tratos de los que se toma conocimiento. La base de datos reúne los hechos registrados y sistematizados desde el año 2009 hasta la actualidad. Produce información sobre las víctimas, las intervenciones efectuadas, los hechos –unidad donde se produjo, circunstancias, modalidad de golpes, objetos utilizados, presencia y descripción de lesiones, etc.-, sus principales consecuencias –amenazas para evitar la denuncia de lo sucedido, aislamiento, sanciones, etc., así como de las estrategias de impunidad desplegadas por la administración penitenciaria.",
-            "license": "Creative Commons Attribution",
-            "title": "Casos de Tortura y Malos Tratos registrados e investigados por la PPN",
-            "issued": "2017-05-08T15:57:47.307377",
-            "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
-            "modified": "2017-06-15T01:13:22.197460",
-            "language": "spa",
-            "theme": [
-                "Malos tratos"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://181.209.63.46/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/6d05d6f7-d399-4987-a8d7-cc9d50384c67/download/casos-de-tortura-y-malos-tratos-registrados-e-investigados-por-la-ppn.csv",
-                    "description": "Recopila la información producida por organismo en el marco de la aplicación del procedimiento correspondiente inspirado en los principios y criterios del Protocolo de Estambul. La unidad de análisis está constituida por cada una de las personas agredidas en cada hecho de tortura y/o malos tratos de los que se toma conocimiento. La base de datos reúne los hechos registrados y sistematizados desde el año 2009 hasta la actualidad. Produce información sobre las víctimas, las intervenciones efectuadas, los hechos –unidad donde se produjo, circunstancias, modalidad de golpes, objetos utilizados, presencia y descripción de lesiones, etc.-, sus principales consecuencias –amenazas para evitar la denuncia de lo sucedido, aislamiento, sanciones, etc., así como de las estrategias de impunidad desplegadas por la administración penitenciaria.",
-                    "title": "Casos de Tortura y Malos Tratos registrados e investigados por la PPN",
-                    "issued": "2017-05-08T15:59:46.177309",
-                    "format": "CSV",
-                    "modified": "2017-05-08T15:59:45.943455",
-                    "downloadURL": "http://181.209.63.46/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/6d05d6f7-d399-4987-a8d7-cc9d50384c67/download/casos-de-tortura-y-malos-tratos-registrados-e-investigados-por-la-ppn.csv"
-                }
-            ],
-            "keyword": [
-                "agresiones",
-                "cárcel",
-                "degradantes",
-                "derechos humanos",
-                "detenidos",
-                "golpes",
-                "malos tratos",
-                "presos",
-                "prisión",
-                "servicio penitencario federal",
-                "tortura",
-                "tratos crueles",
-                "tratos inhumanos",
-                "violencia institucional"
-            ],
-            "accrualPeriodicity": "R/P6M",
-            "superTheme": [
-                "JUST"
-            ],
-            "landingPage": "www.ppn.gov.ar",
-            "identifier": "80b0e1e2-8052-48a5-9f05-090fa34e5c50",
-            "contactPoint": {
-                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Equipo de estadística y bases de datos"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "bgarcia@ppn.gov.ar ",
-                "name": "Equipo de estadística y base de datos"
-            },
-            "accessLevel": "public",
-            "description": "La información resultante acerca de cada uno de los fallecimientos registrados es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada una de las muertes bajo custodia penitenciaria. A los efectos de este relevamiento se contabiliza la totalidad de fallecimientos, cualquiera sea su causa, de personas detenidas bajo la custodia de la administración penitenciaria federal, indistintamente que la muerte ocurra dentro del centro de detención, en hospital extramuros o durante un traslado.",
-            "license": "Creative Commons Attribution",
-            "title": "Fallecimientos en Prisión",
-            "issued": "2017-04-27T13:48:21.909008",
-            "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
-            "modified": "2017-06-15T01:12:56.920697",
-            "language": "spa",
-            "theme": [
-                "Fallecimientos"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://181.209.63.46/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision-2009-2016.csv",
-                    "description": "La información resultante acerca de cada uno de los fallecimientos registrados es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada una de las muertes bajo custodia penitenciaria. A los efectos de este relevamiento se contabiliza la totalidad de fallecimientos, cualquiera sea su causa, de personas detenidas bajo la custodia de la administración penitenciaria federal, indistintamente que la muerte ocurra dentro del centro de detención, en hospital extramuros o durante un traslado.",
-                    "title": "BASE DE DATOS DE FALLECIMIENTOS EN PRISION",
-                    "issued": "2017-04-27T13:51:30.804506",
-                    "format": "CSV",
-                    "modified": "2017-04-27T13:51:30.649796",
-                    "downloadURL": "http://181.209.63.46/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision-2009-2016.csv"
-                }
-            ],
-            "keyword": [
-                "cárcel",
-                "derechos humanos",
-                "fallecimientos",
-                "muerte",
-                "presos",
-                "prisión"
-            ],
-            "accrualPeriodicity": "R/P6M",
-            "superTheme": [
-                "SOCI",
-                "TECH"
-            ],
-            "landingPage": "www.ppn.gov.ar",
-            "identifier": "8b9dce12-7069-4fd6-b78b-08e1f03e3732",
-            "contactPoint": {
-                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Equipo de estadística y base de datos"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "bgarcia@ppn.gov.ar ",
-                "name": "Equipo de estadística y base de datos"
-            },
-            "accessLevel": "public",
-            "description": "En esta base se reponen los datos remitidos por el SPF en las síntesis semanales de población. La misma está construida mediante la última información disponible de cada mes. Su principal función es la de dar cuenta de la situación de superpoblación y manejo arbitrario de los cupos de alojamiento. El volumen de detenidos alojados en cada establecimiento puede ser observado así en su dinamismo a lo largo del tiempo.",
-            "license": "Creative Commons Attribution",
-            "title": "Población y alojamiento en el Servicio Penitenciario Federal",
-            "issued": "2017-04-27T14:23:40.200122",
-            "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
-            "modified": "2017-06-15T01:12:35.982815",
-            "language": "spa",
-            "theme": [
-                "Capacidad y nivel de ocupación "
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://181.209.63.46/dataset/c8a7c0ec-775f-4f3d-982f-72290d29e6e8/resource/06534f1d-c89d-42e3-87c3-8dc2894f0c8e/download/poblacion-y-alojamiento-en-el-servicio-penitenciario-federal.csv",
-                    "description": "En esta base se reponen los datos remitidos por el SERVICIO PENITENCIARIO FEDERAL en las síntesis semanales de población. La misma está construida mediante la última información disponible de cada mes. Su principal función es la de dar cuenta de la situación de superpoblación y manejo arbitrario de los cupos de alojamiento. El volumen de detenidos alojados en cada establecimiento puede ser observado así en su dinamismo a lo largo del tiempo.",
-                    "title": "Población y alojamiento en el Servicio Penitenciario Federal",
-                    "issued": "2017-04-27T14:26:09.130963",
-                    "format": "CSV",
-                    "modified": "2017-05-02T15:22:13.053808",
-                    "downloadURL": "http://181.209.63.46/dataset/c8a7c0ec-775f-4f3d-982f-72290d29e6e8/resource/06534f1d-c89d-42e3-87c3-8dc2894f0c8e/download/poblacion-y-alojamiento-en-el-servicio-penitenciario-federal.csv"
-                }
-            ],
-            "keyword": [
-                "cárcel",
-                "derechos humanos",
-                "hacinamiento",
-                "presos",
-                "prisión",
-                "servicio penitenciario federal",
-                "sobrepoblación"
-            ],
-            "accrualPeriodicity": "R/P6M",
-            "superTheme": [
-                "SOCI"
-            ],
-            "landingPage": "http://181.209.63.46/dataset/base-de-datos-de-poblacion-y-alojamiento-en-el-spf",
-            "identifier": "c8a7c0ec-775f-4f3d-982f-72290d29e6e8",
-            "contactPoint": {
-                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Equipo de estadística y base de datos"
             }
         },
         {
