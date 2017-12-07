@@ -6088,7 +6088,7 @@
             "license": "Creative Commons Attribution",
             "title": "Estadísticas de biodiesel y bioetanol",
             "issued": "2016-12-22T14:56:55.641090",
-            "modified": "2017-10-26T19:30:13.828848",
+            "modified": "2017-11-15T16:16:48.500905",
             "theme": [
                 "biocombustibles",
                 "energias-renovables"
@@ -6452,16 +6452,22 @@
             "license": "Creative Commons Attribution",
             "title": "Exploración de Hidrocarburos -  Inventario de Líneas Sísmicas 2D",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-07-21T03:43:08.540575",
+            "modified": "2017-12-01T04:59:35.171773",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos",
                 "mapas"
             ],
-            "keyword": [],
+            "keyword": [
+                "2D",
+                "319",
+                "Exploración",
+                "Información geográfica",
+                "Planos base",
+                "Sísmica"
+            ],
             "superTheme": [
                 "ENER"
             ],
-            "accrualPeriodicity": "eventual",
             "contactPoint": {
                 "hasEmail": "tienerg@minem.gob.ar",
                 "fn": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. "
@@ -6475,7 +6481,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-07-02T02:10:52.818471",
+                    "modified": "2017-12-01T01:57:56.918009",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/071b7a3e-0a34-426c-a605-d24e7bdef9a3/resource/fb01c3ae-dc61-4845-885a-457ea9c5f796/download/exploracin-hidrocarburos-lineas-ssmicas-2d.csv",
                     "issued": "2017-05-04T15:21:39.297845",
                     "identifier": "fb01c3ae-dc61-4845-885a-457ea9c5f796"
@@ -6487,7 +6493,7 @@
                     "byteSize": null,
                     "format": "SHP",
                     "mediaType": null,
-                    "modified": "2017-07-02T02:05:35.553183",
+                    "modified": "2017-12-01T01:55:22.268792",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/071b7a3e-0a34-426c-a605-d24e7bdef9a3/resource/30038505-6226-4383-b165-d27f5f6dcc9c/download/exploracin-hidrocarburos-lineas-ssmicas-2d.zip",
                     "issued": "2017-05-04T20:00:32.265737",
                     "identifier": "30038505-6226-4383-b165-d27f5f6dcc9c"
@@ -6504,16 +6510,20 @@
             "license": "Creative Commons Attribution",
             "title": "Exploración de hidrocarburos - Permisos de Exploración",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-07-21T03:42:14.457657",
+            "modified": "2017-11-28T16:07:47.039635",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos",
                 "mapas"
             ],
-            "keyword": [],
+            "keyword": [
+                "319",
+                "Exploración",
+                "Información geográfica",
+                "Planos base"
+            ],
             "superTheme": [
                 "ENER"
             ],
-            "accrualPeriodicity": "eventual",
             "contactPoint": {
                 "hasEmail": "tienerg@minem.gob.ar",
                 "fn": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información."
@@ -6539,7 +6549,7 @@
                     "byteSize": null,
                     "format": "SHP",
                     "mediaType": null,
-                    "modified": "2017-07-02T02:14:24.831351",
+                    "modified": "2017-11-28T13:07:44.459103",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/66044d22-6657-47d1-b0bb-ecc7c1d37a44/resource/f1d7f442-fcd1-450d-b392-7faf1156df89/download/exploracin-hidrocarburos-permisos-de-exploracin.zip",
                     "issued": "2017-05-04T19:46:56.197780",
                     "identifier": "f1d7f442-fcd1-450d-b392-7faf1156df89"
@@ -6556,16 +6566,21 @@
             "license": "Creative Commons Attribution",
             "title": "Exploración de hidrocarburos - Inventario de Sísmicas 3D",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-07-21T03:42:49.586328",
+            "modified": "2017-11-28T15:19:37.519443",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos",
                 "mapas"
             ],
-            "keyword": [],
+            "keyword": [
+                "319",
+                "3D",
+                "Información geográfica",
+                "Planos base",
+                "Sísmica"
+            ],
             "superTheme": [
                 "ENER"
             ],
-            "accrualPeriodicity": "eventual",
             "contactPoint": {
                 "hasEmail": "tienerg@minem.gob.ar",
                 "fn": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. "
@@ -7509,7 +7524,7 @@
             "license": "Creative Commons Attribution",
             "title": "GLP - Paridad de Exportación de referencia",
             "issued": "2016-12-22T17:34:17.543529",
-            "modified": "2017-09-29T11:45:51.195332",
+            "modified": "2017-11-30T17:09:25.299771",
             "theme": [
                 "otros"
             ],
@@ -10691,7 +10706,7 @@
             "license": "Creative Commons Attribution",
             "title": "Informe Trimestral de Coyuntura Energética",
             "issued": "2017-03-01T18:45:01.117181",
-            "modified": "2017-08-29T14:39:13.987260",
+            "modified": "2017-11-23T15:04:13.838114",
             "theme": [
                 "otros"
             ],
@@ -10710,6 +10725,18 @@
             },
             "identifier": "82496485-c054-4623-be52-fb2bdec9b587",
             "distribution": [
+                {
+                    "accessURL": "https://datos.minem.gob.ar/dataset/82496485-c054-4623-be52-fb2bdec9b587/resource/37686370-3446-44bc-9578-0bd55656766e",
+                    "description": "",
+                    "title": "Informe Trimestral de Coyuntura Energética Tercer Trimestre 2017",
+                    "byteSize": null,
+                    "format": "PDF",
+                    "mediaType": null,
+                    "modified": "2017-11-23T12:04:13.806827",
+                    "downloadURL": "http://datos.minem.gob.ar/dataset/82496485-c054-4623-be52-fb2bdec9b587/resource/37686370-3446-44bc-9578-0bd55656766e/download/informedecoyunturaminemt32017.pdf",
+                    "issued": "2017-11-22T20:01:26.022308",
+                    "identifier": "37686370-3446-44bc-9578-0bd55656766e"
+                },
                 {
                     "accessURL": "https://datos.minem.gob.ar/dataset/82496485-c054-4623-be52-fb2bdec9b587/resource/5307223c-2368-4d9b-8497-009b0b6ca6f6",
                     "description": "",
@@ -10794,7 +10821,7 @@
             "license": "Creative Commons Attribution",
             "title": "Instalaciones de hidrocarburos - Ductos Res. 319/1993",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-07-21T04:04:01.665108",
+            "modified": "2017-12-01T05:55:02.450681",
             "theme": [
                 "mapas",
                 "transporte-de-hidrocarburos"
@@ -10804,12 +10831,12 @@
                 "Ductos",
                 "Hidrocarburos",
                 "Información geográfica",
-                "Instalaciones"
+                "Instalaciones",
+                "Planos base"
             ],
             "superTheme": [
                 "ENER"
             ],
-            "accrualPeriodicity": "eventual",
             "contactPoint": {
                 "hasEmail": "tienerg@minem.gob.ar",
                 "fn": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información.  "
@@ -10835,7 +10862,7 @@
                     "byteSize": null,
                     "format": "SHP",
                     "mediaType": null,
-                    "modified": "2017-07-02T02:01:46.857854",
+                    "modified": "2017-12-01T02:53:43.730600",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/84681f81-dbbb-49eb-be30-e61778736ad9/resource/17fcc6b7-9d9c-4005-a93a-1b2d3a7b1ce5/download/instalaciones-hidrocarburos-ductos-res-319-93.zip",
                     "issued": "2017-05-04T20:29:11.236814",
                     "identifier": "17fcc6b7-9d9c-4005-a93a-1b2d3a7b1ce5"
@@ -10909,7 +10936,7 @@
             "license": "Creative Commons Attribution",
             "title": "Instalaciones de hidrocarburos - Instalaciones Res. 319/1993 (P. Característicos)",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-07-21T04:01:24.948002",
+            "modified": "2017-12-01T05:55:45.100995",
             "theme": [
                 "mapas",
                 "transporte-de-hidrocarburos"
@@ -10920,13 +10947,11 @@
                 "Hidrocarburos",
                 "Información geográfica",
                 "Instalaciones",
-                "Puntos",
-                "Resolución"
+                "Planos base"
             ],
             "superTheme": [
                 "ENER"
             ],
-            "accrualPeriodicity": "eventual",
             "contactPoint": {
                 "hasEmail": "tienerg@minem.gob.ar",
                 "fn": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. "
@@ -10940,7 +10965,7 @@
                     "byteSize": null,
                     "format": "SHP",
                     "mediaType": null,
-                    "modified": "2017-07-02T02:04:04.283441",
+                    "modified": "2017-12-01T02:55:45.070264",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/e5c525ff-6dbd-4e1e-a52e-14e9d742c4f1/resource/9029e1ae-77f2-4aee-8e40-c30943ac9d1b/download/instalaciones-hidrocarburos-instalaciones-res-319-93-p-caractersticos-.zip",
                     "issued": "2017-05-04T19:20:13.054302",
                     "identifier": "9029e1ae-77f2-4aee-8e40-c30943ac9d1b"
@@ -10952,7 +10977,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-07-02T02:14:11.050185",
+                    "modified": "2017-12-01T02:55:09.366436",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/e5c525ff-6dbd-4e1e-a52e-14e9d742c4f1/resource/44614bdf-e212-4ab2-8772-318706579cae/download/instalaciones-hidrocarburos-instalaciones-res-319-93-p-caractersticos-.csv",
                     "issued": "2017-05-04T21:16:36.204817",
                     "identifier": "44614bdf-e212-4ab2-8772-318706579cae"
@@ -12670,7 +12695,7 @@
             "license": "Creative Commons Attribution",
             "title": "Padrón según Resolución 1104/2004",
             "issued": "2017-02-21T13:39:24.358917",
-            "modified": "2017-10-05T04:56:02.820815",
+            "modified": "2017-12-05T04:51:53.348651",
             "theme": [
                 "comercializacion-de-los-hidrocarburos"
             ],
@@ -12695,7 +12720,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-10-05T01:56:02.171104",
+                    "modified": "2017-12-05T01:51:52.464092",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/bf070f3d-c983-42d6-901b-1e4b810203df/resource/47a8b39d-02be-4046-b706-9369c57bb28e/download/banderas.csv",
                     "issued": "2017-05-04T12:19:10.867133",
                     "identifier": "47a8b39d-02be-4046-b706-9369c57bb28e"
@@ -13262,7 +13287,7 @@
             "license": "Creative Commons Attribution",
             "title": "Pozos y Metros Perforados (Tablas Dinámicas)",
             "issued": "2016-12-22T14:02:20.241139",
-            "modified": "2017-10-05T19:17:13.225994",
+            "modified": "2017-12-01T17:04:29.620311",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos"
             ],
@@ -13349,7 +13374,7 @@
             "license": "Creative Commons Attribution",
             "title": "Precios de bioetanol",
             "issued": "2017-01-20T16:34:26.708783",
-            "modified": "2017-10-27T14:54:53.834368",
+            "modified": "2017-12-06T14:56:25.709412",
             "theme": [
                 "biocombustibles",
                 "energias-renovables"
@@ -13376,7 +13401,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-10-27T11:54:28.235332",
+                    "modified": "2017-12-06T11:56:25.688487",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/227cd0b0-2b36-4d4f-8a12-36c9c0ec4875/resource/77d33231-3982-496a-8ba3-dd699964c89a/download/categoras-de-empresas.csv",
                     "issued": "2017-05-04T12:19:45.157472",
                     "identifier": "77d33231-3982-496a-8ba3-dd699964c89a"
@@ -13388,7 +13413,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-10-01T21:56:12.828016",
+                    "modified": "2017-12-01T21:52:02.935092",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/227cd0b0-2b36-4d4f-8a12-36c9c0ec4875/resource/a03c0076-d089-447d-9659-cf54bb89c725/download/biocombustible-precios-de-bioetanol.csv",
                     "issued": "2017-05-04T14:34:39.396718",
                     "identifier": "a03c0076-d089-447d-9659-cf54bb89c725"
@@ -13405,7 +13430,7 @@
             "license": "Creative Commons Attribution",
             "title": "Precios de biodiesel",
             "issued": "2016-12-22T15:02:43.128638",
-            "modified": "2017-10-02T00:56:15.506638",
+            "modified": "2017-12-02T00:52:05.364053",
             "theme": [
                 "biocombustibles",
                 "energias-renovables"
@@ -13432,7 +13457,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-10-01T21:56:14.728274",
+                    "modified": "2017-12-01T21:52:04.452591",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/30fcb906-5374-4790-aa89-368c0d3ef314/resource/b68507ca-f6ff-406f-85cf-2d706a2b993f/download/biocombustible-precios-de-biodiesel.csv",
                     "issued": "2017-05-04T14:37:44.459905",
                     "identifier": "b68507ca-f6ff-406f-85cf-2d706a2b993f"
@@ -13491,7 +13516,7 @@
             "license": "Creative Commons Attribution",
             "title": "Precios de Venta al Mercado Interno de Petróleo Escalante",
             "issued": "2016-12-22T15:12:25.996908",
-            "modified": "2017-09-28T17:41:14.028665",
+            "modified": "2017-11-30T17:08:55.723494",
             "theme": [
                 "otros"
             ],
@@ -13533,7 +13558,7 @@
             "license": "Creative Commons Attribution",
             "title": "Precios EESS - Resolución 1104/04",
             "issued": "2017-02-02T18:41:10.020781",
-            "modified": "2017-09-20T05:58:52.438629",
+            "modified": "2017-11-09T10:55:13.347144",
             "theme": [
                 "comercializacion-de-los-hidrocarburos"
             ],
@@ -13558,7 +13583,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-09-20T02:58:49.966510",
+                    "modified": "2017-11-09T07:55:10.907774",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/708f9ab4-829b-4f02-b507-f303c5bc4800/resource/d0d01143-fb95-4ee4-993e-0ff178e33aa8/download/precios-eess-2017.csv",
                     "issued": "2017-05-04T12:20:09.726061",
                     "identifier": "d0d01143-fb95-4ee4-993e-0ff178e33aa8"
@@ -13731,7 +13756,7 @@
             "license": "Creative Commons Attribution",
             "title": "Precios en Surtidor - Resolución 314/2016",
             "issued": "2017-01-18T18:09:35.180560",
-            "modified": "2017-10-27T15:02:40.445401",
+            "modified": "2017-12-07T10:55:26.059852",
             "theme": [
                 "comercializacion-de-los-hidrocarburos"
             ],
@@ -13756,7 +13781,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-10-27T11:55:26.416507",
+                    "modified": "2017-12-07T07:55:16.221985",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/e095db78-a5df-451c-b966-971d0a6b7887/resource/7147dbd6-03c1-4da3-922e-f0b8645bf097/download/precios-en-surtidor-resolucin-3142016.csv",
                     "issued": "2017-05-04T12:15:28.243942",
                     "identifier": "7147dbd6-03c1-4da3-922e-f0b8645bf097"
@@ -13768,7 +13793,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-10-27T12:02:06.120605",
+                    "modified": "2017-12-06T11:56:24.658601",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/e095db78-a5df-451c-b966-971d0a6b7887/resource/c708f41b-f317-4601-add0-6b21c653fefe/download/precios-historicos.csv",
                     "issued": "2017-05-04T12:18:59.953145",
                     "identifier": "c708f41b-f317-4601-add0-6b21c653fefe"
@@ -14291,7 +14316,7 @@
             "license": "Creative Commons Attribution",
             "title": "Producción de Petróleo y Gas",
             "issued": "2016-12-22T13:42:08.246705",
-            "modified": "2017-10-05T19:17:46.165032",
+            "modified": "2017-12-01T17:04:23.525258",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos"
             ],
@@ -14544,21 +14569,23 @@
             "license": "Creative Commons Attribution",
             "title": "Producción de hidrocarburos - Concesiones de Explotación",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-08-10T16:01:04.234444",
+            "modified": "2017-12-01T05:55:02.529211",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos",
                 "mapas"
             ],
             "keyword": [
+                "319",
                 "Concesiones",
                 "Explotación",
                 "Hidrocarburos",
+                "Información geográfica",
+                "Planos base",
                 "Producción"
             ],
             "superTheme": [
                 "ENER"
             ],
-            "accrualPeriodicity": "eventual",
             "contactPoint": {
                 "hasEmail": " tienerg@minem.gob.ar",
                 "fn": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. "
@@ -14572,7 +14599,7 @@
                     "byteSize": null,
                     "format": "SHP",
                     "mediaType": null,
-                    "modified": "2017-07-02T03:00:07.963669",
+                    "modified": "2017-11-28T13:08:26.341552",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/81cfad0a-4162-4f85-ad71-837f5a5fae57/resource/48a306a3-d5da-4f28-8ab5-7f80767ffdec/download/produccin-hidrocarburos-concesiones-de-explotacin.zip",
                     "issued": "2017-05-04T20:52:40.729378",
                     "identifier": "48a306a3-d5da-4f28-8ab5-7f80767ffdec"
@@ -14584,7 +14611,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-07-02T03:00:20.912439",
+                    "modified": "2017-12-01T02:53:50.159569",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/81cfad0a-4162-4f85-ad71-837f5a5fae57/resource/b6af0c0e-e463-4cb7-b458-373aafc0ac08/download/produccin-hidrocarburos-concesiones-de-explotacin.csv",
                     "issued": "2017-05-04T20:52:52.751268",
                     "identifier": "b6af0c0e-e463-4cb7-b458-373aafc0ac08"
@@ -14613,21 +14640,23 @@
             "license": "Creative Commons Attribution",
             "title": "Producción de hidrocarburos - Lotes de Explotación",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-07-21T03:43:20.711401",
+            "modified": "2017-12-01T07:52:18.758019",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos",
                 "mapas"
             ],
             "keyword": [
+                "319",
                 "Explotación",
                 "Hidrocarburos",
+                "Información geográfica",
                 "Lotes",
+                "Planos base",
                 "Producción"
             ],
             "superTheme": [
                 "ENER"
             ],
-            "accrualPeriodicity": "eventual",
             "contactPoint": {
                 "hasEmail": "tienerg@minem.gob.ar",
                 "fn": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información.  "
@@ -14641,7 +14670,7 @@
                     "byteSize": null,
                     "format": "SHP",
                     "mediaType": null,
-                    "modified": "2017-07-02T02:11:08.748949",
+                    "modified": "2017-12-01T04:52:15.051033",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/dbed71cd-1f2b-461a-b05d-a1903bd0ef03/resource/a477baf5-3870-4b33-b4b3-37ab892d58c0/download/produccin-hidrocarburos-lotes-de-explotacin.zip",
                     "issued": "2017-05-04T20:53:05.726061",
                     "identifier": "a477baf5-3870-4b33-b4b3-37ab892d58c0"
@@ -14653,7 +14682,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-07-02T02:03:29.492491",
+                    "modified": "2017-12-01T04:52:11.637033",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/dbed71cd-1f2b-461a-b05d-a1903bd0ef03/resource/2fa87f4e-b22d-4d7a-8f44-b571023ccd9c/download/produccin-hidrocarburos-lotes-de-explotacin.csv",
                     "issued": "2017-05-04T20:53:17.038693",
                     "identifier": "2fa87f4e-b22d-4d7a-8f44-b571023ccd9c"
@@ -14726,16 +14755,20 @@
             "license": "Creative Commons Attribution",
             "title": "Producción de hidrocarburos - Puntos de Venteo Declarados",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-07-21T03:42:30.938776",
+            "modified": "2017-12-01T07:52:20.960430",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos",
                 "mapas"
             ],
-            "keyword": [],
+            "keyword": [
+                "319",
+                "Información geográfica",
+                "Planos base",
+                "Venteos"
+            ],
             "superTheme": [
                 "ENER"
             ],
-            "accrualPeriodicity": "eventual",
             "contactPoint": {
                 "hasEmail": "tienerg@minem.gob.ar",
                 "fn": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. "
@@ -14761,7 +14794,7 @@
                     "byteSize": null,
                     "format": "SHP",
                     "mediaType": null,
-                    "modified": "2017-07-02T02:12:17.976265",
+                    "modified": "2017-12-01T04:52:16.739646",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/530bb019-32f4-4eaf-b550-1fc05f8b129f/resource/c855899c-546b-4acc-94a0-fbfa6a83458d/download/produccin-hidrocarburos-puntos-de-venteo-declarados.zip",
                     "issued": "2017-05-04T22:54:32.717946",
                     "identifier": "c855899c-546b-4acc-94a0-fbfa6a83458d"
@@ -14778,20 +14811,22 @@
             "license": "Creative Commons Attribution",
             "title": "Producción de hidrocarburos - Yacimientos",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-07-21T03:42:22.560999",
+            "modified": "2017-11-28T15:19:22.429083",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos",
                 "mapas"
             ],
             "keyword": [
+                "319",
                 "Hidrocarburos",
+                "Información geográfica",
+                "Planos base",
                 "Producción",
                 "Yacimientos"
             ],
             "superTheme": [
                 "ENER"
             ],
-            "accrualPeriodicity": "eventual",
             "contactPoint": {
                 "hasEmail": "tienerg@minem.gob.ar",
                 "fn": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. "
@@ -15903,7 +15938,7 @@
             "license": "Creative Commons Attribution",
             "title": "Refinación y Comercialización de petróleo, gas y derivados (Tablas Dinámicas)",
             "issued": "2016-12-22T14:21:24.342559",
-            "modified": "2017-10-26T19:39:23.702442",
+            "modified": "2017-11-30T18:39:07.149977",
             "theme": [
                 "comercializacion-de-los-hidrocarburos",
                 "comercio-exterior",
@@ -16058,7 +16093,7 @@
             "license": "Creative Commons Attribution",
             "title": "Regalías de Petróleo Crudo, Gas Natural, GLP, Gasolina y Condensado",
             "issued": "2016-12-22T17:10:24.812802",
-            "modified": "2017-10-11T17:47:13.910920",
+            "modified": "2017-10-30T16:28:58.026623",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos"
             ],
@@ -16332,7 +16367,7 @@
             "license": "Creative Commons Attribution",
             "title": "Padrón de operadores autorizados para la venta de combustibles líquidos",
             "issued": "2017-01-20T16:34:30.488389",
-            "modified": "2017-10-27T15:00:11.056233",
+            "modified": "2017-12-07T10:54:59.479951",
             "theme": [
                 "comercializacion-de-los-hidrocarburos"
             ],
@@ -16354,7 +16389,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-10-27T11:59:41.422527",
+                    "modified": "2017-12-07T07:54:59.445081",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/21a54fa2-539d-4570-b1cd-679d54229d2f/resource/5ccaf9d2-d9a8-4482-b4fb-a4d7bcd225f2/download/padrn-de-operadores-autorizados.csv",
                     "issued": "2017-05-04T19:43:43.794698",
                     "identifier": "5ccaf9d2-d9a8-4482-b4fb-a4d7bcd225f2"
@@ -16371,7 +16406,7 @@
             "license": "Creative Commons Attribution",
             "title": "Reservas de Petróleo y Gas",
             "issued": "2016-12-22T19:05:03.262287",
-            "modified": "2017-08-14T10:20:16.143033",
+            "modified": "2017-11-09T23:36:56.106623",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos"
             ],
@@ -16390,6 +16425,30 @@
             },
             "identifier": "61c8fc78-540f-463b-aefb-ef854e6baed1",
             "distribution": [
+                {
+                    "accessURL": "https://datos.minem.gob.ar/dataset/61c8fc78-540f-463b-aefb-ef854e6baed1/resource/5b72c32f-ea1c-4f7e-a1d9-7b5338c717f8",
+                    "description": "",
+                    "title": "Síntesis de la evolución de reservas de hidrocarburos al 31 de diciembre de cada año. Hasta el final de la vida útil de los yacimientos. Período 2007-2016",
+                    "byteSize": null,
+                    "format": "PDF",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_del_mercado/mercado_hidrocarburos/informacion_estadistica/reservas/MINEM_Informe_Reservas_HFVU_2016.pdf",
+                    "issued": "2017-11-09T20:36:15.068712",
+                    "identifier": "5b72c32f-ea1c-4f7e-a1d9-7b5338c717f8"
+                },
+                {
+                    "accessURL": "https://datos.minem.gob.ar/dataset/61c8fc78-540f-463b-aefb-ef854e6baed1/resource/2033d5e1-32d9-4b59-a91d-325f26e1685f",
+                    "description": "Datos de Reservas Comprobadas y Probables de Petróleo y Gas",
+                    "title": "Reservas al 31/12/2016 hasta el Final de la Vida Útil de los Yacimientos",
+                    "byteSize": null,
+                    "format": "ZIP",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_del_mercado/mercado_hidrocarburos/informacion_estadistica/reservas/Reservas_HFVUY_31122016.zip",
+                    "issued": "2017-11-09T20:28:05.757951",
+                    "identifier": "2033d5e1-32d9-4b59-a91d-325f26e1685f"
+                },
                 {
                     "accessURL": "https://datos.minem.gob.ar/dataset/61c8fc78-540f-463b-aefb-ef854e6baed1/resource/51869891-7cff-434f-a975-1f23683dabd7",
                     "description": "Datos de Reservas Comprobadas y Probables de Petróleo y Gas",
@@ -16533,6 +16592,18 @@
                     "downloadURL": "http://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_del_mercado/mercado_hidrocarburos/informacion_estadistica/reservas/Reservas_HFVUY_31122004.zip",
                     "issued": "2016-12-22T16:31:12.498465",
                     "identifier": "d371b129-db26-425b-abbe-13b2adbc41e3"
+                },
+                {
+                    "accessURL": "https://datos.minem.gob.ar/dataset/61c8fc78-540f-463b-aefb-ef854e6baed1/resource/19f9fb49-58e3-4491-b691-b0ef382dfe0a",
+                    "description": "Datos de Reservas Comprobadas y Probables de Petróleo y Gas",
+                    "title": "Reservas al 31/12/2016 hasta el Final de la Concesión",
+                    "byteSize": null,
+                    "format": "ZIP",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_del_mercado/mercado_hidrocarburos/informacion_estadistica/reservas/Reservas_HFC_31122016.zip",
+                    "issued": "2017-11-09T20:31:26.541438",
+                    "identifier": "19f9fb49-58e3-4491-b691-b0ef382dfe0a"
                 },
                 {
                     "accessURL": "https://datos.minem.gob.ar/dataset/61c8fc78-540f-463b-aefb-ef854e6baed1/resource/7bc91467-e474-4b7c-b810-2ee9b6933718",
