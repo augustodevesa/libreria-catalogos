@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 26
-- **Cantidad Total de Distribuciones**: 64
+- **Cantidad Total de Datasets**: 30
+- **Cantidad Total de Distribuciones**: 76
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 26
+- **Cantidad de Datasets NO Federados**: 30
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -33,7 +33,9 @@
 - [Centros de Día]()
 - [Centros de jubilados]()
 - [Clínicas de Internación]()
+- [Compras y contrataciones Nivel Central]()
 - [Consejos Participativos]()
+- [Convenio con laboratorios]()
 - [Diálisis]()
 - [Farmacias]()
 - [Internación en Instituciones geriátricas]()
@@ -43,8 +45,10 @@
 - [Medicina Física y Rehabilitación]()
 - [Médicos de Cabecera]()
 - [Nomenclador de Prácticas Médicas]()
+- [Nomenclador de prácticas médicas - Valor por cápitas y módulos]()
 - [Organigrama]()
 - [Padrón de Afiliados]()
+- [Precio de los 10 medicamentos más comprados]()
 - [Prestadores Médicos]()
 - [Presupuesto Institucional]()
 - [Programa PROSAR]()
