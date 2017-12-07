@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 3
-- **Cantidad Total de Distribuciones**: 30
+- **Cantidad Total de Datasets**: 4
+- **Cantidad Total de Distribuciones**: 31
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 3
+- **Cantidad de Datasets NO Federados**: 4
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -28,9 +28,10 @@
 
 ## Datasets no federados
 
+- [Solicitudes de Acceso a la Información Pública](https://datos.mininterior.gob.ar/dataset/solicitudes-de-acceso-a-la-informacion-publica)
 - [Estaciones de medición, valores de parámetros y productos de la Red](Subsecretaría de Recursos Hídricos - Dirección de Conservación y Protección de los Recursos Hídricos)
 - [Ingresos y Egresos de personas al pais y Residencias Otorgadas.](https://www.migraciones.gov.ar)
-- [Información sobre las autoridades, ubicación geográfica, datos institucionales y contacto](http://datos.mininterior.gob.ar/dataset/informacion-sobre-las-autoridades-ubicacion-geografica-datos-institucionales-y-contacto)
+- [Información sobre las autoridades, ubicación geográfica, datos institucionales y contacto](https://datos.mininterior.gob.ar/dataset/informacion-sobre-las-autoridades-ubicacion-geografica-datos-institucionales-y-contacto)
 
 ## Datasets federados
 
