@@ -52,9 +52,9 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 50,Evaluación de Formaciones en la Argentina,2bd8b9fe-63c6-4fa0-85d6-bab880b0e137,OK,0,1
 51,Evolución de la Demanda Eléctrica de Grandes Usuarios,7dac6812-021a-4a2f-a1c5-922fd4b8ae8b,OK,0,4
 52,Exploración Hidrocarburos Cuencas Sedimentarias,0d4a18ee-9371-439a-8a94-4f53a9822664,OK,0,3
-53,Exploración de Hidrocarburos -  Inventario de Líneas Sísmicas 2D,071b7a3e-0a34-426c-a605-d24e7bdef9a3,OK,0,2
-54,Exploración de hidrocarburos - Permisos de Exploración,66044d22-6657-47d1-b0bb-ecc7c1d37a44,OK,0,2
-55,Exploración de hidrocarburos - Inventario de Sísmicas 3D,11540156-6454-47c8-9748-c8f8705f62c0,OK,0,2
+53,Exploración de Hidrocarburos -  Inventario de Líneas Sísmicas 2D,071b7a3e-0a34-426c-a605-d24e7bdef9a3,ERROR,1,2
+54,Exploración de hidrocarburos - Permisos de Exploración,66044d22-6657-47d1-b0bb-ecc7c1d37a44,ERROR,1,2
+55,Exploración de hidrocarburos - Inventario de Sísmicas 3D,11540156-6454-47c8-9748-c8f8705f62c0,ERROR,1,2
 56,Exportaciones minerales y derivados por provincia,0f1182d4-28a0-4ae3-85a4-cf806a59a8b7,OK,0,1
 57,Exportaciones mineras por rubro,dea26f6a-a016-40aa-87eb-09f624c240fa,OK,0,1
 58,Gas natural entregado a grandes usuarios por distribuidora,4923ff1e-f3db-4664-be56-4fde6bc3eb61,OK,0,1
@@ -91,10 +91,10 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 89,Informe: Análisis de la demanda eléctrica del  primer semestre de 2017,faba85e3-f484-4375-b23c-85168c6a35f1,OK,0,1
 90,Informe Estadístico Anual 2016 del sector energético,7eb728bc-cfdd-4e4e-b659-7bf3266939f1,OK,0,1
 91,Informes Estadísticos del Sector Eléctrico (Quinquenales y Decenales),2d788688-1a20-4595-841d-4786cf3595e8,OK,0,5
-92,Informe Trimestral de Coyuntura Energética,82496485-c054-4623-be52-fb2bdec9b587,OK,0,6
-93,Instalaciones de hidrocarburos - Ductos Res. 319/1993,84681f81-dbbb-49eb-be30-e61778736ad9,OK,0,2
+92,Informe Trimestral de Coyuntura Energética,82496485-c054-4623-be52-fb2bdec9b587,OK,0,7
+93,Instalaciones de hidrocarburos - Ductos Res. 319/1993,84681f81-dbbb-49eb-be30-e61778736ad9,ERROR,1,2
 94,Instalaciones de hidrocarburos - Instalaciones empadronads Res. 318/2010,164e7197-3222-4d21-81df-9db30ccd3940,OK,0,2
-95,Instalaciones de hidrocarburos - Instalaciones Res. 319/1993 (P. Característicos),e5c525ff-6dbd-4e1e-a52e-14e9d742c4f1,OK,0,2
+95,Instalaciones de hidrocarburos - Instalaciones Res. 319/1993 (P. Característicos),e5c525ff-6dbd-4e1e-a52e-14e9d742c4f1,ERROR,1,2
 96,Instalaciones de hidrocarburos - Puertos regasificadores de GNL,bf7914d6-1174-4766-a632-0e7d62068b25,OK,0,2
 97,Inventario de Presas y Centrales Hidroeléctricas de la República Argentina,ae7886fe-7919-402c-9296-bd9ec05f29a0,OK,0,4
 98,Inversiones en mercado de hidrocarburos upstream,83fd2c3f-e0f5-4d56-a3ef-828eac226ba9,OK,0,4
@@ -140,11 +140,11 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 138,Producción de petróleo y gas por pozo (Capítulo IV),c846e79c-026c-4040-897f-1ad3543b407c,OK,0,15
 139,Producción de Petróleo y Gas,590d1284-fd6d-4686-afd8-b3da5d90a6e9,OK,0,15
 140,Producción Gas Natural desde 1950,5210866d-2caf-43fd-95d8-085dc18f39cc,OK,0,1
-141,Producción de hidrocarburos - Concesiones de Explotación,81cfad0a-4162-4f85-ad71-837f5a5fae57,OK,0,3
-142,Producción de hidrocarburos - Lotes de Explotación,dbed71cd-1f2b-461a-b05d-a1903bd0ef03,OK,0,2
+141,Producción de hidrocarburos - Concesiones de Explotación,81cfad0a-4162-4f85-ad71-837f5a5fae57,ERROR,1,3
+142,Producción de hidrocarburos - Lotes de Explotación,dbed71cd-1f2b-461a-b05d-a1903bd0ef03,ERROR,1,2
 143,Producción de hidrocarburos - Productores de GLP,335210fc-64b6-4d75-8e31-211bf3291748,OK,0,2
-144,Producción de hidrocarburos - Puntos de Venteo Declarados,530bb019-32f4-4eaf-b550-1fc05f8b129f,OK,0,2
-145,Producción de hidrocarburos - Yacimientos,7378520e-4d10-48a9-92e9-7e20e69a8277,OK,0,2
+144,Producción de hidrocarburos - Puntos de Venteo Declarados,530bb019-32f4-4eaf-b550-1fc05f8b129f,ERROR,1,2
+145,Producción de hidrocarburos - Yacimientos,7378520e-4d10-48a9-92e9-7e20e69a8277,ERROR,1,2
 146,Producción Hidrocarburos - Yacimientos Según Profundidad Promedio,bd26f4e9-74cc-4444-ae6d-2dadcf491057,OK,0,2
 147,Pronósticos de Producción de Petróleo y Gas,dbb36686-fb66-4364-bded-d55ff4de516c,OK,0,5
 148,Prospectiva Eléctrica,f14fa84f-cb50-405e-ad8d-d4eb73a02ee7,OK,0,6
@@ -162,7 +162,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 160,Registro de empresas e instalaciones con tanques aéreos de hidrocarburos líquidos,c9611150-ed6d-4751-9a61-2dbb6dcfebb7,OK,0,1
 161,Registro de empresas e instalaciones de GLP,7689a7b6-f12d-43f4-8a41-486ad7912b6c,OK,0,1
 162,Padrón de operadores autorizados para la venta de combustibles líquidos,21a54fa2-539d-4570-b1cd-679d54229d2f,OK,0,1
-163,Reservas de Petróleo y Gas,61c8fc78-540f-463b-aefb-ef854e6baed1,OK,0,25
+163,Reservas de Petróleo y Gas,61c8fc78-540f-463b-aefb-ef854e6baed1,OK,0,28
 164,Salto Grande,3476af68-65ad-42e4-967a-916ec57bb4e0,OK,0,1
 165,Síntesis del Mercado Eléctrico Mayorista de la CNEA,f2acbbca-85c6-43a3-994f-c843f466d245,OK,0,1
 166,La temperatura y su influencia en la demanda de energía eléctrica: Un análisis regional para Argentina usando modelos econométricos,f3552056-dfb9-4b99-a1b8-cebf9e3d6a24,OK,0,1
