@@ -15,20 +15,24 @@
 
 - **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 15
-- **Cantidad Total de Distribuciones**: 15
+- **Cantidad Total de Datasets**: 19
+- **Cantidad Total de Distribuciones**: 19
 
-- **Cantidad de Datasets Federados**: 15
-- **Cantidad de Datasets NO Federados**: 0
-- **Porcentaje de Datasets NO Federados**: 0.0%
+- **Cantidad de Datasets Federados**: 14
+- **Cantidad de Datasets NO Federados**: 5
+- **Porcentaje de Datasets NO Federados**: 26.32%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
-
+- [Indicadores Sectoriales de la Industria Metálicas Básicas](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
 
 ## Datasets no federados
 
-
+- [Indicadores Sectoriales de Petroquímica-Plástica](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
+- [Indicadores Sectoriales de Telecomunicaciones y Electrónica de Consumo](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
+- [Indicadores Sectoriales de Industrias Culturales](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
+- [Indicadores Sectoriales de Yerba Mate](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
+- [Indicadores Sectoriales de Metálicas Básicas](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
 
 ## Datasets federados
 
@@ -44,7 +48,6 @@
 - [Indicadores Sectoriales de la Industria Farmaceútica](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
 - [Indicadores Sectoriales de Lácteos](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
 - [Indicadores Sectoriales de Manzana y Pera](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
-- [Indicadores Sectoriales de la Industria Metálicas Básicas](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
 - [Indicadores Sectoriales de Pesca Marítima](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
 - [Indicadores Provinciales Socioeconómicos](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
 
