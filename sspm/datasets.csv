@@ -40,7 +40,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 38,Captura pesquera,39,OK,0,3
 39,Faena pecuaria,40,OK,0,3
 40,Indicadores de producción de la Industria manufacturera,41,OK,0,3
-41,Principales variables ocupacionales. EPH puntual,42,OK,0,1
+41,Principales variables ocupacionales. EPH puntual,42,OK,0,2
 42,Principales variables ocupacionales. EPH continua. Actividad,43,OK,0,2
 43,Principales variables ocupacionales. EPH continua. Empleo,44,OK,0,2
 44,Principales variables ocupacionales. EPH continua. Desempleo,45,OK,0,2
@@ -82,7 +82,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 80,"Índices de valor, precio y cantidad de las importaciones de bienes",81,OK,0,2
 81,Índice de términos del intercambio. Base 2004,82,OK,0,2
 82,Poder de compra de las exportaciones de bienes y ganancia del intercambio. Base 2004,83,OK,0,1
-83,Balance de Pagos (MBP5),84,OK,0,1
+83,Balance de Pagos (MBP5),84,OK,0,2
 84,Posición de inversión Nacional (Base 1991),86,OK,0,1
 85,Precios internacionales e índices de materias primas. Base 1980,87,OK,0,3
 86,Índice de precios de materias primas. Base 1995,88,OK,0,3
@@ -135,10 +135,10 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 133,Recursos tributarios totales y por tributo,142,OK,0,3
 134,Estimador Mensual de Actividad Económica (EMAE),143,OK,0,3
 135,Posición de Inversión Internacional neta,144,OK,0,4
-136,Índice de Precios al Consumidor. Nivel General. Base diciembre 2016.,145,OK,0,1
-137,Índice de Precios al Consumidor. Por capítulos. Base diciembre 2016.,146,OK,0,1
-138,Índice de Precios al Consumidor. Bienes y Servicios. Base diciembre 2016.,147,OK,0,1
-139,Índice de Precios al Consumidor. Por categorías. Base diciembre de 2016.,148,OK,0,1
+136,Índice de Precios al Consumidor. Nivel General. Base diciembre 2016.,145,OK,0,2
+137,Índice de Precios al Consumidor. Por capítulos. Base diciembre 2016.,146,OK,0,2
+138,Índice de Precios al Consumidor. Bienes y Servicios. Base diciembre 2016.,147,OK,0,2
+139,Índice de Precios al Consumidor. Por categorías. Base diciembre de 2016.,148,OK,0,2
 140,Índice de salarios. Base Octubre 2016,149,OK,0,1
 141,Valores de la Canasta Básica de Alimentos  y Canasta Básica Total.,150,OK,0,1
 142,Trabajadores registrados según modalidad ocupacional principal. Base 2012,151,OK,0,1
@@ -150,118 +150,170 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 148,"Empleo registrado del sector privado, por rama de actividad",156,OK,0,1
 149,Remuneración bruta promedio de los asalariados registrados del sector privado según rama de actividad,157,OK,0,2
 150,Remuneración imponible promedio de los trabajadores estables (RIPTE),158,OK,0,1
-151,Exportaciones según el Nomenclador Común del Mercosur (NCM),162,OK,0,3
-152,Importaciones según el Nomenclador Común del Mercosur (NCM),163,OK,0,3
-153,Saldo comercial clasificado el Nomenclador Común del Mercosur (NCM),164,OK,0,3
-154,Oferta y Demanda Global en millones de pesos de 1960,200,OK,0,1
-155,Oferta y Demanda Global en australes a precios de 1970,201,OK,0,1
-156,Oferta y Demanda Global en millones de pesos de 1970,202,OK,0,1
-157,Inversión Bruta Interna en millones de pesos de 1960,203,OK,0,1
-158,Inversión Bruta Interna Equipo Durable de Producción Importado en millones de pesos de 1960,204,OK,0,1
-159,Inversión Bruta Interna Equipo Durable de Producción Nacional en millones de pesos de 1960,205,OK,0,1
-160,Producto Interno Bruto Agrícola. Subtotal Agrícola en millones de pesos de 1960,206,OK,0,1
-161,"Producto Interno Bruto Agricultura, Caza, Silvicultura y Pesca en millones de pesos de 1960",207,OK,0,1
-162,"Producto Interno Bruto Comercio al por Mayor, Menor, Restaurantes y Hoteles en millones de pesos de 1960",208,OK,0,1
-163,Producto Interno Bruto Construcciones en millones de pesos de 1960,209,OK,0,1
-164,"Producto Interno Bruto Electricidad, Gas y Agua en millones de pesos de 1960",210,OK,0,1
-165,"Producto Interno Bruto Establecimientos Financieros, Seguros y Bienes Inmuebles en millones de pesos de 1960",211,OK,0,1
-166,"Producto Interno Bruto Servicios Comunales, Sociales y Personales en millones de pesos de 1960",212,OK,0,1
-167,Producto Interno Bruto Subtotal Pecuario en millones de pesos de 1960,213,OK,0,1
-168,"Producto Interno Bruto Transporte, Almacenamiento y Comunicaciones en millones de pesos de 1960",214,OK,0,1
-169,Inversión Bruta Interna en australes a precios de 1970,215,OK,0,1
-170,Inversión Bruta Interna Variación de Existencias en australes a precios de 1970,216,OK,0,1
-171,Inversión Bruta Interna Equipo Durable de Producción Nacional en australes a precios de 1970,217,OK,0,1
-172,"Producto Interno Bruto Agricultura, Caza, Silvicultura y Pesca en australes a precios de 1970",218,OK,0,1
-173,"Producto Interno Bruto Comercio al por Mayor, Menor, Restaurantes y Hoteles en australes a precios de 1970",219,OK,0,1
-174,Producto Interno Bruto Construcciones en australes a precios de 1970,220,OK,0,1
-175,"Producto Interno Bruto Electricidad, Gas y Agua en australes a precios de 1970",221,OK,0,1
-176,"Producto Interno Bruto Establecimientos Financieros, Seguros y Bienes Inmuebles en australes a precios de 1970",222,OK,0,1
-177,Producto Interno Bruto Explotación Minas y Canteras en australes a precios de 1970,223,OK,0,1
-178,Producto Interno Bruto Mercaderías y Servicios Disponibles en australes a precios de 1970,224,OK,0,1
-179,"Producto Interno Bruto Servicios Comunales, Sociales y Personales en australes a precios de 1970",225,OK,0,1
-180,Producto Interno Bruto Subtotal Agrícola en australes a precios de 1970,226,OK,0,1
-181,Producto Interno Bruto Subtotal Pecuario en australes a precios de 1970,227,OK,0,1
-182,"Producto Interno Bruto Transporte, Almacenamiento y Comunicaciones en australes a precios de 1970",228,OK,0,1
-183,Oferta y Demanda Global Externa en australes a precios de 1970,229,OK,0,1
-184,Producto Interno Bruto Mercaderías y Servicios Disponibles en millones de pesos de 1960,230,OK,0,1
-185,Producto Interno Bruto Explotación Minas y Canteras en millones de pesos de 1960,231,OK,0,1
-186,Producto Interno Bruto Construcciones en millones de pesos de 1970,232,OK,0,1
-187,"Producto Interno Bruto Electricidad, Gas y Agua en millones de pesos de 1970",233,OK,0,1
-188,Oferta y Demanda Global Externa en millones de pesos de 1970,234,OK,0,1
-189,"Producto Interno Bruto Servicios Comunales, Sociales y Personales en millones de pesos de 1970",235,OK,0,1
-190,"Producto Interno Bruto Establecimientos Financieros, Seguros y Bienes Inmuebles en millones de pesos de 1970",236,OK,0,1
-191,"Producto Interno Bruto Transporte, Almacenamiento y Comunicaciones en millones de pesos de 1970",237,OK,0,1
-192,Producto Interno Bruto Subtotal Pecuario en millones de pesos de 1970,238,OK,0,1
-193,Producto Interno Bruto Mercaderías y Servicios Disponibles en millones de pesos de 1970,239,OK,0,1
-194,Precios Implícitos Oferta y Demanda Global. Base 1950,240,OK,0,1
-195,Precios Implícitos Producto Interno Bruto a costo de factores. Base 1950,241,OK,0,1
-196,Volumen Físico de Importaciones. Precios constantes. Base 1950,242,OK,0,1
-197,Volumen Físico de Exportaciones. Precios constantes. Base 1950,243,OK,0,1
-198,Oferta y Demanda Global a precios constantes de 1950,244,OK,0,1
-199,Inversión Bruta Interna por Tipo de Bien a precios corrientes,245,OK,0,1
-200,Oferta y Demanda Global Total a precios corrientes,246,OK,0,1
-201,Producto Interno Bruto a precios de mercado y a costo de factores a precios constantes de 1960,247,OK,0,1
-202,Producto Interno Bruto a precios de mercado y a costo de factores a precios corrientes,248,OK,0,1
-203,Distribución del Ingreso Neto Nacional. Millones de pesos corrientes,249,OK,0,1
-204,Ingreso Bruto Nacional y Producto Bruto Interno a costo de factores. Precios constantes. Base 1950.,250,OK,0,1
-205,Inversión Bruta Interna por Sector a precios constantes de 1950,251,OK,0,1
-206,Producto Interno Bruto Explotación Minas y Canteras en millones de pesos de 1970,252,OK,0,1
-207,Producto Interno Bruto Subtotal Agrícola en millones de pesos de 1970,253,OK,0,1
-208,"Producto Interno Bruto Agricultura, Caza, Silvicutura y Pesca en millones de pesos de 1970",254,OK,0,1
-209,Oferta y Demanda Global en millones de pesos a precios de 1986,255,OK,0,1
-210,Producto Interno Bruto a costo de factores en millones de pesos de 1986,256,OK,0,1
-211,Producto Interno Bruto a costo de factores desagregado por sector en millones de pesos de 1986,257,OK,0,1
-212,Inversión Bruta Interna Variación de Existencias en millones de pesos de 1960,258,OK,0,1
-213,Producto Interno Bruto Industria Manufacturera en millones de pesos de 1960,259,OK,0,1
-214,"Producto Interno Bruto Comercio Mayorista, Minorista, Restaurantes y Hoteles a pesos de 1960",260,OK,0,1
-215,Producto Interno Bruto a costo de factores a pesos de 1960,261,OK,0,1
-216,Producto Interno Bruto Industria Manufacturera a precios de 1970,262,OK,0,1
-217,"Producto Interno Bruto Comercio Mayorista, Minorista, Restaurantes y Hoteles a pesos de 1970",263,OK,0,1
-218,Inversión Bruta Interna Equipo Durable de Producción Importado a pesos de 1970,264,OK,0,1
-219,Inversión Bruta Interna Equipo Durable de Producción Nacional a pesos de 1970,265,OK,0,1
-220,Inversión Bruta Interna Fija a precios de 1970,266,OK,0,1
-221,Inversión Bruta Interna Total a precios de 1970,267,OK,0,1
-222,Producto Interno Bruto Construcciones a precios de 1970,268,OK,0,1
-223,Producto Interno Bruto a costo de factores a precios de 1970,269,OK,0,1
-224,Producto Interno Bruto a costo de factores Industria Manufacturera en australes a precios de 1970,270,OK,0,1
-225,Producto Interno Bruto a costo de factores en australes a precios de 1970,271,OK,0,1
-226,Inversión Bruta Interna Equipo Durable de Producción Importado en australes a precios de 1970,272,OK,0,1
-227,Inversión Bruta Interna Fija Total y Desagregada en australes a precios de 1970,273,OK,0,1
-228,Asignación Universal por Hijo,165,OK,0,1
-229,"Ingreso nacional, Ahorro nacional y Préstamo neto",166,OK,0,2
-230,Ahorro del resto del mundo. Base 2004,167,OK,0,2
-231,Tipo de Cambio $-USD - Futuro Dólar - NDF,168,OK,0,1
-232,Índices Bursátiles Argentina,169,OK,0,1
-233,Financiamiento privado en mercado de capitales,170,OK,0,1
-234,Fondos Comunes de Inversión,171,OK,0,2
-235,Principales subgrupos de recaudación tributaria,172,OK,0,3
-236,IPC Categorías. Tasas de variación mensual. Base Dic-2016,173,OK,0,1
-237,Series históricas de estadísticas monetarias,174,OK,0,1
-238,Tipos de Cambio Históricos,175,OK,0,1
-239,Índice de Precios al Consumidor GBA - Base 1988,176,OK,0,1
-240,Índice de Precios al Consumidor GBA - Base 1974,177,OK,0,1
-241,Índice de Precios al Consumidor histórico,178,OK,0,1
-242,Títulos Públicos de Deuda,179,OK,0,1
-243,Indices Bursátiles Argentina. Desagregación sectorial,180,OK,0,1
-244,Exportaciones e importaciones por Intensidad tecnológica,181,OK,0,1
-245,Balance Cambiario,182,OK,0,1
-246,Cobros y pagos por bienes por modalidad de pago - Balance Cambiario,183,OK,0,1
-247,Cobros y pagos por bienes sectorial - Balance Cambiario,184,OK,0,1
-248,Cobros y pagos por tipo de servicio - Balance Cambiario,185,OK,0,1
-249,"Gasto Público del Gobierno Nacional en Política de Ingresos, por programa. Devengado mensual en pesos corrientes",186,OK,0,1
-250,Política de Ingresos. Prestaciones de la seguridad social. BESS-MTESS,187,OK,0,1
-251,Política de Ingresos. Asignación Universal Por Hijo para la Protección Social y por Embarazo. BESS-MTESS,188,OK,0,1
-252,Política de Ingresos. Prestaciones de la seguridad social. ANSES,189,OK,0,1
-253,Política de Ingresos.  Prestaciones de la seguridad social y otros programas de transferencia de ingresos. Cuenta de Inversión. Secretaría de Hacienda.,190,OK,0,1
-254,Política de Ingresos. Prestaciones de la seguridad social y otros programas de transferencia de ingresos. Seguimiento Físico-Financiero. Oficina Nacional de Presupuesto. Secretaría de Hacienda,191,OK,0,1
-255,PIB Subtotal Agrícola en millones de pesos de 1960,192,ERROR,1,1
-256,Índice de Precios al Consumidor de la Ciudad de Buenos Aires. Nivel general y principales aperturas,193,OK,0,1
-257,Índice de Precios al Consumidor de la Provincia de Córdoba. Base 2014 = 100,194,OK,0,1
-258,Índice de Precios al Consumidor de la Provincia de Mendoza. Base 2010 = 100,195,OK,0,1
-259,Índice de Precios al Consumidor de la Provincia de Neuquen. Base 2010 = 100,196,OK,0,1
-260,Índice de Precios al Consumidor de la Provincia de San Luis. Base oct 2005 = 100,197,OK,0,1
-261,Índice de Precios al Consumidor de la Provincia de Santa Fé. Base oct 2005 = 100,198,OK,0,1
-262,Índice de Precios al Consumidor de la Provincia de Tucuman. Base oct 2005 = 100,199,OK,0,1
-263,Distribución personal del ingreso por  deciles de la ocupación principal (IOP). En pesos corrientes promedio por decil,301,OK,0,1
-264,Estadísticas de servicios públicos.,302,OK,0,3
-265,Evolución de la tasa de asalarización y de asalariados sin descuento jubilatorio. EPH Continua. En %,303,OK,0,1
+151,Deuda externa bruta por sector residente,161,OK,0,1
+152,Exportaciones según el Nomenclador Común del Mercosur (NCM),162,OK,0,3
+153,Importaciones según el Nomenclador Común del Mercosur (NCM),163,OK,0,3
+154,Saldo comercial clasificado el Nomenclador Común del Mercosur (NCM),164,OK,0,3
+155,Oferta y Demanda Global en millones de pesos de 1960,200,OK,0,1
+156,Oferta y Demanda Global en australes a precios de 1970,201,OK,0,1
+157,Oferta y Demanda Global en millones de pesos de 1970,202,OK,0,1
+158,Inversión Bruta Interna en millones de pesos de 1960,203,OK,0,1
+159,Inversión Bruta Interna Equipo Durable de Producción Importado en millones de pesos de 1960,204,OK,0,1
+160,Inversión Bruta Interna Equipo Durable de Producción Nacional en millones de pesos de 1960,205,OK,0,1
+161,Producto Interno Bruto Agrícola. Subtotal Agrícola en millones de pesos de 1960,206,OK,0,1
+162,"Producto Interno Bruto Agricultura, Caza, Silvicultura y Pesca en millones de pesos de 1960",207,OK,0,1
+163,"Producto Interno Bruto Comercio al por Mayor, Menor, Restaurantes y Hoteles en millones de pesos de 1960",208,OK,0,1
+164,Producto Interno Bruto Construcciones en millones de pesos de 1960,209,OK,0,1
+165,"Producto Interno Bruto Electricidad, Gas y Agua en millones de pesos de 1960",210,OK,0,1
+166,"Producto Interno Bruto Establecimientos Financieros, Seguros y Bienes Inmuebles en millones de pesos de 1960",211,OK,0,1
+167,"Producto Interno Bruto Servicios Comunales, Sociales y Personales en millones de pesos de 1960",212,OK,0,1
+168,Producto Interno Bruto Subtotal Pecuario en millones de pesos de 1960,213,OK,0,1
+169,"Producto Interno Bruto Transporte, Almacenamiento y Comunicaciones en millones de pesos de 1960",214,OK,0,1
+170,Inversión Bruta Interna en australes a precios de 1970,215,OK,0,1
+171,Inversión Bruta Interna Variación de Existencias en australes a precios de 1970,216,OK,0,1
+172,Inversión Bruta Interna Equipo Durable de Producción Nacional en australes a precios de 1970,217,OK,0,1
+173,"Producto Interno Bruto Agricultura, Caza, Silvicultura y Pesca en australes a precios de 1970",218,OK,0,1
+174,"Producto Interno Bruto Comercio al por Mayor, Menor, Restaurantes y Hoteles en australes a precios de 1970",219,OK,0,1
+175,Producto Interno Bruto Construcciones en australes a precios de 1970,220,OK,0,1
+176,"Producto Interno Bruto Electricidad, Gas y Agua en australes a precios de 1970",221,OK,0,1
+177,"Producto Interno Bruto Establecimientos Financieros, Seguros y Bienes Inmuebles en australes a precios de 1970",222,OK,0,1
+178,Producto Interno Bruto Explotación Minas y Canteras en australes a precios de 1970,223,OK,0,1
+179,Producto Interno Bruto Mercaderías y Servicios Disponibles en australes a precios de 1970,224,OK,0,1
+180,"Producto Interno Bruto Servicios Comunales, Sociales y Personales en australes a precios de 1970",225,OK,0,1
+181,Producto Interno Bruto Subtotal Agrícola en australes a precios de 1970,226,OK,0,1
+182,Producto Interno Bruto Subtotal Pecuario en australes a precios de 1970,227,OK,0,1
+183,"Producto Interno Bruto Transporte, Almacenamiento y Comunicaciones en australes a precios de 1970",228,OK,0,1
+184,Oferta y Demanda Global Externa en australes a precios de 1970,229,OK,0,1
+185,Producto Interno Bruto Mercaderías y Servicios Disponibles en millones de pesos de 1960,230,OK,0,1
+186,Producto Interno Bruto Explotación Minas y Canteras en millones de pesos de 1960,231,OK,0,1
+187,Producto Interno Bruto Construcciones en millones de pesos de 1970,232,OK,0,1
+188,"Producto Interno Bruto Electricidad, Gas y Agua en millones de pesos de 1970",233,OK,0,1
+189,Oferta y Demanda Global Externa en millones de pesos de 1970,234,OK,0,1
+190,"Producto Interno Bruto Servicios Comunales, Sociales y Personales en millones de pesos de 1970",235,OK,0,1
+191,"Producto Interno Bruto Establecimientos Financieros, Seguros y Bienes Inmuebles en millones de pesos de 1970",236,OK,0,1
+192,"Producto Interno Bruto Transporte, Almacenamiento y Comunicaciones en millones de pesos de 1970",237,OK,0,1
+193,Producto Interno Bruto Subtotal Pecuario en millones de pesos de 1970,238,OK,0,1
+194,Producto Interno Bruto Mercaderías y Servicios Disponibles en millones de pesos de 1970,239,OK,0,1
+195,Precios Implícitos Oferta y Demanda Global. Base 1950,240,OK,0,1
+196,Precios Implícitos Producto Interno Bruto a costo de factores. Base 1950,241,OK,0,1
+197,Volumen Físico de Importaciones. Precios constantes. Base 1950,242,OK,0,1
+198,Volumen Físico de Exportaciones. Precios constantes. Base 1950,243,OK,0,1
+199,Oferta y Demanda Global a precios constantes de 1950,244,OK,0,1
+200,Inversión Bruta Interna por Tipo de Bien a precios corrientes,245,OK,0,1
+201,Oferta y Demanda Global Total a precios corrientes,246,OK,0,1
+202,Producto Interno Bruto a precios de mercado y a costo de factores a precios constantes de 1960,247,OK,0,1
+203,Producto Interno Bruto a precios de mercado y a costo de factores a precios corrientes,248,OK,0,1
+204,Distribución del Ingreso Neto Nacional. Millones de pesos corrientes,249,OK,0,1
+205,Ingreso Bruto Nacional y Producto Bruto Interno a costo de factores. Precios constantes. Base 1950.,250,OK,0,1
+206,Inversión Bruta Interna por Sector a precios constantes de 1950,251,OK,0,1
+207,Producto Interno Bruto Explotación Minas y Canteras en millones de pesos de 1970,252,OK,0,1
+208,Producto Interno Bruto Subtotal Agrícola en millones de pesos de 1970,253,OK,0,1
+209,"Producto Interno Bruto Agricultura, Caza, Silvicutura y Pesca en millones de pesos de 1970",254,OK,0,1
+210,Oferta y Demanda Global en millones de pesos a precios de 1986,255,OK,0,1
+211,Producto Interno Bruto a costo de factores en millones de pesos de 1986,256,OK,0,1
+212,Producto Interno Bruto a costo de factores desagregado por sector en millones de pesos de 1986,257,OK,0,1
+213,Inversión Bruta Interna Variación de Existencias en millones de pesos de 1960,258,OK,0,1
+214,Producto Interno Bruto Industria Manufacturera en millones de pesos de 1960,259,OK,0,1
+215,"Producto Interno Bruto Comercio Mayorista, Minorista, Restaurantes y Hoteles a pesos de 1960",260,OK,0,1
+216,Producto Interno Bruto a costo de factores a pesos de 1960,261,OK,0,1
+217,Producto Interno Bruto Industria Manufacturera a precios de 1970,262,OK,0,1
+218,"Producto Interno Bruto Comercio Mayorista, Minorista, Restaurantes y Hoteles a pesos de 1970",263,OK,0,1
+219,Inversión Bruta Interna Equipo Durable de Producción Importado a pesos de 1970,264,OK,0,1
+220,Inversión Bruta Interna Equipo Durable de Producción Nacional a pesos de 1970,265,OK,0,1
+221,Inversión Bruta Interna Fija a precios de 1970,266,OK,0,1
+222,Inversión Bruta Interna Total a precios de 1970,267,OK,0,1
+223,Producto Interno Bruto Construcciones a precios de 1970,268,OK,0,1
+224,Producto Interno Bruto a costo de factores a precios de 1970,269,OK,0,1
+225,Producto Interno Bruto a costo de factores Industria Manufacturera en australes a precios de 1970,270,OK,0,1
+226,Producto Interno Bruto a costo de factores en australes a precios de 1970,271,OK,0,1
+227,Inversión Bruta Interna Equipo Durable de Producción Importado en australes a precios de 1970,272,OK,0,1
+228,Inversión Bruta Interna Fija Total y Desagregada en australes a precios de 1970,273,OK,0,1
+229,Asignación Universal por Hijo,165,OK,0,1
+230,"Ingreso nacional, Ahorro nacional y Préstamo neto",166,OK,0,2
+231,Ahorro del resto del mundo. Base 2004,167,OK,0,2
+232,Tipo de Cambio $-USD - Futuro Dólar - NDF,168,OK,0,1
+233,Índices Bursátiles Argentina,169,OK,0,1
+234,Financiamiento privado en mercado de capitales,170,OK,0,1
+235,Fondos Comunes de Inversión,171,OK,0,2
+236,Principales subgrupos de recaudación tributaria,172,OK,0,3
+237,IPC Categorías. Tasas de variación mensual. Base Dic-2016,173,OK,0,1
+238,Series históricas de estadísticas monetarias,174,OK,0,1
+239,Tipos de Cambio Históricos,175,OK,0,1
+240,Índice de Precios al Consumidor GBA - Base 1988,176,OK,0,1
+241,Índice de Precios al Consumidor GBA - Base 1974,177,OK,0,1
+242,Índice de Precios al Consumidor histórico,178,OK,0,1
+243,Títulos Públicos de Deuda,179,OK,0,1
+244,Indices Bursátiles Argentina. Desagregación sectorial,180,OK,0,1
+245,Exportaciones e importaciones por Intensidad tecnológica,181,OK,0,1
+246,Balance Cambiario,182,OK,0,1
+247,Cobros y pagos por bienes por modalidad de pago - Balance Cambiario,183,OK,0,1
+248,Cobros y pagos por bienes sectorial - Balance Cambiario,184,OK,0,1
+249,Cobros y pagos por tipo de servicio - Balance Cambiario,185,OK,0,1
+250,"Gasto Público del Gobierno Nacional en Política de Ingresos, por programa. Devengado mensual en pesos corrientes",186,OK,0,1
+251,Política de Ingresos. Prestaciones de la seguridad social. BESS-MTESS,187,OK,0,1
+252,Política de Ingresos. Asignación Universal Por Hijo para la Protección Social y por Embarazo. BESS-MTESS,188,OK,0,1
+253,Política de Ingresos. Prestaciones de la seguridad social. ANSES,189,OK,0,1
+254,Política de Ingresos.  Prestaciones de la seguridad social y otros programas de transferencia de ingresos. Cuenta de Inversión. Secretaría de Hacienda.,190,OK,0,1
+255,Política de Ingresos. Prestaciones de la seguridad social y otros programas de transferencia de ingresos. Seguimiento Físico-Financiero.,191,OK,0,1
+256,PIB Subtotal Agrícola en millones de pesos de 1960,192,ERROR,1,1
+257,Índice de Precios al Consumidor de la Ciudad de Buenos Aires. Nivel general y principales aperturas,193,OK,0,1
+258,Índice de Precios al Consumidor de la Provincia de Córdoba. Base 2014 = 100,194,OK,0,1
+259,Índice de Precios al Consumidor de la Provincia de Mendoza. Base 2010 = 100,195,OK,0,1
+260,Índice de Precios al Consumidor de la Provincia de Neuquen. Base 2010 = 100,196,OK,0,1
+261,Índice de Precios al Consumidor de la Provincia de San Luis. Base oct 2005 = 100,197,OK,0,1
+262,Índice de Precios al Consumidor de la Provincia de Santa Fé. Base oct 2005 = 100,198,OK,0,1
+263,Índice de Precios al Consumidor de la Provincia de Tucuman. Base oct 2005 = 100,199,OK,0,1
+264,Activos y pasivos del Banco Central de la Republica Argentina,300,OK,0,2
+265,Distribución personal del ingreso por  deciles de la ocupación principal (IOP). En pesos corrientes promedio por decil,301,OK,0,1
+266,Estadísticas de servicios públicos.,302,OK,0,3
+267,Evolución de la tasa de asalarización y de asalariados sin descuento jubilatorio. EPH Continua. En %,303,OK,0,1
+268,Lebac mercado secundario,304,OK,0,1
+269,Valor Agregado Bruto a precios básicos por rama de actividad económica,305,OK,0,2
+270,Índice de Precios Implícitos del Valor Agregado Bruto por rama de actividad económica,306,OK,0,2
+271,Valor Agregado Bruto a precios básicos por rama de actividad económica,307,OK,0,2
+272,Brasil PIB Oferta y demanda global,308,OK,0,1
+273,"Brasil Actividad económica, industrial y producción automotriz",309,OK,0,1
+274,Brasil Salario medio real,310,OK,0,1
+275,Brasil Tipo de cambio nominal y real,311,OK,0,1
+276,Stock de Inversión Extranjera Directa - BCRA,312,OK,0,1
+277,Deuda externa privada - BCRA,313,OK,0,1
+278,Flujos de Inversión Extranjera Directa - BCRA,314,OK,0,1
+279,Ingreso de la inversión extranjera directa - BCRA,315,OK,0,1
+280,Stock de Inversión Extranjera Directa por sector - BCRA,316,OK,0,1
+281,Flujos de Inversión Extranjera Directa por sector - BCRA,317,OK,0,1
+282,Ingreso de la inversión extranjera directa por sector - BCRA,318,OK,0,1
+283,Stock de Inversión Extranjera Directa por país primer nivel de residencia - BCRA,319,OK,0,1
+284,Flujos de Inversión Extranjera Directa por país primer nivel de residencia - BCRA,320,OK,0,1
+285,Ingreso de la inversión extranjera directa por país primer nivel de residencia - BCRA,321,OK,0,1
+286,Encuesta de Turismo Internacional.,322,OK,0,3
+287,"Distribución funcional del ingreso respecto al PIB a precios básicos, por rama de actividad.",323,OK,0,1
+288,Insumo de mano de obra por sector de actividad económica,324,OK,0,1
+289,Puestos de trabajo registrados por sector de actividad económica en el sector privado,325,OK,0,2
+290,Costo salarial por sector de actividad económica en el sector privado,326,OK,0,2
+291,Remuneración total por sector de actividad económica en el sector privado,327,OK,0,2
+292,Remuneración neta por sector de actividad económica en el sector privado,328,OK,0,2
+293,Datos históricos de la industria automotriz,330,OK,0,3
+294,Factores de explicación de Base Monetaria,331,OK,0,2
+295,Principales Indicadores del Sistema Financiero,332,OK,0,2
+296,Rentabilidad del sistema financiero,333,OK,0,2
+297,Balance de pagos en millones de dólares,335,OK,0,1
+298,Activos externos en millones de dólares,336,OK,0,1
+299,Flujos monetarios netos de Inversión Extranjera Directa,337,OK,0,1
+300,Flujos porcentuales netos de Inversión Extranjera Directa,338,OK,0,1
+301,Cuenta Corriente del Balance de Pagos. Flujos monetarios,339,OK,0,1
+302,Cuenta Corriente del Balance de Pagos. En porcentaje del producto,340,OK,0,1
+303,Tasa de Actividad por aglomerado 1974-2003,341,OK,0,1
+304,Tasa de Empleo por aglomerado 1974-2003,342,OK,0,1
+305,Tasa de Desocupación por aglomerado 1974-2003,343,OK,0,1
+306,Tasa de Subocupación por aglomerado 1974-2003,344,OK,0,1
+307,IPC Incidencia de los capítulos en el nivel general,345,OK,0,1
+308,IPC Incidencia de los bienes y servicios en el nivel general,346,OK,0,1
+309,IPC Incidencia de las categorías en el nivel general,347,OK,0,1
+310,Precios al consumidor de un conjunto de elementos de la canasta del IPC,348,OK,0,1
+311,Liquidación de divisas por Exportaciones de Oleaginosas y Cereales,349,OK,0,2
+312,Exportaciones por provincia y rubro,350,OK,0,1
+313,Índices de salarios industriales básicos de convenios en la Capital Federal desde 1962,351,OK,0,2
+314,Índices de salarios industriales básicos de convenios en la Capital Federal. Variaciones. Desde 1965,352,OK,0,2
+315,Salarios básicos de convenio del peón de la industria manufacturera,353,OK,0,2
+316,Salarios básicos de convenio del oficial de la industria manufacturera.,354,OK,0,2
+317,Costo del Nivel de Vida en la Capital Federal.,356,OK,0,2
