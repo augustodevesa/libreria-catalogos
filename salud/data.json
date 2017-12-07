@@ -9,6 +9,319 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "datos@sssalud.gob.ar",
+                "name": "Superintendencia de Servicios de Salud"
+            },
+            "identifier": "c869a36d-9604-4b03-9652-e2b2206abc9f",
+            "description": "El presente dataset corresponde al total de beneficiarios del Sistema Nacional del Seguro de Salud distribuídos por tipo de beneficiario.",
+            "license": "Creative Commons Attribution",
+            "title": "Población Beneficiaria del Sistema Nacional de Obras Sociales por Tipo de Beneficiario",
+            "issued": "2017-12-01T13:42:19.027445",
+            "modified": "2017-12-01T13:43:37.267563",
+            "theme": [
+                "S.S.SALUD"
+            ],
+            "superTheme": [
+                "HEAL",
+                "SOCI"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/c869a36d-9604-4b03-9652-e2b2206abc9f/archivo/eb45b4a4-fa5c-48ef-b04c-2377bb56e6a8",
+                    "description": "Total general por tipo de beneficiario.",
+                    "license": "cc-by",
+                    "title": "Total de Beneficiarios por Provincia del Sistema Nacional del Seguro de Salud por tipo de beneficiario",
+                    "issued": "2017-12-01T13:43:36.976304",
+                    "format": "CSV",
+                    "modified": "2017-12-01T13:43:36.948263",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/c869a36d-9604-4b03-9652-e2b2206abc9f/resource/eb45b4a4-fa5c-48ef-b04c-2377bb56e6a8/download/beneficiariosportipo.csv"
+                }
+            ],
+            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/poblacion-beneficiaria-del-sistema-nacional-de-obras-sociales-por-tipo-beneficiario"
+        },
+        {
+            "publisher": {
+                "mbox": "datos@sssalud.gob.ar",
+                "name": "Superintendencia de Servicios de Salud"
+            },
+            "identifier": "7c044d68-9a2b-4bac-bffc-48f208e949c7",
+            "description": "El presente dataset corresponde al total de beneficiarios del Sistema Nacional del Seguro de Salud distribuídos por provincia.",
+            "license": "Creative Commons Attribution",
+            "title": "Población Beneficiaria del Sistema Nacional de Obras Sociales",
+            "issued": "2017-11-28T15:55:09.809364",
+            "temporal": "2017-01-01T03:00:00.000Z/2017-10-31T03:00:00.000Z",
+            "modified": "2017-11-29T12:34:32.880807",
+            "theme": [
+                "S.S.SALUD"
+            ],
+            "superTheme": [
+                "HEAL",
+                "SOCI"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/7c044d68-9a2b-4bac-bffc-48f208e949c7/archivo/ea786f6f-6b1b-431b-973a-e7ca67d42f49",
+                    "description": "Total general y por tipo de beneficiario por provincia.",
+                    "license": "cc-by",
+                    "title": "Total de Beneficiarios por Provincia del Sistema Nacional del Seguro de Salud",
+                    "issued": "2017-11-28T15:58:06.379691",
+                    "format": "CSV",
+                    "modified": "2017-11-28T15:58:06.355093",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/7c044d68-9a2b-4bac-bffc-48f208e949c7/resource/ea786f6f-6b1b-431b-973a-e7ca67d42f49/download/totalbeneficiariosprovincia.csv"
+                }
+            ],
+            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/poblacion-beneficiaria-del-sistema-nacional-de-obras-sociales"
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "MSAL - DEIS"
+            },
+            "identifier": "e236af2c-5d5f-4eaf-bf51-9b8f1cd33bea",
+            "description": "Estadísticas de consultas e internaciones en establecimientos públicos SERIE 11",
+            "license": "Creative Commons Attribution",
+            "title": "Estadísticas de consultas e internaciones en establecimientos públicos SERIE 11",
+            "issued": "2017-07-03T15:25:57.053568",
+            "modified": "2017-11-28T17:17:05.397869",
+            "theme": [
+                "Dirección de Estadísticas e Información en Salud (DEIS)"
+            ],
+            "keyword": [
+                "DEIS",
+                "SERIE 11"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "HEAL"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://www.deis.msal.gov.ar/wp-content/uploads/2016/07/Serie11Nro14.pd",
+                    "description": "Estadísticas de consultas e internaciones en establecimientos públicos SERIE 11",
+                    "license": "cc-by",
+                    "title": "Estadísticas de consultas e internaciones en establecimientos públicos SERIE 11",
+                    "issued": "2017-07-03T15:26:49.071739",
+                    "format": "PDF",
+                    "downloadURL": "http://www.deis.msal.gov.ar/wp-content/uploads/2016/07/Serie11Nro14.pdf"
+                },
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/e236af2c-5d5f-4eaf-bf51-9b8f1cd33bea/archivo/560d5957-81d8-47e8-bf83-a91a4e5aa0a8",
+                    "description": "Consultas Médicas Ambulatorias 2013 - Parte 1",
+                    "license": "cc-by",
+                    "title": "Consultas Médicas Ambulatorias 2013 - Parte 1",
+                    "issued": "2017-11-28T17:15:51.028123",
+                    "format": "DOCX",
+                    "modified": "2017-11-28T17:15:50.995465",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/e236af2c-5d5f-4eaf-bf51-9b8f1cd33bea/resource/560d5957-81d8-47e8-bf83-a91a4e5aa0a8/download/consultas-medicas-ambulatorias-13.docx"
+                },
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/e236af2c-5d5f-4eaf-bf51-9b8f1cd33bea/archivo/957aeb35-eb0a-4667-9d90-06c0c6f31681",
+                    "description": "Consultas Médicas Ambulatorias 2013 - Parte 2",
+                    "license": "cc-by",
+                    "title": "Consultas Médicas Ambulatorias 2013 - Parte 2",
+                    "issued": "2017-11-28T17:16:12.657389",
+                    "format": "XLSX",
+                    "modified": "2017-11-28T17:16:12.622726",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/e236af2c-5d5f-4eaf-bf51-9b8f1cd33bea/resource/957aeb35-eb0a-4667-9d90-06c0c6f31681/download/consultas-medicas-ambulatorias-13.xlsx"
+                },
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/e236af2c-5d5f-4eaf-bf51-9b8f1cd33bea/archivo/58a0d2bc-c529-4c37-80d4-96cb9d4de1a9",
+                    "description": "Egresos 2013 - Parte 1",
+                    "license": "cc-by",
+                    "title": "Egresos 2013 - Parte 1",
+                    "issued": "2017-11-28T17:16:44.039518",
+                    "format": "DOCX",
+                    "modified": "2017-11-28T17:16:43.993658",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/e236af2c-5d5f-4eaf-bf51-9b8f1cd33bea/resource/58a0d2bc-c529-4c37-80d4-96cb9d4de1a9/download/egresos-13.docx"
+                },
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/e236af2c-5d5f-4eaf-bf51-9b8f1cd33bea/archivo/bf8416a1-d48b-4328-b086-8a1e9334eb82",
+                    "description": "Egresos 2013 - Parte 2",
+                    "license": "cc-by",
+                    "title": "Egresos 2013 - Parte 2",
+                    "issued": "2017-11-28T17:17:05.420526",
+                    "format": "XLSX",
+                    "modified": "2017-11-28T17:17:05.380683",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/e236af2c-5d5f-4eaf-bf51-9b8f1cd33bea/resource/bf8416a1-d48b-4328-b086-8a1e9334eb82/download/egresos-13.xlsx"
+                }
+            ],
+            "landingPage": "http://www.deis.msal.gov.ar/"
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "MSAL - DEIS"
+            },
+            "identifier": "2aeccb4c-a1c3-4940-802e-c61482c1bca1",
+            "description": "Estadísticas vitales SERIE 5 - Información sobre nacidos vivos, defunciones, indicadores relacionados, etc.",
+            "license": "Creative Commons Attribution",
+            "title": "Estadísticas vitales SERIE 5",
+            "issued": "2017-07-03T15:22:38.752692",
+            "modified": "2017-11-28T17:13:42.546531",
+            "theme": [
+                "Dirección de Estadísticas e Información en Salud (DEIS)"
+            ],
+            "keyword": [
+                "DEIS",
+                "SERIE 5"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "HEAL"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://www.deis.msal.gov.ar/wp-content/uploads/2016/12/Serie5Numero59.pd",
+                    "description": "Estadísticas vitales SERIE 5",
+                    "license": "cc-by",
+                    "title": "Estadísticas vitales SERIE 5",
+                    "issued": "2017-07-03T15:23:30.505912",
+                    "format": "PDF",
+                    "downloadURL": "http://www.deis.msal.gov.ar/wp-content/uploads/2016/12/Serie5Numero59.pdf"
+                },
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/2aeccb4c-a1c3-4940-802e-c61482c1bca1/archivo/c591670b-fe7f-40b9-9226-7ffaf8c159de",
+                    "description": "Anuario 2015 parte 1",
+                    "license": "cc-by",
+                    "title": "Anuario 2015 parte 1",
+                    "issued": "2017-11-28T17:07:06.741047",
+                    "format": "DOCX",
+                    "modified": "2017-11-28T17:07:06.707161",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/2aeccb4c-a1c3-4940-802e-c61482c1bca1/resource/c591670b-fe7f-40b9-9226-7ffaf8c159de/download/anuario-15-parte1.docx"
+                },
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/2aeccb4c-a1c3-4940-802e-c61482c1bca1/archivo/4bcf0250-41be-48c6-9446-7ba5b276552b",
+                    "description": "Anuario 2015 parte 2",
+                    "license": "cc-by",
+                    "title": "Anuario 2015 parte 2",
+                    "issued": "2017-11-28T17:12:09.064455",
+                    "format": "XLSX",
+                    "modified": "2017-11-28T17:12:09.028690",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/2aeccb4c-a1c3-4940-802e-c61482c1bca1/resource/4bcf0250-41be-48c6-9446-7ba5b276552b/download/anuario-15-parte02.xlsx"
+                },
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/2aeccb4c-a1c3-4940-802e-c61482c1bca1/archivo/109b6872-06e4-4c95-9c37-ed5ce215942d",
+                    "description": "Anuario 2015 parte 3",
+                    "license": "cc-by",
+                    "title": "Anuario 2015 parte 3",
+                    "issued": "2017-11-28T17:13:21.034043",
+                    "format": "XLSX",
+                    "modified": "2017-11-28T17:13:20.996451",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/2aeccb4c-a1c3-4940-802e-c61482c1bca1/resource/109b6872-06e4-4c95-9c37-ed5ce215942d/download/anuario-15-parte03.xlsx"
+                },
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/2aeccb4c-a1c3-4940-802e-c61482c1bca1/archivo/77637c85-c6bf-4f81-9b4b-054cc60d3c71",
+                    "description": "Anuario 2015 parte 4",
+                    "license": "cc-by",
+                    "title": "Anuario 2015 parte 4",
+                    "issued": "2017-11-28T17:13:42.568890",
+                    "format": "XLSX",
+                    "modified": "2017-11-28T17:13:42.530865",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/2aeccb4c-a1c3-4940-802e-c61482c1bca1/resource/77637c85-c6bf-4f81-9b4b-054cc60d3c71/download/anuario-15-parte-04.xlsx"
+                }
+            ],
+            "landingPage": "http://www.deis.msal.gov.ar/"
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "INCUCAI"
+            },
+            "identifier": "1537c5f8-5803-41e3-94b7-f236aceba0fb",
+            "description": "Expresiones de voluntad para la donación",
+            "license": "Creative Commons Attribution",
+            "title": "Expresiones de voluntad para la donación",
+            "issued": "2017-11-21T19:20:54.491620",
+            "modified": "2017-11-21T19:21:09.262151",
+            "theme": [
+                "INCUCAI"
+            ],
+            "superTheme": [
+                "HEAL"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/1537c5f8-5803-41e3-94b7-f236aceba0fb/archivo/af05e679-760a-496e-86c4-434e7731929f",
+                    "description": "Expresiones de voluntad para la donación",
+                    "license": "cc-by",
+                    "title": "Expresiones de voluntad para la donación",
+                    "issued": "2017-11-21T19:21:08.963209",
+                    "format": "CSV",
+                    "modified": "2017-11-21T19:21:08.938096",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/1537c5f8-5803-41e3-94b7-f236aceba0fb/resource/af05e679-760a-496e-86c4-434e7731929f/download/expresiones-voluntad-provincia-20171117.csv"
+                }
+            ],
+            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/expresiones-de-voluntad-para-la-donacion"
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "INCUCAI"
+            },
+            "identifier": "bca309cb-f057-48d1-8ac3-63ba28d98b38",
+            "description": "Pacientes en diálisis crónica",
+            "license": "Creative Commons Attribution",
+            "title": "Pacientes en diálisis crónica",
+            "issued": "2017-11-21T19:19:47.413467",
+            "modified": "2017-11-21T19:19:59.517521",
+            "theme": [
+                "INCUCAI"
+            ],
+            "superTheme": [
+                "HEAL"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/bca309cb-f057-48d1-8ac3-63ba28d98b38/archivo/a7d810ea-6daf-4239-86cf-2dc66acac963",
+                    "description": "Pacientes en diálisis crónica",
+                    "license": "cc-by",
+                    "title": "Pacientes en diálisis crónica",
+                    "issued": "2017-11-21T19:19:59.220448",
+                    "format": "CSV",
+                    "modified": "2017-11-21T19:19:59.192973",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/bca309cb-f057-48d1-8ac3-63ba28d98b38/resource/a7d810ea-6daf-4239-86cf-2dc66acac963/download/pacientes-enfermedad-renal-cronica-20171117.csv"
+                }
+            ],
+            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/pacientes-en-dialisis-cronica"
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "INCUCAI"
+            },
+            "identifier": "58771ff0-eee8-4e34-8eed-91f0df9cbfda",
+            "description": "Pacientes en lista de espera",
+            "license": "Creative Commons Attribution",
+            "title": "Pacientes en lista de espera",
+            "issued": "2017-11-21T19:18:25.748246",
+            "modified": "2017-11-21T19:18:56.194011",
+            "theme": [
+                "INCUCAI"
+            ],
+            "superTheme": [
+                "HEAL"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/58771ff0-eee8-4e34-8eed-91f0df9cbfda/archivo/d861eccc-3a2f-4f69-a0e7-4dcdaf2c9c1b",
+                    "description": "Pacientes en lista de espera",
+                    "license": "cc-by",
+                    "title": "Pacientes en lista de espera",
+                    "issued": "2017-11-21T19:18:55.684314",
+                    "format": "CSV",
+                    "modified": "2017-11-21T19:18:55.653576",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/58771ff0-eee8-4e34-8eed-91f0df9cbfda/resource/d861eccc-3a2f-4f69-a0e7-4dcdaf2c9c1b/download/pacientes-lista-espera-provincia-20171117.csv"
+                }
+            ],
+            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/pacientes-en-lista-de-espera"
+        },
+        {
+            "publisher": {
                 "mbox": "sistemasdeinformacion@snr.gob.ar",
                 "name": "SNR (Servicio Nacional de Rehabilitación)"
             },
@@ -436,38 +749,6 @@
         {
             "publisher": {
                 "mbox": "",
-                "name": "INCUCAI"
-            },
-            "identifier": "10e70ea5-5ef2-4127-92f6-2480e403f668",
-            "description": "Datos INCUCAI",
-            "license": "Creative Commons Attribution",
-            "title": "INCUCAI",
-            "issued": "2017-07-11T20:46:34.951561",
-            "modified": "2017-07-11T20:47:44.422717",
-            "theme": [
-                "INCUCAI"
-            ],
-            "superTheme": [
-                "HEAL"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/10e70ea5-5ef2-4127-92f6-2480e403f668/archivo/6c24022d-d5d6-40cf-b5d8-48be28ecf438",
-                    "description": "Pacientes en lista de espera",
-                    "license": "cc-by",
-                    "title": "Pacientes en lista de espera",
-                    "issued": "2017-07-11T20:47:43.936586",
-                    "format": "CSV",
-                    "modified": "2017-07-11T20:47:43.906197",
-                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/10e70ea5-5ef2-4127-92f6-2480e403f668/resource/6c24022d-d5d6-40cf-b5d8-48be28ecf438/download/ptes-le-x-j.csv"
-                }
-            ],
-            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/incucai"
-        },
-        {
-            "publisher": {
-                "mbox": "",
                 "name": "Legisalud (Dirección Nacional de Regulación)"
             },
             "identifier": "0b9a303e-3208-4618-a70a-5990ef8f87be",
@@ -565,76 +846,6 @@
                 }
             ],
             "landingPage": "sisa.msal.gov.ar"
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "MSAL - DEIS"
-            },
-            "identifier": "2aeccb4c-a1c3-4940-802e-c61482c1bca1",
-            "description": "Estadísticas vitales SERIE 5 - Información sobre nacidos vivos, defunciones, indicadores relacionados, etc.",
-            "license": "Creative Commons Attribution",
-            "title": "Estadísticas vitales SERIE 5",
-            "issued": "2017-07-03T15:22:38.752692",
-            "modified": "2017-07-03T15:31:12.977568",
-            "theme": [
-                "Dirección de Estadísticas e Información en Salud (DEIS)"
-            ],
-            "keyword": [
-                "DEIS",
-                "SERIE 5"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "superTheme": [
-                "HEAL"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://www.deis.msal.gov.ar/wp-content/uploads/2016/12/Serie5Numero59.pd",
-                    "description": "Estadísticas vitales SERIE 5",
-                    "license": "cc-by",
-                    "title": "Estadísticas vitales SERIE 5",
-                    "issued": "2017-07-03T15:23:30.505912",
-                    "format": "PDF",
-                    "downloadURL": "http://www.deis.msal.gov.ar/wp-content/uploads/2016/12/Serie5Numero59.pdf"
-                }
-            ],
-            "landingPage": "http://www.deis.msal.gov.ar/"
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "MSAL - DEIS"
-            },
-            "identifier": "e236af2c-5d5f-4eaf-bf51-9b8f1cd33bea",
-            "description": "Estadísticas de consultas e internaciones en establecimientos públicos SERIE 11",
-            "license": "Creative Commons Attribution",
-            "title": "Estadísticas de consultas e internaciones en establecimientos públicos SERIE 11",
-            "issued": "2017-07-03T15:25:57.053568",
-            "modified": "2017-07-03T15:28:09.006398",
-            "theme": [
-                "Dirección de Estadísticas e Información en Salud (DEIS)"
-            ],
-            "keyword": [
-                "DEIS",
-                "SERIE 11"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "superTheme": [
-                "HEAL"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://www.deis.msal.gov.ar/wp-content/uploads/2016/07/Serie11Nro14.pd",
-                    "description": "Estadísticas de consultas e internaciones en establecimientos públicos SERIE 11",
-                    "license": "cc-by",
-                    "title": "Estadísticas de consultas e internaciones en establecimientos públicos SERIE 11",
-                    "issued": "2017-07-03T15:26:49.071739",
-                    "format": "PDF",
-                    "downloadURL": "http://www.deis.msal.gov.ar/wp-content/uploads/2016/07/Serie11Nro14.pdf"
-                }
-            ],
-            "landingPage": "http://www.deis.msal.gov.ar/"
         },
         {
             "publisher": {
