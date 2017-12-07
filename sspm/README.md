@@ -3,8 +3,8 @@
 
 ## Información General
 
-- **Autor**: Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Macroeconómica.
-- **Correo Electrónico**: ausolari@mecon.gob.ar
+- **Autor**: Subsecretaría de Programación Macroeconómica.
+- **Correo Electrónico**: datoseconomicos@mecon.gov.ar
 - **Ruta del catálogo**: None
 - **Nombre del catálogo**: Datos Programación Macroeconómica
 - **Descripción**:
@@ -15,51 +15,18 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 266
-- **Cantidad Total de Distribuciones**: 445
+- **Cantidad Total de Datasets**: 318
+- **Cantidad Total de Distribuciones**: 524
 
-- **Cantidad de Datasets Federados**: 236
-- **Cantidad de Datasets NO Federados**: 30
-- **Porcentaje de Datasets NO Federados**: 11.28%
+- **Cantidad de Datasets Federados**: 0
+- **Cantidad de Datasets NO Federados**: 318
+- **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
-- [Estimados Mensual Industrial (EMI). Variaciones interanuales. Base 2012](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+
 
 ## Datasets no federados
-
-- [Indicadores de evolución del sector agropecuario](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Faena pecuaria](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Distribución funcional del ingreso. Total de la economía y sector privado. Como Porcentaje del Producto Interno Bruto a costo de factores](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Distribución Personal del Ingreso. Coeficiente de Gini y Brecha de Ingresos para el Ingreso de la Ocupación Principal e Ingreso per cápita Familiar. Ratio Percentil 90/ Percentil 10](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Recursos tributarios totales y por tributo](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Financiamiento privado en mercado de capitales](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Índice de Precios al Consumidor GBA - Base 1988](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Indices Bursátiles Argentina. Desagregación sectorial](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Exportaciones e importaciones por Intensidad tecnológica](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Balance Cambiario](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Cobros y pagos por bienes por modalidad de pago - Balance Cambiario](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Cobros y pagos por bienes sectorial - Balance Cambiario](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Cobros y pagos por tipo de servicio - Balance Cambiario](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Gasto Público del Gobierno Nacional en Política de Ingresos, por programa. Devengado mensual en pesos corrientes](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Política de Ingresos. Prestaciones de la seguridad social. BESS-MTESS](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Política de Ingresos. Asignación Universal Por Hijo para la Protección Social y por Embarazo. BESS-MTESS](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Política de Ingresos. Prestaciones de la seguridad social. ANSES](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Política de Ingresos.  Prestaciones de la seguridad social y otros programas de transferencia de ingresos. Cuenta de Inversión. Secretaría de Hacienda.](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Política de Ingresos. Prestaciones de la seguridad social y otros programas de transferencia de ingresos. Seguimiento Físico-Financiero. Oficina Nacional de Presupuesto. Secretaría de Hacienda](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [PIB Subtotal Agrícola en millones de pesos de 1960](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Índice de Precios al Consumidor de la Ciudad de Buenos Aires. Nivel general y principales aperturas](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Índice de Precios al Consumidor de la Provincia de Córdoba. Base 2014 = 100](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Índice de Precios al Consumidor de la Provincia de Mendoza. Base 2010 = 100](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Índice de Precios al Consumidor de la Provincia de Neuquen. Base 2010 = 100](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Índice de Precios al Consumidor de la Provincia de San Luis. Base oct 2005 = 100](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Índice de Precios al Consumidor de la Provincia de Santa Fé. Base oct 2005 = 100](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Índice de Precios al Consumidor de la Provincia de Tucuman. Base oct 2005 = 100](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Distribución personal del ingreso por  deciles de la ocupación principal (IOP). En pesos corrientes promedio por decil](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Estadísticas de servicios públicos.](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Evolución de la tasa de asalarización y de asalariados sin descuento jubilatorio. EPH Continua. En %](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-
-## Datasets federados
 
 - [Oferta y Demanda Globales. Datos desestacionalizados. Base 1993](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Oferta y Demanda Globales. Base 1993](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -94,11 +61,13 @@
 - [Utilización de la capacidad instalada en la industria. En porcentaje. Base 2004](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Indicador sintético de la actividad de la construcción. Índice. Base 2004](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Indicador sintético de la actividad de la construcción. Variaciones interanuales. Base 2004](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Indicadores de evolución del sector agropecuario](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Estadisticas de Servicios Publicos. Base 1993](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Ventas de Supermercados (Base 1996) y evolución de artículos por grupos (base 2008)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Centros de Compras. Base 2008](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Ventas al Mercado Interno de Producción Nacional. Base 1994](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Captura pesquera](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Faena pecuaria](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Indicadores de producción de la Industria manufacturera](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Principales variables ocupacionales. EPH puntual](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Principales variables ocupacionales. EPH continua. Actividad](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -111,6 +80,7 @@
 - [Empleo total y por sector de actividad](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Empleo total por aglomerado](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Tasa de asalarización y de asalariados sin descuento jubilatorio](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Distribución funcional del ingreso. Total de la economía y sector privado. Como Porcentaje del Producto Interno Bruto a costo de factores](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índices de obreros ocupados, horas trabajadas y salario por obrero en la industria manufacturera](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Variaciones de los índices de obreros ocupados, horas trabajadas y salario por obrero en la industria manufacturera](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índice de salarios. Base 2012](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -122,6 +92,7 @@
 - [Población con ingresos por debajo de la línea de indigencia  EPH puntual y continua](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Hogares con ingresos por debajo de la línea de pobreza EPH puntual y continua](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Población con ingresos por debajo de la línea de pobreza  EPH puntual y continua](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Distribución Personal del Ingreso. Coeficiente de Gini y Brecha de Ingresos para el Ingreso de la Ocupación Principal e Ingreso per cápita Familiar. Ratio Percentil 90/ Percentil 10](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Puestos de trabajo declarados  por sector de actividad económica](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Remuneración total de los puestos de trabajo, por sector de actividad económica](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Remuneración neta de los puestos de trabajo, por sector de actividad económica](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -190,6 +161,7 @@
 - [Tipo de cambio nominal](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índices de precios al consumidor, por país](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Participación de los principales socios comerciales en el comercio argentino](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Recursos tributarios totales y por tributo](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Estimador Mensual de Actividad Económica (EMAE)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Posición de Inversión Internacional neta](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índice de Precios al Consumidor. Nivel General. Base diciembre 2016.](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -207,6 +179,7 @@
 - [Empleo registrado del sector privado, por rama de actividad](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Remuneración bruta promedio de los asalariados registrados del sector privado según rama de actividad](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Remuneración imponible promedio de los trabajadores estables (RIPTE)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Deuda externa bruta por sector residente](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Exportaciones según el Nomenclador Común del Mercosur (NCM)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Importaciones según el Nomenclador Común del Mercosur (NCM)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Saldo comercial clasificado el Nomenclador Común del Mercosur (NCM)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -289,14 +262,94 @@
 - [Ahorro del resto del mundo. Base 2004](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Tipo de Cambio $-USD - Futuro Dólar - NDF](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índices Bursátiles Argentina](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Financiamiento privado en mercado de capitales](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Fondos Comunes de Inversión](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Principales subgrupos de recaudación tributaria](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [IPC Categorías. Tasas de variación mensual. Base Dic-2016](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Series históricas de estadísticas monetarias](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Tipos de Cambio Históricos](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Índice de Precios al Consumidor GBA - Base 1988](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índice de Precios al Consumidor GBA - Base 1974](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índice de Precios al Consumidor histórico](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Títulos Públicos de Deuda](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Indices Bursátiles Argentina. Desagregación sectorial](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Exportaciones e importaciones por Intensidad tecnológica](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Balance Cambiario](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Cobros y pagos por bienes por modalidad de pago - Balance Cambiario](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Cobros y pagos por bienes sectorial - Balance Cambiario](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Cobros y pagos por tipo de servicio - Balance Cambiario](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Gasto Público del Gobierno Nacional en Política de Ingresos, por programa. Devengado mensual en pesos corrientes](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Política de Ingresos. Prestaciones de la seguridad social. BESS-MTESS](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Política de Ingresos. Asignación Universal Por Hijo para la Protección Social y por Embarazo. BESS-MTESS](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Política de Ingresos. Prestaciones de la seguridad social. ANSES](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Política de Ingresos.  Prestaciones de la seguridad social y otros programas de transferencia de ingresos. Cuenta de Inversión. Secretaría de Hacienda.](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Política de Ingresos. Prestaciones de la seguridad social y otros programas de transferencia de ingresos. Seguimiento Físico-Financiero.](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [PIB Subtotal Agrícola en millones de pesos de 1960](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Índice de Precios al Consumidor de la Ciudad de Buenos Aires. Nivel general y principales aperturas](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Índice de Precios al Consumidor de la Provincia de Córdoba. Base 2014 = 100](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Índice de Precios al Consumidor de la Provincia de Mendoza. Base 2010 = 100](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Índice de Precios al Consumidor de la Provincia de Neuquen. Base 2010 = 100](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Índice de Precios al Consumidor de la Provincia de San Luis. Base oct 2005 = 100](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Índice de Precios al Consumidor de la Provincia de Santa Fé. Base oct 2005 = 100](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Índice de Precios al Consumidor de la Provincia de Tucuman. Base oct 2005 = 100](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Activos y pasivos del Banco Central de la Republica Argentina](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Distribución personal del ingreso por  deciles de la ocupación principal (IOP). En pesos corrientes promedio por decil](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Estadísticas de servicios públicos.](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Evolución de la tasa de asalarización y de asalariados sin descuento jubilatorio. EPH Continua. En %](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Lebac mercado secundario](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Valor Agregado Bruto a precios básicos por rama de actividad económica](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Índice de Precios Implícitos del Valor Agregado Bruto por rama de actividad económica](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Valor Agregado Bruto a precios básicos por rama de actividad económica](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Brasil PIB Oferta y demanda global](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Brasil Actividad económica, industrial y producción automotriz](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Brasil Salario medio real](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Brasil Tipo de cambio nominal y real](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Stock de Inversión Extranjera Directa - BCRA](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Deuda externa privada - BCRA](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Flujos de Inversión Extranjera Directa - BCRA](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Ingreso de la inversión extranjera directa - BCRA](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Stock de Inversión Extranjera Directa por sector - BCRA](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Flujos de Inversión Extranjera Directa por sector - BCRA](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Ingreso de la inversión extranjera directa por sector - BCRA](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Stock de Inversión Extranjera Directa por país primer nivel de residencia - BCRA](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Flujos de Inversión Extranjera Directa por país primer nivel de residencia - BCRA](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Ingreso de la inversión extranjera directa por país primer nivel de residencia - BCRA](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Encuesta de Turismo Internacional.](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Distribución funcional del ingreso respecto al PIB a precios básicos, por rama de actividad.](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Insumo de mano de obra por sector de actividad económica](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Puestos de trabajo registrados por sector de actividad económica en el sector privado](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Costo salarial por sector de actividad económica en el sector privado](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Remuneración total por sector de actividad económica en el sector privado](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Remuneración neta por sector de actividad económica en el sector privado](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Datos históricos de la industria automotriz](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Factores de explicación de Base Monetaria](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Principales Indicadores del Sistema Financiero](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Rentabilidad del sistema financiero](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Balance de pagos en millones de dólares](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Activos externos en millones de dólares](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Flujos monetarios netos de Inversión Extranjera Directa](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Flujos porcentuales netos de Inversión Extranjera Directa](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Cuenta Corriente del Balance de Pagos. Flujos monetarios](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Cuenta Corriente del Balance de Pagos. En porcentaje del producto](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Tasa de Actividad por aglomerado 1974-2003](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Tasa de Empleo por aglomerado 1974-2003](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Tasa de Desocupación por aglomerado 1974-2003](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Tasa de Subocupación por aglomerado 1974-2003](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [IPC Incidencia de los capítulos en el nivel general](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [IPC Incidencia de los bienes y servicios en el nivel general](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [IPC Incidencia de las categorías en el nivel general](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Precios al consumidor de un conjunto de elementos de la canasta del IPC](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Liquidación de divisas por Exportaciones de Oleaginosas y Cereales](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Exportaciones por provincia y rubro](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Índices de salarios industriales básicos de convenios en la Capital Federal desde 1962](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Índices de salarios industriales básicos de convenios en la Capital Federal. Variaciones. Desde 1965](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Salarios básicos de convenio del peón de la industria manufacturera](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Salarios básicos de convenio del oficial de la industria manufacturera.](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Costo del Nivel de Vida en la Capital Federal.](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+
+## Datasets federados
+
+
 
 ## Reporte
 
