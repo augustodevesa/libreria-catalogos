@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 17
-- **Cantidad Total de Distribuciones**: 20
+- **Cantidad Total de Datasets**: 18
+- **Cantidad Total de Distribuciones**: 28
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 17
+- **Cantidad de Datasets NO Federados**: 18
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -28,10 +28,11 @@
 
 ## Datasets no federados
 
-- [Listado de personas en Resguardo en el Servicio Penitenciario Federal](www.ppn.gov.ar)
 - [Casos de Tortura y Malos Tratos registrados e investigados por la PPN](www.ppn.gov.ar)
-- [Fallecimientos en Prisión](www.ppn.gov.ar)
+- [REGISTRO NACIONAL DE CASOS DE TORTURA Y/O MALOS TRATOS (RNCT)](http://181.209.63.46/dataset/datos-ppn-gov-ar)
 - [Población y alojamiento en el Servicio Penitenciario Federal](http://181.209.63.46/dataset/base-de-datos-de-poblacion-y-alojamiento-en-el-spf)
+- [Fallecimientos en Prisión](www.ppn.gov.ar)
+- [Listado de personas en Resguardo en el Servicio Penitenciario Federal](www.ppn.gov.ar)
 - [Traslados en el Servicio Penitenciario Federal](https://www.ppn.gov.ar)
 - [Procedimiento de requisa en Servicio Penitencario Federal](www.ppn.gov.ar)
 - [Medidas de fuerza](www.ppn.gov.ar)
