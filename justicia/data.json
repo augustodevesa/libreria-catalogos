@@ -636,7 +636,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.",
             "issued": "2016-09-28T14:57:47.665668",
-            "modified": "2017-12-07T12:09:00.816827",
+            "modified": "2017-12-11T14:58:58.199342",
             "theme": [
                 "sistema-registral"
             ],
@@ -657,12 +657,12 @@
             "distribution": [
                 {
                     "accessURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/ba6f82b3-5714-4974-8c03-6b55ec9811b4",
-                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 07-12-2017. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
+                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 11-12-2017. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
                     "title": "Sistema de Consulta Nacional de Rebeldías y Capturas",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-12-07T09:00:31.676690",
+                    "modified": "2017-12-11T11:55:28.133832",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/ba6f82b3-5714-4974-8c03-6b55ec9811b4/download/rebeldias-y-capturas.csv",
                     "issued": "2017-11-23T09:23:43.569306",
                     "identifier": "ba6f82b3-5714-4974-8c03-6b55ec9811b4"
@@ -3670,8 +3670,8 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Registro de obsequios a funcionarios públicos",
             "issued": "2017-04-10T19:20:30.797398",
-            "temporal": "2016-01-01/2017-10-31",
-            "modified": "2017-11-23T19:16:11.278807",
+            "temporal": "2016-01-01/2017-11-30",
+            "modified": "2017-12-11T15:09:20.701282",
             "theme": [
                 "anticorrupcion"
             ],
@@ -3698,7 +3698,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-11-23T16:16:11.238128",
+                    "modified": "2017-12-11T12:08:19.518233",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/7c268f77-e007-43ba-8a18-d50ef022f8e3/resource/a861d92f-272b-4c9f-8f2f-52946558d337/download/registroobsequiosfuncionariospublicos.csv",
                     "issued": "2017-04-10T16:22:27.126633",
                     "identifier": "a861d92f-272b-4c9f-8f2f-52946558d337"
@@ -3715,7 +3715,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Registro de viajes fincianciados por terceros",
             "issued": "2017-05-03T19:19:38.230133",
-            "modified": "2017-11-23T16:37:19.919857",
+            "modified": "2017-12-11T15:06:07.778963",
             "theme": [
                 "anticorrupcion"
             ],
@@ -3742,7 +3742,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-11-23T13:37:19.878642",
+                    "modified": "2017-12-11T12:05:06.368353",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/5ddf7915-47c7-44d1-9246-30573ec05f95/resource/4e1e49d5-686d-49bc-91d1-90bcf6d95658/download/registroviajesfinanciadosterceros.csv",
                     "issued": "2017-05-03T16:23:16.957501",
                     "identifier": "4e1e49d5-686d-49bc-91d1-90bcf6d95658"
@@ -3759,7 +3759,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Registro, sistematización y seguimiento de femicidios y homicidios agravados por el género",
             "issued": "2016-09-14T14:04:25.296524",
-            "modified": "2017-11-14T18:34:31.812223",
+            "modified": "2017-12-07T19:22:58.832637",
             "theme": [
                 "derechos-humanos"
             ],
@@ -3838,6 +3838,18 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/27bb9b2c-521b-406c-bdf9-98110ef73f34/resource/0fb19126-b49d-40b0-92f7-99fbc4a7bd42/download/registro-de-femicidios-2017-11-14.csv",
                     "issued": "2017-11-14T15:31:22.993792",
                     "identifier": "0fb19126-b49d-40b0-92f7-99fbc4a7bd42"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/27bb9b2c-521b-406c-bdf9-98110ef73f34/resource/1955e6d0-cb15-4058-b758-d8d1dacacc18",
+                    "description": "Esta base registra los femicidios y homicidios agravados por el género desde el año 2012 a la fecha.",
+                    "title": "Registro, sistematización y seguimiento de femicidios y homicidios agravados por el género - 2017-12-07",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-12-07T16:22:20.394029",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/27bb9b2c-521b-406c-bdf9-98110ef73f34/resource/1955e6d0-cb15-4058-b758-d8d1dacacc18/download/registro-de-femicidios-2017-12-07.csv",
+                    "issued": "2017-12-07T16:16:22.577453",
+                    "identifier": "1955e6d0-cb15-4058-b758-d8d1dacacc18"
                 }
             ]
         },
