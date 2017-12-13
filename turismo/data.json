@@ -1,100 +1,42 @@
 {
     "publisher": {
-        "mbox": "aguzman@turismo.gob.ar",
+        "mbox": "",
         "name": ""
     },
-    "description": "",
+    "description": "Datos abiertos del sector turístico de Argentina",
     "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
-    "title": "Datos abiertos de turismo - Plataforma YVERA",
+    "title": "Yvera Datos",
     "dataset": [
         {
             "publisher": {
                 "mbox": "",
-                "name": "Dirección Nacional de Agencias de Viajes"
+                "name": "Ministerio de Turismo"
             },
             "accessLevel": "public",
-            "description": "Datos correspondientes a las agencias de viajes autorizadas.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Agencias de viajes",
-            "issued": "2017-05-26T18:39:42.575035",
-            "modified": "2017-06-14T16:27:05.661918",
+            "description": "Datos de Regiones Turísticas",
+            "license": "Creative Commons Attribution",
+            "title": "Regiones Turisticas",
+            "issued": "2017-12-13T15:26:48.672782",
+            "modified": "2017-12-13T15:29:26.570476",
             "theme": [
-                "Agencias de viajes"
+                "Territorio"
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.yvera.gob.ar/dataset/8e349aca-c945-4448-bf98-e055a939ca36/resource/d68226a8-cc9f-4e6b-ac6d-41c58e47c85e/download/agencias-20170302.csv",
-                    "description": "Listado de agencias de viajes autorizadas al 02/03/2017.",
-                    "title": "Agencias de viajes",
-                    "issued": "2017-05-26T18:40:44.317511",
+                    "accessURL": "http://datos.yvera.gob.ar/dataset/622fa8e1-8db2-4942-8fb0-71af6cc3dc42/resource/e7f946c9-7360-4755-a91c-e7d7183f6a13/download/regiones-turisticas-otro.csv",
+                    "title": "Regiones Turísticas",
+                    "issued": "2017-12-13T15:27:16.323461",
                     "format": "CSV",
-                    "modified": "2017-05-26T18:40:44.299978",
-                    "downloadURL": "http://datos.yvera.gob.ar/dataset/8e349aca-c945-4448-bf98-e055a939ca36/resource/d68226a8-cc9f-4e6b-ac6d-41c58e47c85e/download/agencias-20170302.csv",
-                    "field": [
-                        {
-                            "type": "integer",
-                            "description": "Número de legajo",
-                            "title": "nro_legajo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tipo de agencia. Posibles valores: EVT (Empresa de viajes y turismo), AT (Agencia de turismo), AP (Agencia de pasajes), ESFL (Entidad sin fines de lucro).",
-                            "title": "tipo_agencia"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Nombre de la agencia",
-                            "title": "agencia"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Razón social",
-                            "title": "razon_social"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Domicilio completo. Incluye la ciudad.",
-                            "title": "domicilio"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Ciudad",
-                            "title": "ciudad"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Provincia",
-                            "title": "provincia"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Código postal",
-                            "title": "codigo_postal"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Característica telefónica (código interurbano)",
-                            "title": "telefono_caracteristica"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Teléfono",
-                            "title": "telefono"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "CUIT",
-                            "title": "cuit"
-                        }
-                    ]
+                    "modified": "2017-12-13T15:29:26.561484",
+                    "downloadURL": "http://datos.yvera.gob.ar/dataset/622fa8e1-8db2-4942-8fb0-71af6cc3dc42/resource/e7f946c9-7360-4755-a91c-e7d7183f6a13/download/regiones-turisticas-otro.csv"
                 }
             ],
             "superTheme": [
                 "GOVE"
             ],
-            "accrualPeriodicity": "R/P1D",
-            "landingPage": "http://datos.yvera.gob.ar/dataset/agencias-de-viajes",
-            "identifier": "8e349aca-c945-4448-bf98-e055a939ca36",
+            "accrualPeriodicity": "eventual",
+            "landingPage": "http://datos.yvera.gob.ar/dataset/regiones-turisticas",
+            "identifier": "622fa8e1-8db2-4942-8fb0-71af6cc3dc42",
             "contactPoint": {
                 "@type": "vcard:Contact"
             }
@@ -102,81 +44,33 @@
         {
             "publisher": {
                 "mbox": "",
-                "name": "Subsecretaría de Innovación y Tecnología"
+                "name": "Ministerio de Turismo"
             },
             "accessLevel": "public",
-            "description": "Datos correspondientes a regiones turísticas, provincias y destinos.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Territorio",
-            "issued": "2017-05-26T01:00:40.515797",
-            "modified": "2017-05-26T19:30:32.393295",
+            "description": "Agencias de viaje Autorizadas",
+            "license": "Creative Commons Attribution",
+            "title": "Agencias de viajes",
+            "issued": "2017-12-13T15:13:47.885155",
+            "modified": "2017-12-13T15:24:09.564748",
             "theme": [
-                "Turismo"
+                "Agencias de viaje"
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.yvera.gob.ar/dataset/b1f1f557-5bda-4bf2-99ff-97bc7f63bc45/resource/7dcd894d-d147-4714-ab6c-05a8190942ba/download/regiones-turisticas.csv",
-                    "description": "Listado de regiones turísticas",
-                    "title": "Regiones turísticas",
-                    "issued": "2017-05-26T01:38:17.802744",
+                    "accessURL": "http://datos.yvera.gob.ar/dataset/56bb87a0-2f6d-4f5d-a7f0-1ee81766879f/resource/4b26048f-3f0c-441e-8d12-9b814780ce29/download/agencias-20170302.csv",
+                    "title": "Agencias de viajes autorizadas",
+                    "issued": "2017-12-13T15:24:08.219280",
                     "format": "CSV",
-                    "modified": "2017-05-26T01:38:17.774981",
-                    "downloadURL": "http://datos.yvera.gob.ar/dataset/b1f1f557-5bda-4bf2-99ff-97bc7f63bc45/resource/7dcd894d-d147-4714-ab6c-05a8190942ba/download/regiones-turisticas.csv",
-                    "field": [
-                        {
-                            "type": "integer",
-                            "description": "Identificador único de la plataforma YVERA",
-                            "title": "id_yvera"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Nombre de la región turística",
-                            "title": "nombre"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Origen de la información",
-                            "title": "fuentes"
-                        }
-                    ]
-                },
-                {
-                    "accessURL": "http://datos.yvera.gob.ar/dataset/b1f1f557-5bda-4bf2-99ff-97bc7f63bc45/resource/ee9cf52a-f9f8-4432-97f3-650f8d3fd3ad/download/provincias.csv",
-                    "description": "Listado de provincias con sus respectivas regiones turísticas.",
-                    "title": "Provincias",
-                    "issued": "2017-05-26T19:30:32.405366",
-                    "format": "CSV",
-                    "modified": "2017-05-26T19:30:32.382416",
-                    "downloadURL": "http://datos.yvera.gob.ar/dataset/b1f1f557-5bda-4bf2-99ff-97bc7f63bc45/resource/ee9cf52a-f9f8-4432-97f3-650f8d3fd3ad/download/provincias.csv",
-                    "field": [
-                        {
-                            "type": "integer",
-                            "description": "ID de yvera",
-                            "title": "id_yvera_provincia"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Nombre de la provincia/ciudad autónoma",
-                            "title": "provincia_nombre"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Nombre de la región turística a la que pertenece la provincia",
-                            "title": "region_turistica_nombre"
-                        }
-                    ]
+                    "modified": "2017-12-13T15:24:08.200380",
+                    "downloadURL": "http://datos.yvera.gob.ar/dataset/56bb87a0-2f6d-4f5d-a7f0-1ee81766879f/resource/4b26048f-3f0c-441e-8d12-9b814780ce29/download/agencias-20170302.csv"
                 }
             ],
-            "keyword": [
-                "regiones"
-            ],
-            "accrualPeriodicity": "eventual",
             "superTheme": [
-                "GOVE",
-                "REGI"
+                "GOVE"
             ],
-            "landingPage": "http://datos.yvera.gob.ar/dataset/territorio",
-            "identifier": "b1f1f557-5bda-4bf2-99ff-97bc7f63bc45",
+            "accrualPeriodicity": "R/P6M",
+            "landingPage": "http://datos.yvera.gob.ar/dataset/agencias-de-viajes",
+            "identifier": "56bb87a0-2f6d-4f5d-a7f0-1ee81766879f",
             "contactPoint": {
                 "@type": "vcard:Contact"
             }
@@ -184,39 +78,29 @@
     ],
     "themeTaxonomy": [
         {
-            "description": "Agencias de viaje autorizadas",
-            "id": "agencias-de-viajes",
-            "label": "Agencias de viajes"
+            "description": "",
+            "id": "agencias-de-viaje",
+            "label": "Agencias de viaje"
         },
         {
-            "description": "Datos de Calidad Turística y Formación",
+            "description": "",
             "id": "calidad",
             "label": "Calidad"
         },
         {
-            "description": "Datos de estadísticas turísticas y estudios de mercados",
-            "id": "estadisticas",
-            "label": "Estadísticas"
-        },
-        {
-            "description": "Datos de proyectos de innovación, emprendedores y tecnología",
-            "id": "innovacion-y-tecnologia",
-            "label": "Innovación y Tecnología"
-        },
-        {
-            "description": "Datos de inversiones turísticas",
+            "description": "",
             "id": "inversiones",
             "label": "Inversiones"
         },
         {
-            "description": "Datos sobre promoción turística nacional e internacional",
+            "description": "",
             "id": "promocion",
             "label": "Promoción"
         },
         {
-            "description": "Datos generales de turismo",
-            "id": "turismo",
-            "label": "Turismo"
+            "description": "",
+            "id": "territorio",
+            "label": "Territorio"
         }
     ]
 }
