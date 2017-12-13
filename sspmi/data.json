@@ -3516,6 +3516,1066 @@
                 }
             ],
             "identifier": "99"
+        },
+        {
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ECON"
+            ],
+            "title": "Indicadores Sectoriales de Cárnica - Porcina",
+            "temporal": "1992-12-31/2017-09-01",
+            "source": "SENASA, MinAgro",
+            "theme": [
+                "produccion_actividad",
+                "precios"
+            ],
+            "spatial": "ARG",
+            "description": "Indicadores de la cadena de valor Cárnica - Porcina",
+            "contactPoint": {
+                "hasEmail": "sspmicro@mecon.gov.ar",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
+            },
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "keyword": [
+                "porcinos",
+                "porcina",
+                "capón",
+                "stock",
+                "faena",
+                "carne porcina",
+                "consumo"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "description": "Indicadores de Cárnica - Porcina en valores anuales, trimestrales y mensuales",
+                    "title": "Indicadores de Cárnica - Porcina en valores anuales, trimestrales y mensuales",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/09-indicadores-carnica-porcina-basecompleta.csv",
+                    "field": [
+                        {
+                            "description": "Anual, trimestral y mensual",
+                            "title": "indice_tiempo",
+                            "type": "date"
+                        },
+                        {
+                            "description": "Identifica la frecuencia del dato con valores: anual, trimestral y mensual",
+                            "title": "frec_temporal",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Stock porcino",
+                            "title": "stock_porcino",
+                            "type": "number",
+                            "units": "Cabezas"
+                        },
+                        {
+                            "description": "Faena de porcinos",
+                            "title": "faena_porcinos",
+                            "type": "number",
+                            "units": "Cabezas"
+                        },
+                        {
+                            "description": "Producción de carne porcina",
+                            "title": "prod_carne_porcina",
+                            "type": "number",
+                            "units": "Toneladas equivalente res"
+                        },
+                        {
+                            "description": "Consumo per cápita de carne porcina",
+                            "title": "cons_pc_carne_porcina",
+                            "type": "number",
+                            "units": "Kilogramos per cápita (kg/per cápita)"
+                        },
+                        {
+                            "description": "Precio del capón",
+                            "title": "precio_capon",
+                            "type": "number",
+                            "units": "$/kilo vivo"
+                        }
+                    ],
+                    "identifier": "09.1"
+                }
+            ],
+            "identifier": "09"
+        },
+        {
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ECON"
+            ],
+            "title": "Indicadores Sectoriales de Cítricos dulces",
+            "temporal": "1995-12-31/2017-08-01",
+            "source": "FEDERCITRUS, MCBA",
+            "theme": [
+                "produccion_actividad",
+                "precios"
+            ],
+            "spatial": "ARG",
+            "description": "Indicadores de la cadena de valor Cítricos dulces",
+            "contactPoint": {
+                "hasEmail": "sspmicro@mecon.gov.ar",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
+            },
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "keyword": [
+                "naranja",
+                "mandarina",
+                "aceite",
+                "producción",
+                "elaboración",
+                "ingreso"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "description": "Indicadores de Cítricos dulces en valores anuales y mensuales",
+                    "title": "Indicadores de Cítricos dulces en valores anuales y mensuales",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/19-indicadores-citricos-dulces-basecompleta.csv",
+                    "field": [
+                        {
+                            "description": "Anual y mensual",
+                            "title": "indice_tiempo",
+                            "type": "date"
+                        },
+                        {
+                            "description": "Identifica la frecuencia del dato con valores: anual y mensual",
+                            "title": "frec_temporal",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Superficie plantada con naranja",
+                            "title": "sup_naranja",
+                            "type": "number",
+                            "units": "Hectáreas"
+                        },
+                        {
+                            "description": "Superficie plantada con mandarina",
+                            "title": "sup_mandarina",
+                            "type": "number",
+                            "units": "Hectáreas"
+                        },
+                        {
+                            "description": "Producción de naranja",
+                            "title": "prod_naranja",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Producción de mandarina",
+                            "title": "prod_mandarina",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Destino de la producción de naranja a consumo interno",
+                            "title": "dest_mdoint_naranja",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Destino de la producción de mandarina a consumo interno",
+                            "title": "dest_mdoint_mandarina",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Destino de la producción de naranja a industria",
+                            "title": "dest_ind_naranja",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Destino de la producción de mandarina a industria",
+                            "title": "dest_ind_mandarina",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Destino de la producción de naranja a exportación en fresco",
+                            "title": "dest_exp_naranja",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Destino de la producción de mandarina a exportación en fresco",
+                            "title": "dest_exp_mandarina",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Consumo aparente de naranja",
+                            "title": "cons_apar_naranja",
+                            "type": "number",
+                            "units": "Kilogramos per cápita (kg/per cápita)"
+                        },
+                        {
+                            "description": "Consumo aparente de mandarina",
+                            "title": "cons_apar_mandarina",
+                            "type": "number",
+                            "units": "Kilogramos per cápita (kg/per cápita)"
+                        },
+                        {
+                            "description": "Elaboración de aceite esencial de naranja",
+                            "title": "elab_aceite_naranja",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Elaboración de jugo de naranja concentrado congelado",
+                            "title": "elab_jugo_naranja_conccong",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Elaboración de pulpa congelada de naranja",
+                            "title": "elab_pulpa_naranja_cong",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Elaboración de jugo de mandarina concentrado congelado",
+                            "title": "elab_jugo_mandarina_conccong",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Ingresos al MCBA de naranja",
+                            "title": "ingreso_mcba_naranja",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Ingresos al MCBA de mandarina",
+                            "title": "ingreso_mcba_mandarina",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Precio Interno (Neto de impuestos) de naranja",
+                            "title": "pre_may_naranja",
+                            "type": "number",
+                            "units": "pesos por kilogramo ($/kg)"
+                        },
+                        {
+                            "description": "Precio Interno (Neto de impuestos) de mandarina",
+                            "title": "pre_may_mandarina",
+                            "type": "number",
+                            "units": "pesos por kilogramo ($/kg)"
+                        }
+                    ],
+                    "identifier": "19.1"
+                }
+            ],
+            "identifier": "19"
+        },
+        {
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ECON"
+            ],
+            "title": "Indicadores Sectoriales de Construcción",
+            "temporal": "1996-01-01/2017-09-01",
+            "source": "AFCP, INDEC, MTEySS",
+            "theme": [
+                "produccion_actividad",
+                "mercado_laboral"
+            ],
+            "spatial": "ARG",
+            "description": "Indicadores de la cadena de valor Construcción",
+            "contactPoint": {
+                "hasEmail": "sspmicro@mecon.gov.ar",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
+            },
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "keyword": [
+                "construcción",
+                "vab",
+                "empleo"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "description": "Indicadores de Construcción en valores anuales, trimestrales y mensuales",
+                    "title": "Indicadores de Construcción en valores anuales, trimestrales y mensuales",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/24-indicadores-construccion-basecompleta.csv",
+                    "field": [
+                        {
+                            "description": "Anual, trimestral y mensual",
+                            "title": "indice_tiempo",
+                            "type": "date"
+                        },
+                        {
+                            "description": "Identifica la frecuencia del dato con valores: anual y mensual",
+                            "title": "frec_temporal",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Consumo Cemento portland",
+                            "title": "consumo_cemento_portland",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto a precios básicos del sector Construcción, a precios de 2004",
+                            "title": "vab_k_2004_construccion",
+                            "type": "number",
+                            "units": "Millones de pesos a precios de 2004"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto a precios básicos del sector Construcción, a precios corrientes",
+                            "title": "vab_c_construccion",
+                            "type": "number",
+                            "units": "Millones de pesos a precios corrientes"
+                        },
+                        {
+                            "description": "Puestos de trabajo asalariados registrados en el sector privado del sector Construcción",
+                            "title": "empleo_45",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        }
+                    ],
+                    "identifier": "24.1"
+                }
+            ],
+            "identifier": "24"
+        },
+        {
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ECON"
+            ],
+            "title": "Indicadores Sectoriales de Oleaginosa",
+            "temporal": "1980-01-01/2017-12-31",
+            "source": "MinAgro, INDEC, Bolsa de Cereales de Buenos Aires, FMI",
+            "theme": [
+                "produccion_actividad",
+                "precios"
+            ],
+            "spatial": "ARG",
+            "description": "Indicadores de la cadena de valor Oleaginosa",
+            "contactPoint": {
+                "hasEmail": "sspmicro@mecon.gov.ar",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
+            },
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "keyword": [
+                "girasol",
+                "soja",
+                "aceite",
+                "molienda",
+                "aceite de soja",
+                "aceite de girasol",
+                "expellers",
+                "pellets"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "description": "Indicadores de Oleaginosa en valores anuales, trimestrales y mensuales",
+                    "title": "Indicadores de Oleaginosa en valores anuales, trimestrales y mensuales",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/29-indicadores-oleaginosa-basecompleta.csv",
+                    "field": [
+                        {
+                            "description": "Anual, trimestral y mensual",
+                            "title": "indice_tiempo",
+                            "type": "date"
+                        },
+                        {
+                            "description": "Identifica la frecuencia del dato con valores: anual y mensual",
+                            "title": "frec_temporal",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Superficie sembrada de girasol",
+                            "title": "sup_sembrada_girasol",
+                            "type": "number",
+                            "units": "Hectáreas"
+                        },
+                        {
+                            "description": "Superficie sembrada de soja",
+                            "title": "sup_sembrada_soja",
+                            "type": "number",
+                            "units": "Hectáreas"
+                        },
+                        {
+                            "description": "Superficie cosechada de girasol",
+                            "title": "sup_cosechada_girasol",
+                            "type": "number",
+                            "units": "Hectáreas"
+                        },
+                        {
+                            "description": "Superficie cosechada de soja",
+                            "title": "sup_cosechada_soja",
+                            "type": "number",
+                            "units": "Hectáreas"
+                        },
+                        {
+                            "description": "Producción de girasol",
+                            "title": "prod_girasol",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Producción de soja",
+                            "title": "prod_soja",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Molienda de girasol",
+                            "title": "molienda_girasol",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Molienda de soja",
+                            "title": "molienda_soja",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Producción de aceite de girasol",
+                            "title": "prod_aceite_girasol",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Producción de aceite de soja",
+                            "title": "prod_aceite_soja",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Producción de expeller de girasol",
+                            "title": "prod_expeller_girasol",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Producción de expeller de soja",
+                            "title": "prod_expeller_soja",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Producción de pellets de girasol",
+                            "title": "prod_pellets_girasol",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Producción de pellets de soja",
+                            "title": "prod_pellets_soja",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Producción de biodiesel",
+                            "title": "prod_biodiesel",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Precio sobre vagón/camión Buenos Aires de aceite crudo de girasol",
+                            "title": "pre_bsas_aceitecrudo_girasol",
+                            "type": "number",
+                            "units": "$/tonelada"
+                        },
+                        {
+                            "description": "Precio sobre vagón/camión Buenos Aires de aceite crudo de soja",
+                            "title": "pre_bsas_aceitecrudo_soja",
+                            "type": "number",
+                            "units": "$/tonelada"
+                        },
+                        {
+                            "description": "Precio sobre vagón/camión Buenos Aires de aceite refinado de girasol",
+                            "title": "pre_bsas_aceiterefinado_girasol",
+                            "type": "number",
+                            "units": "$/tonelada"
+                        },
+                        {
+                            "description": "Precio sobre vagón/camión Buenos Aires de aceite refinado de soja",
+                            "title": "pre_bsas_aceiterefinado_soja",
+                            "type": "number",
+                            "units": "$/tonelada"
+                        },
+                        {
+                            "description": "Precio FAS teórico de girasol",
+                            "title": "pre_fas_girasol",
+                            "type": "number",
+                            "units": "$/tonelada"
+                        },
+                        {
+                            "description": "Precio FAS teórico de soja",
+                            "title": "pre_fas_soja",
+                            "type": "number",
+                            "units": "$/tonelada"
+                        },
+                        {
+                            "description": "Precio FAS teórico de aceite crudo de girasol",
+                            "title": "pre_fas_aceitecrudo_girasol",
+                            "type": "number",
+                            "units": "$/tonelada"
+                        },
+                        {
+                            "description": "Precio FAS teórico de aceite crudo de soja",
+                            "title": "pre_fas_aceitecrudo_soja",
+                            "type": "number",
+                            "units": "$/tonelada"
+                        },
+                        {
+                            "description": "Precio cámara arbitral Bahía Blanca de girasol",
+                            "title": "pre_camarb_bahiablanca_girasol",
+                            "type": "number",
+                            "units": "$/tonelada"
+                        },
+                        {
+                            "description": "Precio cámara arbitral Rosario de soja",
+                            "title": "pre_camarb_rosario_soja",
+                            "type": "number",
+                            "units": "$/tonelada"
+                        },
+                        {
+                            "description": "Precio FOB Puertos Argentinos de girasol",
+                            "title": "pre_fob_ptosarg_girasol",
+                            "type": "number",
+                            "units": "USD/tonelada"
+                        },
+                        {
+                            "description": "Precio FOB Puertos Argentinos de soja",
+                            "title": "pre_fob_ptosarg_soja",
+                            "type": "number",
+                            "units": "USD/tonelada"
+                        },
+                        {
+                            "description": "Precio FOB Puertos Argentinos de aceite de girasol",
+                            "title": "pre_fob_ptoarg_aceite_girasol",
+                            "type": "number",
+                            "units": "USD/tonelada"
+                        },
+                        {
+                            "description": "Precio FOB Puertos Argentinos de aceite de soja",
+                            "title": "pre_fob_ptoarg_aceite_soja",
+                            "type": "number",
+                            "units": "USD/tonelada"
+                        },
+                        {
+                            "description": "Precio FOB Rotterdam de aceite de soja",
+                            "title": "pre_fob_rott_aceite_soja",
+                            "type": "number",
+                            "units": "USD/tonelada"
+                        },
+                        {
+                            "description": "Precio futuro Chicago de aceite de soja",
+                            "title": "pre_fut_chicago_aceite_soja",
+                            "type": "number",
+                            "units": "USD/tonelada"
+                        },
+                        {
+                            "description": "Precio amarillo Nº 2 Chicago de poroto de soja",
+                            "title": "pre_amarfut_chicago_soja",
+                            "type": "number",
+                            "units": "USD/tonelada"
+                        }
+                    ],
+                    "identifier": "29.1"
+                }
+            ],
+            "identifier": "29"
+        },
+        {
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ECON"
+            ],
+            "title": "Indicadores Sectoriales de Ovinos - Lana y Carne",
+            "temporal": "1990-12-31/2017-12-31",
+            "source": "SENASA, MinAgro, FLA, FAO",
+            "theme": [
+                "produccion_actividad",
+                "precios"
+            ],
+            "spatial": "ARG",
+            "description": "Indicadores de la cadena de valor Ovinos - Lana y Carne",
+            "contactPoint": {
+                "hasEmail": "sspmicro@mecon.gov.ar",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
+            },
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "keyword": [
+                "ovino",
+                "carne ovina",
+                "lana",
+                "lana sucia"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "description": "Indicadores de Ovinos - Lana y Carne en valores anuales y mensuales",
+                    "title": "Indicadores de Ovinos - Lana y Carne en valores anuales y mensuales",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/01-indicadores-ovinos-basecompleta.csv",
+                    "field": [
+                        {
+                            "description": "Anual y mensual",
+                            "title": "indice_tiempo",
+                            "type": "date"
+                        },
+                        {
+                            "description": "Identifica la frecuencia del dato con valores: anual y mensual",
+                            "title": "frec_temporal",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Stock ovino",
+                            "title": "stock_ovinos",
+                            "type": "number",
+                            "units": "Cabezas"
+                        },
+                        {
+                            "description": "Faena ovina estimada en base a la faena SENASA - Coeficiente de ajuste 26%",
+                            "title": "faena_estimada_ovinos",
+                            "type": "number",
+                            "units": "Cabezas"
+                        },
+                        {
+                            "description": "Peso promedio limpio en gancho ovinos",
+                            "title": "pesoprom_gancho_ovinos",
+                            "type": "number",
+                            "units": "kilo gancho"
+                        },
+                        {
+                            "description": "Producción de carne ovina",
+                            "title": "prod_carne_ovina",
+                            "type": "number",
+                            "units": "Toneladas res con hueso"
+                        },
+                        {
+                            "description": "Consumo aparente de carne ovina",
+                            "title": "cons_ap_carne_ovina",
+                            "type": "number",
+                            "units": "Toneladas res con hueso"
+                        },
+                        {
+                            "description": "Consumo por cápita de carne ovina",
+                            "title": "cons_pc_carne_ovina",
+                            "type": "number",
+                            "units": "Kilogramos per cápita (kg/per cápita)"
+                        },
+                        {
+                            "description": "Producción de lana sucia cruza fina",
+                            "title": "prod_lana_sucia_cruzafina",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Producción de lana sucia fina",
+                            "title": "prod_lana_sucia_fina",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Producción de lana sucia gruesa",
+                            "title": "prod_lana_sucia_gruesa",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Producción de lana sucia mediana",
+                            "title": "prod_lana_sucia_mediana",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Producción de lana sucia",
+                            "title": "prod_lana_sucia",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Valor mensual de referencia_Rinde Peine 55% de la lana fina_20 micrones",
+                            "title": "precio_lana_fina_20micr",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Valor mensual de referencia_Rinde Peine 55% de la lana mediana_27 micrones",
+                            "title": "precio_lana_mediana_27micr",
+                            "type": "number",
+                            "units": "USD"
+                        }
+                    ],
+                    "identifier": "01.1"
+                }
+            ],
+            "identifier": "01"
+        },
+        {
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ECON"
+            ],
+            "title": "Indicadores Sectoriales de Comercio interno",
+            "temporal": "1996-01-01/2017-09-01",
+            "source": "INDEC, MTEySS",
+            "theme": [
+                "produccion_actividad",
+                "mercado laboral"
+            ],
+            "spatial": "ARG",
+            "description": "Indicadores de la cadena de valor Comercio interno",
+            "contactPoint": {
+                "hasEmail": "sspmicro@mecon.gov.ar",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
+            },
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "keyword": [
+                "valor agregado bruto",
+                "valor bruto de producción",
+                "ventas",
+                "comercio",
+                "supermercados",
+                "centro de compras"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "description": "Indicadores de Comercio interno en valores anuales, trimestrales y mensuales",
+                    "title": "Indicadores de Comercio interno en valores anuales, trimestrales y mensuales",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/31-indicadores-comercio-basecompleta.csv",
+                    "field": [
+                        {
+                            "description": "Anual. Trimestral y mensual",
+                            "title": "indice_tiempo",
+                            "type": "date"
+                        },
+                        {
+                            "description": "Identifica la frecuencia del dato con valores: anual, trimestral y mensual",
+                            "title": "frec_temporal",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Valor Bruto de Producción a precios básicos del sector Comercio, a precios de 2004",
+                            "title": "vbp_k_2004_comercio",
+                            "type": "number",
+                            "units": "Millones de pesos a precios de 2004"
+                        },
+                        {
+                            "description": "Valor Bruto de Producción a precios básicos del sector Comercio, a precios corrientes",
+                            "title": "vbp_c_comercio",
+                            "type": "number",
+                            "units": "Millones de pesos a precios corrientes"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto a precios básicos del sector Comercio, a precios de 2004",
+                            "title": "vab_k_2004_comercio",
+                            "type": "number",
+                            "units": "Millones de pesos a precios de 2004"
+                        },
+                        {
+                            "description": "Valor Agregado Bruto a precios básicos del sector Comercio, a precios corrientes",
+                            "title": "vab_c_comercio",
+                            "type": "number",
+                            "units": "Millones de pesos a precios corrientes"
+                        },
+                        {
+                            "description": "Venta en supermercados, a precios corrientes, de alimentos preparados y rotisería",
+                            "title": "vta_super_c_alimentos",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en supermercados, a precios corrientes, de almacén",
+                            "title": "vta_super_c_almacén",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en supermercados, a precios corrientes, de artículos de limpieza y perfumería",
+                            "title": "vta_super_c_art_limpyperf",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en supermercados, a precios corrientes, de bebidas",
+                            "title": "vta_super_c_bebidas",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en supermercados, a precios corrientes, de carnes",
+                            "title": "vta_super_c_carnes",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en supermercados, a precios corrientes, de electrónicos y artículos para el hogar",
+                            "title": "vta_super_c_elecyarthogar",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en supermercados, a precios corrientes, de indumentaria, calzado y textiles para el hogar",
+                            "title": "vta_super_c_induycalz",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en supermercados, a precios corrientes, de lácteos",
+                            "title": "vta_super_c_lacteos",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en supermercados, a precios corrientes, de otros rubros",
+                            "title": "vta_super_c_otros",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en supermercados, a precios corrientes, de artículos de panadería",
+                            "title": "vta_super_c_panaderia",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en supermercados, a precios corrientes, de artícuos de verdulería y frutería",
+                            "title": "vta_super_c_verdyfrut",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en supermercados, a precios corrientes, totales",
+                            "title": "vta_super_c_total",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en centro de compras, a precios corrientes, de indumentaria, calzado y marroquinería",
+                            "title": "vta_ctro_c_induycalz",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en centro de compras, a precios corrientes, de ropa y accesorios deportivos",
+                            "title": "vta_ctro_c_ropa",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en centro de compras, a precios corrientes, de amoblamientos, decoración y textiles para el hogar",
+                            "title": "vta_ctro_c_amob",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en centro de compras, a precios corrientes, en patio de comidas, alimentos y kioscos",
+                            "title": "vta_ctro_c_comidas",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en centro de compras, a precios corrientes, de electrónicos, CD, electrodomésticos y computación",
+                            "title": "vta_ctro_c_elect",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en centro de compras, a precios corrientes, de artículos de juguetería",
+                            "title": "vta_ctro_c_jugueteria",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en centro de compras, a precios corrientes, de artículos de librería y papelería",
+                            "title": "vta_ctro_c_libypap",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en centro de compras, a precios corrientes, de servicios de diversión y esparcimiento",
+                            "title": "vta_ctro_c_diveryespar",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en centro de compras, a precios corrientes, de artículos de perfumería yfarmacia",
+                            "title": "vta_ctro_c_perfyfarm",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en centro de compras, a precios corrientes, de otros rubros",
+                            "title": "vta_ctro_c_otros",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en centro de compras, a precios corrientes , totales",
+                            "title": "vta_ctro_c_total",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en centro de compras, a precios constantes de abril 2016, totales",
+                            "title": "vta_ctro_k_abr2016_total",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Puestos de trabajo asalariados registrados en el sector privado del sector Comercio",
+                            "title": "empleo_sector_g",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        }
+                    ],
+                    "identifier": "31.1"
+                }
+            ],
+            "identifier": "31"
         }
     ],
     "language": [
