@@ -9,6 +9,212 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "",
+                "name": "Dirección Nacional Electoral"
+            },
+            "accessLevel": "public",
+            "description": "Resultados Definitivos Elecciones PASO 2017 - Desagregado por Distrito Electoral",
+            "license": "Creative Commons Attribution",
+            "title": "Resultados Definitivos Elecciones PASO 2017",
+            "issued": "2017-12-12T04:41:34.883729",
+            "modified": "2017-12-13T11:58:38.482376",
+            "distribution": [
+                {
+                    "accessURL": "https://datos.mininterior.gob.ar/dataset/3d510b38-4744-44e7-a1f2-2c5a0a2696dd/resource/ef7321f6-64c6-4d95-bac8-3d8576df550f/download/paso-2017definitivosndistrito.csv",
+                    "description": "Resultados Definitivos - Elecciones PASO 2017 - Senadores Nacionales - Desagregados por Distrito Electoral.",
+                    "title": "Resultados Definitivos - Elecciones PASO 2017 - Senadores Nacionales",
+                    "issued": "2017-12-12T04:43:49.696213",
+                    "format": "CSV",
+                    "modified": "2017-12-12T20:09:28.580668",
+                    "downloadURL": "https://datos.mininterior.gob.ar/dataset/3d510b38-4744-44e7-a1f2-2c5a0a2696dd/resource/ef7321f6-64c6-4d95-bac8-3d8576df550f/download/paso-2017definitivosndistrito.csv"
+                },
+                {
+                    "accessURL": "https://datos.mininterior.gob.ar/dataset/3d510b38-4744-44e7-a1f2-2c5a0a2696dd/resource/c13ca10c-9f61-40bd-a953-83bf6252e057/download/definitivopaso2017dntotaldistrito.csv",
+                    "description": "Resultados Definitivos - Elecciones PASO 2017 - Diputados Nacionales - Desagregados por Distrito Electoral.",
+                    "title": "Resultados Definitivos - Elecciones PASO 2017 - Diputados Nacionales",
+                    "issued": "2017-12-12T04:55:03.362736",
+                    "format": "CSV",
+                    "modified": "2017-12-12T04:49:28.604081",
+                    "downloadURL": "https://datos.mininterior.gob.ar/dataset/3d510b38-4744-44e7-a1f2-2c5a0a2696dd/resource/c13ca10c-9f61-40bd-a953-83bf6252e057/download/definitivopaso2017dntotaldistrito.csv"
+                }
+            ],
+            "keyword": [
+                "Elecciones",
+                "Elecciones PASO",
+                "Resultados definitivos"
+            ],
+            "accrualPeriodicity": "R/P2Y",
+            "superTheme": [
+                "GOVE"
+            ],
+            "landingPage": "https://datos.mininterior.gob.ar/dataset/resultados-definitivos-elecciones-paso-2017",
+            "identifier": "3d510b38-4744-44e7-a1f2-2c5a0a2696dd",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Dirección Nacional Electoral"
+            },
+            "accessLevel": "public",
+            "description": "Resultados Definitivos Elecciones Generales 2017 - Desagregado por Distrito Electoral",
+            "license": "Creative Commons Attribution",
+            "title": "Resultados Definitivos Elecciones Generales 2017",
+            "issued": "2017-12-12T20:41:25.944286",
+            "modified": "2017-12-13T11:54:16.370463",
+            "distribution": [
+                {
+                    "accessURL": "https://datos.mininterior.gob.ar/dataset/b79d08e4-3aa8-4c20-a449-6cb049de6d90/resource/83a3fcf3-9f7b-48ad-ba22-db3e672acca1/download/generales-2017definitivosndistrito.csv",
+                    "description": "Resultados Definitivos - Elecciones PASO 2017 - Senadores Nacionales - Desagregados por Distrito Electoral.",
+                    "title": "Resultados Definitivos - Elecciones Generales 2017 - Senadores Nacionales",
+                    "issued": "2017-12-12T20:42:58.445150",
+                    "format": "CSV",
+                    "modified": "2017-12-12T20:42:58.347791",
+                    "downloadURL": "https://datos.mininterior.gob.ar/dataset/b79d08e4-3aa8-4c20-a449-6cb049de6d90/resource/83a3fcf3-9f7b-48ad-ba22-db3e672acca1/download/generales-2017definitivosndistrito.csv"
+                },
+                {
+                    "accessURL": "https://datos.mininterior.gob.ar/dataset/b79d08e4-3aa8-4c20-a449-6cb049de6d90/resource/664c6c96-5868-461d-bf88-c9a1d4fb00bf/download/generales-2017definitivodndistrito.csv",
+                    "description": "Resultados Definitivos - Elecciones Generales 2017 - Diputados Nacionales - Desagregados por Distrito Electoral.",
+                    "title": "Resultados Definitivos - Elecciones Generales 2017 - Diputados Nacionales",
+                    "issued": "2017-12-12T22:00:40.260252",
+                    "format": "CSV",
+                    "modified": "2017-12-12T22:00:40.193562",
+                    "downloadURL": "https://datos.mininterior.gob.ar/dataset/b79d08e4-3aa8-4c20-a449-6cb049de6d90/resource/664c6c96-5868-461d-bf88-c9a1d4fb00bf/download/generales-2017definitivodndistrito.csv"
+                }
+            ],
+            "keyword": [
+                "Elecciones Generales",
+                "Resultados Electorales"
+            ],
+            "accrualPeriodicity": "R/P2Y",
+            "superTheme": [
+                "GOVE"
+            ],
+            "landingPage": "https://datos.mininterior.gob.ar/dataset/resultados-definitivos-elecciones-generales-2017",
+            "identifier": "b79d08e4-3aa8-4c20-a449-6cb049de6d90",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "privadasspt@mininterior.gob.ar",
+                "name": "Subsecretaría de Planificación Territorial de la Inversión Pública"
+            },
+            "accessLevel": "public",
+            "description": "El Plan Estratégico Territorial (PET) es uno de los instrumentos de concreción de la Política Nacional de Desarrollo y Ordenamiento Territorial, una guía para el despliegue de la inversión pública en el territorio con el objeto de construir una Argentina integrada, equilibrada, sustentable y socialmente justa.",
+            "license": "Otra (Abierta)",
+            "title": "Plan Estratégico Territorial",
+            "issued": "2017-12-07T18:20:00.309535",
+            "modified": "2017-12-12T18:38:20.156779",
+            "language": "spa",
+            "distribution": [
+                {
+                    "accessURL": "http://www.mininterior.gob.ar/planificacion/plan-estrategico.php",
+                    "issued": "2017-12-07T18:21:14.446408",
+                    "downloadURL": "http://www.mininterior.gob.ar/planificacion/plan-estrategico.php",
+                    "description": "Enlace al Plan Estratégico Territorial",
+                    "title": "Plan Estratégico Territorial"
+                }
+            ],
+            "keyword": [
+                "Plan",
+                "Plan Estrategico Territorial"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "GOVE"
+            ],
+            "landingPage": "http://www.mininterior.gob.ar/planificacion/plan-estrategico.php",
+            "identifier": "23f24c02-7a31-4998-a774-ec8bf82d9b5f",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "privadasspt@mininterior.gob.ar",
+                "name": "Subsecretaría de Planificación Territorial de la Inversión Pública"
+            },
+            "accessLevel": "public",
+            "description": "El ATLAS ID es una herramienta que permite visibilizar los fenómenos y procesos de desarrollo que caracterizan al territorio argentino, mediante indicadores adecuados a cada temática objeto de observación.",
+            "license": "Otra (Abierta)",
+            "title": "Atlas de Indicadores",
+            "issued": "2017-12-07T17:53:12.570136",
+            "modified": "2017-12-12T18:37:52.936415",
+            "language": "spa",
+            "distribution": [
+                {
+                    "accessURL": "http://atlasid.planificacion.gob.ar/",
+                    "issued": "2017-12-07T17:53:45.147045",
+                    "downloadURL": "http://atlasid.planificacion.gob.ar/",
+                    "description": "Enlace de acceso al sitio de AtlasID",
+                    "title": "Atlas ID"
+                }
+            ],
+            "keyword": [
+                "Indicadores"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "ECON",
+                "EDUC",
+                "ENVI",
+                "GOVE",
+                "REGI",
+                "SOCI",
+                "TRAN"
+            ],
+            "landingPage": "http://atlasid.planificacion.gob.ar/",
+            "identifier": "d7222fce-d57a-4334-9c34-7e56dedcf6d5",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "privadasspt@mininterior.gob.ar",
+                "name": "Subsecretaría de Planificación Territorial de la Inversión Pública"
+            },
+            "accessLevel": "public",
+            "description": "El Sistema de Información Geográfica (SIG) busca ordenar la producción y facilitar la disponibilidad, el acceso y el uso de datos, productos y servicios geográficos,  proporcionando no solamente las herramientas de gran alcance para el almacenaje y el análisis de datos espaciales y estadísticos multisectoriales, sino que también integra las bases de datos de los diversos organismos  en un mismo formato, estructura y mapa.\r\n\r\nhttp://sig.planificacion.gob.ar",
+            "license": "Otra (Abierta)",
+            "title": "Sistema de información Geográfica",
+            "issued": "2017-12-07T17:43:38.559743",
+            "modified": "2017-12-12T18:37:14.201280",
+            "language": "spa",
+            "distribution": [
+                {
+                    "accessURL": "http://sig.planificacion.gob.ar",
+                    "issued": "2017-12-07T17:44:48.599279",
+                    "downloadURL": "http://sig.planificacion.gob.ar",
+                    "description": "Acceso al Sistema de Información Geográfica",
+                    "title": "Sistema de Información Geográfica"
+                }
+            ],
+            "keyword": [
+                "Información Geográfica",
+                "Mapas"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "ENER",
+                "GOVE",
+                "INTR",
+                "REGI",
+                "SOCI",
+                "TRAN"
+            ],
+            "landingPage": "http://sig.planificacion.gob.ar",
+            "identifier": "514da746-b33a-4f32-ba27-4ed18d4bda17",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "dirfortalecimientoinstitucional@mininterior.gob.ar",
                 "name": "Dirección de Fortalecimiento Institucional y Participación Ciudadana"
             },
