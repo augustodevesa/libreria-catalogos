@@ -18,7 +18,7 @@
             "title": "Organizaciones de la sociedad civil",
             "issued": "2017-09-05T17:05:16.269266",
             "temporal": "2017-04-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
-            "modified": "2017-12-07T13:40:47.282848",
+            "modified": "2017-12-19T20:06:38.281618",
             "language": "spa",
             "theme": [
                 "Participación ciudadana"
@@ -30,7 +30,7 @@
                     "title": "Organizaciones de la sociedad civil",
                     "issued": "2017-09-05T17:13:44.734830",
                     "format": "CSV",
-                    "modified": "2017-12-07T13:40:46.267464",
+                    "modified": "2017-12-19T20:06:38.233040",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/b67a0774-0c7a-4a23-8d23-b5fb76a814b5/resource/f8960692-877e-427b-99cb-5079ff34c16b/download/organizaciones-sociedad-civil.csv",
                     "field": [
                         {
@@ -89,6 +89,105 @@
                 "hasEmail": "mailto:participacionciudadana@ambiente.gob.ar",
                 "@type": "vcard:Contact",
                 "fn": "Dirección de participación ciudadana y medioambiente"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "jgoldschtein@ambiente.gob.ar",
+                "name": "Dirección de Educación Ambiental"
+            },
+            "accessLevel": "public",
+            "description": "Son  materiales didácticos y de comunicación en distintos formatos, de Educación Ambiental, desarrollados en el marco de la Estrategia de Educación Ambiental, para desarrollar acciones de educación ambiental, a través  de cuadernillos para el educador ambiental , secuencias didácticas, ilustraciones e infografías y para promover la interpretación de datos e información ambiental",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Material didáctico y de comunicación de Educación Ambiental",
+            "issued": "2017-09-06T17:47:04.386688",
+            "temporal": "2016-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
+            "modified": "2017-12-19T20:04:14.394368",
+            "language": "spa",
+            "theme": [
+                "Educación"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/62dccae6-041a-4b72-aa05-5325b39bbd36/resource/3fe4e8c6-d832-4e49-bdc4-e7bb369a1651/download/materiales-educcion-ambiental.csv",
+                    "description": "Son  materiales didácticos de Educación Ambiental, desarrollados en el marco de la Estrategia de Educación Ambiental, para desarrollar acciones de educación ambiental",
+                    "title": "Materiales de educación ambiental",
+                    "issued": "2017-09-06T17:51:32.202025",
+                    "format": "CSV",
+                    "modified": "2017-09-06T17:51:32.152270",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/62dccae6-041a-4b72-aa05-5325b39bbd36/resource/3fe4e8c6-d832-4e49-bdc4-e7bb369a1651/download/materiales-educcion-ambiental.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año en el cual se realiza la impresión del material didáctico",
+                            "title": "impresiones_anio"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de temáticas  de Educación Ambiental",
+                            "title": "impresiones_cantidad_de_temáticas"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Tipo de material didáctico ",
+                            "title": "impresiones_material_didáctico_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Formato del material didáctico ",
+                            "title": "impresiones_formato"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de impresiones hechas",
+                            "title": "impresiones_numero"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/62dccae6-041a-4b72-aa05-5325b39bbd36/resource/44d4af7b-6d5b-4d48-adbf-340ba9e0407d/download/materiales-comunicacion-ambiental.csv",
+                    "description": "Son materiales de comunicación en distintos formatos para promover la interpretación de datos e información ambiental y ampliar el conocimiento sobre el ambiente",
+                    "title": "Materiales de comunicación ambiental",
+                    "issued": "2017-09-06T17:56:19.243101",
+                    "format": "CSV",
+                    "modified": "2017-09-06T17:56:19.190963",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/62dccae6-041a-4b72-aa05-5325b39bbd36/resource/44d4af7b-6d5b-4d48-adbf-340ba9e0407d/download/materiales-comunicacion-ambiental.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año en el cual se realiza el material de comunicación",
+                            "title": "material_anio"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de material de comunicación de diferentes temáticas ambientales ",
+                            "title": "material_temas"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de material de comunicación ambiental",
+                            "title": "material_comunicación_tipo"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Educación ambiental",
+                "comunicación ambiental",
+                "didáctica ambiental",
+                "información ambiental",
+                "temáticas ambientales"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/material-didactico-y-de-comunicacion-de-educacion-ambiental",
+            "identifier": "62dccae6-041a-4b72-aa05-5325b39bbd36",
+            "contactPoint": {
+                "hasEmail": "mailto:jgoldschtein@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Educación Ambiental"
             }
         },
         {
@@ -948,105 +1047,6 @@
             "identifier": "3bde7244-fffa-4357-b7b1-2c6277098455",
             "contactPoint": {
                 "hasEmail": "mailto:jgoldschtein@ambiente.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Dirección de Educación Ambiental"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "Javier Goldschtein",
-                "name": "Dirección de Educación Ambiental"
-            },
-            "accessLevel": "public",
-            "description": "Son  materiales didácticos y de comunicación en distintos formatos, de Educación Ambiental, desarrollados en el marco de la Estrategia de Educación Ambiental, para desarrollar acciones de educación ambiental, a través  de cuadernillos para el educador ambiental , secuencias didácticas, ilustraciones e infografías y para promover la interpretación de datos e información ambiental",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Material didáctico y de comunicación de Educación Ambiental",
-            "issued": "2017-09-06T17:47:04.386688",
-            "temporal": "2016-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
-            "modified": "2017-09-06T17:56:19.209450",
-            "language": "spa",
-            "theme": [
-                "Educación"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/62dccae6-041a-4b72-aa05-5325b39bbd36/resource/3fe4e8c6-d832-4e49-bdc4-e7bb369a1651/download/materiales-educcion-ambiental.csv",
-                    "description": "Son  materiales didácticos de Educación Ambiental, desarrollados en el marco de la Estrategia de Educación Ambiental, para desarrollar acciones de educación ambiental",
-                    "title": "Materiales de educación ambiental",
-                    "issued": "2017-09-06T17:51:32.202025",
-                    "format": "CSV",
-                    "modified": "2017-09-06T17:51:32.152270",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/62dccae6-041a-4b72-aa05-5325b39bbd36/resource/3fe4e8c6-d832-4e49-bdc4-e7bb369a1651/download/materiales-educcion-ambiental.csv",
-                    "field": [
-                        {
-                            "type": "integer",
-                            "description": "Año en el cual se realiza la impresión del material didáctico",
-                            "title": "impresiones_anio"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Cantidad de temáticas  de Educación Ambiental",
-                            "title": "impresiones_cantidad_de_temáticas"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Tipo de material didáctico ",
-                            "title": "impresiones_material_didáctico_tipo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Formato del material didáctico ",
-                            "title": "impresiones_formato"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Cantidad de impresiones hechas",
-                            "title": "impresiones_numero"
-                        }
-                    ]
-                },
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/62dccae6-041a-4b72-aa05-5325b39bbd36/resource/44d4af7b-6d5b-4d48-adbf-340ba9e0407d/download/materiales-comunicacion-ambiental.csv",
-                    "description": "Son materiales de comunicación en distintos formatos para promover la interpretación de datos e información ambiental y ampliar el conocimiento sobre el ambiente",
-                    "title": "Materiales de comunicación ambiental",
-                    "issued": "2017-09-06T17:56:19.243101",
-                    "format": "CSV",
-                    "modified": "2017-09-06T17:56:19.190963",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/62dccae6-041a-4b72-aa05-5325b39bbd36/resource/44d4af7b-6d5b-4d48-adbf-340ba9e0407d/download/materiales-comunicacion-ambiental.csv",
-                    "field": [
-                        {
-                            "type": "integer",
-                            "description": "Año en el cual se realiza el material de comunicación",
-                            "title": "material_anio"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Cantidad de material de comunicación de diferentes temáticas ambientales ",
-                            "title": "material_temas"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tipo de material de comunicación ambiental",
-                            "title": "material_comunicación_tipo"
-                        }
-                    ]
-                }
-            ],
-            "keyword": [
-                "Educación ambiental",
-                "comunicación ambiental",
-                "didáctica ambiental",
-                "información ambiental",
-                "temáticas ambientales"
-            ],
-            "accrualPeriodicity": "eventual",
-            "superTheme": [
-                "ENVI"
-            ],
-            "landingPage": "http://datos.ambiente.gob.ar/dataset/material-didactico-y-de-comunicacion-de-educacion-ambiental",
-            "identifier": "62dccae6-041a-4b72-aa05-5325b39bbd36",
-            "contactPoint": {
-                "hasEmail": "Javier Goldschtein",
                 "@type": "vcard:Contact",
                 "fn": "Dirección de Educación Ambiental"
             }
