@@ -101,3 +101,9 @@ sspmi:
   url: "http://minhacienda.gob.ar/catalogo-sspmi/catalog.xlsx"
   formato: "xlsx"
   federado: true
+
+acumar:
+  url: "http://andino.acumar.gov.ar/data.json"
+  formato: "json"
+  federado: true
+
