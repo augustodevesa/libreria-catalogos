@@ -1,0 +1,986 @@
+{
+    "publisher": {
+        "mbox": "",
+        "name": ""
+    },
+    "description": "Bienvenido al portal de datos abiertos de la Administración Nacional de Aviación Civil.",
+    "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
+    "title": "Portal de Datos Abiertos ANAC",
+    "dataset": [
+        {
+            "publisher": {
+                "mbox": "rgoette@anac.gov.ar",
+                "name": "Goette Rosana"
+            },
+            "accessLevel": "public",
+            "description": "Dataset correspondiente a los datos de contacto de Médicos Examinadores Aeronáuticos (AMEs) y Centros Médicos Examinadores Aeronáuticos (CMAEs).",
+            "license": "Creative Commons Attribution",
+            "title": "Datos de contacto AMEs y CMAEs",
+            "issued": "2017-07-27T14:27:54.491455",
+            "modified": "2017-11-17T14:12:08.863712",
+            "language": "spa",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.anac.gob.ar/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/a504383e-5a8e-46bd-a72b-4735156ad5c3/download/listadoames.csv",
+                    "description": "Datos de contacto de Médicos Examinadores Aeronáuticos (AMEs) a Julio de 2017.",
+                    "title": "Médicos Examinadores Aeronáuticos (AMEs)",
+                    "issued": "2017-07-27T14:38:19.381733",
+                    "format": "CSV",
+                    "modified": "2017-07-28T14:10:33.342274",
+                    "downloadURL": "http://datos.anac.gob.ar/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/a504383e-5a8e-46bd-a72b-4735156ad5c3/download/listadoames.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Apellido del médico",
+                            "title": "apellido"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del médico",
+                            "title": "nombre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Provincia",
+                            "title": "provincia"
+                        },
+                        {
+                            "type": "string",
+                            "description": "localidad",
+                            "title": "localidad"
+                        },
+                        {
+                            "type": "string",
+                            "description": "calle",
+                            "title": "calle"
+                        },
+                        {
+                            "type": "string",
+                            "description": "número calle",
+                            "title": "numero"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Código postal ",
+                            "title": "codigo_postal"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "código de área contacto telefónico médico",
+                            "title": "codigo_de_area"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "número telefónico de contacto médico",
+                            "title": "telefono"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Número telefónico alternativo de contacto médico ",
+                            "title": "telefono_alternativo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Correo electrónico médico",
+                            "title": "email"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.anac.gob.ar/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/108c2d9f-742b-4a79-ac96-7cb17f2f3929/download/listadocmaes.csv",
+                    "description": "Datos de contacto de Centros Médicos Examinadores Aeronáuticos (CMAEs) a Julio de 2017.",
+                    "title": "Centros Médicos Examinadores Aeronáuticos (CMAEs)",
+                    "issued": "2017-07-27T14:45:42.961857",
+                    "format": "CSV",
+                    "modified": "2017-07-28T14:12:16.997648",
+                    "downloadURL": "http://datos.anac.gob.ar/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/108c2d9f-742b-4a79-ac96-7cb17f2f3929/download/listadocmaes.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Provincia CMAEs",
+                            "title": "provincia"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Localidad CMAEs",
+                            "title": "localidad"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Numero CMAEs",
+                            "title": "numero"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código de área CMAes ",
+                            "title": "codigo_de_area"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Número telefónico CMAEs",
+                            "title": "telefono"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Número telefónico alternativo CMAEs",
+                            "title": "telefono_alternativo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Email CMAEs",
+                            "title": "email"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Email alternativo CMAEs",
+                            "title": "email_alternativo"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.anac.gob.ar/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/b5f4bf00-b7ac-4e6a-852c-0da48c0e080f/download/listadoames.js.json",
+                    "description": "Datos de contacto de Médicos Examinadores Aeronáuticos (AMEs) a Julio de 2017.",
+                    "title": "Médicos Examinadores Aeronáuticos (AMEs)",
+                    "issued": "2017-07-28T14:21:35.228602",
+                    "format": "JSON",
+                    "modified": "2017-07-28T14:27:31.930516",
+                    "downloadURL": "http://datos.anac.gob.ar/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/b5f4bf00-b7ac-4e6a-852c-0da48c0e080f/download/listadoames.js.json"
+                },
+                {
+                    "accessURL": "http://datos.anac.gob.ar/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/acfee0dc-5b78-4925-ae05-04584974c322/download/listadocmaes.json",
+                    "description": "Datos de contacto de Centros Médicos Examinadores Aeronáuticos (CMAEs) a Julio de 2017.",
+                    "title": "Centros Médicos Examinadores Aeronáuticos (CMAEs)",
+                    "issued": "2017-07-28T14:28:55.926560",
+                    "format": "JSON",
+                    "modified": "2017-07-28T14:28:55.888099",
+                    "downloadURL": "http://datos.anac.gob.ar/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/acfee0dc-5b78-4925-ae05-04584974c322/download/listadocmaes.json"
+                }
+            ],
+            "superTheme": [
+                "TRAN"
+            ],
+            "accrualPeriodicity": "eventual",
+            "landingPage": "http://datos.anac.gob.ar/dataset/datos-de-contacto-ames-y-cmaes",
+            "identifier": "4fb8806c-dbda-47e7-9851-23e9981aa0de",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "ppisano@anac.gov.ar",
+                "name": "Pablo Pisano"
+            },
+            "accessLevel": "public",
+            "description": "Datos correspondientes a los Centros de Instrucción de Aeronáutica Civil. El dataset contempla RAAC, dirección, coordenadas y tipo de centro CIAC.",
+            "license": "Creative Commons Attribution",
+            "title": "Centros de Instrucción de Aeronáutica Civil (CIAC)",
+            "issued": "2017-08-01T14:48:50.782627",
+            "modified": "2017-11-17T14:11:54.176987",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.anac.gob.ar/dataset/f026ae26-08e0-4676-9288-34b3a37e0691/resource/f3f96da9-1eec-41ec-b6f1-631f4f46ef76/download/centrosciac.csv",
+                    "description": "Datos correspondientes a los Centros de Instrucción de Aeronáutica Civil. El dataset contempla RAAC, dirección, coordenadas y tipo de centro CIAC.",
+                    "title": "Centros de Instrucción de Aeronáutica Civil (CIAC)",
+                    "issued": "2017-08-01T14:50:25.379175",
+                    "format": "CSV",
+                    "modified": "2017-08-01T17:15:44.058578",
+                    "downloadURL": "http://datos.anac.gob.ar/dataset/f026ae26-08e0-4676-9288-34b3a37e0691/resource/f3f96da9-1eec-41ec-b6f1-631f4f46ef76/download/centrosciac.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Nombre",
+                            "title": "Nombre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "RAAC",
+                            "title": "RAAC"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Lugar en donde se encuentra emplazado el centro",
+                            "title": "Lugar"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Calle",
+                            "title": "Calle"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Altura a la que se encuentra",
+                            "title": "Número"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Piso",
+                            "title": "Piso"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Departamento",
+                            "title": "Departamento"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Localidad",
+                            "title": "Localidad"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Provincia",
+                            "title": "Provincia"
+                        },
+                        {
+                            "type": "geojson",
+                            "description": "Ubicación del centro",
+                            "title": "the_geom"
+                        },
+                        {
+                            "type": "string",
+                            "description": "longitud del centro",
+                            "title": "lng"
+                        },
+                        {
+                            "type": "string",
+                            "description": "latitud del centro",
+                            "title": "lat"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.anac.gob.ar/dataset/f026ae26-08e0-4676-9288-34b3a37e0691/resource/18ff3cf8-2668-4afd-b855-a84763316355/download/listadociac.json",
+                    "description": "Datos correspondientes a los Centros de Instrucción de Aeronáutica Civil. El dataset contempla RAAC, dirección, coordenadas y tipo de centro CIAC.",
+                    "title": "Centros de Instrucción de Aeronáutica Civil (CIAC)",
+                    "issued": "2017-08-01T16:37:03.407988",
+                    "format": "JSON",
+                    "modified": "2017-08-01T17:17:23.475276",
+                    "downloadURL": "http://datos.anac.gob.ar/dataset/f026ae26-08e0-4676-9288-34b3a37e0691/resource/18ff3cf8-2668-4afd-b855-a84763316355/download/listadociac.json"
+                }
+            ],
+            "keyword": [
+                "CIAC",
+                "Centros de Instrucción de Aeronáutica Civil"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "TRAN"
+            ],
+            "landingPage": "http://datos.anac.gob.ar/dataset/centros-de-instruccion-de-aeronautica-civil-ciac",
+            "identifier": "f026ae26-08e0-4676-9288-34b3a37e0691",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Información Aeronáutica "
+            },
+            "accessLevel": "public",
+            "description": "Instalaciones habilitadas para la operación de aeronaves.",
+            "license": "Creative Commons Attribution",
+            "title": "Aeródromos",
+            "issued": "2017-06-15T17:44:36.196660",
+            "modified": "2017-11-17T14:11:46.992904",
+            "language": "spa",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.anac.gob.ar/dataset/44be27bc-fd62-491b-b609-ad39ce833ab7/resource/e64e7060-8a69-4c3c-99a0-32ee69204997/download/aerodromos.json",
+                    "description": "Detalle de aeródromos nacionales a junio de 2017",
+                    "title": "Aeródromos a Junio 2017",
+                    "issued": "2017-06-23T14:27:15.223321",
+                    "format": "JSON",
+                    "modified": "2017-07-07T18:23:30.646567",
+                    "downloadURL": "http://datos.anac.gob.ar/dataset/44be27bc-fd62-491b-b609-ad39ce833ab7/resource/e64e7060-8a69-4c3c-99a0-32ee69204997/download/aerodromos.json",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Denominación del aeródromo.",
+                            "title": "denominación"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Provincia en la que está emplazado el aeródromo",
+                            "title": "provincia"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código local del aeródromo",
+                            "title": "local"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código oaci del aeródromo",
+                            "title": "oaci"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código iata del aeródromo",
+                            "title": "iata"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Coordenadas de ubicación del aeródromo",
+                            "title": "coordenadas"
+                        },
+                        {
+                            "type": "geojson",
+                            "description": "Ubicación del aeródromo en formato geojson",
+                            "title": "the_geom"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Elevación del aeródromo con respecto al nivel del mar",
+                            "title": "elevacion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Condición del aeródromo",
+                            "title": "condicion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de control ejercido sobre el aeródromo",
+                            "title": "control"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Región a la cual pertenece el aeródromo",
+                            "title": "region"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Fir al cual pertenece el aeródromo",
+                            "title": "fir"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de tráfico",
+                            "title": "Tráfico"
+                        },
+                        {
+                            "type": "string",
+                            "description": "En el caso de poseer servicios de navegación aérea se detalla el proveedor",
+                            "title": "proveedor_servicios_navegacion_aerea"
+                        },
+                        {
+                            "type": "boolean",
+                            "description": "Se detalla si el aeródromo pertenece al sistema nacional de aeropuertos",
+                            "title": "sistema_nacional_aeropuertos"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Detalla si el aeródromo esta concesionado.",
+                            "title": "concesionado"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "número de id del registro",
+                            "title": "id"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.anac.gob.ar/dataset/44be27bc-fd62-491b-b609-ad39ce833ab7/resource/45dff1c8-445a-44a9-9b20-d093bfe8172c/download/aerodromos.csv",
+                    "description": "Detalle de aeródromos nacionales a junio de 2017",
+                    "title": "Aeródromos a Junio 2017",
+                    "issued": "2017-06-23T14:30:38.264600",
+                    "format": "CSV",
+                    "modified": "2017-08-23T20:30:41.473647",
+                    "downloadURL": "http://datos.anac.gob.ar/dataset/44be27bc-fd62-491b-b609-ad39ce833ab7/resource/45dff1c8-445a-44a9-9b20-d093bfe8172c/download/aerodromos.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Denominación del aeródromo.",
+                            "title": "denominación"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Provincia en la que está emplazado el aeródromo",
+                            "title": "provincia"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código local del aeródromo",
+                            "title": "local"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código oaci del aeródromo",
+                            "title": "oaci"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código iatadel aeródromo",
+                            "title": "iata"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Coordenadas de ubicación del aeródromo",
+                            "title": "coordenadas"
+                        },
+                        {
+                            "type": "geojson",
+                            "description": "Ubicación del aeródromo en formato geojson",
+                            "title": "the_geom"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Elevación del aeródromo con respecto al nivel del mar",
+                            "title": "elevacion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Condición del aeródromo",
+                            "title": "condicion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de control ejercido sobre el aeródromo",
+                            "title": "control"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Región a la cual pertenece el aeródromo",
+                            "title": "region"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Fir al cual pertenece el aeródromo",
+                            "title": "fir"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de tráfico",
+                            "title": "Trafico"
+                        },
+                        {
+                            "type": "string",
+                            "description": "En el caso de poseer servicios de navegación aérea se detalla el proveedor",
+                            "title": "proveedor_servicios_navegacion_aerea"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Se detalla si el aeródromo pertenece al sistema nacional de aeropuertos",
+                            "title": "sistema_nacional_aeropuertos"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Detalla si el aeródromo esta concesionado.",
+                            "title": "concesionado"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "número de id del registro",
+                            "title": "id"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "aeropuerto",
+                "aeródromo",
+                "aviación",
+                "avión",
+                "helicóptero",
+                "helipuerto"
+            ],
+            "accrualPeriodicity": "R/P6M",
+            "superTheme": [
+                "TRAN"
+            ],
+            "landingPage": "http://datos.anac.gob.ar/dataset/aerodromos-y-helipuertos",
+            "identifier": "44be27bc-fd62-491b-b609-ad39ce833ab7",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Información Aeronáutica"
+            },
+            "accessLevel": "public",
+            "description": "Instalaciones habilitadas para la operación de aeronaves.",
+            "license": "Creative Commons Attribution",
+            "title": "Helipuertos",
+            "issued": "2017-07-06T16:52:13.771533",
+            "modified": "2017-11-17T14:11:38.932521",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.anac.gob.ar/dataset/89d80799-a371-4aa0-a085-4a09677e7ddc/resource/99c36aed-4e35-40db-a7a9-d6fb678a016a/download/helipuertos.csv",
+                    "description": "Detalle de helipuertos nacionales a junio de 2017",
+                    "title": "Helipuertos a Junio 2017",
+                    "issued": "2017-07-06T16:56:55.729826",
+                    "format": "CSV",
+                    "modified": "2017-08-23T20:31:50.275242",
+                    "downloadURL": "http://datos.anac.gob.ar/dataset/89d80799-a371-4aa0-a085-4a09677e7ddc/resource/99c36aed-4e35-40db-a7a9-d6fb678a016a/download/helipuertos.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Denominación del aeródromo.",
+                            "title": "denominación"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Provincia en la que está emplazado el aeródromo",
+                            "title": "provincia"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código local del aeródromo",
+                            "title": "local"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código oaci del aeródromo",
+                            "title": "oaci"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código iata del aeródromo",
+                            "title": "iata"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Coordenadas de ubicación del aeródromo",
+                            "title": "coordenadas"
+                        },
+                        {
+                            "type": "geojson",
+                            "description": "Ubicación del helipuerto en formato geojson",
+                            "title": "the_geom"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Elevación del aeródromo con respecto al nivel del mar",
+                            "title": "elevacion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Condición del aeródromo",
+                            "title": "condicion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de control ejercido sobre el aeródromo",
+                            "title": "control"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Región a la cual pertenece el aeródromo",
+                            "title": "region"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Fir al cual pertenece el aeródromo",
+                            "title": "fir"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de tráfico",
+                            "title": "Tráfico"
+                        },
+                        {
+                            "type": "string",
+                            "description": "En el caso de poseer servicios de navegación aérea se detalla el proveedor",
+                            "title": "proveedor_servicios_navegacion_aerea"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Se detalla si el aeródromo pertenece al sistema nacional de aeropuertos",
+                            "title": "sistema_nacional_aeropuertos"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Detalla si el aeródromo esta concesionado.",
+                            "title": "concesionado"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Número de id del registro",
+                            "title": "id"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.anac.gob.ar/dataset/89d80799-a371-4aa0-a085-4a09677e7ddc/resource/2d8a2ea2-cc1a-409f-92b2-85dc7afecd62/download/helipuertos.json",
+                    "description": "Detalle de helipuertos nacionales a junio de 2017",
+                    "title": "Helipuertos a Junio 2017",
+                    "issued": "2017-07-06T19:07:57.282525",
+                    "format": "JSON",
+                    "modified": "2017-07-07T18:27:12.402246",
+                    "downloadURL": "http://datos.anac.gob.ar/dataset/89d80799-a371-4aa0-a085-4a09677e7ddc/resource/2d8a2ea2-cc1a-409f-92b2-85dc7afecd62/download/helipuertos.json",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Denominación del aeródromo.",
+                            "title": "denominación"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Provincia en la que está emplazado el aeródromo",
+                            "title": "provincia"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código local del aeródromo",
+                            "title": "local"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código oaci del aeródromo",
+                            "title": "oaci"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código iata del aeródromo",
+                            "title": "iata"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Coordenadas de ubicación del aeródromo",
+                            "title": "coordenadas"
+                        },
+                        {
+                            "type": "geojson",
+                            "description": "Ubicación del aeródromo en formato geojson",
+                            "title": "the_geom"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Elevación del aeródromo con respecto al nivel del mar",
+                            "title": "elevacion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Condición del aeródromo",
+                            "title": "condicion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de control ejercido sobre el aeródromo",
+                            "title": "control"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Región a la cual pertenece el aeródromo",
+                            "title": "region"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Fir al cual pertenece el aeródromo",
+                            "title": "fir"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de tráfico",
+                            "title": "Tráfico"
+                        },
+                        {
+                            "type": "string",
+                            "description": "En el caso de poseer servicios de navegación aérea se detalla el proveedor",
+                            "title": "proveedor_servicios_navegacion_aerea"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Se detalla si el aeródromo pertenece al sistema nacional de aeropuertos",
+                            "title": "sistema_nacional_aeropuertos"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Detalla si el aeródromo esta concesionado.",
+                            "title": "concesionado"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Número de id del registro",
+                            "title": "id"
+                        }
+                    ]
+                }
+            ],
+            "superTheme": [
+                "TRAN"
+            ],
+            "accrualPeriodicity": "eventual",
+            "landingPage": "http://datos.anac.gob.ar/dataset/helipuertos",
+            "identifier": "89d80799-a371-4aa0-a085-4a09677e7ddc",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Información Aeronáutica "
+            },
+            "accessLevel": "public",
+            "description": "Detalle de Aeródromos Nacionales pertenecientes al Sistema Nacional de Aeropuertos (SNA)",
+            "license": "Creative Commons Attribution",
+            "title": "Aeródromos del Sistema Nacional de Aeropuertos (SNA)",
+            "issued": "2017-07-06T20:39:15.382086",
+            "modified": "2017-11-17T14:11:30.608761",
+            "language": "spa",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.anac.gob.ar/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/ef26c3f6-0e72-4f0a-aaa0-b29f69e258a5/download/aerodromossna.csv",
+                    "description": "Instalaciones habilitadas para la operación de aeronaves pertenecientes al SNA - Sistema Nacional de Aeropuertos",
+                    "title": "Aeródromos del Sistema Nacional de Aeropuertos (SNA) a Junio de 2017",
+                    "issued": "2017-07-06T20:40:55.869872",
+                    "format": "CSV",
+                    "modified": "2017-08-23T20:32:30.027631",
+                    "downloadURL": "http://datos.anac.gob.ar/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/ef26c3f6-0e72-4f0a-aaa0-b29f69e258a5/download/aerodromossna.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Denominación del aeródromo",
+                            "title": "denominación"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Provincia en la que se encuentra emplezado el aeródromo",
+                            "title": "provincia"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código local de la provincia en la que se emplaza el aeródromo",
+                            "title": "local"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código oaci del aeródromo",
+                            "title": "oaci"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código iata del aeródromo",
+                            "title": "iata"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de aeródromo",
+                            "title": "tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "coordenadas donde se encuentra emplazado el aeródromo",
+                            "title": "coordenadas"
+                        },
+                        {
+                            "type": "geojson",
+                            "description": "coordenadas en formato geojson donde se encuentra emplazado el aeródromo",
+                            "title": "the_geom"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Condición del aeródromo",
+                            "title": "condicion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Región donde opera el aeródromo",
+                            "title": "region"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de tráfico que opera el aeródromo",
+                            "title": "trafico"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del proveedor de servicios de navegación aérea",
+                            "title": "proveedor_servicios_navegacion_aerea"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Aerodrómo perteneciente al sistema nacional de aeropuertos",
+                            "title": "sistema_nacional_de_aeropuertos"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del explotador del aeródromo",
+                            "title": "explotador"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "id",
+                            "title": "id"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.anac.gob.ar/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/e01be0bf-c365-497f-a584-a675d4715852/download/aerodromossna.js.json",
+                    "description": "Instalaciones habilitadas para la operación de aeronaves pertenecientes al SNA",
+                    "title": "Aeródromos del Sistema Nacional de Aeropuertos (SNA) a Junio de 2017",
+                    "issued": "2017-07-06T22:01:15.075314",
+                    "format": "JSON",
+                    "modified": "2017-08-24T15:33:01.210663",
+                    "downloadURL": "http://datos.anac.gob.ar/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/e01be0bf-c365-497f-a584-a675d4715852/download/aerodromossna.js.json",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Denominación del aeródromo",
+                            "title": "denominación"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Provincia en la que se encuentra emplezado el aeródromo",
+                            "title": "provincia"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código local de la provincia en la que se emplaza el aeródromo",
+                            "title": "local"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código oaci del aeródromo",
+                            "title": "oaci"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código iata del aeródromo",
+                            "title": "iata"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de aeródromo",
+                            "title": "tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "coordenadas donde se encuentra emplazado el aeródromo",
+                            "title": "coordenadas"
+                        },
+                        {
+                            "type": "geojson",
+                            "description": "coordenadas en formato geojson donde se encuentra emplazado el aeródromo",
+                            "title": "the_geom"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Condición del aeródromo",
+                            "title": "condicion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Región donde opera el aeródromo",
+                            "title": "region"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de tráfico que opera el aeródromo",
+                            "title": "trafico"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del proveedor de servicios de navegación aérea",
+                            "title": "proveedor_servicios_navegacion_aerea"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Aerodrómo perteneciente al sistema nacional de aeropuertos",
+                            "title": "sistema_nacional_de_aeropuertos"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del explotador del aeródromo",
+                            "title": "explotador"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "id",
+                            "title": "id"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "SNA",
+                "Sistema Nacional de Aeropuertos",
+                "aeropuerto",
+                "aeródromo"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "TRAN"
+            ],
+            "landingPage": "http://datos.anac.gob.ar/dataset/aerodromos-del-sna-sistema-nacional-de-aeropuertos",
+            "identifier": "b6fca19c-6547-4530-827a-43e9e21cf031",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Departamento de Sistemas y Comunicaciones"
+            },
+            "accessLevel": "public",
+            "description": "Detalle presentación de solicitudes de Servicios Aéreos\r\n\r\nMiércoles 6 de Sep de 2017, 9:00 hs.\r\nTeatro de la Ribera, sito en Av. Don Pedro de Mendoza 1821, La Boca, CABA\r\n\r\nVisualización: www.anac.gob.ar/audiencia219",
+            "license": "Creative Commons Attribution",
+            "title": "Audiencia Pública 219",
+            "issued": "2017-09-06T13:57:51.174277",
+            "modified": "2017-11-17T14:11:11.790594",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.anac.gob.ar/dataset/34fbecae-0abb-48e1-a307-b5e7b593bcdf/resource/988bbf6c-f351-425f-a4b2-b7abb149426a/download/audiencia219.csv",
+                    "description": "Detalle de solicitud de rutas aéreas Audiencia 219",
+                    "title": "Solicitud de rutas aéreas audiencia 219",
+                    "issued": "2017-09-06T13:58:33.147052",
+                    "format": "CSV",
+                    "modified": "2017-09-06T15:37:10.900846",
+                    "downloadURL": "http://datos.anac.gob.ar/dataset/34fbecae-0abb-48e1-a307-b5e7b593bcdf/resource/988bbf6c-f351-425f-a4b2-b7abb149426a/download/audiencia219.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Número de ruta",
+                            "title": "NUMERO_RUTA"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Empresa solicitante de la ruta",
+                            "title": "EMPRESA"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Punto de partida ruta",
+                            "title": "PUNTO_UNO"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Provincia de punto de partida",
+                            "title": "PROVINCIA_PUNTO_UNO"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.anac.gob.ar/dataset/34fbecae-0abb-48e1-a307-b5e7b593bcdf/resource/22c9e899-3b38-411c-8c45-4bff47af8e02/download/audiencia219.json",
+                    "title": "Solicitud de rutas aéreas audiencia 219",
+                    "issued": "2017-09-06T17:42:50.015847",
+                    "format": "JSON",
+                    "modified": "2017-09-06T17:42:49.959776",
+                    "downloadURL": "http://datos.anac.gob.ar/dataset/34fbecae-0abb-48e1-a307-b5e7b593bcdf/resource/22c9e899-3b38-411c-8c45-4bff47af8e02/download/audiencia219.json"
+                }
+            ],
+            "keyword": [
+                "Audiencia Publica 219",
+                "Ministerio de Transporte",
+                "Rutas Aéreas"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "TRAN"
+            ],
+            "landingPage": "http://datos.anac.gob.ar/dataset/audiencia-publica-219",
+            "identifier": "34fbecae-0abb-48e1-a307-b5e7b593bcdf",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        }
+    ],
+    "themeTaxonomy": []
+}
