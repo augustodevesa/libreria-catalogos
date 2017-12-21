@@ -55,7 +55,7 @@
             ],
             "title": "Registro de Audiencias",
             "issued": "2017-06-26T18:14:16",
-            "modified": "2017-12-21T12:15:14.981Z",
+            "modified": "2017-12-21T15:15:14.772Z",
             "language": [
                 "spa"
             ],
@@ -70,7 +70,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T18:14:16",
                     "format": "CSV",
-                    "modified": "2017-12-21T12:15:14.981Z",
+                    "modified": "2017-12-21T15:15:14.772Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -79,7 +79,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T18:14:16",
                     "format": "XLS",
-                    "modified": "2017-12-21T12:15:14.981Z",
+                    "modified": "2017-12-21T15:15:14.773Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -88,7 +88,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T18:14:16",
                     "format": "JSON",
-                    "modified": "2017-12-21T12:15:14.982Z",
+                    "modified": "2017-12-21T15:15:14.773Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -110,7 +110,7 @@
             ],
             "title": "Registro de Visitas",
             "issued": "2017-06-26T21:51:38",
-            "modified": "2017-12-21T12:15:14.991Z",
+            "modified": "2017-12-21T15:15:14.783Z",
             "language": [
                 "spa"
             ],
@@ -125,7 +125,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "CSV",
-                    "modified": "2017-12-21T12:15:14.991Z",
+                    "modified": "2017-12-21T15:15:14.783Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -134,7 +134,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "XLS",
-                    "modified": "2017-12-21T12:15:14.992Z",
+                    "modified": "2017-12-21T15:15:14.783Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -143,7 +143,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "JSON",
-                    "modified": "2017-12-21T12:15:14.992Z",
+                    "modified": "2017-12-21T15:15:14.783Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -161,12 +161,122 @@
             ],
             "keyword": [
                 "ARSAT",
+                "TDA"
+            ],
+            "title": "Datos de las estaciones transmisoras",
+            "issued": "2017-12-21T14:58:02",
+            "modified": "2017-12-21T17:59:44Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "television-digital-abierta"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
+                    "title": "Datos de las estaciones transmisoras",
+                    "issued": "2017-12-21T14:58:02",
+                    "format": "CSV",
+                    "modified": "2017-12-21T17:59:44Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
+                    "title": "Datos de las estaciones transmisoras",
+                    "issued": "2017-12-21T14:58:02",
+                    "format": "XLS",
+                    "modified": "2017-12-21T17:59:44Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
+                    "title": "Datos de las estaciones transmisoras",
+                    "issued": "2017-12-21T14:58:02",
+                    "format": "JSON",
+                    "modified": "2017-12-21T17:59:44Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "TDA-ESTAC-DE-TRANS",
+            "homepage": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
+            "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "ARSAT",
+                "TDA"
+            ],
+            "title": "Datos de las estaciones de transmisión en construcción o planificadas",
+            "issued": "2017-12-11T18:47:54",
+            "modified": "2017-12-21T17:59:32Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "television-digital-abierta"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
+                    "title": "Datos de las estaciones de transmisión en construcción o planificadas",
+                    "issued": "2017-12-11T18:47:54",
+                    "format": "CSV",
+                    "modified": "2017-12-21T17:59:32Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
+                    "title": "Datos de las estaciones de transmisión en construcción o planificadas",
+                    "issued": "2017-12-11T18:47:54",
+                    "format": "XLS",
+                    "modified": "2017-12-21T17:59:32Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
+                    "title": "Datos de las estaciones de transmisión en construcción o planificadas",
+                    "issued": "2017-12-11T18:47:54",
+                    "format": "JSON",
+                    "modified": "2017-12-21T17:59:32Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "TDA-ESTAC-PLANI",
+            "homepage": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
+            "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "ARSAT",
                 "ESCUELAS RURALES",
                 "VSAT"
             ],
             "title": "Escuelas conectadas",
-            "issued": "2017-12-21T13:14:35",
-            "modified": "2017-12-21T16:14:42Z",
+            "issued": "2017-12-21T14:18:25",
+            "modified": "2017-12-21T17:18:33Z",
             "language": [
                 "spa"
             ],
@@ -179,27 +289,27 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/",
                     "description": "Listado de escuelas rurales conectadas",
                     "title": "Escuelas conectadas",
-                    "issued": "2017-12-21T13:14:35",
+                    "issued": "2017-12-21T14:18:25",
                     "format": "CSV",
-                    "modified": "2017-12-21T16:14:42Z",
+                    "modified": "2017-12-21T17:18:33Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/",
                     "description": "Listado de escuelas rurales conectadas",
                     "title": "Escuelas conectadas",
-                    "issued": "2017-12-21T13:14:35",
+                    "issued": "2017-12-21T14:18:25",
                     "format": "XLS",
-                    "modified": "2017-12-21T16:14:42Z",
+                    "modified": "2017-12-21T17:18:33Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/",
                     "description": "Listado de escuelas rurales conectadas",
                     "title": "Escuelas conectadas",
-                    "issued": "2017-12-21T13:14:35",
+                    "issued": "2017-12-21T14:18:25",
                     "format": "JSON",
-                    "modified": "2017-12-21T16:14:42Z",
+                    "modified": "2017-12-21T17:18:33Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -221,8 +331,8 @@
                 "VSAT"
             ],
             "title": "Escuelas de próxima conexión",
-            "issued": "2017-12-21T13:14:35",
-            "modified": "2017-12-21T16:14:42Z",
+            "issued": "2017-12-21T14:18:26",
+            "modified": "2017-12-21T17:18:32Z",
             "language": [
                 "spa"
             ],
@@ -235,27 +345,27 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/",
                     "description": "Listado de escuelas rurales planificadas para ser conectadas",
                     "title": "Escuelas de próxima conexión",
-                    "issued": "2017-12-21T13:14:35",
+                    "issued": "2017-12-21T14:18:26",
                     "format": "CSV",
-                    "modified": "2017-12-21T16:14:42Z",
+                    "modified": "2017-12-21T17:18:32Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/",
                     "description": "Listado de escuelas rurales planificadas para ser conectadas",
                     "title": "Escuelas de próxima conexión",
-                    "issued": "2017-12-21T13:14:35",
+                    "issued": "2017-12-21T14:18:26",
                     "format": "XLS",
-                    "modified": "2017-12-21T16:14:42Z",
+                    "modified": "2017-12-21T17:18:32Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/",
                     "description": "Listado de escuelas rurales planificadas para ser conectadas",
                     "title": "Escuelas de próxima conexión",
-                    "issued": "2017-12-21T13:14:35",
+                    "issued": "2017-12-21T14:18:26",
                     "format": "JSON",
-                    "modified": "2017-12-21T16:14:42Z",
+                    "modified": "2017-12-21T17:18:32Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -646,116 +756,6 @@
             "identifier": "CANTI-DE-CLIEN-POR-PROVI",
             "homepage": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
             "description": "Cantidad de clientes por provincia conectados al Plan Federal de Internet."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "ARSAT",
-                "TDA"
-            ],
-            "title": "Datos de las estaciones de transmisión en construcción o planificadas",
-            "issued": "2017-12-11T17:47:54",
-            "modified": "2017-12-11T20:50:04Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "television-digital-abierta"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
-                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
-                    "title": "Datos de las estaciones de transmisión en construcción o planificadas",
-                    "issued": "2017-12-11T17:47:54",
-                    "format": "CSV",
-                    "modified": "2017-12-11T20:50:04Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
-                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
-                    "title": "Datos de las estaciones de transmisión en construcción o planificadas",
-                    "issued": "2017-12-11T17:47:54",
-                    "format": "XLS",
-                    "modified": "2017-12-11T20:50:04Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
-                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
-                    "title": "Datos de las estaciones de transmisión en construcción o planificadas",
-                    "issued": "2017-12-11T17:47:54",
-                    "format": "JSON",
-                    "modified": "2017-12-11T20:50:04Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "TDA-ESTAC-PLANI",
-            "homepage": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
-            "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "ARSAT",
-                "TDA"
-            ],
-            "title": "Datos de las estaciones transmisoras",
-            "issued": "2017-12-11T17:48:40",
-            "modified": "2017-12-11T20:50:04Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "television-digital-abierta"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
-                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
-                    "title": "Datos de las estaciones transmisoras",
-                    "issued": "2017-12-11T17:48:40",
-                    "format": "CSV",
-                    "modified": "2017-12-11T20:50:04Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
-                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
-                    "title": "Datos de las estaciones transmisoras",
-                    "issued": "2017-12-11T17:48:40",
-                    "format": "XLS",
-                    "modified": "2017-12-11T20:50:04Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
-                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
-                    "title": "Datos de las estaciones transmisoras",
-                    "issued": "2017-12-11T17:48:40",
-                    "format": "JSON",
-                    "modified": "2017-12-11T20:50:04Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "TDA-ESTAC-DE-TRANS",
-            "homepage": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
-            "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país."
         },
         {
             "publisher": {
