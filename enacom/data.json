@@ -69,6 +69,443 @@
                 "TECH"
             ],
             "keyword": [
+                "Telefonia movil",
+                "SMS"
+            ],
+            "title": "Número de SMS enviados",
+            "issued": "2017-07-17T15:30:38",
+            "modified": "2017-12-21T22:33:15Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-movil"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240989/numero-de-sms-enviados/",
+                    "description": "Número trimestral de mensajes cortos de texto enviados",
+                    "title": "Número de SMS enviados",
+                    "issued": "2017-07-17T15:30:38",
+                    "format": "CSV",
+                    "modified": "2017-12-21T22:33:15Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-DE-SMS-ENVIA/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240989/numero-de-sms-enviados/",
+                    "description": "Número trimestral de mensajes cortos de texto enviados",
+                    "title": "Número de SMS enviados",
+                    "issued": "2017-07-17T15:30:38",
+                    "format": "XLS",
+                    "modified": "2017-12-21T22:33:15Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-DE-SMS-ENVIA/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240989/numero-de-sms-enviados/",
+                    "description": "Número trimestral de mensajes cortos de texto enviados",
+                    "title": "Número de SMS enviados",
+                    "issued": "2017-07-17T15:30:38",
+                    "format": "JSON",
+                    "modified": "2017-12-21T22:33:15Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-DE-SMS-ENVIA/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "NUMER-DE-SMS-ENVIA",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240989/numero-de-sms-enviados/",
+            "description": "Número trimestral de mensajes cortos de texto enviados"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "Telefonia movil"
+            ],
+            "title": "Telefonía móvil: número de llamadas salientes",
+            "issued": "2017-07-17T15:40:47",
+            "modified": "2017-12-21T22:33:15Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-movil"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240991/telefonia-movil-numero-de-llamadas-salientes/",
+                    "description": "Número trimestral de llamadas originadas en terminales móviles",
+                    "title": "Telefonía móvil: número de llamadas salientes",
+                    "issued": "2017-07-17T15:40:47",
+                    "format": "CSV",
+                    "modified": "2017-12-21T22:33:15Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TELEF-MOVIL-NUMER-DE-LLAMA/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240991/telefonia-movil-numero-de-llamadas-salientes/",
+                    "description": "Número trimestral de llamadas originadas en terminales móviles",
+                    "title": "Telefonía móvil: número de llamadas salientes",
+                    "issued": "2017-07-17T15:40:47",
+                    "format": "XLS",
+                    "modified": "2017-12-21T22:33:15Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TELEF-MOVIL-NUMER-DE-LLAMA/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240991/telefonia-movil-numero-de-llamadas-salientes/",
+                    "description": "Número trimestral de llamadas originadas en terminales móviles",
+                    "title": "Telefonía móvil: número de llamadas salientes",
+                    "issued": "2017-07-17T15:40:47",
+                    "format": "JSON",
+                    "modified": "2017-12-21T22:33:15Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TELEF-MOVIL-NUMER-DE-LLAMA/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "TELEF-MOVIL-NUMER-DE-LLAMA",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240991/telefonia-movil-numero-de-llamadas-salientes/",
+            "description": "Número trimestral de llamadas originadas en terminales móviles"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "Telefonia movil",
+                "ingresos"
+            ],
+            "title": "Ingresos trimestrales por la prestación del servicio de telefonía móvil",
+            "issued": "2017-07-19T18:39:39",
+            "modified": "2017-12-21T22:33:14Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-movil"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241070/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-movil/",
+                    "description": "Ingresos trimestrales de los operadores por el servicio de telefonía móvil",
+                    "title": "Ingresos trimestrales por la prestación del servicio de telefonía móvil",
+                    "issued": "2017-07-19T18:39:39",
+                    "format": "CSV",
+                    "modified": "2017-12-21T22:33:14Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/INGRE-TRIME-POR-LA-PREST/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241070/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-movil/",
+                    "description": "Ingresos trimestrales de los operadores por el servicio de telefonía móvil",
+                    "title": "Ingresos trimestrales por la prestación del servicio de telefonía móvil",
+                    "issued": "2017-07-19T18:39:39",
+                    "format": "XLS",
+                    "modified": "2017-12-21T22:33:14Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/INGRE-TRIME-POR-LA-PREST/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241070/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-movil/",
+                    "description": "Ingresos trimestrales de los operadores por el servicio de telefonía móvil",
+                    "title": "Ingresos trimestrales por la prestación del servicio de telefonía móvil",
+                    "issued": "2017-07-19T18:39:39",
+                    "format": "JSON",
+                    "modified": "2017-12-21T22:33:14Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/INGRE-TRIME-POR-LA-PREST/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "INGRE-TRIME-POR-LA-PREST",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241070/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-movil/",
+            "description": "Ingresos trimestrales de los operadores por el servicio de telefonía móvil"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "Telefonia movil",
+                "penetración"
+            ],
+            "title": "Penetración nacional de la telefonía móvil (accesos por cada 100 habitantes)",
+            "issued": "2017-07-24T13:19:12",
+            "modified": "2017-12-21T22:33:14Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-movil"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241158/penetracion-nacional-de-la-telefonia-movil-accesos-por-cada-100-habitantes/",
+                    "description": "Penetración del servicio de telefonía móvil (métrica: población)",
+                    "title": "Penetración nacional de la telefonía móvil (accesos por cada 100 habitantes)",
+                    "issued": "2017-07-24T13:19:12",
+                    "format": "CSV",
+                    "modified": "2017-12-21T22:33:14Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-NACIO-DE-LA-TELEF/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241158/penetracion-nacional-de-la-telefonia-movil-accesos-por-cada-100-habitantes/",
+                    "description": "Penetración del servicio de telefonía móvil (métrica: población)",
+                    "title": "Penetración nacional de la telefonía móvil (accesos por cada 100 habitantes)",
+                    "issued": "2017-07-24T13:19:12",
+                    "format": "XLS",
+                    "modified": "2017-12-21T22:33:14Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-NACIO-DE-LA-TELEF/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241158/penetracion-nacional-de-la-telefonia-movil-accesos-por-cada-100-habitantes/",
+                    "description": "Penetración del servicio de telefonía móvil (métrica: población)",
+                    "title": "Penetración nacional de la telefonía móvil (accesos por cada 100 habitantes)",
+                    "issued": "2017-07-24T13:19:12",
+                    "format": "JSON",
+                    "modified": "2017-12-21T22:33:14Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-NACIO-DE-LA-TELEF/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "PENET-NACIO-DE-LA-TELEF",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241158/penetracion-nacional-de-la-telefonia-movil-accesos-por-cada-100-habitantes/",
+            "description": "Penetración del servicio de telefonía móvil (métrica: población)"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "Telefonia movil"
+            ],
+            "title": "Telefonía móvil: minutos salientes (miles)",
+            "issued": "2017-07-17T15:43:58",
+            "modified": "2017-12-21T22:33:14Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-movil"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240992/telefonia-movil-minutos-salientes-miles/",
+                    "description": "Miles de minutos originados trimestralmente en terminales móviles",
+                    "title": "Telefonía móvil: minutos salientes (miles)",
+                    "issued": "2017-07-17T15:43:58",
+                    "format": "CSV",
+                    "modified": "2017-12-21T22:33:14Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TELEF-MOVIL-MINUT-SALIE-MILES/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240992/telefonia-movil-minutos-salientes-miles/",
+                    "description": "Miles de minutos originados trimestralmente en terminales móviles",
+                    "title": "Telefonía móvil: minutos salientes (miles)",
+                    "issued": "2017-07-17T15:43:58",
+                    "format": "XLS",
+                    "modified": "2017-12-21T22:33:14Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TELEF-MOVIL-MINUT-SALIE-MILES/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240992/telefonia-movil-minutos-salientes-miles/",
+                    "description": "Miles de minutos originados trimestralmente en terminales móviles",
+                    "title": "Telefonía móvil: minutos salientes (miles)",
+                    "issued": "2017-07-17T15:43:58",
+                    "format": "JSON",
+                    "modified": "2017-12-21T22:33:14Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TELEF-MOVIL-MINUT-SALIE-MILES/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "TELEF-MOVIL-MINUT-SALIE-MILES",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240992/telefonia-movil-minutos-salientes-miles/",
+            "description": "Miles de minutos originados trimestralmente en terminales móviles"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "Telefonia movil"
+            ],
+            "title": "Total nacional de accesos a telefonía móvil",
+            "issued": "2017-07-24T13:22:33",
+            "modified": "2017-12-21T22:33:13Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-movil"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241160/total-nacional-de-accesos-a-telefonia-movil/",
+                    "description": "Número total de accesos al servicio de telefonía móvil (trimestral)",
+                    "title": "Total nacional de accesos a telefonía móvil",
+                    "issued": "2017-07-24T13:22:33",
+                    "format": "CSV",
+                    "modified": "2017-12-21T22:33:13Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-52199/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241160/total-nacional-de-accesos-a-telefonia-movil/",
+                    "description": "Número total de accesos al servicio de telefonía móvil (trimestral)",
+                    "title": "Total nacional de accesos a telefonía móvil",
+                    "issued": "2017-07-24T13:22:33",
+                    "format": "XLS",
+                    "modified": "2017-12-21T22:33:13Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-52199/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241160/total-nacional-de-accesos-a-telefonia-movil/",
+                    "description": "Número total de accesos al servicio de telefonía móvil (trimestral)",
+                    "title": "Total nacional de accesos a telefonía móvil",
+                    "issued": "2017-07-24T13:22:33",
+                    "format": "JSON",
+                    "modified": "2017-12-21T22:33:13Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-52199/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "TOTAL-NACIO-DE-ACCES-52199",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241160/total-nacional-de-accesos-a-telefonia-movil/",
+            "description": "Número total de accesos al servicio de telefonía móvil (trimestral)"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "Telefonia movil",
+                "portabilidad"
+            ],
+            "title": "Portabilidad numérica móvil: altas mensuales por operador",
+            "issued": "2017-09-28T15:49:28",
+            "modified": "2017-12-21T22:27:03Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-movil"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
+                    "description": "Número de altas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: altas mensuales por operador",
+                    "issued": "2017-09-28T15:49:28",
+                    "format": "CSV",
+                    "modified": "2017-12-21T22:27:03Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-MENSU/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
+                    "description": "Número de altas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: altas mensuales por operador",
+                    "issued": "2017-09-28T15:49:28",
+                    "format": "XLS",
+                    "modified": "2017-12-21T22:27:03Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-MENSU/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
+                    "description": "Número de altas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: altas mensuales por operador",
+                    "issued": "2017-09-28T15:49:28",
+                    "format": "JSON",
+                    "modified": "2017-12-21T22:27:03Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-MENSU/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "PORTA-NUMER-MOVIL-ALTAS-MENSU",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
+            "description": "Número de altas mensuales de la portabilidad numérica móvil por operador"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "Telefonia movil",
+                "portabilidad"
+            ],
+            "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
+            "issued": "2017-09-12T20:31:20",
+            "modified": "2017-12-21T22:27:03Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-movil"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
+                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
+                    "issued": "2017-09-12T20:31:20",
+                    "format": "CSV",
+                    "modified": "2017-12-21T22:27:03Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
+                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
+                    "issued": "2017-09-12T20:31:20",
+                    "format": "XLS",
+                    "modified": "2017-12-21T22:27:03Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
+                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
+                    "issued": "2017-09-12T20:31:20",
+                    "format": "JSON",
+                    "modified": "2017-12-21T22:27:03Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "PORTA-NUMER-MOVIL-ALTAS-Y",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
+            "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
                 "Internet",
                 "banda ancha",
                 "penetración"
@@ -954,333 +1391,6 @@
             "identifier": "PENET-TOTAL-NACIO-DE-55233",
             "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241328/penetracion-total-nacional-de-la-television-por-suscripcion-y-satelital/",
             "description": "Penetración total nacional de la televisión por suscripción y satelital (métrica: hogares y habitantes)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "Telefonia movil",
-                "SMS"
-            ],
-            "title": "Número de SMS enviados",
-            "issued": "2017-07-17T15:30:38",
-            "modified": "2017-12-19T00:01:26Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "telefonia-movil"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240989/numero-de-sms-enviados/",
-                    "description": "Número trimestral de mensajes cortos de texto enviados",
-                    "title": "Número de SMS enviados",
-                    "issued": "2017-07-17T15:30:38",
-                    "format": "CSV",
-                    "modified": "2017-12-19T00:01:26Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-DE-SMS-ENVIA/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240989/numero-de-sms-enviados/",
-                    "description": "Número trimestral de mensajes cortos de texto enviados",
-                    "title": "Número de SMS enviados",
-                    "issued": "2017-07-17T15:30:38",
-                    "format": "XLS",
-                    "modified": "2017-12-19T00:01:26Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-DE-SMS-ENVIA/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240989/numero-de-sms-enviados/",
-                    "description": "Número trimestral de mensajes cortos de texto enviados",
-                    "title": "Número de SMS enviados",
-                    "issued": "2017-07-17T15:30:38",
-                    "format": "JSON",
-                    "modified": "2017-12-19T00:01:26Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-DE-SMS-ENVIA/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "NUMER-DE-SMS-ENVIA",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240989/numero-de-sms-enviados/",
-            "description": "Número trimestral de mensajes cortos de texto enviados"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "Telefonia movil"
-            ],
-            "title": "Telefonía móvil: número de llamadas salientes",
-            "issued": "2017-07-17T15:40:47",
-            "modified": "2017-12-19T00:01:26Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "telefonia-movil"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240991/telefonia-movil-numero-de-llamadas-salientes/",
-                    "description": "Número trimestral de llamadas originadas en terminales móviles",
-                    "title": "Telefonía móvil: número de llamadas salientes",
-                    "issued": "2017-07-17T15:40:47",
-                    "format": "CSV",
-                    "modified": "2017-12-19T00:01:26Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TELEF-MOVIL-NUMER-DE-LLAMA/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240991/telefonia-movil-numero-de-llamadas-salientes/",
-                    "description": "Número trimestral de llamadas originadas en terminales móviles",
-                    "title": "Telefonía móvil: número de llamadas salientes",
-                    "issued": "2017-07-17T15:40:47",
-                    "format": "XLS",
-                    "modified": "2017-12-19T00:01:26Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TELEF-MOVIL-NUMER-DE-LLAMA/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240991/telefonia-movil-numero-de-llamadas-salientes/",
-                    "description": "Número trimestral de llamadas originadas en terminales móviles",
-                    "title": "Telefonía móvil: número de llamadas salientes",
-                    "issued": "2017-07-17T15:40:47",
-                    "format": "JSON",
-                    "modified": "2017-12-19T00:01:26Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TELEF-MOVIL-NUMER-DE-LLAMA/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "TELEF-MOVIL-NUMER-DE-LLAMA",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240991/telefonia-movil-numero-de-llamadas-salientes/",
-            "description": "Número trimestral de llamadas originadas en terminales móviles"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "Telefonia movil",
-                "ingresos"
-            ],
-            "title": "Ingresos trimestrales por la prestación del servicio de telefonía móvil",
-            "issued": "2017-07-19T18:39:39",
-            "modified": "2017-12-19T00:01:25Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "telefonia-movil"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241070/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-movil/",
-                    "description": "Ingresos trimestrales de los operadores por el servicio de telefonía móvil",
-                    "title": "Ingresos trimestrales por la prestación del servicio de telefonía móvil",
-                    "issued": "2017-07-19T18:39:39",
-                    "format": "CSV",
-                    "modified": "2017-12-19T00:01:25Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/INGRE-TRIME-POR-LA-PREST/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241070/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-movil/",
-                    "description": "Ingresos trimestrales de los operadores por el servicio de telefonía móvil",
-                    "title": "Ingresos trimestrales por la prestación del servicio de telefonía móvil",
-                    "issued": "2017-07-19T18:39:39",
-                    "format": "XLS",
-                    "modified": "2017-12-19T00:01:25Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/INGRE-TRIME-POR-LA-PREST/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241070/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-movil/",
-                    "description": "Ingresos trimestrales de los operadores por el servicio de telefonía móvil",
-                    "title": "Ingresos trimestrales por la prestación del servicio de telefonía móvil",
-                    "issued": "2017-07-19T18:39:39",
-                    "format": "JSON",
-                    "modified": "2017-12-19T00:01:25Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/INGRE-TRIME-POR-LA-PREST/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "INGRE-TRIME-POR-LA-PREST",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241070/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-movil/",
-            "description": "Ingresos trimestrales de los operadores por el servicio de telefonía móvil"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "Telefonia movil"
-            ],
-            "title": "Telefonía móvil: minutos salientes (miles)",
-            "issued": "2017-07-17T15:43:58",
-            "modified": "2017-12-19T00:01:25Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "telefonia-movil"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240992/telefonia-movil-minutos-salientes-miles/",
-                    "description": "Miles de minutos originados trimestralmente en terminales móviles",
-                    "title": "Telefonía móvil: minutos salientes (miles)",
-                    "issued": "2017-07-17T15:43:58",
-                    "format": "CSV",
-                    "modified": "2017-12-19T00:01:25Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TELEF-MOVIL-MINUT-SALIE-MILES/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240992/telefonia-movil-minutos-salientes-miles/",
-                    "description": "Miles de minutos originados trimestralmente en terminales móviles",
-                    "title": "Telefonía móvil: minutos salientes (miles)",
-                    "issued": "2017-07-17T15:43:58",
-                    "format": "XLS",
-                    "modified": "2017-12-19T00:01:25Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TELEF-MOVIL-MINUT-SALIE-MILES/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240992/telefonia-movil-minutos-salientes-miles/",
-                    "description": "Miles de minutos originados trimestralmente en terminales móviles",
-                    "title": "Telefonía móvil: minutos salientes (miles)",
-                    "issued": "2017-07-17T15:43:58",
-                    "format": "JSON",
-                    "modified": "2017-12-19T00:01:25Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TELEF-MOVIL-MINUT-SALIE-MILES/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "TELEF-MOVIL-MINUT-SALIE-MILES",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240992/telefonia-movil-minutos-salientes-miles/",
-            "description": "Miles de minutos originados trimestralmente en terminales móviles"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "Telefonia movil",
-                "penetración"
-            ],
-            "title": "Penetración nacional de la telefonía móvil (accesos por cada 100 habitantes)",
-            "issued": "2017-07-24T13:19:12",
-            "modified": "2017-12-19T00:01:24Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "telefonia-movil"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241158/penetracion-nacional-de-la-telefonia-movil-accesos-por-cada-100-habitantes/",
-                    "description": "Penetración del servicio de telefonía móvil (métrica: población)",
-                    "title": "Penetración nacional de la telefonía móvil (accesos por cada 100 habitantes)",
-                    "issued": "2017-07-24T13:19:12",
-                    "format": "CSV",
-                    "modified": "2017-12-19T00:01:24Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-NACIO-DE-LA-TELEF/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241158/penetracion-nacional-de-la-telefonia-movil-accesos-por-cada-100-habitantes/",
-                    "description": "Penetración del servicio de telefonía móvil (métrica: población)",
-                    "title": "Penetración nacional de la telefonía móvil (accesos por cada 100 habitantes)",
-                    "issued": "2017-07-24T13:19:12",
-                    "format": "XLS",
-                    "modified": "2017-12-19T00:01:24Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-NACIO-DE-LA-TELEF/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241158/penetracion-nacional-de-la-telefonia-movil-accesos-por-cada-100-habitantes/",
-                    "description": "Penetración del servicio de telefonía móvil (métrica: población)",
-                    "title": "Penetración nacional de la telefonía móvil (accesos por cada 100 habitantes)",
-                    "issued": "2017-07-24T13:19:12",
-                    "format": "JSON",
-                    "modified": "2017-12-19T00:01:24Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-NACIO-DE-LA-TELEF/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "PENET-NACIO-DE-LA-TELEF",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241158/penetracion-nacional-de-la-telefonia-movil-accesos-por-cada-100-habitantes/",
-            "description": "Penetración del servicio de telefonía móvil (métrica: población)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "Telefonia movil"
-            ],
-            "title": "Total nacional de accesos a telefonía móvil",
-            "issued": "2017-07-24T13:22:33",
-            "modified": "2017-12-19T00:01:24Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "telefonia-movil"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241160/total-nacional-de-accesos-a-telefonia-movil/",
-                    "description": "Número total de accesos al servicio de telefonía móvil (trimestral)",
-                    "title": "Total nacional de accesos a telefonía móvil",
-                    "issued": "2017-07-24T13:22:33",
-                    "format": "CSV",
-                    "modified": "2017-12-19T00:01:24Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-52199/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241160/total-nacional-de-accesos-a-telefonia-movil/",
-                    "description": "Número total de accesos al servicio de telefonía móvil (trimestral)",
-                    "title": "Total nacional de accesos a telefonía móvil",
-                    "issued": "2017-07-24T13:22:33",
-                    "format": "XLS",
-                    "modified": "2017-12-19T00:01:24Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-52199/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241160/total-nacional-de-accesos-a-telefonia-movil/",
-                    "description": "Número total de accesos al servicio de telefonía móvil (trimestral)",
-                    "title": "Total nacional de accesos a telefonía móvil",
-                    "issued": "2017-07-24T13:22:33",
-                    "format": "JSON",
-                    "modified": "2017-12-19T00:01:24Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-52199/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "TOTAL-NACIO-DE-ACCES-52199",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241160/total-nacional-de-accesos-a-telefonia-movil/",
-            "description": "Número total de accesos al servicio de telefonía móvil (trimestral)"
         },
         {
             "publisher": {
@@ -3473,116 +3583,6 @@
             "identifier": "LISTA-DE-SENAL-DISTI-ESPEC",
             "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243052/listado-de-senales-distintivas-especiales/",
             "description": "Señales distintivas especiales"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "Telefonia movil",
-                "portabilidad"
-            ],
-            "title": "Portabilidad numérica móvil: altas mensuales por operador",
-            "issued": "2017-09-28T14:49:28",
-            "modified": "2017-09-28T17:49:48Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "telefonia-movil"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
-                    "description": "Número de altas mensuales de la portabilidad numérica móvil por operador",
-                    "title": "Portabilidad numérica móvil: altas mensuales por operador",
-                    "issued": "2017-09-28T14:49:28",
-                    "format": "CSV",
-                    "modified": "2017-09-28T17:49:48Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-MENSU/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
-                    "description": "Número de altas mensuales de la portabilidad numérica móvil por operador",
-                    "title": "Portabilidad numérica móvil: altas mensuales por operador",
-                    "issued": "2017-09-28T14:49:28",
-                    "format": "XLS",
-                    "modified": "2017-09-28T17:49:48Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-MENSU/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
-                    "description": "Número de altas mensuales de la portabilidad numérica móvil por operador",
-                    "title": "Portabilidad numérica móvil: altas mensuales por operador",
-                    "issued": "2017-09-28T14:49:28",
-                    "format": "JSON",
-                    "modified": "2017-09-28T17:49:48Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-MENSU/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "PORTA-NUMER-MOVIL-ALTAS-MENSU",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
-            "description": "Número de altas mensuales de la portabilidad numérica móvil por operador"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "Telefonia movil",
-                "portabilidad"
-            ],
-            "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
-            "issued": "2017-09-12T19:31:20",
-            "modified": "2017-09-19T16:52:14Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "telefonia-movil"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
-                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
-                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
-                    "issued": "2017-09-12T19:31:20",
-                    "format": "CSV",
-                    "modified": "2017-09-19T16:52:14Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
-                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
-                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
-                    "issued": "2017-09-12T19:31:20",
-                    "format": "XLS",
-                    "modified": "2017-09-19T16:52:14Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
-                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
-                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
-                    "issued": "2017-09-12T19:31:20",
-                    "format": "JSON",
-                    "modified": "2017-09-19T16:52:14Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "PORTA-NUMER-MOVIL-ALTAS-Y",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
-            "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador"
         },
         {
             "publisher": {
