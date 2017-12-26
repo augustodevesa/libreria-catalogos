@@ -55,7 +55,7 @@
             ],
             "title": "Registro de Audiencias",
             "issued": "2017-06-26T18:14:16",
-            "modified": "2017-12-26T18:17:30.772Z",
+            "modified": "2017-12-26T21:17:27.446Z",
             "language": [
                 "spa"
             ],
@@ -70,7 +70,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T18:14:16",
                     "format": "CSV",
-                    "modified": "2017-12-26T18:17:30.772Z",
+                    "modified": "2017-12-26T21:17:27.446Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -79,7 +79,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T18:14:16",
                     "format": "XLS",
-                    "modified": "2017-12-26T18:17:30.772Z",
+                    "modified": "2017-12-26T21:17:27.446Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -88,7 +88,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T18:14:16",
                     "format": "JSON",
-                    "modified": "2017-12-26T18:17:30.772Z",
+                    "modified": "2017-12-26T21:17:27.446Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -110,7 +110,7 @@
             ],
             "title": "Registro de Visitas",
             "issued": "2017-06-26T21:51:38",
-            "modified": "2017-12-26T18:17:30.782Z",
+            "modified": "2017-12-26T21:17:27.456Z",
             "language": [
                 "spa"
             ],
@@ -125,7 +125,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "CSV",
-                    "modified": "2017-12-26T18:17:30.782Z",
+                    "modified": "2017-12-26T21:17:27.456Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -134,7 +134,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "XLS",
-                    "modified": "2017-12-26T18:17:30.782Z",
+                    "modified": "2017-12-26T21:17:27.456Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -143,13 +143,68 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "JSON",
-                    "modified": "2017-12-26T18:17:30.782Z",
+                    "modified": "2017-12-26T21:17:27.456Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
             "identifier": "REGIS-DE-VISIT-31415",
             "homepage": "http://datos.arsat.com.ar/dataviews/239722/registro-de-visitas/",
             "description": "Listado de visitas recibidas en Arsat desde el 20/03/17 hasta el presente."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "ARSAT",
+                "TDA"
+            ],
+            "title": "Áreas de cobertura de la televisión digital abierta",
+            "issued": "2017-12-26T20:54:27",
+            "modified": "2017-12-26T23:55:00Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "television-digital-abierta"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
+                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
+                    "title": "Áreas de cobertura de la televisión digital abierta",
+                    "issued": "2017-12-26T20:54:27",
+                    "format": "CSV",
+                    "modified": "2017-12-26T23:55:00Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
+                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
+                    "title": "Áreas de cobertura de la televisión digital abierta",
+                    "issued": "2017-12-26T20:54:27",
+                    "format": "XLS",
+                    "modified": "2017-12-26T23:55:00Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
+                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
+                    "title": "Áreas de cobertura de la televisión digital abierta",
+                    "issued": "2017-12-26T20:54:27",
+                    "format": "JSON",
+                    "modified": "2017-12-26T23:55:00Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "TDA-POLIG-DE-COBER",
+            "homepage": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
+            "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura."
         },
         {
             "publisher": {
@@ -2132,61 +2187,6 @@
             "identifier": "ESCAL-SALAR",
             "homepage": "http://datos.arsat.com.ar/dataviews/238683/categorias-y-escalas-salariales/",
             "description": "Listado de categorías y escala salarial bruta en ARSAT."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "ARSAT",
-                "TDA"
-            ],
-            "title": "Áreas de cobertura de la televisión digital abierta",
-            "issued": "2017-05-26T17:10:49",
-            "modified": "2017-05-26T22:39:48Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "television-digital-abierta"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
-                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
-                    "title": "Áreas de cobertura de la televisión digital abierta",
-                    "issued": "2017-05-26T17:10:49",
-                    "format": "CSV",
-                    "modified": "2017-05-26T22:39:48Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
-                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
-                    "title": "Áreas de cobertura de la televisión digital abierta",
-                    "issued": "2017-05-26T17:10:49",
-                    "format": "XLS",
-                    "modified": "2017-05-26T22:39:48Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
-                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
-                    "title": "Áreas de cobertura de la televisión digital abierta",
-                    "issued": "2017-05-26T17:10:49",
-                    "format": "JSON",
-                    "modified": "2017-05-26T22:39:48Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "TDA-POLIG-DE-COBER",
-            "homepage": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
-            "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura."
         },
         {
             "publisher": {
