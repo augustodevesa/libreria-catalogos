@@ -3301,7 +3301,8 @@
                 "sociodemograficos",
                 "financiamiento",
                 "fiscal",
-                "mercado_laboral"
+                "mercado_laboral",
+                "comercio_exterior"
             ],
             "spatial": "ARG",
             "description": "Indicadores Provinciales Socioeconómicos",
@@ -3325,7 +3326,8 @@
                 "préstamos",
                 "gastos",
                 "recursos",
-                "datos provinciales"
+                "datos provinciales",
+                "exportaciones"
             ],
             "language": [
                 "SPA"
@@ -3400,7 +3402,7 @@
                             "units": "Miles de pesos corrientes"
                         },
                         {
-                            "description": "Identifica la frecuencia del dato con valores: anual, trimestral y mensual",
+                            "description": "Identifica la frecuencia del dato con valores: anual, trimestral y mensual acumulado",
                             "title": "frec_temporal",
                             "type": "text"
                         },
@@ -3411,7 +3413,7 @@
                             "units": "Millones de pesos"
                         },
                         {
-                            "description": "Anual, trimestral y mensual",
+                            "description": "Anual, trimestral y mensual acumulado",
                             "title": "indice_tiempo",
                             "type": "date"
                         },
@@ -3504,10 +3506,298 @@
                             "title": "tasa_nat",
                             "type": "number",
                             "units": "por cada 1.000 habitantes"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 102A: pescados sin elaborar",
+                            "title": "expo_fob_102A",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 102B: mariscos sin elaborar",
+                            "title": "expo_fob_102B",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 104B: ajos sin elaborar",
+                            "title": "expo_fob_104B",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 104C: legumbres sin elaborar",
+                            "title": "expo_fob_104C",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 105A: manzanas frescas",
+                            "title": "expo_fob_105A",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 105B: peras frescas",
+                            "title": "expo_fob_105B",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 105C: cítricos frescos",
+                            "title": "expo_fob_105C",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 106A: trigo",
+                            "title": "expo_fob_106A",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 106B: maíz",
+                            "title": "expo_fob_106B",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 106ZF: arroz",
+                            "title": "expo_fob_106ZF",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 107A: soja",
+                            "title": "expo_fob_107A",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 108A: tabaco sin elaborar en hojas",
+                            "title": "expo_fob_108A",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 111: minerales metalíferos, escorias y cenizas",
+                            "title": "expo_fob_111",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 111A: mineral de cobre y sus concentrados (vigente desde 2012)",
+                            "title": "expo_fob_111A",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 111BA: mineral de plata y sus concentrados (vigente desde 2012)",
+                            "title": "expo_fob_111BA",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 111Z: resto de minerales metalíferos, escorias y cenizas exc.cobre y metales preciosos  (vigente desde 2012)",
+                            "title": "expo_fob_111Z",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 201AA: carnes frescas, refrigeradas o congeladas bovinas",
+                            "title": "expo_fob_201AA",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 201AE: carnes frescas, refrigeradas o congeladas de ave",
+                            "title": "expo_fob_201AE",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 206A: té",
+                            "title": "expo_fob_206A",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 208AA: aceite de soja",
+                            "title": "expo_fob_208AA",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 210A: aceitunas",
+                            "title": "expo_fob_210A",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 210D: jugos de frutas y hortalizas",
+                            "title": "expo_fob_210D",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 211A: vino de uva",
+                            "title": "expo_fob_211A",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 212AE: subproductos oleaginosos de soja",
+                            "title": "expo_fob_212AE",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 213A: extracto de quebracho",
+                            "title": "expo_fob_213A",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 214B: pieles y cueros preparados",
+                            "title": "expo_fob_214B",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 299: resto de MOA",
+                            "title": "expo_fob_299",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 302A: productos químicos inorgánicos",
+                            "title": "expo_fob_302A",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 302B: productos químicos orgánicos",
+                            "title": "expo_fob_302B",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 302C: productos farmacéuticos",
+                            "title": "expo_fob_302C",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 302F: aceites esenciales y reisnoides (perfume, cosmética, tocador)",
+                            "title": "expo_fob_302F",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 302J: productos diversos de las industrias químicas",
+                            "title": "expo_fob_302J",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 306A: papel,cartón y sus manufacturas",
+                            "title": "expo_fob_306A",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 306C: pasta para papel",
+                            "title": "expo_fob_306C",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 310A: piedras y metales preciosos",
+                            "title": "expo_fob_310A",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 311AZ: resto de arrabio,fundición, hierro o acero",
+                            "title": "expo_fob_311AZ",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 311C: aluminio",
+                            "title": "expo_fob_311C",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 312AL: otras máquinas y aparatos mecánicos, piezas y accesorios",
+                            "title": "expo_fob_312AL",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 312B: máquinas y aparatos eléctricos y objetos destinado al uso electrónico y sus partes",
+                            "title": "expo_fob_312B",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 313BB: vehículos automóviles terrestres",
+                            "title": "expo_fob_313BB",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 314A: vehículos de navegación aérea, aeronaves, vehículos espaciales y sus partes",
+                            "title": "expo_fob_314A",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 314B: vahículos de navegación marítima y fluvial",
+                            "title": "expo_fob_314B",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 399Z: resto de MOI",
+                            "title": "expo_fob_399Z",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 401: petróleo crudo",
+                            "title": "expo_fob_401",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 402A: naftas",
+                            "title": "expo_fob_402A",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 402Z: resto de carburantes",
+                            "title": "expo_fob_402Z",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 404A: gas de petróleo",
+                            "title": "expo_fob_404A",
+                            "type": "number",
+                            "units": "USD"
+                        },
+                        {
+                            "description": "Exportaciones en valor FOB, Grandes Rubros 499: resto de combustibles",
+                            "title": "expo_fob_499",
+                            "type": "number",
+                            "units": "USD"
                         }
                     ],
-                    "description": "Indicadores Provinciales Socioeconómicos en valores trimestrales, trimestrales y mensuales",
-                    "title": "Indicadores Provinciales Socioeconómicos en valores anuales y trimestrales",
+                    "description": "Indicadores Provinciales Socioeconómicos en valores anuales, trimestrales y mensual acumulado",
+                    "title": "Indicadores Provinciales Socioeconómicos en valores anuales, trimestrales y mensual acumulado",
                     "issued": "2017-09-26",
                     "format": "CSV",
                     "modified": "2017-11-24",
@@ -4373,7 +4663,7 @@
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/31-indicadores-comercio-basecompleta.csv",
                     "field": [
                         {
-                            "description": "Anual. Trimestral y mensual",
+                            "description": "Anual, trimestral y mensual",
                             "title": "indice_tiempo",
                             "type": "date"
                         },
@@ -4429,7 +4719,7 @@
                         },
                         {
                             "description": "Venta en supermercados, a precios corrientes, de almacén",
-                            "title": "vta_super_c_almacén",
+                            "title": "vta_super_c_almacen",
                             "type": "number",
                             "units": "Miles de pesos"
                         },
@@ -4490,6 +4780,12 @@
                         {
                             "description": "Venta en supermercados, a precios corrientes, totales",
                             "title": "vta_super_c_total",
+                            "type": "number",
+                            "units": "Miles de pesos"
+                        },
+                        {
+                            "description": "Venta en supermercados, a precios constantes de abril 2016, totales",
+                            "title": "vta_super_k_abr2016_total",
                             "type": "number",
                             "units": "Miles de pesos"
                         },
@@ -4576,6 +4872,314 @@
                 }
             ],
             "identifier": "31"
+        },
+        {
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ECON"
+            ],
+            "title": "Indicadores Sectoriales de Servicios de Investigación y Desarrollo",
+            "temporal": "1996-01-01/2017-12-31",
+            "source": "INDEC, MINCyT, MTEySS",
+            "theme": [
+                "produccion_actividad",
+                "mercado laboral"
+            ],
+            "spatial": "ARG",
+            "description": "Indicadores de la cadena de valor Servicios de Investigación y Desarrollo",
+            "contactPoint": {
+                "hasEmail": "sspmicro@mecon.gov.ar",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
+            },
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "keyword": [
+                "investigación",
+                "desarrollo",
+                "investigadores",
+                "becarios",
+                "inversión"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "description": "Indicadores de Servicios de Investigación y Desarrollo en valores anuales y trimestrales",
+                    "title": "Indicadores de Servicios de Investigación y Desarrollo en valores anuales y trimestrales",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/18-indicadores-investigacion-desarrollo-basecompleta.csv",
+                    "field": [
+                        {
+                            "description": "Anual, trimestral y mensual",
+                            "title": "indice_tiempo",
+                            "type": "date"
+                        },
+                        {
+                            "description": "Identifica la frecuencia del dato con valores: anual, trimestral y mensual",
+                            "title": "frec_temporal",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Exportaciones de servicios de investigación y desarrollo, a valores anuales, en millones de dólares",
+                            "title": "expo_ss_i+d",
+                            "type": "number",
+                            "units": "Millones de dólares"
+                        },
+                        {
+                            "description": "Importaciones de servicios de investigación y desarrollo, a valores anuales, en millones de dólares",
+                            "title": "impo_ss_i+d",
+                            "type": "number",
+                            "units": "Millones de dólares"
+                        },
+                        {
+                            "description": "Inversión pública y privada en investigación y desarrollo, a valores anuales, en millones de pesos",
+                            "title": "inversion_i+d_pc",
+                            "type": "number",
+                            "units": "Millones de pesos"
+                        },
+                        {
+                            "description": "Empleo de la rama de investigación y desarrollo, CIIU 73, en puestos de trabajo registrados del sector privado",
+                            "title": "empleo_73",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Personal de investigación y desarrollo (investigadores, becarios y personal de apoyo), a valores anuales, en personas físicas",
+                            "title": "total_personal_inves_pf",
+                            "type": "number",
+                            "units": "personas físicas"
+                        },
+                        {
+                            "description": "Personal de investigación y desarrollo (investigadores, becarios y personal de apoyo), a valores anuales, en equivalentes de jornada completa",
+                            "title": "total_personal_inves_ejc",
+                            "type": "number",
+                            "units": "personas en equivalente a jornada completa"
+                        },
+                        {
+                            "description": "Investigadores y becarios, a valores anuales, en personas físicas",
+                            "title": "investigadores_y_becarios_pf",
+                            "type": "number",
+                            "units": "personas físicas"
+                        },
+                        {
+                            "description": "Investigadores y becarios, a valores anuales, en equivalentes de jornada completa",
+                            "title": "investigadores_y_becarios_ejc",
+                            "type": "number",
+                            "units": "personas en equivalente a jornada completa"
+                        },
+                        {
+                            "description": "Técnicos y personal de apoyo, a valores anuales",
+                            "title": "tecnicos_y_apoyo",
+                            "type": "number",
+                            "units": "personas físicas"
+                        },
+                        {
+                            "description": "Gasto público de la Administración Pública Nacional destinado a la función Ciencia y Técnica, a valores anuales, en millones de pesos corrientes",
+                            "title": "gasto_publico_cyt_pc",
+                            "type": "number",
+                            "units": "Millones de pesos corrientes"
+                        },
+                        {
+                            "description": "Gasto público de la Administración Pública Nacional destinado a la función Ciencia y Técnica, a valores anuales, en millones de pesos constantes de 2004.",
+                            "title": "gasto_publico_cyt_pk",
+                            "type": "number",
+                            "units": "Millones de pesos a precios de 2004"
+                        }
+                    ],
+                    "identifier": "18.1"
+                }
+            ],
+            "identifier": "18"
+        },
+        {
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ECON"
+            ],
+            "title": "Indicadores Sectoriales de Software y Servicios Informáticos",
+            "temporal": "1995-01-01/2017-06-01",
+            "source": "INDEC, OPSSI-CESSI, MTEySS",
+            "theme": [
+                "produccion_actividad",
+                "comercio_exterior",
+                "mercado laboral",
+                "agentes"
+            ],
+            "spatial": "ARG",
+            "description": "Indicadores de la cadena de valor Software y Servicios Informáticos",
+            "contactPoint": {
+                "hasEmail": "sspmicro@mecon.gov.ar",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
+            },
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "keyword": [
+                "software",
+                "servicios",
+                "informático",
+                "ventas",
+                "exportaciones",
+                "importaciones",
+                "empleo",
+                "remuneración",
+                "empresas"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "description": "Indicadores de Software y Servicios Informáticos en valores anuales, trimestrales y mensuales",
+                    "title": "Indicadores de Software y Servicios Informáticos en valores anuales, trimestrales y mensuales",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/12-indicadores-software-servinfo-basecompleta.csv",
+                    "field": [
+                        {
+                            "description": "Anual, trimestral y mensual",
+                            "title": "indice_tiempo",
+                            "type": "date"
+                        },
+                        {
+                            "description": "Identifica la frecuencia del dato con valores: anual, trimestral y mensual",
+                            "title": "frec_temporal",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Exportaciones de Servicios informáticos",
+                            "title": "expo_servicios_informaticos",
+                            "type": "number",
+                            "units": "Millones de dólares"
+                        },
+                        {
+                            "description": "Importaciones de Servicios informáticos",
+                            "title": "impo_servicios_informaticos",
+                            "type": "number",
+                            "units": "Millones de dólares"
+                        },
+                        {
+                            "description": "Ventas totales del sector de Software y Servicios informáticos, en pesos corrientes",
+                            "title": "vta_softysi_pesos",
+                            "type": "number",
+                            "units": "Millones de pesos"
+                        },
+                        {
+                            "description": "Ventas totales del sector de Software y Servicios informáticos, en dólares",
+                            "title": "vta_softysi_dolares",
+                            "type": "number",
+                            "units": "Millones de dólares"
+                        },
+                        {
+                            "description": "Empleo asalariado registrado del sector privado: CIIU 72 Actividades de informática",
+                            "title": "empleo_72",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Empleo asalariado registrado del sector privado en grandes empresas: CIIU 72 Actividades de informática",
+                            "title": "empleo_empresas_grandes_72",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Empleo asalariado registrado del sector privado en medianas empresas: CIIU 72 Actividades de informática",
+                            "title": "empleo_empresas_medianas_72",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Empleo asalariado registrado del sector privado en pequeñas empresas: CIIU 72 Actividades de informática",
+                            "title": "empleo_empresas_pequenas_72",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Empleo asalariado registrado del sector privado en micro empresas: CIIU 72 Actividades de informática",
+                            "title": "empleo_empresas_micro_72",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Cantidad de empresas privadas: CIIU 72 Actividades de informática",
+                            "title": "empresas_72",
+                            "type": "number",
+                            "units": "cantidad de empresas"
+                        },
+                        {
+                            "description": "Cantidad de grandes empresas privadas: CIIU 72 Actividades de informática",
+                            "title": "empresas_grandes_72",
+                            "type": "number",
+                            "units": "cantidad de empresas"
+                        },
+                        {
+                            "description": "Cantidad de pequeñas empresas privadas: CIIU 72 Actividades de informática",
+                            "title": "empresas_medianas_72",
+                            "type": "number",
+                            "units": "cantidad de empresas"
+                        },
+                        {
+                            "description": "Cantidad de medianas empresas privadas: CIIU 72 Actividades de informática",
+                            "title": "empresas_pequenas_72",
+                            "type": "number",
+                            "units": "cantidad de empresas"
+                        },
+                        {
+                            "description": "Cantidad de micro empresas privadas: CIIU 72 Actividades de informática",
+                            "title": "empresas_micro_72",
+                            "type": "number",
+                            "units": "cantidad de empresas"
+                        },
+                        {
+                            "description": "Remuneración promedio: CIIU 72 Actividades de informática",
+                            "title": "remuneracion_72",
+                            "type": "number",
+                            "units": "En pesos corrientes"
+                        }
+                    ],
+                    "identifier": "12.1"
+                }
+            ],
+            "identifier": "12"
         }
     ],
     "language": [
