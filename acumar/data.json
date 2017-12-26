@@ -20,7 +20,7 @@
                 "@type": "vcard:Contact"
             },
             "issued": "2017-11-13T15:19:16.593985",
-            "modified": "2017-12-21T18:48:53.551747",
+            "modified": "2017-12-26T14:49:44.276154",
             "theme": [
                 "Transparencia",
                 "Transparencia",
@@ -60,13 +60,50 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://andino.acumar.gov.ar/dataset/0d3edbf3-4a6d-490f-a65c-520a77616570/resource/753a40bc-155c-4ab5-943d-d883ddd384fd/download/actasconsejomunicipal20142016.csv",
+                    "accessURL": "http://andino.acumar.gov.ar/dataset/0d3edbf3-4a6d-490f-a65c-520a77616570/resource/753a40bc-155c-4ab5-943d-d883ddd384fd/download/actas-consejo-municipal-2014-2016.csv",
                     "description": "Detalle de las actas de las reuniones del Consejo Municipal de ACUMAR de 2014 a 2016. Fecha, temas, municipios participantes.",
                     "title": "Actas del Consejo Municipal 2014-2016",
                     "issued": "2017-11-13T15:20:43.629758",
                     "format": "CSV",
-                    "modified": "2017-12-21T18:48:51.908660",
-                    "downloadURL": "http://andino.acumar.gov.ar/dataset/0d3edbf3-4a6d-490f-a65c-520a77616570/resource/753a40bc-155c-4ab5-943d-d883ddd384fd/download/actasconsejomunicipal20142016.csv",
+                    "modified": "2017-12-26T14:49:42.882419",
+                    "downloadURL": "http://andino.acumar.gov.ar/dataset/0d3edbf3-4a6d-490f-a65c-520a77616570/resource/753a40bc-155c-4ab5-943d-d883ddd384fd/download/actas-consejo-municipal-2014-2016.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Tipo de reunión a la que se refiere el acta",
+                            "title": "tipo_reunion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Subcuenca del Matanza Riacheulo a la que pertenecen los participantes de la reunión.",
+                            "title": "subcuenca"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Municipios participantes",
+                            "title": "municipios"
+                        },
+                        {
+                            "type": "date-time",
+                            "description": "Fecha en la que se hizo la reunión",
+                            "title": "fecha_reunion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Temas principales de los que trató la reunión",
+                            "title": "tema_reunion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Formato en el que está el archivo del acta disponible para la descarga.",
+                            "title": "tipo_archivo"
+                        },
+                        {
+                            "type": "any",
+                            "description": "URL de descarga del acta",
+                            "title": "enlace_acta"
+                        }
+                    ],
                     "@type": "dcat:Distribution"
                 },
                 {
