@@ -21,7 +21,7 @@
             },
             "issued": "2017-05-16T13:08:42.941391",
             "temporal": "2011-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
-            "modified": "2017-12-27T13:47:01.192467",
+            "modified": "2017-12-27T18:13:45.017867",
             "theme": [
                 "Control",
                 "Denuncias",
@@ -60,6 +60,68 @@
                 "Transparencia"
             ],
             "distribution": [
+                {
+                    "accessURL": "http://andino.acumar.gov.ar/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/07301aaf-6790-437f-8089-17780ad27c2d/download/denuncias2017.csv",
+                    "description": "Detalle de las denuncias recibidas por el Centro de Atención al Ciudadano de ACUMAR durante el primer semestre de 2017.",
+                    "title": "Denuncias recibidas - 2017",
+                    "issued": "2017-11-08T16:20:15.757099",
+                    "format": "CSV",
+                    "modified": "2017-11-08T16:20:15.673672",
+                    "downloadURL": "http://andino.acumar.gov.ar/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/07301aaf-6790-437f-8089-17780ad27c2d/download/denuncias2017.csv",
+                    "field": [
+                        {
+                            "type": "date",
+                            "description": "Fecha de realización de la denuncia.\n",
+                            "title": "denuncia_fecha"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de realización de la denuncia\n",
+                            "title": "denuncia_hora"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Canal mediante el cual se realizó la denuncia: telefónico o correo electrónico.\n",
+                            "title": "denuncia_canal"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de denuncia realizada: Basural o Establecimiento.\n",
+                            "title": "denuncia_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Presunta desviación ambiental por la cual se realizó la denuncia\n",
+                            "title": "denuncia_motivo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Partido en el cual se ubica el establecimiento/sitio denunciado.\n",
+                            "title": "denuncia_localidad"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Estado en el que se encuentra la denuncia: abierto o cerrado\n",
+                            "title": "denuncia_estado"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de cierre de la denuncia\n",
+                            "title": "denuncia_fecha_de_cierre"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de cierre de la denuncia\n",
+                            "title": "denuncia_hora_de_cierre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Motivo por el cual se le dio cierre a la denuncia: respuesta del área, información insuficiente, fuera de cuenca, competencia. \n",
+                            "title": "Denuncia_motivo_cierre"
+                        }
+                    ],
+                    "@type": "dcat:Distribution"
+                },
                 {
                     "accessURL": "http://andino.acumar.gov.ar/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/a30f19c7-148a-4d78-8990-8b58151fe2c7/download/denuncias2016.csv",
                     "description": "Detalle de las denuncias recibidas por el Centro de Atención al Ciudadano de ACUMAR durante el 2016.",
@@ -130,6 +192,58 @@
                     "format": "CSV",
                     "modified": "2017-09-22T18:22:56.985203",
                     "downloadURL": "http://andino.acumar.gov.ar/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/5bee8e0e-442c-49c6-80ed-41a6acc370a0/download/denuncias2015.csv",
+                    "field": [
+                        {
+                            "type": "date",
+                            "description": "Fecha de realización de la denuncia.\n",
+                            "title": "denuncia_fecha"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de realización de la denuncia\n",
+                            "title": "denuncia_hora"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Canal mediante el cual se realizó la denuncia: telefónico o correo electrónico.",
+                            "title": "denuncia_canal"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de denuncia realizada: Basural o Establecimiento.\n",
+                            "title": "denuncia_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Presunta desviación ambiental por la cual se realizó la denuncia\n",
+                            "title": "denuncia_motivo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Partido en el cual se ubica el establecimiento/sitio denunciado.\n",
+                            "title": "denuncia_localidad"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Estado en el que se encuentra la denuncia: abierto o cerrado\n",
+                            "title": "denuncia_estado"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de cierre de la denuncia\n",
+                            "title": "denuncia_fecha_de _cierre"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de cierre de la denuncia\n",
+                            "title": "denuncia_hora_de_cierre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Motivo por el cual se le dio cierre a la denuncia: respuesta del área, información insuficiente, fuera de cuenca, competencia.\n",
+                            "title": "Denuncia_motivo_cierre"
+                        }
+                    ],
                     "@type": "dcat:Distribution"
                 },
                 {
@@ -140,16 +254,58 @@
                     "format": "CSV",
                     "modified": "2017-09-22T18:23:57.685664",
                     "downloadURL": "http://andino.acumar.gov.ar/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/6fd1c610-d28d-443a-a832-ebcd36b040cb/download/denuncias2014.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://andino.acumar.gov.ar/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/b8ad84bd-25d7-49be-b2df-742519107ef4/download/denuncias2013.csv",
-                    "description": "Detalle de las denuncias recibidas por el Centro de Atención al Ciudadano de ACUMAR durante el 2013",
-                    "title": "Denuncias recibidas - 2013",
-                    "issued": "2017-05-19T19:43:34.779461",
-                    "format": "CSV",
-                    "modified": "2017-09-22T18:23:30.058869",
-                    "downloadURL": "http://andino.acumar.gov.ar/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/b8ad84bd-25d7-49be-b2df-742519107ef4/download/denuncias2013.csv",
+                    "field": [
+                        {
+                            "type": "date",
+                            "description": "Fecha de realización de la denuncia.\n",
+                            "title": "denuncia_fecha"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de realización de la denuncia\n",
+                            "title": "denuncia_hora"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Canal mediante el cual se realizó la denuncia: telefónico o correo electrónico.\n",
+                            "title": "denuncia_canal"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de denuncia realizada: Basural o Establecimiento.\n",
+                            "title": "denuncia_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Presunta desviación ambiental por la cual se realizó la denuncia\n",
+                            "title": "denuncia_motivo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Partido en el cual se ubica el establecimiento/sitio denunciado.\n",
+                            "title": "denuncia_localidad"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Estado en el que se encuentra la denuncia: abierto o cerrado\n",
+                            "title": "denuncia_estado"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de cierre de la denuncia\n",
+                            "title": "denuncia_fecha_de_cierre"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de cierre de la denuncia\n",
+                            "title": "denuncia_hora_de_cierre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Motivo por el cual se le dio cierre a la denuncia: respuesta del área, información insuficiente, fuera de cuenca, competencia.\n",
+                            "title": "Denuncia_motivo_cierre"
+                        }
+                    ],
                     "@type": "dcat:Distribution"
                 },
                 {
@@ -160,6 +316,120 @@
                     "format": "CSV",
                     "modified": "2017-09-22T18:24:26.328484",
                     "downloadURL": "http://andino.acumar.gov.ar/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/16e3a718-c34c-4eb2-bda2-89a658b5c066/download/denuncias2011.csv",
+                    "field": [
+                        {
+                            "type": "date",
+                            "description": "Fecha de realización de la denuncia.\n",
+                            "title": "denuncia_fecha"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de realización de la denuncia\n",
+                            "title": "denuncia_hora"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Canal mediante el cual se realizó la denuncia: telefónico o correo electrónico.\n",
+                            "title": "denuncia_canal"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de denuncia realizada: Basural o Establecimiento.\n",
+                            "title": "denuncia_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Presunta desviación ambiental por la cual se realizó la denuncia\n",
+                            "title": "denuncia_motivo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Partido en el cual se ubica el establecimiento/sitio denunciado.\n",
+                            "title": "denuncia_localidad"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Estado en el que se encuentra la denuncia: abierto o cerrado\n",
+                            "title": "denuncia_estado"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de cierre de la denuncia\n",
+                            "title": "denuncia_fecha_de_cierre"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de cierre de la denuncia\n",
+                            "title": "denuncia_hora_de_cierre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Motivo por el cual se le dio cierre a la denuncia: respuesta del área, información insuficiente, fuera de cuenca, competencia. \n",
+                            "title": "Denuncia_motivo_cierre"
+                        }
+                    ],
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://andino.acumar.gov.ar/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/b8ad84bd-25d7-49be-b2df-742519107ef4/download/denuncias2013.csv",
+                    "description": "Detalle de las denuncias recibidas por el Centro de Atención al Ciudadano de ACUMAR durante el 2013",
+                    "title": "Denuncias recibidas - 2013",
+                    "issued": "2017-05-19T19:43:34.779461",
+                    "format": "CSV",
+                    "modified": "2017-09-22T18:23:30.058869",
+                    "downloadURL": "http://andino.acumar.gov.ar/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/b8ad84bd-25d7-49be-b2df-742519107ef4/download/denuncias2013.csv",
+                    "field": [
+                        {
+                            "type": "date",
+                            "description": "Fecha de realización de la denuncia.\n",
+                            "title": "denuncia_fecha"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de realización de la denuncia\n",
+                            "title": "denuncia_hora"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Canal mediante el cual se realizó la denuncia: telefónico o correo electrónico.\n",
+                            "title": "denuncia_canal"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de denuncia realizada: Basural o Establecimiento.\n",
+                            "title": "denuncia_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Presunta desviación ambiental por la cual se realizó la denuncia\n",
+                            "title": "denuncia_motivo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Partido en el cual se ubica el establecimiento/sitio denunciado.\n",
+                            "title": "denuncia_localidad"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Estado en el que se encuentra la denuncia: abierto o cerrado\n",
+                            "title": "denuncia_estado"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de cierre de la denuncia\n",
+                            "title": "denuncia_fecha_de_cierre"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de cierre de la denuncia\n",
+                            "title": "denuncia_hora_de_cierre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Motivo por el cual se le dio cierre a la denuncia: respuesta del área, información insuficiente, fuera de cuenca, competencia. \n",
+                            "title": "Denuncia_motivo_cierre"
+                        }
+                    ],
                     "@type": "dcat:Distribution"
                 },
                 {
@@ -170,16 +440,58 @@
                     "format": "CSV",
                     "modified": "2017-09-22T18:24:51.521937",
                     "downloadURL": "http://andino.acumar.gov.ar/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/832895a4-ecb9-457b-b9e3-c37809a88b04/download/denuncias2012.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://andino.acumar.gov.ar/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/07301aaf-6790-437f-8089-17780ad27c2d/download/denuncias2017.csv",
-                    "description": "Detalle de las denuncias recibidas por el Centro de Atención al Ciudadano de ACUMAR durante el primer semestre de 2017.",
-                    "title": "Denuncias recibidas - 2017",
-                    "issued": "2017-11-08T16:20:15.757099",
-                    "format": "CSV",
-                    "modified": "2017-11-08T16:20:15.673672",
-                    "downloadURL": "http://andino.acumar.gov.ar/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/07301aaf-6790-437f-8089-17780ad27c2d/download/denuncias2017.csv",
+                    "field": [
+                        {
+                            "type": "date",
+                            "description": "Fecha de realización de la denuncia.\n",
+                            "title": "denuncia_fecha"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de realización de la denuncia\n",
+                            "title": "denuncia_hora"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Canal mediante el cual se realizó la denuncia: telefónico o correo electrónico.\n",
+                            "title": "denuncia_canal"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de denuncia realizada: Basural o Establecimiento.\n",
+                            "title": "denuncia_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Presunta desviación ambiental por la cual se realizó la denuncia\n",
+                            "title": "denuncia_motivo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Partido en el cual se ubica el establecimiento/sitio denunciado.\n",
+                            "title": "denuncia_localidad"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Estado en el que se encuentra la denuncia: abierto o cerrado\n",
+                            "title": "denuncia_estado"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de cierre de la denuncia\n",
+                            "title": "denuncia_fecha_de_cierre"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de cierre de la denuncia\n",
+                            "title": "denuncia_hora_de_cierre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Motivo por el cual se le dio cierre a la denuncia: respuesta del área, información insuficiente, fuera de cuenca, competencia. \n",
+                            "title": "Denuncia_motivo_cierre"
+                        }
+                    ],
                     "@type": "dcat:Distribution"
                 }
             ],
