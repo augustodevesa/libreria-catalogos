@@ -1052,7 +1052,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Designaciones de magistrados de la Justicia Federal y de la Justicia Nacional",
             "issued": "2017-06-16T13:36:42.787601",
-            "modified": "2017-12-05T18:45:36.142478",
+            "modified": "2017-12-27T17:07:09.149767",
             "theme": [
                 "poder-judicial"
             ],
@@ -1185,6 +1185,18 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/9f397011-5459-4f1c-b88e-9f48f7824e03/resource/d4f9bcaf-822f-45b2-bc6b-286f70ef9305/download/magistrados-justicia-federal-nacional-designaciones-2017-12-05.csv",
                     "issued": "2017-12-05T15:45:26.726738",
                     "identifier": "d4f9bcaf-822f-45b2-bc6b-286f70ef9305"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/9f397011-5459-4f1c-b88e-9f48f7824e03/resource/85ae1fb3-1ccc-454b-a6b2-ace4c4135842",
+                    "description": "Información de las designaciones de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional.",
+                    "title": "Designaciones de magistrados de la Justicia Federal y de la Justicia Nacional - 2017-12-27",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-12-27T14:05:59.731871",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/9f397011-5459-4f1c-b88e-9f48f7824e03/resource/85ae1fb3-1ccc-454b-a6b2-ace4c4135842/download/magistrados-justicia-federal-nacional-designaciones-2017-12-27.csv",
+                    "issued": "2017-12-27T14:05:59.933772",
+                    "identifier": "85ae1fb3-1ccc-454b-a6b2-ace4c4135842"
                 }
             ]
         },
@@ -2646,7 +2658,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Internos del Servicio Penitenciario Federal - SPF",
             "issued": "2016-09-29T12:32:11.583547",
-            "modified": "2017-12-27T14:57:46.055525",
+            "modified": "2017-12-27T15:08:43.500362",
             "theme": [
                 "sistema-penitenciario"
             ],
@@ -3174,6 +3186,42 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/45e45fce-630f-4a00-b650-49fe1536b522/download/internos-spf-inimputables-2017-10.csv",
                     "issued": "2017-11-27T12:05:07.852549",
                     "identifier": "45e45fce-630f-4a00-b650-49fe1536b522"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/67536a6a-6372-4f01-b327-53939aae774b",
+                    "description": "Este conjunto de datos registra los condenados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
+                    "title": "Internos del SPF - Condenados 2017-11",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-12-27T12:06:18.578622",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/67536a6a-6372-4f01-b327-53939aae774b/download/internos-spf-condenados-2017-11.csv",
+                    "issued": "2017-12-27T12:06:18.965505",
+                    "identifier": "67536a6a-6372-4f01-b327-53939aae774b"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/629a06b8-1c88-479e-b611-aa7af4a0e868",
+                    "description": "Este conjunto de datos registra los procesados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
+                    "title": "Internos del SPF - Procesados 2017-11",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-12-27T12:07:29.670681",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/629a06b8-1c88-479e-b611-aa7af4a0e868/download/internos-spf-procesados-2017-11.csv",
+                    "issued": "2017-12-27T12:07:30.065414",
+                    "identifier": "629a06b8-1c88-479e-b611-aa7af4a0e868"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/b80db3aa-6f84-4c24-988d-110171ec1153",
+                    "description": "Este conjunto de datos registra los inimputables alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
+                    "title": "Internos del SPF - Inimputables 2017-11",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-12-27T12:08:35.142957",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/b80db3aa-6f84-4c24-988d-110171ec1153/download/internos-spf-inimputables-2017-11.csv",
+                    "issued": "2017-12-27T12:08:35.463379",
+                    "identifier": "b80db3aa-6f84-4c24-988d-110171ec1153"
                 }
             ]
         },
@@ -3931,7 +3979,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional",
             "issued": "2017-06-16T13:46:23.340802",
-            "modified": "2017-12-05T18:46:55.905961",
+            "modified": "2017-12-27T17:09:14.654646",
             "theme": [
                 "poder-judicial"
             ],
@@ -4064,6 +4112,18 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/36c14e01-d3f6-47f3-9f12-9c25a48fe8c6/resource/686a77e7-4c7d-4261-b0c9-eed29ac65f32/download/magistrados-justicia-federal-nacional-renuncias-2017-12-05.csv",
                     "issued": "2017-12-05T15:46:45.822549",
                     "identifier": "686a77e7-4c7d-4261-b0c9-eed29ac65f32"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/36c14e01-d3f6-47f3-9f12-9c25a48fe8c6/resource/af2e5d4c-056f-429f-9e8c-2986ab336fc2",
+                    "description": "Información de las renuncias de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional.",
+                    "title": "Renuncias de magistrados de la Justicia Federal y la Justicia Nacional - 2017-12-27",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-12-27T14:09:05.365359",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/36c14e01-d3f6-47f3-9f12-9c25a48fe8c6/resource/af2e5d4c-056f-429f-9e8c-2986ab336fc2/download/magistrados-justicia-federal-nacional-renuncias-2017-12-27.csv",
+                    "issued": "2017-12-27T14:09:05.562791",
+                    "identifier": "af2e5d4c-056f-429f-9e8c-2986ab336fc2"
                 }
             ]
         },
