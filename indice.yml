@@ -112,3 +112,8 @@ anac:
   formato: "json"
   federado: true
 
+seguridad:
+  url: "https://estadisticascriminales.minseg.gob.ar/datos/catalog.xlsx"
+  formato: "xlsx"
+  federado: true
+
