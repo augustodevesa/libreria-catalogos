@@ -9,6 +9,290 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "",
+                "name": "Información Aeronáutica "
+            },
+            "accessLevel": "public",
+            "description": "Detalle de Aeródromos Nacionales pertenecientes al Sistema Nacional de Aeropuertos (SNA)",
+            "license": "Creative Commons Attribution",
+            "title": "Aeródromos del Sistema Nacional de Aeropuertos (SNA)",
+            "issued": "2017-07-06T20:39:15.382086",
+            "modified": "2017-12-28T16:52:21.933511",
+            "language": "spa",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.anac.gob.ar/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/ef26c3f6-0e72-4f0a-aaa0-b29f69e258a5/download/aerodromossna.csv",
+                    "description": "Instalaciones habilitadas para la operación de aeronaves pertenecientes al SNA - Sistema Nacional de Aeropuertos",
+                    "title": "Aeródromos del Sistema Nacional de Aeropuertos (SNA) a Junio de 2017",
+                    "issued": "2017-07-06T20:40:55.869872",
+                    "format": "CSV",
+                    "modified": "2017-08-23T20:32:30.027631",
+                    "downloadURL": "http://datos.anac.gob.ar/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/ef26c3f6-0e72-4f0a-aaa0-b29f69e258a5/download/aerodromossna.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Denominación del aeródromo",
+                            "title": "denominación"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Provincia en la que se encuentra emplezado el aeródromo",
+                            "title": "provincia"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código local de la provincia en la que se emplaza el aeródromo",
+                            "title": "local"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código oaci del aeródromo",
+                            "title": "oaci"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código iata del aeródromo",
+                            "title": "iata"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de aeródromo",
+                            "title": "tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "coordenadas donde se encuentra emplazado el aeródromo",
+                            "title": "coordenadas"
+                        },
+                        {
+                            "type": "geojson",
+                            "description": "coordenadas en formato geojson donde se encuentra emplazado el aeródromo",
+                            "title": "the_geom"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Condición del aeródromo",
+                            "title": "condicion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Región donde opera el aeródromo",
+                            "title": "region"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de tráfico que opera el aeródromo",
+                            "title": "trafico"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del proveedor de servicios de navegación aérea",
+                            "title": "proveedor_servicios_navegacion_aerea"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Aerodrómo perteneciente al sistema nacional de aeropuertos",
+                            "title": "sistema_nacional_de_aeropuertos"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del explotador del aeródromo",
+                            "title": "explotador"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "id",
+                            "title": "id"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.anac.gob.ar/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/e01be0bf-c365-497f-a584-a675d4715852/download/aerodromossna.js.json",
+                    "description": "Instalaciones habilitadas para la operación de aeronaves pertenecientes al SNA",
+                    "title": "Aeródromos del Sistema Nacional de Aeropuertos (SNA) a Junio de 2017",
+                    "issued": "2017-07-06T22:01:15.075314",
+                    "format": "JSON",
+                    "modified": "2017-08-24T15:33:01.210663",
+                    "downloadURL": "http://datos.anac.gob.ar/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/e01be0bf-c365-497f-a584-a675d4715852/download/aerodromossna.js.json",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Denominación del aeródromo",
+                            "title": "denominación"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Provincia en la que se encuentra emplezado el aeródromo",
+                            "title": "provincia"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código local de la provincia en la que se emplaza el aeródromo",
+                            "title": "local"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código oaci del aeródromo",
+                            "title": "oaci"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código iata del aeródromo",
+                            "title": "iata"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de aeródromo",
+                            "title": "tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "coordenadas donde se encuentra emplazado el aeródromo",
+                            "title": "coordenadas"
+                        },
+                        {
+                            "type": "geojson",
+                            "description": "coordenadas en formato geojson donde se encuentra emplazado el aeródromo",
+                            "title": "the_geom"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Condición del aeródromo",
+                            "title": "condicion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Región donde opera el aeródromo",
+                            "title": "region"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de tráfico que opera el aeródromo",
+                            "title": "trafico"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del proveedor de servicios de navegación aérea",
+                            "title": "proveedor_servicios_navegacion_aerea"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Aerodrómo perteneciente al sistema nacional de aeropuertos",
+                            "title": "sistema_nacional_de_aeropuertos"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del explotador del aeródromo",
+                            "title": "explotador"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "id",
+                            "title": "id"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.anac.gob.ar/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/46058eea-9573-437b-9052-f3ec304ca4bc/download/aerodromos-del-sistema-nacional-de-aeropuertos-sna-a-diciembre-de-2017.ods",
+                    "description": "Instalaciones habilitadas para la operación de aeronaves pertenecientes al SNA - Sistema Nacional de Aeropuertos",
+                    "title": "Aeródromos del Sistema Nacional de Aeropuertos (SNA) a Diciembre de 2017",
+                    "issued": "2017-12-28T16:52:22.106613",
+                    "format": "CSV",
+                    "modified": "2017-12-28T16:52:21.891598",
+                    "downloadURL": "http://datos.anac.gob.ar/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/46058eea-9573-437b-9052-f3ec304ca4bc/download/aerodromos-del-sistema-nacional-de-aeropuertos-sna-a-diciembre-de-2017.ods",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Denominación del aeródromo",
+                            "title": "denominación"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Provincia en la que se encuentra emplezado el aeródromo",
+                            "title": "provincia"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código local de la provincia en la que se emplaza el aeródromo",
+                            "title": "local"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código oaci del aeródromo",
+                            "title": "oaci"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código iata del aeródromo",
+                            "title": "iata"
+                        },
+                        {
+                            "type": "string",
+                            "description": "coordenadas donde se encuentra emplazado el aeródromo",
+                            "title": "coordenadas"
+                        },
+                        {
+                            "type": "geojson",
+                            "description": "",
+                            "title": "the_geom"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Condición del aeródromo",
+                            "title": "condicion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Región donde opera el aeródromo",
+                            "title": "region"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de tráfico que opera el aeródromo",
+                            "title": "trafico"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del proveedor de servicios de navegación aérea",
+                            "title": "proveedor_servicios_navegacion_aerea"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Aerodrómo perteneciente al sistema nacional de aeropuertos",
+                            "title": "sistema_nacional_de_aeropuertos"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del explotador del aeródromo",
+                            "title": "explotador"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "identificador",
+                            "unit": "",
+                            "title": "id"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "SNA",
+                "Sistema Nacional de Aeropuertos",
+                "aeropuerto",
+                "aeródromo"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "TRAN"
+            ],
+            "landingPage": "http://datos.anac.gob.ar/dataset/aerodromos-del-sna-sistema-nacional-de-aeropuertos",
+            "identifier": "b6fca19c-6547-4530-827a-43e9e21cf031",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "rgoette@anac.gov.ar",
                 "name": "Goette Rosana"
             },
@@ -708,208 +992,6 @@
             "accrualPeriodicity": "eventual",
             "landingPage": "http://datos.anac.gob.ar/dataset/helipuertos",
             "identifier": "89d80799-a371-4aa0-a085-4a09677e7ddc",
-            "contactPoint": {
-                "@type": "vcard:Contact"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Información Aeronáutica "
-            },
-            "accessLevel": "public",
-            "description": "Detalle de Aeródromos Nacionales pertenecientes al Sistema Nacional de Aeropuertos (SNA)",
-            "license": "Creative Commons Attribution",
-            "title": "Aeródromos del Sistema Nacional de Aeropuertos (SNA)",
-            "issued": "2017-07-06T20:39:15.382086",
-            "modified": "2017-11-17T14:11:30.608761",
-            "language": "spa",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.anac.gob.ar/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/ef26c3f6-0e72-4f0a-aaa0-b29f69e258a5/download/aerodromossna.csv",
-                    "description": "Instalaciones habilitadas para la operación de aeronaves pertenecientes al SNA - Sistema Nacional de Aeropuertos",
-                    "title": "Aeródromos del Sistema Nacional de Aeropuertos (SNA) a Junio de 2017",
-                    "issued": "2017-07-06T20:40:55.869872",
-                    "format": "CSV",
-                    "modified": "2017-08-23T20:32:30.027631",
-                    "downloadURL": "http://datos.anac.gob.ar/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/ef26c3f6-0e72-4f0a-aaa0-b29f69e258a5/download/aerodromossna.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Denominación del aeródromo",
-                            "title": "denominación"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Provincia en la que se encuentra emplezado el aeródromo",
-                            "title": "provincia"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Código local de la provincia en la que se emplaza el aeródromo",
-                            "title": "local"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Código oaci del aeródromo",
-                            "title": "oaci"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Código iata del aeródromo",
-                            "title": "iata"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tipo de aeródromo",
-                            "title": "tipo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "coordenadas donde se encuentra emplazado el aeródromo",
-                            "title": "coordenadas"
-                        },
-                        {
-                            "type": "geojson",
-                            "description": "coordenadas en formato geojson donde se encuentra emplazado el aeródromo",
-                            "title": "the_geom"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Condición del aeródromo",
-                            "title": "condicion"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Región donde opera el aeródromo",
-                            "title": "region"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tipo de tráfico que opera el aeródromo",
-                            "title": "trafico"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Nombre del proveedor de servicios de navegación aérea",
-                            "title": "proveedor_servicios_navegacion_aerea"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Aerodrómo perteneciente al sistema nacional de aeropuertos",
-                            "title": "sistema_nacional_de_aeropuertos"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Nombre del explotador del aeródromo",
-                            "title": "explotador"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "id",
-                            "title": "id"
-                        }
-                    ]
-                },
-                {
-                    "accessURL": "http://datos.anac.gob.ar/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/e01be0bf-c365-497f-a584-a675d4715852/download/aerodromossna.js.json",
-                    "description": "Instalaciones habilitadas para la operación de aeronaves pertenecientes al SNA",
-                    "title": "Aeródromos del Sistema Nacional de Aeropuertos (SNA) a Junio de 2017",
-                    "issued": "2017-07-06T22:01:15.075314",
-                    "format": "JSON",
-                    "modified": "2017-08-24T15:33:01.210663",
-                    "downloadURL": "http://datos.anac.gob.ar/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/e01be0bf-c365-497f-a584-a675d4715852/download/aerodromossna.js.json",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Denominación del aeródromo",
-                            "title": "denominación"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Provincia en la que se encuentra emplezado el aeródromo",
-                            "title": "provincia"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Código local de la provincia en la que se emplaza el aeródromo",
-                            "title": "local"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Código oaci del aeródromo",
-                            "title": "oaci"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Código iata del aeródromo",
-                            "title": "iata"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tipo de aeródromo",
-                            "title": "tipo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "coordenadas donde se encuentra emplazado el aeródromo",
-                            "title": "coordenadas"
-                        },
-                        {
-                            "type": "geojson",
-                            "description": "coordenadas en formato geojson donde se encuentra emplazado el aeródromo",
-                            "title": "the_geom"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Condición del aeródromo",
-                            "title": "condicion"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Región donde opera el aeródromo",
-                            "title": "region"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tipo de tráfico que opera el aeródromo",
-                            "title": "trafico"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Nombre del proveedor de servicios de navegación aérea",
-                            "title": "proveedor_servicios_navegacion_aerea"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Aerodrómo perteneciente al sistema nacional de aeropuertos",
-                            "title": "sistema_nacional_de_aeropuertos"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Nombre del explotador del aeródromo",
-                            "title": "explotador"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "id",
-                            "title": "id"
-                        }
-                    ]
-                }
-            ],
-            "keyword": [
-                "SNA",
-                "Sistema Nacional de Aeropuertos",
-                "aeropuerto",
-                "aeródromo"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "superTheme": [
-                "TRAN"
-            ],
-            "landingPage": "http://datos.anac.gob.ar/dataset/aerodromos-del-sna-sistema-nacional-de-aeropuertos",
-            "identifier": "b6fca19c-6547-4530-827a-43e9e21cf031",
             "contactPoint": {
                 "@type": "vcard:Contact"
             }
