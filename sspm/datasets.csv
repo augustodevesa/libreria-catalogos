@@ -31,7 +31,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 29,Utilización de la capacidad instalada en la industria. En porcentaje. Base 2012,30,OK,0,3
 30,Utilización de la capacidad instalada en la industria. En porcentaje. Base 2004,31,OK,0,2
 31,Indicador sintético de la actividad de la construcción. Índice. Base 2004,32,OK,0,3
-32,Indicador sintético de la actividad de la construcción. Variaciones interanuales. Base 2004,33,OK,0,1
+32,ISAC- Indicador sintético de la actividad de la construcción. Variaciones interanuales. Base 2004,33,OK,0,1
 33,Indicadores de evolución del sector agropecuario,34,OK,0,2
 34,Estadisticas de Servicios Publicos. Base 1993,35,OK,0,3
 35,Ventas de Supermercados (Base 1996) y evolución de artículos por grupos (base 2008),36,OK,0,3
@@ -249,7 +249,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 247,Cobros y pagos por bienes por modalidad de pago - Balance Cambiario,183,OK,0,1
 248,Cobros y pagos por bienes sectorial - Balance Cambiario,184,OK,0,1
 249,Cobros y pagos por tipo de servicio - Balance Cambiario,185,OK,0,1
-250,"Gasto Público del Gobierno Nacional en Política de Ingresos, por programa. Devengado mensual en pesos corrientes",186,OK,0,1
+250,"Gasto Público del Gobierno Nacional en Política de Ingresos, por programa. Devengado mensual en pesos corrientes",186,OK,0,3
 251,Política de Ingresos. Prestaciones de la seguridad social. BESS-MTESS,187,OK,0,1
 252,Política de Ingresos. Asignación Universal Por Hijo para la Protección Social y por Embarazo. BESS-MTESS,188,OK,0,1
 253,Política de Ingresos. Prestaciones de la seguridad social. ANSES,189,OK,0,1
@@ -296,24 +296,36 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 294,Factores de explicación de Base Monetaria,331,OK,0,2
 295,Principales Indicadores del Sistema Financiero,332,OK,0,2
 296,Rentabilidad del sistema financiero,333,OK,0,2
-297,Balance de pagos en millones de dólares,335,OK,0,1
-298,Activos externos en millones de dólares,336,OK,0,1
-299,Flujos monetarios netos de Inversión Extranjera Directa,337,OK,0,1
-300,Flujos porcentuales netos de Inversión Extranjera Directa,338,OK,0,1
-301,Cuenta Corriente del Balance de Pagos. Flujos monetarios,339,OK,0,1
-302,Cuenta Corriente del Balance de Pagos. En porcentaje del producto,340,OK,0,1
-303,Tasa de Actividad por aglomerado 1974-2003,341,OK,0,1
-304,Tasa de Empleo por aglomerado 1974-2003,342,OK,0,1
-305,Tasa de Desocupación por aglomerado 1974-2003,343,OK,0,1
-306,Tasa de Subocupación por aglomerado 1974-2003,344,OK,0,1
-307,IPC Incidencia de los capítulos en el nivel general,345,OK,0,1
-308,IPC Incidencia de los bienes y servicios en el nivel general,346,OK,0,1
-309,IPC Incidencia de las categorías en el nivel general,347,OK,0,1
-310,Precios al consumidor de un conjunto de elementos de la canasta del IPC,348,OK,0,1
-311,Liquidación de divisas por Exportaciones de Oleaginosas y Cereales,349,OK,0,2
-312,Exportaciones por provincia y rubro,350,OK,0,1
-313,Índices de salarios industriales básicos de convenios en la Capital Federal desde 1962,351,OK,0,2
-314,Índices de salarios industriales básicos de convenios en la Capital Federal. Variaciones. Desde 1965,352,OK,0,2
-315,Salarios básicos de convenio del peón de la industria manufacturera,353,OK,0,2
-316,Salarios básicos de convenio del oficial de la industria manufacturera.,354,OK,0,2
-317,Costo del Nivel de Vida en la Capital Federal.,356,OK,0,2
+297,Situación patrimonial del sistema financiero,334,OK,0,2
+298,Balance de pagos en millones de dólares,335,OK,0,1
+299,Activos externos en millones de dólares,336,OK,0,1
+300,Flujos monetarios netos de Inversión Extranjera Directa,337,OK,0,1
+301,Flujos porcentuales netos de Inversión Extranjera Directa,338,OK,0,1
+302,Cuenta Corriente del Balance de Pagos. Flujos monetarios,339,OK,0,1
+303,Cuenta Corriente del Balance de Pagos. En porcentaje del producto,340,OK,0,1
+304,Tasa de Actividad por aglomerado 1974-2003,341,OK,0,1
+305,Tasa de Empleo por aglomerado 1974-2003,342,OK,0,1
+306,Tasa de Desocupación por aglomerado 1974-2003,343,OK,0,1
+307,Tasa de Subocupación por aglomerado 1974-2003,344,OK,0,1
+308,IPC Incidencia de los capítulos en el nivel general,345,OK,0,1
+309,IPC Incidencia de los bienes y servicios en el nivel general,346,OK,0,1
+310,IPC Incidencia de las categorías en el nivel general,347,OK,0,1
+311,Precios al consumidor de un conjunto de elementos de la canasta del IPC,348,OK,0,1
+312,Liquidación de divisas por Exportaciones de Oleaginosas y Cereales,349,OK,0,2
+313,Exportaciones por provincia y rubro,350,OK,0,1
+314,Índices de salarios industriales básicos de convenios en la Capital Federal desde 1962,351,OK,0,2
+315,Índices de salarios industriales básicos de convenios en la Capital Federal. Variaciones. Desde 1965,352,OK,0,2
+316,Salarios básicos de convenio del peón de la industria manufacturera,353,OK,0,2
+317,Salarios básicos de convenio del oficial de la industria manufacturera.,354,OK,0,2
+318,Salario real y poder adquisitivo en la Industria.,355,OK,0,2
+319,Costo del Nivel de Vida en la Capital Federal.,356,OK,0,2
+320,Exportaciones por provincia y por país de destino,357,OK,0,1
+321,Precios FOB oficiales,358,OK,0,1
+322,Datos históricos de la industria siderúrgica,359,OK,0,3
+323,"Cantidad de empresas exportadoras por sector de actividad, rangos de exportación y saldo comercial",360,OK,0,1
+324,"Exportaciones por sector de actividad, saldo comercial y rangos de exportación de la empresa exportadora",361,OK,0,1
+325,Indice de difusión de las exportaciones por producto y destino,362,OK,0,0
+326,Producción y Ventas de Petróleo y Derivados,363,OK,0,0
+327,Producción y  Consumo de Gas Natural,364,OK,0,0
+328,Producción y Ventas por Empresa,365,OK,0,0
+329,Pozos y Metros Perforados,366,OK,0,0
