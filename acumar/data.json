@@ -20,7 +20,7 @@
                 "@type": "vcard:Contact"
             },
             "issued": "2017-09-05T15:15:05.722528",
-            "modified": "2017-12-28T17:26:03.708001",
+            "modified": "2017-12-28T18:58:29.851344",
             "theme": [
                 "Calidad de vida",
                 "Eje Social",
@@ -271,8 +271,65 @@
                     "title": "Índice Educación de la cuenca Matanza Riachuelo",
                     "issued": "2017-12-15T18:01:26.029787",
                     "format": "CSV",
-                    "modified": "2017-12-19T17:40:43.140304",
+                    "modified": "2017-12-28T18:58:27.877773",
                     "downloadURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/5e296bb2-a779-46ec-92ff-d2ca87b8f821/download/indice-educacion.xlsx",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Clasificación de los radios censales según la forma en que se asienta y distribuye la población en el territorio: Urbano: con población agrupada únicamente, y conformado por manzanas y/o sectores pertenecientes a una localidad; Mixto: con población rural dispersa en campo abierto, y con población agrupada en pequeños poblados o en bordes amanzanados de localidades; Rural: con población dispersa únicamente, y donde las viviendas se distribuyen en campo abierto en forma diseminada.\n",
+                            "title": "tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Municipio al que pertenece el radio censal.",
+                            "title": "partido"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Código concatenado del radio censal para el CNPHV 2010. Constituye una clave única de identificación territorial, que se construye para cada unidad territorial a partir de la concatenación de las unidades territoriales de los niveles superiores. En el caso de radios, su código numérico se conforma, leído de izquierda a derecha, con dos dígitos que corresponden a la división políticoterritorial (“02” para la Ciudad Autónoma de Buenos Aires y “06” para la provincia de Buenos Aires), tres dígitos que refieren a la división políticoadministrativa (las comunas en la Ciudad Autónoma de Buenos Aires y los partidos en la provincia de Buenos Aires,), dos dígitos que representan a la fracción y otros dos que identifican al radio.\n",
+                            "title": "radio10"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie en hectáreas (ha) del radio censal.\n",
+                            "title": "sup_ha"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Población del radio censal según el CNPHV 2010.\n",
+                            "title": "pobl_tot"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Densidad poblacional bruta del radio censal expresada en Hab/Ha.\n",
+                            "title": "dens_ha"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Años esperados de educación: Se refiere a los años de escolarización que un niño en edad de ingresar a la escuela puede esperar recibir si las tasas de matriculación específicas por edad se mantuvieran constantes durante toda su vida. Se calcula a partir de los 6 años de edad hasta los 24 años.\n",
+                            "title": "a_esp"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Años promedio de educación: Son los años de educación promedio de la población que en teoría está fuera del ciclo lectivo. Se calcula para la población adulta, es decir para aquella población que tienen más de 25 años. \n",
+                            "title": "a_prom"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Estandarización de los años esperados de escolarización para hacerlo comparable con los demás indicadores.",
+                            "title": "a_esp_std"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Estandarización de los años promedio de escolarización para hacerlo comparable con los demás indicadores.",
+                            "title": "a_prom_std"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Resultado del índice de educación que es una de las dimensiones del Índice de Calidad de Vida (ICV).",
+                            "title": "in_educacion"
+                        }
+                    ],
                     "@type": "dcat:Distribution"
                 },
                 {
