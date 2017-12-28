@@ -13,14 +13,14 @@
 
 ## Estado de los metadatos y cantidad de recursos
 
-- **Estado metadatos globales**: OK
+- **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 19
-- **Cantidad Total de Distribuciones**: 19
+- **Cantidad Total de Datasets**: 27
+- **Cantidad Total de Distribuciones**: 27
 
 - **Cantidad de Datasets Federados**: 14
-- **Cantidad de Datasets NO Federados**: 5
-- **Porcentaje de Datasets NO Federados**: 26.32%
+- **Cantidad de Datasets NO Federados**: 13
+- **Porcentaje de Datasets NO Federados**: 48.15%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -33,6 +33,14 @@
 - [Indicadores Sectoriales de Industrias Culturales](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
 - [Indicadores Sectoriales de Yerba Mate](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
 - [Indicadores Sectoriales de Metálicas Básicas](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
+- [Indicadores Sectoriales de Cárnica - Porcina](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
+- [Indicadores Sectoriales de Cítricos dulces](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
+- [Indicadores Sectoriales de Construcción](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
+- [Indicadores Sectoriales de Oleaginosa](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
+- [Indicadores Sectoriales de Ovinos - Lana y Carne](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
+- [Indicadores Sectoriales de Comercio interno](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
+- [Indicadores Sectoriales de Servicios de Investigación y Desarrollo](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
+- [Indicadores Sectoriales de Software y Servicios Informáticos](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
 
 ## Datasets federados
 
