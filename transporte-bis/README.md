@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 45
-- **Cantidad Total de Distribuciones**: 297
+- **Cantidad Total de Datasets**: 46
+- **Cantidad Total de Distribuciones**: 299
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 45
+- **Cantidad de Datasets NO Federados**: 46
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -28,6 +28,7 @@
 
 ## Datasets no federados
 
+- [COSFER (Modelo de Estimación de Costos Ferroviarios de Carga)](https://datos.transporte.gob.ar/dataset/cosfer-modelo-de-estimacion-de-costos-ferroviariosdecarga)
 - [2017 Cancelaciones RMBA - periodo - modo - empresa - linea - cantidad (PRELIMINARES)](https://datos.transporte.gob.ar/dataset/2017-cancelaciones-rmba-periodo-modo-empresa-linea-cantidad-preliminares)
 - [2017 Empresas transporte RMBA](https://datos.transporte.gob.ar/dataset/2017-empresas-transporte-rmba)
 - [2016 Cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad](https://datos.transporte.gob.ar/dataset/2016-cancelaciones-rmba-periodo-modo-empresa-linea-tipo-pasaje-cantidad)
