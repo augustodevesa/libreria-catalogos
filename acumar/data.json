@@ -10,18 +10,21 @@
         {
             "publisher": {
                 "mbox": "",
-                "name": "Coordinación de Documentación y Acceso a la Información Pública"
+                "name": "Coordinación de Gestión y Planificación"
             },
             "accessLevel": "public",
-            "description": "Datos correspondientes a las solicitudes de Información Pública recibidas por ACUMAR desde Enero 2017.",
+            "description": "Datos correspondientes al Índice de Calidad de Vida (ICV) que forma parte del sistema de indicadores de ACUMAR.",
             "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Solicitudes de Información Pública Recibidas 2017 - ACUMAR",
+            "title": "Índice de Calidad de Vida (ICV) de la cuenca Matanza Riachuelo",
             "contactPoint": {
                 "@type": "vcard:Contact"
             },
-            "issued": "2017-11-17T18:01:22.675860",
-            "modified": "2017-12-28T15:10:34.886756",
+            "issued": "2017-09-05T15:15:05.722528",
+            "modified": "2017-12-28T17:26:03.708001",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -53,10 +56,419 @@
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
-                "Monitoreo",
+                "Monitoreo"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/e4b4b74e-604a-4d0e-be57-00283e37449b/download/indice-calidad-vida.csv",
+                    "description": "Detalle de las distintas dimensiones que componen el Índice de Calidad de Vida (ICV)",
+                    "title": "Índice de Calidad de Vida de la Cuenca Matanza Riachuelo",
+                    "issued": "2017-09-05T15:18:37.924467",
+                    "format": "CSV",
+                    "modified": "2017-12-28T16:12:56.508690",
+                    "downloadURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/e4b4b74e-604a-4d0e-be57-00283e37449b/download/indice-calidad-vida.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Clasificación de los radios censales según la forma en que se asienta y\ndistribuye la población en el territorio: Urbano: con población agrupada únicamente, y conformado por manzanas y/o sectores pertenecientes a una localidad; Mixto: con población rural dispersa en campo abierto, y con población\nagrupada en pequeños poblados o en bordes amanzanados de localidades; Rural: con población dispersa únicamente, y donde las viviendas se distribuyen en campo abierto en forma diseminada.\n",
+                            "title": "tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Municipio al que pertenece el radio censal.",
+                            "title": "partido"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Código concatenado del radio censal para el CNPHV 2010. Constituye una clave única de identificación territorial, que se construye para cada unidad territorial a partir de la concatenación de las unidades territoriales de los niveles superiores. En el caso de radios, su código numérico se conforma, leído de\nizquierda a derecha, con dos dígitos que corresponden a la división políticoterritorial (“02” para la Ciudad Autónoma de Buenos Aires y “06” para la provincia de Buenos Aires), tres dígitos que refieren a la división políticoadministrativa (las comunas en la Ciudad Autónoma de Buenos Aires y los partidos en la provincia de Buenos Aires,), dos dígitos que representan a la fracción y otros dos que identifican al radio.\n",
+                            "title": "radio10"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie en hectáreas (ha) del radio censal.",
+                            "title": "sup_ha"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Población del radio censal según el CNPHV 2010.",
+                            "title": "pobl_tot"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Densidad poblacional bruta del radio censal expresada en Hab/Ha.\n",
+                            "title": "dens_ha"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor que adquiere el Índice de Salud.",
+                            "title": "in_salud"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor que adquiere el Índice de Educación.",
+                            "title": "in_educacion"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor que adquiere el Índice de Entorno.",
+                            "title": "in_entorno"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor que adquiere el Índice de Vivienda.",
+                            "title": "in_vivienda"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor que adquiere el Índice de Calidad de Vida.",
+                            "title": "icv"
+                        },
+                        {
+                            "type": "geojson",
+                            "description": "Información georreferenciada en formato abierto.",
+                            "title": "geojson"
+                        }
+                    ],
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/bad60aa0-4b46-4e05-9f71-e00dadc6f63d/download/icv-metodologia-de-calculo.pdf",
+                    "description": "Documento que indica la metodología de cálculo del ICV. Glosario de términos.",
+                    "title": "Metodología de Cálculo del Índice de Calidad de Vida",
+                    "issued": "2017-12-15T17:52:54.140369",
+                    "format": "PDF",
+                    "modified": "2017-12-15T17:52:54.085574",
+                    "downloadURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/bad60aa0-4b46-4e05-9f71-e00dadc6f63d/download/icv-metodologia-de-calculo.pdf",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/c0a97adf-e430-408a-b4f6-c066bdc85a76/download/indice-vivienda.csv",
+                    "description": "Detalle de las distintas dimensiones que componen el Índice de Vivienda.",
+                    "title": "Índice de Vivienda de la cuenca Matanza Riachuelo",
+                    "issued": "2017-12-15T17:58:00.614625",
+                    "format": "CSV",
+                    "modified": "2017-12-28T16:58:38.128454",
+                    "downloadURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/c0a97adf-e430-408a-b4f6-c066bdc85a76/download/indice-vivienda.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Clasificación de los radios censales según la forma en que se asienta y distribuye la población en el territorio: Urbano: con población agrupada únicamente, y conformado por manzanas y/o sectores pertenecientes a una localidad; Mixto: con población rural dispersa en campo abierto, y con población agrupada en pequeños poblados o en bordes amanzanados de localidades; Rural: con población dispersa únicamente, y donde las viviendas se distribuyen en campo abierto en forma diseminada.\n",
+                            "title": "tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Municipio al que pertenece el radio censal.\n",
+                            "title": "partido"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Código concatenado del radio censal para el CNPHV 2010. Constituye una clave única de identificación territorial, que se construye para cada unidad territorial a partir de la concatenación de las unidades territoriales de los niveles superiores. En el caso de radios, su código numérico se conforma, leído de izquierda a derecha, con dos dígitos que corresponden a la división políticoterritorial (“02” para la Ciudad Autónoma de Buenos Aires y “06” para la provincia de Buenos Aires), tres dígitos que refieren a la división políticoadministrativa (las comunas en la Ciudad Autónoma de Buenos Aires y los partidos en la provincia de Buenos Aires,), dos dígitos que representan a la fracción y otros dos que identifican al radio.",
+                            "title": "radio10"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie en hectáreas (ha) del radio censal.\n",
+                            "title": "sup_ha"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Población del radio censal según el CNPHV 2010.",
+                            "title": "pobl_tot"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Densidad poblacional bruta del radio censal expresada en Hab/Ha.\n",
+                            "title": "dens_ha"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Indicador de Hacinamiento. Si la población del radio censal para la cual la información disponible en la base de datos NO tiene valores válidos, es mayor al 25% (“SDATOS_P” > 25%), se considera que los resultados no son representativos de la situación del radio censal y se lo considera “Sin Datos”. Caso contrario, el Indicador de Hacinamiento se calcula de acuerdo a su definición como (“MEJOR_P” / 100).",
+                            "title": "ind_hac"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Indicador de Gas por Red. Si la población del radio censal para la cual la información disponible en la base de datos NO tiene valores válidos, es mayor al 25% (“SDATOS_P” > 25%), se considera que los resultados no son representativos de la situación del radio censal y se lo considera “Sin Datos”. Caso contrario, el Indicador de Gas por Red se calcula de acuerdo a su definición como (“MEJOR_P” / 100).",
+                            "title": "ind_gr"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Indicador Calidad de la Vivienda. Si la población del radio censal para la cual la información disponible en la base de datos NO tiene valores válidos, es mayor al 25% (“SDATOS_P” > 25%), se considera que los resultados no son representativos de la situación del radio censal y se lo considera “Sin Datos”. Caso contrario, el Indicador Calidad de la Vivienda se calcula de acuerdo a su definición como (“MEJOR_P” / 100).\n",
+                            "title": "ind_matv"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Indicador Certeza del Dominio. Si la población del radio censal para la cual la información disponible en la base de datos NO tiene valores válidos, es mayor al 25% (“SDATOS_P” > 25%), se considera que los resultados no son representativos de la situación del radio censal y se lo considera “Sin Datos”. Caso contrario, el Indicador Certeza del Dominio se calcula de acuerdo a su definición como (“MEJOR_P” / 100).\n",
+                            "title": "ind_dom"
+                        },
+                        {
+                            "type": "number",
+                            "description": " Índice de Vivienda. Si un radio censal está caracterizado como “Sin Datos” para alguno de los indicadores que lo componen, el índice queda como “Sin Datos”. Caso contrario, se calcula como: 0.263*IN_HAC + 0.141*IN_GR + 0.455*IN_CV + 0.141*IN_CD\n",
+                            "title": "in_vivienda"
+                        }
+                    ],
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/575aea71-451b-4e16-97d8-4424b555b384/download/indice-salud.csv",
+                    "description": "Detalle de las dimensiones que componen el Índice de Salud Pública",
+                    "title": "Índice Salud Pública de la cuenca Matanza Riachuelo",
+                    "issued": "2017-12-15T17:59:24.121009",
+                    "format": "CSV",
+                    "modified": "2017-12-28T17:26:02.144591",
+                    "downloadURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/575aea71-451b-4e16-97d8-4424b555b384/download/indice-salud.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Clasificación de los radios censales según la forma en que se asienta y distribuye la población en el territorio: Urbano: con población agrupada únicamente, y conformado por manzanas y/o sectores pertenecientes a una localidad; Mixto: con población rural dispersa en campo abierto, y con población agrupada en pequeños poblados o en bordes amanzanados de localidades; Rural: con población dispersa únicamente, y donde las viviendas se distribuyen en campo abierto en forma diseminada.\npartido: Municipio al que pertenece el radio censal.\n",
+                            "title": "tipo"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Código concatenado del radio censal para el CNPHV 2010. Constituye una clave única de identificación territorial, que se construye para cada unidad territorial a partir de la concatenación de las unidades territoriales de los niveles superiores. En el caso de radios, su código numérico se conforma, leído de izquierda a derecha, con dos dígitos que corresponden a la división políticoterritorial (“02” para la Ciudad Autónoma de Buenos Aires y “06” para la provincia de Buenos Aires), tres dígitos que refieren a la división políticoadministrativa (las comunas en la Ciudad Autónoma de Buenos Aires y los partidos en la provincia de Buenos Aires,), dos dígitos que representan a la fracción y otros dos que identifican al radio.\n",
+                            "title": "radio10"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie en hectáreas (ha) del radio censal.\n",
+                            "title": "sup_ha"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Población del radio censal según el CNPHV 2010.\n",
+                            "title": "pobl_tot"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Densidad poblacional bruta del radio censal expresada en Hab/Ha.",
+                            "title": "dens_ha"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Indicador Efectores de Salud. Está definido como el porcentaje de población que, a nivel de radio censal, vive a una distancia aceptable de un efector de salud de primer nivel de atención, es decir, de un Centro de Atención Primaria (CAP). Para esta variable se realizó un análisis de proximidad, definiendo áreas de influencia de 1000m para cada uno de los CAPs presentes en la cuenca. \n",
+                            "title": "ind_efesa"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Indicador Servicios Sanitarios Básicos. Está definido como el porcentaje de población que cuenta en sus viviendas con los servicios de agua de red y desagüe cloacal a red pública en forma simultánea. \n",
+                            "title": "ind_ssb"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Indicador Disposición de Residuos Está definido en base a la proporción de población que en un determinado radio censal, NO vive dentro del área de influencia de basurales de distintas categorías. A los fines de establecer criterios homogéneos para toda la cuenca, ACUMAR clasificó a cada uno de los sitios relevados según el volumen estimado de residuos que contenía en ese momento, arribándose así a cuatro tipologías: • Punto de arrojo (< a 15 m3 ); • Microbasural (entre 15 m3 y 500 m3 ); • Basural (entre 500 m3 y 15.000 m3 ); • Macrobasural (> a 15.000 m3 ). \n",
+                            "title": "ind_rsu"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Índice de Salud Pública. Muestra a nivel de radio censal las condiciones medias que ofrece el Estado para mejorar las condiciones de salud de la población. El índice se compone de tres indicadores: efectores de salud (de atención primaria), servicios sanitarios básicos y disposición de residuos. Mide el nivel de bienestar general a las condiciones prioritarias que influyen en la salud de la población. Está expresado como: 0.25*In.EfSa. + 0.50*In.SSB + 0.25*In.DispRes\n",
+                            "title": "in_salud"
+                        }
+                    ],
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/5e296bb2-a779-46ec-92ff-d2ca87b8f821/download/indice-educacion.xlsx",
+                    "description": "Detalle de las dimensiones que componen el Índice de Educación.",
+                    "title": "Índice Educación de la cuenca Matanza Riachuelo",
+                    "issued": "2017-12-15T18:01:26.029787",
+                    "format": "CSV",
+                    "modified": "2017-12-19T17:40:43.140304",
+                    "downloadURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/5e296bb2-a779-46ec-92ff-d2ca87b8f821/download/indice-educacion.xlsx",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/c0db8302-d87e-438d-95d1-d8968bebb195/download/indice-entorno.csv",
+                    "description": "Detalle de las dimensiones que componen el Índice Entorno",
+                    "title": "Índice Entorno de la cuenca Matanza Riachuelo",
+                    "issued": "2017-12-15T18:02:21.361902",
+                    "format": "CSV",
+                    "modified": "2017-12-19T17:41:01.325060",
+                    "downloadURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/c0db8302-d87e-438d-95d1-d8968bebb195/download/indice-entorno.csv",
+                    "@type": "dcat:Distribution"
+                }
+            ],
+            "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
+                "información pública",
+                "solicitudes",
+                "transparencia",
+                "información pública",
+                "rendición de cuentas",
+                "respuestas",
+                "transparencia",
+                "boletín oficial",
+                "digesto normativo",
+                "infoleg",
+                "normativa",
+                "resoluciones",
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
+                "seguimiento particular",
+                "adecuación",
+                "agentes contaminantes",
+                "control",
+                "establecimientos",
+                "fiscalizaciones",
+                "adecuación ambiental",
+                "control",
+                "establecimientos",
+                "fiscalizaciones",
+                "reconvertidos",
+                "control",
+                "denuncias",
+                "establecimientos",
+                "fiscalización",
+                "industrias",
+                "residuos",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejos directivo",
+                "convenios",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "consejo municipal",
+                "municipios",
+                "transparencia",
+                "acceso a la información",
+                "información pública",
+                "requerimientos",
+                "solicitudes",
+                "GIRSU",
+                "basurales",
+                "gestión de residuos sólidos",
+                "línea de base",
+                "macrobasurales",
+                "microbasurales",
+                "puntos de arrojo",
+                "residuos",
+                "tipologías",
+                "clausuras",
+                "control",
+                "establecimientos",
+                "fiscalizaciones",
+                "sanciones",
+                "control",
+                "empadronados",
+                "establecimientos",
+                "fiscalizaciones",
+                "registro",
+                "agua subterránea",
+                "agua superficial",
+                "calidad ambiental",
+                "control",
+                "estaciones",
+                "medición",
+                "red de monitoreo"
+            ],
+            "accrualPeriodicity": "R/P2Y",
+            "superTheme": [
+                "EDUC",
+                "ENVI",
+                "HEAL",
+                "SOCI"
+            ],
+            "landingPage": "http://www.acumar.gob.ar/indicadores/3619/indice-de-calidad-de-vida-icv",
+            "identifier": "ceba000d-184f-4f36-9bc4-611f22ed2faf",
+            "@type": "dcat:Dataset"
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Coordinación de Documentación y Acceso a la Información Pública"
+            },
+            "accessLevel": "public",
+            "description": "Datos correspondientes a las solicitudes de Información Pública recibidas por ACUMAR desde Enero 2017.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Solicitudes de Información Pública Recibidas 2017 - ACUMAR",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            },
+            "issued": "2017-11-17T18:01:22.675860",
+            "modified": "2017-12-28T15:10:34.886756",
+            "theme": [
                 "Calidad de vida",
                 "Eje Social",
-                "Transparencia"
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Control",
+                "Eje Ambiental",
+                "Control",
+                "Eje Ambiental",
+                "Control",
+                "Eje Ambiental",
+                "Control",
+                "Denuncias",
+                "Eje Ambiental",
+                "Residuos",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Eje Ambiental",
+                "Residuos",
+                "Control",
+                "Eje Ambiental",
+                "Control",
+                "Eje Ambiental",
+                "Eje Ambiental",
+                "Monitoreo"
             ],
             "distribution": [
                 {
@@ -698,6 +1110,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -811,13 +1229,7 @@
                 "control",
                 "estaciones",
                 "medición",
-                "red de monitoreo",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida"
+                "red de monitoreo"
             ],
             "accrualPeriodicity": "R/P3M",
             "superTheme": [
@@ -844,6 +1256,9 @@
             "issued": "2017-11-23T18:39:47.899758",
             "modified": "2017-12-28T15:06:52.862075",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -875,10 +1290,7 @@
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
-                "Monitoreo",
-                "Calidad de vida",
-                "Eje Social",
-                "Transparencia"
+                "Monitoreo"
             ],
             "distribution": [
                 {
@@ -1500,6 +1912,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -1613,13 +2031,7 @@
                 "control",
                 "estaciones",
                 "medición",
-                "red de monitoreo",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida"
+                "red de monitoreo"
             ],
             "accrualPeriodicity": "R/P3M",
             "superTheme": [
@@ -1645,6 +2057,9 @@
             "issued": "2017-10-26T19:40:25.310333",
             "modified": "2017-12-28T14:56:18.576476",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -1676,10 +2091,7 @@
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
-                "Monitoreo",
-                "Calidad de vida",
-                "Eje Social",
-                "Transparencia"
+                "Monitoreo"
             ],
             "distribution": [
                 {
@@ -1756,6 +2168,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -1869,13 +2287,7 @@
                 "control",
                 "estaciones",
                 "medición",
-                "red de monitoreo",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida"
+                "red de monitoreo"
             ],
             "accrualPeriodicity": "R/P3M",
             "superTheme": [
@@ -1902,6 +2314,9 @@
             "issued": "2017-06-05T14:09:44.893176",
             "modified": "2017-12-28T13:19:01.378233",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -1933,10 +2348,7 @@
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
-                "Monitoreo",
-                "Calidad de vida",
-                "Eje Social",
-                "Transparencia"
+                "Monitoreo"
             ],
             "distribution": [
                 {
@@ -1983,6 +2395,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -2096,13 +2514,7 @@
                 "control",
                 "estaciones",
                 "medición",
-                "red de monitoreo",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida"
+                "red de monitoreo"
             ],
             "accrualPeriodicity": "R/P1Y",
             "superTheme": [
@@ -2127,6 +2539,9 @@
             "issued": "2017-11-08T17:02:29.597549",
             "modified": "2017-12-28T13:18:10.686597",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -2158,10 +2573,7 @@
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
-                "Monitoreo",
-                "Calidad de vida",
-                "Eje Social",
-                "Transparencia"
+                "Monitoreo"
             ],
             "distribution": [
                 {
@@ -2198,6 +2610,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -2311,13 +2729,7 @@
                 "control",
                 "estaciones",
                 "medición",
-                "red de monitoreo",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida"
+                "red de monitoreo"
             ],
             "accrualPeriodicity": "R/P3M",
             "superTheme": [
@@ -2342,6 +2754,9 @@
             "issued": "2017-11-08T18:33:12.848575",
             "modified": "2017-12-28T13:17:29.214000",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -2373,10 +2788,7 @@
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
-                "Monitoreo",
-                "Calidad de vida",
-                "Eje Social",
-                "Transparencia"
+                "Monitoreo"
             ],
             "distribution": [
                 {
@@ -2413,6 +2825,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -2526,13 +2944,7 @@
                 "control",
                 "estaciones",
                 "medición",
-                "red de monitoreo",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida"
+                "red de monitoreo"
             ],
             "accrualPeriodicity": "R/P1M",
             "superTheme": [
@@ -2558,6 +2970,9 @@
             "temporal": "2011-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
             "modified": "2017-12-27T18:13:45.017867",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -2589,10 +3004,7 @@
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
-                "Monitoreo",
-                "Calidad de vida",
-                "Eje Social",
-                "Transparencia"
+                "Monitoreo"
             ],
             "distribution": [
                 {
@@ -3031,6 +3443,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -3144,13 +3562,7 @@
                 "control",
                 "estaciones",
                 "medición",
-                "red de monitoreo",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida"
+                "red de monitoreo"
             ],
             "accrualPeriodicity": "R/PT1S",
             "superTheme": [
@@ -3176,6 +3588,9 @@
             "issued": "2017-10-24T13:28:48.738444",
             "modified": "2017-12-26T15:55:29.609754",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -3207,10 +3622,7 @@
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
-                "Monitoreo",
-                "Calidad de vida",
-                "Eje Social",
-                "Transparencia"
+                "Monitoreo"
             ],
             "distribution": [
                 {
@@ -3382,6 +3794,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -3495,13 +3913,7 @@
                 "control",
                 "estaciones",
                 "medición",
-                "red de monitoreo",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida"
+                "red de monitoreo"
             ],
             "accrualPeriodicity": "R/P0.5M",
             "superTheme": [
@@ -3527,6 +3939,9 @@
             "issued": "2017-10-27T13:34:21.824063",
             "modified": "2017-12-26T15:54:13.973798",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -3558,10 +3973,7 @@
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
-                "Monitoreo",
-                "Calidad de vida",
-                "Eje Social",
-                "Transparencia"
+                "Monitoreo"
             ],
             "distribution": [
                 {
@@ -3753,6 +4165,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -3866,13 +4284,7 @@
                 "control",
                 "estaciones",
                 "medición",
-                "red de monitoreo",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida"
+                "red de monitoreo"
             ],
             "accrualPeriodicity": "eventual",
             "superTheme": [
@@ -3898,6 +4310,9 @@
             "issued": "2017-11-03T17:39:09.031405",
             "modified": "2017-12-26T15:52:54.099866",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -3929,10 +4344,7 @@
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
-                "Monitoreo",
-                "Calidad de vida",
-                "Eje Social",
-                "Transparencia"
+                "Monitoreo"
             ],
             "distribution": [
                 {
@@ -4124,6 +4536,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -4237,13 +4655,7 @@
                 "control",
                 "estaciones",
                 "medición",
-                "red de monitoreo",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida"
+                "red de monitoreo"
             ],
             "accrualPeriodicity": "eventual",
             "superTheme": [
@@ -4269,6 +4681,9 @@
             "issued": "2017-11-06T18:35:12.191766",
             "modified": "2017-12-26T15:51:34.021492",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -4300,10 +4715,7 @@
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
-                "Monitoreo",
-                "Calidad de vida",
-                "Eje Social",
-                "Transparencia"
+                "Monitoreo"
             ],
             "distribution": [
                 {
@@ -4495,6 +4907,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -4608,13 +5026,7 @@
                 "control",
                 "estaciones",
                 "medición",
-                "red de monitoreo",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida"
+                "red de monitoreo"
             ],
             "accrualPeriodicity": "eventual",
             "superTheme": [
@@ -4640,6 +5052,9 @@
             "issued": "2017-11-06T20:17:17.024430",
             "modified": "2017-12-26T15:28:15.713114",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -4671,10 +5086,7 @@
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
-                "Monitoreo",
-                "Calidad de vida",
-                "Eje Social",
-                "Transparencia"
+                "Monitoreo"
             ],
             "distribution": [
                 {
@@ -4916,6 +5328,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -5029,13 +5447,7 @@
                 "control",
                 "estaciones",
                 "medición",
-                "red de monitoreo",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida"
+                "red de monitoreo"
             ],
             "accrualPeriodicity": "eventual",
             "superTheme": [
@@ -5061,6 +5473,9 @@
             "issued": "2017-11-07T17:38:45.834288",
             "modified": "2017-12-26T15:26:24.847029",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -5092,10 +5507,7 @@
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
-                "Monitoreo",
-                "Calidad de vida",
-                "Eje Social",
-                "Transparencia"
+                "Monitoreo"
             ],
             "distribution": [
                 {
@@ -5297,6 +5709,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -5410,13 +5828,7 @@
                 "control",
                 "estaciones",
                 "medición",
-                "red de monitoreo",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida"
+                "red de monitoreo"
             ],
             "accrualPeriodicity": "eventual",
             "superTheme": [
@@ -5442,6 +5854,9 @@
             "issued": "2017-11-07T17:51:37.677611",
             "modified": "2017-12-26T15:25:01.181300",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -5473,10 +5888,7 @@
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
-                "Monitoreo",
-                "Calidad de vida",
-                "Eje Social",
-                "Transparencia"
+                "Monitoreo"
             ],
             "distribution": [
                 {
@@ -5728,6 +6140,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -5841,13 +6259,7 @@
                 "control",
                 "estaciones",
                 "medición",
-                "red de monitoreo",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida"
+                "red de monitoreo"
             ],
             "accrualPeriodicity": "eventual",
             "superTheme": [
@@ -5873,6 +6285,9 @@
             "issued": "2017-11-08T14:41:13.144019",
             "modified": "2017-12-26T15:18:32.118502",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -5904,10 +6319,7 @@
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
-                "Monitoreo",
-                "Calidad de vida",
-                "Eje Social",
-                "Transparencia"
+                "Monitoreo"
             ],
             "distribution": [
                 {
@@ -6199,6 +6611,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -6312,13 +6730,7 @@
                 "control",
                 "estaciones",
                 "medición",
-                "red de monitoreo",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida"
+                "red de monitoreo"
             ],
             "accrualPeriodicity": "eventual",
             "superTheme": [
@@ -6344,6 +6756,9 @@
             "issued": "2017-11-13T15:19:16.593985",
             "modified": "2017-12-26T14:49:44.276154",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -6375,10 +6790,7 @@
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
-                "Monitoreo",
-                "Calidad de vida",
-                "Eje Social",
-                "Transparencia"
+                "Monitoreo"
             ],
             "distribution": [
                 {
@@ -6590,6 +7002,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -6703,13 +7121,7 @@
                 "control",
                 "estaciones",
                 "medición",
-                "red de monitoreo",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida"
+                "red de monitoreo"
             ],
             "accrualPeriodicity": "R/P6M",
             "superTheme": [
@@ -6736,6 +7148,9 @@
             "temporal": "2011-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
             "modified": "2017-12-21T15:11:47.424698",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -6767,10 +7182,7 @@
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
-                "Monitoreo",
-                "Calidad de vida",
-                "Eje Social",
-                "Transparencia"
+                "Monitoreo"
             ],
             "distribution": [
                 {
@@ -6845,6 +7257,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -6958,13 +7376,7 @@
                 "control",
                 "estaciones",
                 "medición",
-                "red de monitoreo",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida"
+                "red de monitoreo"
             ],
             "accrualPeriodicity": "R/P1Y",
             "superTheme": [
@@ -6989,6 +7401,9 @@
             "issued": "2017-10-19T19:02:10.531778",
             "modified": "2017-12-21T15:07:41.849518",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -7020,10 +7435,7 @@
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
-                "Monitoreo",
-                "Calidad de vida",
-                "Eje Social",
-                "Transparencia"
+                "Monitoreo"
             ],
             "distribution": [
                 {
@@ -7048,6 +7460,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -7161,13 +7579,7 @@
                 "control",
                 "estaciones",
                 "medición",
-                "red de monitoreo",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida"
+                "red de monitoreo"
             ],
             "accrualPeriodicity": "eventual",
             "superTheme": [
@@ -7192,6 +7604,9 @@
             "issued": "2017-11-08T18:27:28.045902",
             "modified": "2017-12-21T15:07:02.567595",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -7223,10 +7638,7 @@
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
-                "Monitoreo",
-                "Calidad de vida",
-                "Eje Social",
-                "Transparencia"
+                "Monitoreo"
             ],
             "distribution": [
                 {
@@ -7241,6 +7653,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -7354,13 +7772,7 @@
                 "control",
                 "estaciones",
                 "medición",
-                "red de monitoreo",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida"
+                "red de monitoreo"
             ],
             "accrualPeriodicity": "R/P1M",
             "superTheme": [
@@ -7385,6 +7797,9 @@
             "issued": "2017-11-08T17:56:23.766662",
             "modified": "2017-12-21T15:06:09.153460",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -7416,10 +7831,7 @@
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
-                "Monitoreo",
-                "Calidad de vida",
-                "Eje Social",
-                "Transparencia"
+                "Monitoreo"
             ],
             "distribution": [
                 {
@@ -7434,6 +7846,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -7547,13 +7965,7 @@
                 "control",
                 "estaciones",
                 "medición",
-                "red de monitoreo",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida"
+                "red de monitoreo"
             ],
             "accrualPeriodicity": "eventual",
             "superTheme": [
@@ -7578,6 +7990,9 @@
             "issued": "2017-06-22T14:29:23.322705",
             "modified": "2017-12-21T14:54:19.239950",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -7609,10 +8024,7 @@
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
-                "Monitoreo",
-                "Calidad de vida",
-                "Eje Social",
-                "Transparencia"
+                "Monitoreo"
             ],
             "distribution": [
                 {
@@ -7647,6 +8059,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -7760,13 +8178,7 @@
                 "control",
                 "estaciones",
                 "medición",
-                "red de monitoreo",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida"
+                "red de monitoreo"
             ],
             "accrualPeriodicity": "R/P1Y",
             "superTheme": [
@@ -7774,252 +8186,6 @@
             ],
             "landingPage": "http://andino.acumar.gov.ar/dataset/estaciones-de-medicion",
             "identifier": "c0908b2c-df4a-44c4-85e1-d42bc10ca660",
-            "@type": "dcat:Dataset"
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Coordinación de Gestión y Planificación"
-            },
-            "accessLevel": "public",
-            "description": "Datos correspondientes al Índice de Calidad de Vida (ICV) que forma parte del sistema de indicadores de ACUMAR.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Índice de Calidad de Vida (ICV) de la cuenca Matanza Riachuelo",
-            "contactPoint": {
-                "@type": "vcard:Contact"
-            },
-            "issued": "2017-09-05T15:15:05.722528",
-            "modified": "2017-12-21T14:51:55.721043",
-            "theme": [
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Control",
-                "Eje Ambiental",
-                "Control",
-                "Eje Ambiental",
-                "Control",
-                "Eje Ambiental",
-                "Control",
-                "Denuncias",
-                "Eje Ambiental",
-                "Residuos",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Eje Ambiental",
-                "Residuos",
-                "Control",
-                "Eje Ambiental",
-                "Control",
-                "Eje Ambiental",
-                "Eje Ambiental",
-                "Monitoreo",
-                "Calidad de vida",
-                "Eje Social",
-                "Transparencia"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/e4b4b74e-604a-4d0e-be57-00283e37449b/download/indice-calidad-vida.csv",
-                    "description": "Detalle de las distintas dimensiones que componen el Índice de Calidad de Vida (ICV)",
-                    "title": "Índice de Calidad de Vida de la Cuenca Matanza Riachuelo",
-                    "issued": "2017-09-05T15:18:37.924467",
-                    "format": "CSV",
-                    "modified": "2017-09-05T17:24:04.436755",
-                    "downloadURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/e4b4b74e-604a-4d0e-be57-00283e37449b/download/indice-calidad-vida.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/bad60aa0-4b46-4e05-9f71-e00dadc6f63d/download/icv-metodologia-de-calculo.pdf",
-                    "description": "Documento que indica la metodología de cálculo del ICV. Glosario de términos.",
-                    "title": "Metodología de Cálculo del Índice de Calidad de Vida",
-                    "issued": "2017-12-15T17:52:54.140369",
-                    "format": "PDF",
-                    "modified": "2017-12-15T17:52:54.085574",
-                    "downloadURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/bad60aa0-4b46-4e05-9f71-e00dadc6f63d/download/icv-metodologia-de-calculo.pdf",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/c0a97adf-e430-408a-b4f6-c066bdc85a76/download/indice-vivienda.csv",
-                    "description": "Detalle de las distintas dimensiones que componen el Índice de Vivienda.",
-                    "title": "Índice de Vivienda de la cuenca Matanza Riachuelo",
-                    "issued": "2017-12-15T17:58:00.614625",
-                    "format": "CSV",
-                    "modified": "2017-12-19T17:39:46.695401",
-                    "downloadURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/c0a97adf-e430-408a-b4f6-c066bdc85a76/download/indice-vivienda.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/575aea71-451b-4e16-97d8-4424b555b384/download/indice-salud.csv",
-                    "description": "Detalle de las dimensiones que componen el Índice de Salud Pública",
-                    "title": "Índice Salud Pública de la cuenca Matanza Riachuelo",
-                    "issued": "2017-12-15T17:59:24.121009",
-                    "format": "CSV",
-                    "modified": "2017-12-19T17:40:11.203751",
-                    "downloadURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/575aea71-451b-4e16-97d8-4424b555b384/download/indice-salud.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/5e296bb2-a779-46ec-92ff-d2ca87b8f821/download/indice-educacion.xlsx",
-                    "description": "Detalle de las dimensiones que componen el Índice de Educación.",
-                    "title": "Índice Educación de la cuenca Matanza Riachuelo",
-                    "issued": "2017-12-15T18:01:26.029787",
-                    "format": "CSV",
-                    "modified": "2017-12-19T17:40:43.140304",
-                    "downloadURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/5e296bb2-a779-46ec-92ff-d2ca87b8f821/download/indice-educacion.xlsx",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/c0db8302-d87e-438d-95d1-d8968bebb195/download/indice-entorno.csv",
-                    "description": "Detalle de las dimensiones que componen el Índice Entorno",
-                    "title": "Índice Entorno de la cuenca Matanza Riachuelo",
-                    "issued": "2017-12-15T18:02:21.361902",
-                    "format": "CSV",
-                    "modified": "2017-12-19T17:41:01.325060",
-                    "downloadURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/c0db8302-d87e-438d-95d1-d8968bebb195/download/indice-entorno.csv",
-                    "@type": "dcat:Distribution"
-                }
-            ],
-            "keyword": [
-                "información pública",
-                "solicitudes",
-                "transparencia",
-                "información pública",
-                "rendición de cuentas",
-                "respuestas",
-                "transparencia",
-                "boletín oficial",
-                "digesto normativo",
-                "infoleg",
-                "normativa",
-                "resoluciones",
-                "control",
-                "establecimientos",
-                "fiscalización",
-                "relevancia ambiental",
-                "seguimiento particular",
-                "adecuación",
-                "agentes contaminantes",
-                "control",
-                "establecimientos",
-                "fiscalizaciones",
-                "adecuación ambiental",
-                "control",
-                "establecimientos",
-                "fiscalizaciones",
-                "reconvertidos",
-                "control",
-                "denuncias",
-                "establecimientos",
-                "fiscalización",
-                "industrias",
-                "residuos",
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia",
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia",
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia",
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia",
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia",
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia",
-                "actas",
-                "autoridades",
-                "consejos directivo",
-                "convenios",
-                "transparencia",
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia",
-                "actas",
-                "consejo municipal",
-                "municipios",
-                "transparencia",
-                "acceso a la información",
-                "información pública",
-                "requerimientos",
-                "solicitudes",
-                "GIRSU",
-                "basurales",
-                "gestión de residuos sólidos",
-                "línea de base",
-                "macrobasurales",
-                "microbasurales",
-                "puntos de arrojo",
-                "residuos",
-                "tipologías",
-                "clausuras",
-                "control",
-                "establecimientos",
-                "fiscalizaciones",
-                "sanciones",
-                "control",
-                "empadronados",
-                "establecimientos",
-                "fiscalizaciones",
-                "registro",
-                "agua subterránea",
-                "agua superficial",
-                "calidad ambiental",
-                "control",
-                "estaciones",
-                "medición",
-                "red de monitoreo",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida"
-            ],
-            "accrualPeriodicity": "R/P2Y",
-            "superTheme": [
-                "EDUC",
-                "ENVI",
-                "HEAL",
-                "SOCI"
-            ],
-            "landingPage": "http://www.acumar.gob.ar/indicadores/3619/indice-de-calidad-de-vida-icv",
-            "identifier": "ceba000d-184f-4f36-9bc4-611f22ed2faf",
             "@type": "dcat:Dataset"
         }
     ],
