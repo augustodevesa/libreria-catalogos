@@ -9,6 +9,108 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "",
+                "name": "CUS Medicamentos"
+            },
+            "identifier": "90e2ba45-fba6-4218-be94-d55a07f37c4c",
+            "description": "Serie histórica de medicamentos recetados a través del programa CUS MEDICAMENTOS por provincia.",
+            "license": "Creative Commons Attribution",
+            "title": "Recetas CUS  MEDICAMENTOS",
+            "issued": "2017-12-27T17:57:46.615181",
+            "modified": "2017-12-28T13:04:51.478315",
+            "theme": [
+                "MEDICAMENTOS"
+            ],
+            "superTheme": [
+                "HEAL"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/90e2ba45-fba6-4218-be94-d55a07f37c4c/archivo/a907d1ef-c214-4a21-96da-c713ba2dbd7a",
+                    "license": "cc-by",
+                    "title": "Recetas CUS Medicamentos",
+                    "issued": "2017-12-27T17:58:23.340916",
+                    "format": "CSV",
+                    "modified": "2017-12-27T17:58:23.311911",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/90e2ba45-fba6-4218-be94-d55a07f37c4c/resource/a907d1ef-c214-4a21-96da-c713ba2dbd7a/download/recetasprogramamedicamentos.csv"
+                }
+            ],
+            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/recetas-cus-medicamentos"
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "CUS Medicamentos "
+            },
+            "identifier": "d4364a8e-24bc-4164-952c-6a2a6e1f5141",
+            "description": "Serie histórica de consultas con médicos u odontólogos en CAPs que reciben botiquines CUS MEDICAMENTOS",
+            "license": "Creative Commons Attribution",
+            "title": "Consultas CUS MEDICAMENTOS",
+            "issued": "2017-12-27T17:59:36.552109",
+            "modified": "2017-12-28T13:02:40.470987",
+            "theme": [
+                "MEDICAMENTOS"
+            ],
+            "superTheme": [
+                "HEAL"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/d4364a8e-24bc-4164-952c-6a2a6e1f5141/archivo/acc198e0-7f6a-4f18-b24f-eb5bcad1a18a",
+                    "license": "cc-by",
+                    "title": "Consultas CUS Medicamentos",
+                    "issued": "2017-12-27T18:00:04.940740",
+                    "format": "CSV",
+                    "modified": "2017-12-27T18:00:04.909561",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/d4364a8e-24bc-4164-952c-6a2a6e1f5141/resource/acc198e0-7f6a-4f18-b24f-eb5bcad1a18a/download/consultasprogramamedicamentos.csv"
+                }
+            ],
+            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/consultas-cus-medicamentos"
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Programa SUMAR"
+            },
+            "identifier": "59ae5ba1-9f2a-47a6-a936-04fe8c728b26",
+            "description": "Estadísticas de distribución de beneficiarios, transferencias y prestaciones",
+            "license": "Creative Commons Attribution",
+            "title": "Estadísticas SUMAR",
+            "issued": "2017-12-27T17:54:01.922019",
+            "modified": "2017-12-27T19:11:41.034004",
+            "theme": [
+                "SUMAR"
+            ],
+            "superTheme": [
+                "HEAL"
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/59ae5ba1-9f2a-47a6-a936-04fe8c728b26/archivo/0be3696e-5c3c-4657-9a72-b0d46aa7cf3f",
+                    "license": "cc-by",
+                    "title": "Beneficiarios programa SUMAR",
+                    "issued": "2017-12-27T17:54:58.121053",
+                    "format": "CSV",
+                    "modified": "2017-12-27T17:54:58.090921",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/59ae5ba1-9f2a-47a6-a936-04fe8c728b26/resource/0be3696e-5c3c-4657-9a72-b0d46aa7cf3f/download/beneficiarios-programa-sumar-201710.csv"
+                },
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/59ae5ba1-9f2a-47a6-a936-04fe8c728b26/archivo/6a1f99b6-363c-4cc6-bec1-78b06121917a",
+                    "license": "cc-by",
+                    "title": "Prestaciones programa SUMAR",
+                    "issued": "2017-12-27T17:55:34.845772",
+                    "format": "CSV",
+                    "modified": "2017-12-27T17:55:34.809629",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/59ae5ba1-9f2a-47a6-a936-04fe8c728b26/resource/6a1f99b6-363c-4cc6-bec1-78b06121917a/download/prestaciones-programa-sumar-201708.csv"
+                }
+            ],
+            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/estadisticas-sumar"
+        },
+        {
+            "publisher": {
                 "mbox": "datos@sssalud.gob.ar",
                 "name": "Superintendencia de Servicios de Salud"
             },
@@ -920,6 +1022,11 @@
             "label": "Legisalud"
         },
         {
+            "description": "",
+            "id": "medicamentos",
+            "label": "MEDICAMENTOS"
+        },
+        {
             "description": "Sistema Integrado de Informacion Sanitaria Argentino",
             "id": "sisa",
             "label": "Sistema Integrado de Información Sanitaria Argentino (SISA)"
@@ -928,6 +1035,11 @@
             "description": "Superintendencia de Servicios de Salud.",
             "id": "s-s-salud",
             "label": "S.S.SALUD"
+        },
+        {
+            "description": "SUMAR",
+            "id": "sumar",
+            "label": "SUMAR"
         }
     ]
 }
