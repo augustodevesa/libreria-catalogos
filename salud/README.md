@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 22
-- **Cantidad Total de Distribuciones**: 30
+- **Cantidad Total de Datasets**: 25
+- **Cantidad Total de Distribuciones**: 34
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 22
+- **Cantidad de Datasets NO Federados**: 25
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -28,6 +28,9 @@
 
 ## Datasets no federados
 
+- [Recetas CUS  MEDICAMENTOS](http://datos.sisa.msal.gov.ar/dataset/recetas-cus-medicamentos)
+- [Consultas CUS MEDICAMENTOS](http://datos.sisa.msal.gov.ar/dataset/consultas-cus-medicamentos)
+- [Estadísticas SUMAR](http://datos.sisa.msal.gov.ar/dataset/estadisticas-sumar)
 - [Población Beneficiaria del Sistema Nacional de Obras Sociales por Tipo de Beneficiario](http://datos.sisa.msal.gov.ar/dataset/poblacion-beneficiaria-del-sistema-nacional-de-obras-sociales-por-tipo-beneficiario)
 - [Población Beneficiaria del Sistema Nacional de Obras Sociales](http://datos.sisa.msal.gov.ar/dataset/poblacion-beneficiaria-del-sistema-nacional-de-obras-sociales)
 - [Estadísticas de consultas e internaciones en establecimientos públicos SERIE 11](http://www.deis.msal.gov.ar/)
