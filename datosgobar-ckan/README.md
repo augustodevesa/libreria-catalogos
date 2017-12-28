@@ -16,7 +16,7 @@
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
 - **Cantidad Total de Datasets**: 548
-- **Cantidad Total de Distribuciones**: 1543
+- **Cantidad Total de Distribuciones**: 1569
 
 - **Cantidad de Datasets Federados**: 548
 - **Cantidad de Datasets NO Federados**: 0
@@ -63,7 +63,7 @@
 - [Cantidad de usuarios  de redes de gas natural por provincia](http://www.enargas.gov.ar/secciones/transporte-y-distribucion/datos-operativos.php)
 - [Cantidad de usuarios de redes de gas natural por tipo](http://www.enargas.gov.ar/secciones/transporte-y-distribucion/datos-operativos.php)
 - [Captura pesquera](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Catálogo nacional de cultivares registrados en el RNC y RNPC](http://datos.agroindustria.gob.ar/dataset/catalogo-nacional-de-cultivares)
+- [Catálogo nacional de cultivares registrados en el RNC y RNPC](https://datos.agroindustria.gob.ar/dataset/catalogo-nacional-de-cultivares)
 - [Categorías y escalas salariales](None)
 - [Censo de aserraderos](http://datos.agroindustria.gob.ar/dataset/censo-de-aserraderos)
 - [Centros de Acceso a la Justicia -CAJ-](http://www.jus.gob.ar/accesoalajusticia.aspx)
@@ -124,7 +124,7 @@
 - [Empleo total por aglomerado](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Empleo total y por sector de actividad](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Empresas de ejecución de proyectos de ciencia, tecnología e innovación](http://www.sicytar.mincyt.gob.ar)
-- [Empresas vigentes inscriptas en el RNCyF de Semillas](http://datos.agroindustria.gob.ar/dataset/empresas-vigentes)
+- [Empresas vigentes inscriptas en el RNCyF de Semillas](https://datos.agroindustria.gob.ar/dataset/empresas-vigentes)
 - [Encuesta industrial. Índice de Salario por Obrero (ISO).  Base 1997](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Encuesta industrial. Índices de Horas trabajadas (IHT).  Base 1997](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Encuesta industrial. Índices de Obreros Ocupados (IOO).  Base 1997](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -143,7 +143,7 @@
 - [Escuelas Conectadas con Tecnología Gillat](None)
 - [Escuelas de próxima conexión](None)
 - [Establecimientos a nivel departamental vinculados a la actividad vitivinícola de acuerdo al INV](http://datos.agroindustria.gob.ar/dataset/establecimientos-vitivinicolas)
-- [Establecimientos vigentes inscriptos en el RNCyF de Semillas](http://datos.agroindustria.gob.ar/dataset/establecimientos-vigentes-inscriptos-en-el-rncyf-de-semillas)
+- [Establecimientos vigentes inscriptos en el RNCyF de Semillas](https://datos.agroindustria.gob.ar/dataset/establecimientos-vigentes-inscriptos-en-el-rncyf-de-semillas)
 - [Estadística de mediaciones prejudiciales y judiciales]()
 - [Estadísticas de biodiesel y bioetanol]()
 - [Estadisticas de Servicios Publicos. Base 1993](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -213,7 +213,7 @@
 - [Importaciones según el Nomenclador Común del Mercosur (NCM)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Indicadores anuales del sector bovino](http://datos.agroindustria.gob.ar/dataset/indicadores-anuales-del-sector-bovino)
 - [Indicadores de evolución del sector agropecuario](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Indicadores mensuales del sector bovino](http://datos.agroindustria.gob.ar/dataset/indicadores-mensuales-del-sector-bovino)
+- [Indicadores mensuales del sector bovino](https://datos.agroindustria.gob.ar/dataset/indicadores-mensuales-del-sector-bovino)
 - [Indicadores de producción de la Industria manufacturera](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Indicadores Provinciales Socioeconómicos](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
 - [Indicadores Sectoriales Automotriz](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
