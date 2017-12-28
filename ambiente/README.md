@@ -29,6 +29,7 @@
 ## Datasets no federados
 
 - [Organizaciones de la sociedad civil](http://datos.ambiente.gob.ar/dataset/organizaciones-de-la-sociedad-civil)
+- [Material didáctico y de comunicación de Educación Ambiental](http://datos.ambiente.gob.ar/dataset/material-didactico-y-de-comunicacion-de-educacion-ambiental)
 - [Plan integral comunitario (PICs)](http://datos.ambiente.gob.ar/dataset/plan-integral-comunitario-pics)
 - [Programa de Reconversión Industrial - PRI](http://datos.ambiente.gob.ar/dataset/programa-de-reconversion-industrial-pri)
 - [Humedales de Argentina dentro de la Convención Ramsar](http://datos.ambiente.gob.ar/dataset/humedales-de-argentina-dentro-de-la-convencion-ramsar)
@@ -36,7 +37,6 @@
 - [Indicadores de emisiones de gases de efecto invernadero (GEI)](https://inventariogei.ambiente.gob.ar/)
 - [Emisiones de gases de efecto invernadero (GEI)](https://inventariogei.ambiente.gob.ar/)
 - [Grandes eventos de educación ambiental](http://datos.ambiente.gob.ar/dataset/grandes-eventos-de-educacion-ambiental)
-- [Material didáctico y de comunicación de Educación Ambiental](http://datos.ambiente.gob.ar/dataset/material-didactico-y-de-comunicacion-de-educacion-ambiental)
 - [Encuentros y jornadas de educación ambiental](http://datos.ambiente.gob.ar/dataset/encuentros-y-jornadas-de-educacion-ambiental)
 - [Extracciones de productos forestales de especies nativas](http://datos.ambiente.gob.ar/dataset/extracciones-de-productos-forestales-de-especies-nativas)
 - [Incendios forestales](http://datos.ambiente.gob.ar/dataset/incendios-forestales)
