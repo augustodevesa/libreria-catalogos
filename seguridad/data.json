@@ -1,0 +1,143 @@
+{
+    "publisher": {
+        "mbox": "snic-sat@minseg.gob.ar",
+        "name": "Ministerio de Seguridad de la Nación. Secretaría de Seguridad Interior. Subsecretaría de Estadística Criminal. Dirección Nacional de Estadística Criminal"
+    },
+    "description": "Catálogo de datos abiertos de la Subsecretaría de Estadística Criminal",
+    "license": "Open Database License (ODbL) v1.0",
+    "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
+    "issued": "2017-07-14T00:00:00",
+    "title": "Datos del Sistema Nacional de Información Criminal (SNIC)",
+    "modified": "2017-07-14T00:00:00",
+    "dataset": [
+        {
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "JUST"
+            ],
+            "title": "Estadísticas criminales en la República Argentina para los años 2014, 2015 y 2016",
+            "temporal": "2014-01-01/2016-12-31",
+            "source": "Ministerio de Seguridad de la Nación. Secretaría de Seguridad Interior. Subsecretaría de Estadística Criminal. Dirección Nacional de Estadística Criminal",
+            "theme": [
+                "Delitos"
+            ],
+            "spatial": "ARG",
+            "description": "Cantidades de delitos informados al Sistema Nacional de Información Criminal (SNIC) de los años 2014,2015 y 2016",
+            "contactPoint": {
+                "fn": "Ministerio de Seguridad de la Nación. Secretaría de Seguridad Interior. Subsecretaría de Estadística Criminal. Dirección Nacional de Estadística Criminal"
+            },
+            "landingPage": "https://estadisticascriminales.minseg.gob.ar/",
+            "publisher": {
+                "mbox": "snic-sat@minseg.gob.ar",
+                "name": "Ministerio de Seguridad de la Nación. Secretaría de Seguridad Interior. Subsecretaría de Estadística Criminal. Dirección Nacional de Estadística Criminal"
+            },
+            "keyword": [
+                "Homicidios dolosos",
+                "Lesiones dolosas",
+                "Lesiones culposas",
+                "Otros delitos",
+                "Violaciones",
+                "Robos",
+                "Tentativas de robo",
+                "Robos agravados",
+                "Hurtos"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [],
+            "identifier": "1"
+        },
+        {
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "JUST"
+            ],
+            "title": "Estadísticas criminales en la República Argentina por Provincias para los años 2014, 2015 y 2016",
+            "temporal": "2014-01-01/2016-12-31",
+            "source": "Ministerio de Seguridad de la Nación. Secretaría de Seguridad Interior. Subsecretaría de Estadística Criminal. Dirección Nacional de Estadística Criminal",
+            "theme": [
+                "Delitos"
+            ],
+            "spatial": "ARG",
+            "description": "Cantidades de delitos informados al Sistema Nacional de Información Criminal (SNIC) de los años 2014,2015 y 2016",
+            "contactPoint": {
+                "fn": "Ministerio de Seguridad de la Nación. Secretaría de Seguridad Interior. Subsecretaría de Estadística Criminal. Dirección Nacional de Estadística Criminal"
+            },
+            "landingPage": "https://estadisticascriminales.minseg.gob.ar/",
+            "publisher": {
+                "mbox": "snic-sat@minseg.gob.ar",
+                "name": "Ministerio de Seguridad de la Nación. Secretaría de Seguridad Interior. Subsecretaría de Estadística Criminal. Dirección Nacional de Estadística Criminal"
+            },
+            "keyword": [
+                "Homicidios dolosos",
+                "Lesiones dolosas",
+                "Lesiones culposas",
+                "Otros delitos",
+                "Violaciones",
+                "Robos",
+                "Tentativas de robo",
+                "Robos agravados",
+                "Hurtos"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [],
+            "identifier": "2"
+        }
+    ],
+    "language": [
+        "SPA"
+    ],
+    "spatial": "ARG",
+    "themeTaxonomy": [
+        {
+            "id": "anio",
+            "description": "Año en el que ocurrió el delito",
+            "label": "Año"
+        },
+        {
+            "id": "pais_id",
+            "description": "Código del país a nivel internacional",
+            "label": "País"
+        },
+        {
+            "id": "pais_nombre",
+            "description": "Sigla identificatoria al país a nivel internacional",
+            "label": "Nombre del País"
+        },
+        {
+            "id": "provincia_id",
+            "description": "Código de las provincias de Argentina según INDEC",
+            "label": "Provincia"
+        },
+        {
+            "id": "provincia_nombre",
+            "description": "Nombre de las provincias de Argentina según INDEC",
+            "label": "Nombre de la Provincia"
+        },
+        {
+            "id": "codigo_delito_snic_id",
+            "description": "Código de los delitos según el Sistema Nacional de Información Criminal",
+            "label": "Código de delito SNIC"
+        },
+        {
+            "id": "codigo_delito_snic_nombre",
+            "description": "Nombre de los delitos según el Sistema Nacional de Información Criminal",
+            "label": "Nombre del código del delito SNIC"
+        },
+        {
+            "id": "cantidad_hechos",
+            "description": "Cantidad de veces que ha ocurrido el delito",
+            "label": "Cantidad de hechos"
+        },
+        {
+            "id": "cantidad_victimas",
+            "description": "Cantidad de personas que han sufrido consecuencias por la ocurrencia del delito",
+            "label": "Cantidad de víctimas"
+        }
+    ]
+}
