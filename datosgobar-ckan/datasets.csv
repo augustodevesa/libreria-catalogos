@@ -20,7 +20,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 18,Base Infoleg de Normativa Nacional,9016d450-7057-466e-aea2-800104aa0fa9,ERROR,2,3
 19,Base SAIJ de Normativa Provincial,928c2d2a-12c8-4aed-afd0-c48f62e3c0d5,ERROR,2,1
 20,Base de Series de Tiempo de la Administración Pública Nacional,71c623c0-50b1-413e-ade4-85e0c78d322b,ERROR,2,16
-21,Bienes secuestrados y decomisados durante el proceso penal,ea92b021-1dd3-40c7-a3f5-df99859ce68d,ERROR,2,5
+21,Bienes secuestrados y decomisados durante el proceso penal,ea92b021-1dd3-40c7-a3f5-df99859ce68d,ERROR,2,6
 22,Bolsas mundiales,390c4848-a7d1-4384-ac6c-3bea9cc06dd2,ERROR,2,4
 23,"Brasil Actividad económica, industrial y producción automotriz",99895be5-b6d9-4a8e-b325-4c600b96b415,ERROR,2,1
 24,Brasil Salario medio real,ec2c46e0-50d8-43e7-b1bd-18142fa70b29,ERROR,2,1
@@ -30,7 +30,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 28,Cantidad de usuarios  de redes de gas natural por provincia,4bc57234-f03b-433c-bc97-49961eee568d,ERROR,2,1
 29,Cantidad de usuarios de redes de gas natural por tipo,b91e8d31-f78a-468d-806d-ec2fbd75d997,ERROR,2,1
 30,Captura pesquera,f9ae312b-88f4-494e-81d9-533205e21e1f,ERROR,2,3
-31,Catálogo nacional de cultivares registrados en el RNC y RNPC,abf7058b-c8f9-4960-8947-5721b1e815c2,ERROR,2,3
+31,Catálogo nacional de cultivares registrados en el RNC y RNPC,abf7058b-c8f9-4960-8947-5721b1e815c2,ERROR,2,2
 32,Categorías y escalas salariales,31e6d758-9bde-4183-92b9-c7e31689bd36,ERROR,2,3
 33,Censo de aserraderos,fdb74132-8ce4-40ab-99e6-90940984cc52,ERROR,2,2
 34,Centros de Acceso a la Justicia -CAJ-,9563c175-3c33-4e8f-979a-8cb6822cf93f,ERROR,2,1
@@ -55,7 +55,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 53,Cotizaciones de divisas internacionales,4dc54034-4e94-4a3f-9c62-5296834824d3,ERROR,2,4
 54,Crecimiento del Producto Interno Bruto de principales economías,c16a06e1-e5e2-4e24-bc79-6c8bc6e1065d,ERROR,2,1
 55,Crédito y Gasto completo del Presupuesto de la Administración Pública Nacional,18b9d0e1-b3a4-44e6-9415-2f06b7bd5702,ERROR,2,1
-56,Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público,2ace17af-cedb-42c4-95bc-b3e7812725b7,ERROR,2,8
+56,Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público,2ace17af-cedb-42c4-95bc-b3e7812725b7,ERROR,2,9
 57,Datos del área de cobertura de la Banda C del satélite ARSAT-2 en América,bfc10796-f3bf-4b7b-be58-0358da72ee00,ERROR,2,3
 58,Datos del área de cobertura en Banda KU del satélite ARSAT-2 en América del Sur,1868aff0-79e9-407f-94cb-e860afa19e22,ERROR,2,3
 59,Datos del área de cobertura de la Banda KU del satélite ARSAT-2 en Norteamérica,9de1b15c-a209-45cf-a95d-b5d05e105c03,ERROR,2,3
@@ -66,7 +66,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 64,Declaraciones Juradas Patrimoniales Integrales de carácter público,494709b5-1131-4eb9-b940-9d6b1ea91c05,ERROR,2,10
 65,Denuncias mensuales recibidas,8eb8cdf7-4c76-4f5f-85fb-bc78be5c86c6,ERROR,2,3
 66,Desempleo de principales economías,12e27108-4463-48bc-ae1c-3568609da0a7,ERROR,2,2
-67,Designaciones de magistrados de la Justicia Federal y de la Justicia Nacional,ae2d7c35-b376-4cd0-844e-727568891f7f,ERROR,2,8
+67,Designaciones de magistrados de la Justicia Federal y de la Justicia Nacional,ae2d7c35-b376-4cd0-844e-727568891f7f,ERROR,2,9
 68,Destino de producción de la leche,18e25021-756e-410a-8fdf-fac3d5ea6f36,ERROR,2,3
 69,Deuda externa bruta por sector residente,15bf9c15-8214-4644-9d26-c123368920f4,ERROR,2,1
 70,Deuda externa privada - BCRA,73a86e00-6ae1-4a1f-a9ec-908c730b41e5,ERROR,2,1
@@ -104,19 +104,19 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 102,Energías renovables - Plantas de biocombustibles,32c7ca82-80b1-45a8-870b-3aa0fadc22e9,ERROR,2,2
 103,Energías renovables - Puntos de Interés Geotérmico,93cdb6dc-a44c-4f52-8a7f-f297a690dea3,ERROR,2,2
 104,Energías renovables - Radiación Solar Incidente,8b021987-6820-432c-864e-5e5532793c56,ERROR,2,24
-105,Entidades constituidas en la Inspección General de Justicia,5f45b863-31e5-4e10-904b-e0169d334c75,ERROR,2,70
+105,Entidades constituidas en la Inspección General de Justicia,5f45b863-31e5-4e10-904b-e0169d334c75,ERROR,2,75
 106,Equipamiento científico-tecnológico,be50e647-71b4-4dd0-b19c-5f45943357aa,ERROR,2,2
 107,Escuelas conectadas,21f94e87-5681-4b75-92d6-be6018f57b23,ERROR,2,3
 108,Escuelas Conectadas con Tecnología Gillat,33960e5c-bb8a-4935-8e9e-9395c428a82e,ERROR,2,3
 109,Escuelas de próxima conexión,4594b3eb-4885-4ae8-bf0c-3310e8cd68ed,ERROR,2,3
 110,Establecimientos a nivel departamental vinculados a la actividad vitivinícola de acuerdo al INV,1e1835ed-1b7e-4bdd-bf9d-585bcd0ddf3f,ERROR,2,2
-111,Establecimientos vigentes inscriptos en el RNCyF de Semillas,e00316e9-b84c-445e-9ccb-f2f2c379e809,ERROR,2,3
-112,Estadística de mediaciones prejudiciales y judiciales,857a0c15-188a-41c9-b32a-9f1334bc947e,ERROR,2,6
+111,Establecimientos vigentes inscriptos en el RNCyF de Semillas,e00316e9-b84c-445e-9ccb-f2f2c379e809,ERROR,2,2
+112,Estadística de mediaciones prejudiciales y judiciales,857a0c15-188a-41c9-b32a-9f1334bc947e,ERROR,2,7
 113,Estadísticas de biodiesel y bioetanol,9a84f05d-97a5-4506-8e67-70ad50d815a9,ERROR,2,6
 114,Estadisticas de Servicios Publicos. Base 1993,af622a9e-a6d7-497b-9d80-10bd103e5a59,ERROR,2,3
-115,Estadística de trámites de automotores,55fa8854-f28d-45ba-bc6c-675af081eae5,ERROR,2,6
-116,Estadística de trámites de maquinarias,8d053a24-f9b6-4d14-97fe-e59859eee6a4,ERROR,2,6
-117,Estadística de trámites de motovehículos,2f85fe0d-d699-425d-bcc6-ba1cb1e12d75,ERROR,2,6
+115,Estadística de trámites de automotores,55fa8854-f28d-45ba-bc6c-675af081eae5,ERROR,2,8
+116,Estadística de trámites de maquinarias,8d053a24-f9b6-4d14-97fe-e59859eee6a4,ERROR,2,8
+117,Estadística de trámites de motovehículos,2f85fe0d-d699-425d-bcc6-ba1cb1e12d75,ERROR,2,8
 118,Estado de pozos de petróleo y gas,fafd71b2-3741-491d-b727-2cfac80e4510,ERROR,2,3
 119,Estimación del consumo de productos lácteos,682c0bae-5219-495a-b5f7-ede8655fedaf,ERROR,2,2
 120,Estimaciones agrícolas,d55eba19-0bfe-49c8-a19b-5214830f9ba4,ERROR,2,1
@@ -202,7 +202,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 200,Índice de Costo de la Construcción. Base 1993,b2754d07-443a-487f-82a4-eef966e2ffed,ERROR,2,3
 201,Índice de Precios al Consumidor. Bienes y Servicios. Base abril 2008,a1ae3e31-a967-47df-b7d3-0815de1d42f1,ERROR,2,3
 202,Índice de Precios al Consumidor. Bienes y Servicios. Base abril 2016.,12a8f506-a1bf-41e4-a486-e97bca332b71,ERROR,2,2
-203,Índice de Precios al Consumidor. Bienes y Servicios. Base diciembre 2016.,ae650abf-a6dc-4b64-8d20-ff801019e59a,ERROR,2,1
+203,Índice de Precios al Consumidor. Bienes y Servicios. Base diciembre 2016.,ae650abf-a6dc-4b64-8d20-ff801019e59a,ERROR,2,2
 204,Índice de Precios al Consumidor de la Ciudad de Buenos Aires. Nivel general y principales aperturas,d49a7d58-c0cb-4693-8d27-b4cea44e148c,ERROR,2,1
 205,Índice de Precios al Consumidor GBA - Base 1974,02afb934-a703-46df-881b-fa750818cf20,ERROR,2,1
 206,Índice de Precios al Consumidor GBA - Base 1988,da7bf940-6b0f-4eee-8a93-25ee7ea45764,ERROR,2,1
@@ -210,14 +210,14 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 208,"Índice de Precios al Consumidor de GBA, por principales aperturas. Base abril 2016.",6e5ff1ee-75a1-47ba-bf33-f4b8d6dba26a,ERROR,2,2
 209,Índice de Precios al Consumidor histórico,01d024e5-7519-4e14-8cbe-7e27c8411089,ERROR,2,1
 210,"Índice de Precios al Consumidor Nacional Urbano, por principales aperturas",2584ab46-41db-408d-9678-204769c7a040,ERROR,2,2
-211,Índice de Precios al Consumidor. Nivel General. Base diciembre 2016.,f539466e-b10f-4b1f-a06a-3d2cff414ba5,ERROR,2,1
+211,Índice de Precios al Consumidor. Nivel General. Base diciembre 2016.,f539466e-b10f-4b1f-a06a-3d2cff414ba5,ERROR,2,2
 212,Índice de Precios al Consumidor. Por capítulos. Base 10/2013 - 9/2014.,0734e3da-8cbf-42cc-99e8-e694253a9b5b,ERROR,2,2
 213,Índice de Precios al Consumidor. Por capítulos. Base 2003.,7790df3c-20ae-4f20-a90d-df0dec40ba18,ERROR,2,2
 214,Índice de Precios al Consumidor. Por capítulos. Base abril 2008.,aae1cf3f-6738-46fc-9a83-6ad0d7768d93,ERROR,2,2
 215,Índice de Precios al Consumidor. Por capítulos. Base abril 2016,fa8d7eed-1284-485b-a734-a6142334f84e,ERROR,2,2
-216,Índice de Precios al Consumidor. Por capítulos. Base diciembre 2016.,68e4c233-b950-48cc-b523-0b00d7965a12,ERROR,2,1
+216,Índice de Precios al Consumidor. Por capítulos. Base diciembre 2016.,68e4c233-b950-48cc-b523-0b00d7965a12,ERROR,2,2
 217,Índice de Precios al Consumidor. Por categorías. Base abril 2016.,8244a401-4364-4cc0-8167-2faae075bd8c,ERROR,2,2
-218,Índice de Precios al Consumidor. Por categorías. Base diciembre de 2016.,525579c7-e7f2-4aba-9b29-e2033b342c9f,ERROR,2,1
+218,Índice de Precios al Consumidor. Por categorías. Base diciembre de 2016.,525579c7-e7f2-4aba-9b29-e2033b342c9f,ERROR,2,2
 219,Índice de Precios al Consumidor. Por grupos. Base 2008.,636d94be-82c3-4b05-943b-e4cdb285cfd1,ERROR,2,3
 220,Índice de Precios al Consumidor. Precios al consumidor de un conjunto de alimentos y bebidas. Base abr 2016.,4ec55de4-3d73-4df6-bc6b-fb46a70225c9,ERROR,2,2
 221,Índice de Precios al Consumidor de la Provincia de Córdoba. Base 2014 = 100,37a9043f-d77d-49b2-93cc-dee4b6f29e34,ERROR,2,1
@@ -294,8 +294,8 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 292,Licenciatarios TIC,53361de3-b7f9-4c51-b227-a7f0f6e1a7ec,ERROR,2,3
 293,Licitaciones,f0f2c2c3-6676-4037-aef8-cee0333f69a7,ERROR,2,3
 294,Listado de estaciones repetidoras,bddacb5a-6169-4a0b-8378-520b19c6b3dc,ERROR,2,3
-295,Listado de mediaciones prejudiciales y judiciales. Ley 26.589,4fcb30db-dbcc-44f2-aeb8-d7f36d052373,ERROR,2,6
-296,Listado de mediadores,9b54499e-348b-4165-a4f1-9bdc857dbbb3,ERROR,2,6
+295,Listado de mediaciones prejudiciales y judiciales. Ley 26.589,4fcb30db-dbcc-44f2-aeb8-d7f36d052373,ERROR,2,7
+296,Listado de mediadores,9b54499e-348b-4165-a4f1-9bdc857dbbb3,ERROR,2,7
 297,Listado de Personal,5000a0c4-1674-4686-a441-3f6bca2ab672,ERROR,2,3
 298,Listado de prestadores de telefonía,c321b40a-c161-4f4b-ba42-eb09f94a2827,ERROR,2,3
 299,Listado de Proveedores,7fc6ddc7-3c28-44f2-adc6-c9c371b7abfe,ERROR,2,3
@@ -375,7 +375,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 373,Principales variables ocupacionales. EPH continua. Subocupación,1030116d-6213-41ae-8095-264b0c0aaf5b,ERROR,2,2
 374,Principales variables ocupacionales. EPH continua. Subocupación demandante,c7aa7918-7510-4b8e-b2c8-6094fe2a3be7,ERROR,2,2
 375,Principales variables ocupacionales. EPH continua. Subocupación no demandante,95a8f1ec-cfd9-4a28-9f61-8869be9718a6,ERROR,2,2
-376,Principales variables ocupacionales. EPH puntual,7bc0f270-302c-49b3-8a86-b85f26efc955,ERROR,2,1
+376,Principales variables ocupacionales. EPH puntual,7bc0f270-302c-49b3-8a86-b85f26efc955,ERROR,2,2
 377,Probabilidad de déficit hídrico,c40c313a-f1a6-4d2e-9344-b1e3eb9cb060,ERROR,2,2
 378,Probabilidad de exceso hídrico,a883f649-91d2-486d-910c-d54bd4cd5670,ERROR,2,2
 379,Producción de combustibles,78a276e9-50e9-4a98-975c-a0ec6960e530,ERROR,2,1
@@ -472,7 +472,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 470,Registro Nacional de Productores Apícolas,5c6d964c-10c4-46fc-be94-c253218c170b,ERROR,2,2
 471,Registro de obsequios a funcionarios públicos,ae7d78de-8aab-4de4-9c69-b427dc3c4ff1,ERROR,2,1
 472,Registro de Proveedores Postales,16b344d8-ddee-42ac-8fda-619089e84e7a,ERROR,2,3
-473,"Registro, sistematización y seguimiento de femicidios y homicidios agravados por el género",3d5ff734-e6ec-441f-8d6d-76d2338cb50f,ERROR,2,5
+473,"Registro, sistematización y seguimiento de femicidios y homicidios agravados por el género",3d5ff734-e6ec-441f-8d6d-76d2338cb50f,ERROR,2,6
 474,"Registro, sistematización y seguimiento de hechos de violencia institucional",ba3ed6d7-e416-488e-8017-52c30284ae73,ERROR,2,2
 475,Registro Único de Audiencias de Gestión de Intereses,2889b09e-31ca-4f90-912e-2a50db874e33,ERROR,1,2
 476,Registro Unificado de Víctimas del Terrorismo de Estado -RUVTE-,6765cab5-bcc1-4858-acca-f0de9b31ad05,ERROR,2,2
@@ -485,7 +485,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 483,"Remuneración total de los puestos de trabajo, por sector de actividad económica",a95a760e-4bb9-4abc-b2d5-1f9c3287e392,ERROR,2,2
 484,"Remuneración total de los puestos de trabajo del sector privado, por provincia",be156e79-fbc2-4922-afed-d568535da9b2,ERROR,2,2
 485,Rendimiento de los bonos de Estados Unidos,dc844cd8-bf7f-4176-9b4e-6c3688a316b8,ERROR,2,1
-486,Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional,c001e053-870d-4af8-80f9-9915da7368be,ERROR,2,8
+486,Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional,c001e053-870d-4af8-80f9-9915da7368be,ERROR,2,9
 487,Reservas de agua en el suelo por cultivo,aabc006f-76eb-40b2-999e-bace96328313,ERROR,2,3
 488,Reservas internacionales y pasivos del BCRA,c5d1749b-5775-41f9-a099-bc3f3c12cb10,ERROR,2,1
 489,Resultado de cuenta corriente de las principales economías,d9b09d25-b577-41ef-83cb-ab3ffc22d2d9,ERROR,2,2
@@ -493,7 +493,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 491,"Salario mínimo, vital y móvil en pesos corrientes",b264f045-66d2-4e74-8a76-c622f844163f,ERROR,2,1
 492,Saldo comercial clasificado el Nomenclador Común del Mercosur (NCM),24c72879-a38e-4108-9569-f134a2ba6247,ERROR,2,3
 493,Saldo Comercial por Países y Regiones (FOB-CIF),598dfee8-3438-4a50-b96c-5110956d90e8,ERROR,2,3
-494,Selección de magistrados del Poder Judicial y el Ministerio Público de la Nación,600efd32-8930-4328-9edc-480ac529db6b,ERROR,2,8
+494,Selección de magistrados del Poder Judicial y el Ministerio Público de la Nación,600efd32-8930-4328-9edc-480ac529db6b,ERROR,2,9
 495,Series históricas de estadísticas monetarias,210855db-e783-4c6e-a433-7a9c0323ca20,ERROR,2,1
 496,Series de precios de productos forestales,69f5df1f-ac72-4f8c-adff-e1411da88e49,ERROR,2,2
 497,Series de precios de productos forestales discontinuado,45ba44f4-b302-48ce-9c43-4ce1b7a0b89d,ERROR,2,2
@@ -501,10 +501,10 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 499,Siembra directa según el Censo Nacional Agropecuario 2002,755c8d63-13eb-4d6b-a734-6aa8cab04662,ERROR,2,2
 500,Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.,dcde06ea-006c-42c7-967e-b00c1a106942,ERROR,2,1
 501,Sistema de Contrataciones Electrónicas  (Argentina Compra),069b5833-e57d-4d7a-859b-67a80cfdff20,ERROR,2,9
-502,Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP,5971b433-5a38-4f76-bd0a-b557ee8c26bd,ERROR,2,14
+502,Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP,5971b433-5a38-4f76-bd0a-b557ee8c26bd,ERROR,2,15
 503,Solicitudes de Acceso a la Información Pública,8bc053c8-efc2-485d-97d3-915c476d2741,ERROR,2,2
-504,Solicitudes de Autorización de Portación de Armas de Fuego,5c907972-9292-4ec3-9456-02614667a8b5,ERROR,2,25
-505,Solicitudes de Condición de Legítimo Usuario de Armas de Fuego,574d91d1-1d27-425e-9762-e8442b9f63d4,ERROR,2,25
+504,Solicitudes de Autorización de Portación de Armas de Fuego,5c907972-9292-4ec3-9456-02614667a8b5,ERROR,2,26
+505,Solicitudes de Condición de Legítimo Usuario de Armas de Fuego,574d91d1-1d27-425e-9762-e8442b9f63d4,ERROR,2,26
 506,Stock de Inversión Extranjera Directa - BCRA,927d1639-ede2-4a8f-bacc-241dad408906,ERROR,2,1
 507,Stock de Inversión Extranjera Directa por país primer nivel de residencia - BCRA,7736b51d-a075-4315-8e3a-a1a5abc7b1f4,ERROR,2,1
 508,Stock de Inversión Extranjera Directa por sector - BCRA,0a1d0e72-a5f4-4b89-b6ca-db18ec3a0236,ERROR,2,1
