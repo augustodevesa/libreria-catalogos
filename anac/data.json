@@ -17,17 +17,17 @@
             "license": "Creative Commons Attribution",
             "title": "Aeródromos del Sistema Nacional de Aeropuertos (SNA)",
             "issued": "2017-07-06T20:39:15.382086",
-            "modified": "2017-12-28T16:52:21.933511",
+            "modified": "2017-12-28T23:09:13.072397",
             "language": "spa",
             "distribution": [
                 {
-                    "accessURL": "http://datos.anac.gob.ar/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/ef26c3f6-0e72-4f0a-aaa0-b29f69e258a5/download/aerodromossna.csv",
+                    "accessURL": "http://172.19.2.65:8080/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/ef26c3f6-0e72-4f0a-aaa0-b29f69e258a5/download/aerodromossna.csv",
                     "description": "Instalaciones habilitadas para la operación de aeronaves pertenecientes al SNA - Sistema Nacional de Aeropuertos",
                     "title": "Aeródromos del Sistema Nacional de Aeropuertos (SNA) a Junio de 2017",
                     "issued": "2017-07-06T20:40:55.869872",
                     "format": "CSV",
-                    "modified": "2017-08-23T20:32:30.027631",
-                    "downloadURL": "http://datos.anac.gob.ar/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/ef26c3f6-0e72-4f0a-aaa0-b29f69e258a5/download/aerodromossna.csv",
+                    "modified": "2017-12-28T23:04:13.390551",
+                    "downloadURL": "http://172.19.2.65:8080/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/ef26c3f6-0e72-4f0a-aaa0-b29f69e258a5/download/aerodromossna.csv",
                     "field": [
                         {
                             "type": "string",
@@ -107,13 +107,13 @@
                     ]
                 },
                 {
-                    "accessURL": "http://datos.anac.gob.ar/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/e01be0bf-c365-497f-a584-a675d4715852/download/aerodromossna.js.json",
+                    "accessURL": "http://172.19.2.65:8080/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/e01be0bf-c365-497f-a584-a675d4715852/download/aerodromossna.js.json",
                     "description": "Instalaciones habilitadas para la operación de aeronaves pertenecientes al SNA",
                     "title": "Aeródromos del Sistema Nacional de Aeropuertos (SNA) a Junio de 2017",
                     "issued": "2017-07-06T22:01:15.075314",
                     "format": "JSON",
                     "modified": "2017-08-24T15:33:01.210663",
-                    "downloadURL": "http://datos.anac.gob.ar/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/e01be0bf-c365-497f-a584-a675d4715852/download/aerodromossna.js.json",
+                    "downloadURL": "http://172.19.2.65:8080/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/e01be0bf-c365-497f-a584-a675d4715852/download/aerodromossna.js.json",
                     "field": [
                         {
                             "type": "string",
@@ -193,13 +193,13 @@
                     ]
                 },
                 {
-                    "accessURL": "http://datos.anac.gob.ar/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/46058eea-9573-437b-9052-f3ec304ca4bc/download/aerodromos-del-sistema-nacional-de-aeropuertos-sna-a-diciembre-de-2017.ods",
+                    "accessURL": "http://172.19.2.65:8080/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/46058eea-9573-437b-9052-f3ec304ca4bc/download/aerodromos-del-sistema-nacional-de-aeropuertos-sna-a-diciembre-de-2017.ods",
                     "description": "Instalaciones habilitadas para la operación de aeronaves pertenecientes al SNA - Sistema Nacional de Aeropuertos",
                     "title": "Aeródromos del Sistema Nacional de Aeropuertos (SNA) a Diciembre de 2017",
                     "issued": "2017-12-28T16:52:22.106613",
                     "format": "CSV",
                     "modified": "2017-12-28T16:52:21.891598",
-                    "downloadURL": "http://datos.anac.gob.ar/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/46058eea-9573-437b-9052-f3ec304ca4bc/download/aerodromos-del-sistema-nacional-de-aeropuertos-sna-a-diciembre-de-2017.ods",
+                    "downloadURL": "http://172.19.2.65:8080/dataset/b6fca19c-6547-4530-827a-43e9e21cf031/resource/46058eea-9573-437b-9052-f3ec304ca4bc/download/aerodromos-del-sistema-nacional-de-aeropuertos-sna-a-diciembre-de-2017.ods",
                     "field": [
                         {
                             "type": "string",
@@ -269,7 +269,6 @@
                         {
                             "type": "integer",
                             "description": "identificador",
-                            "unit": "",
                             "title": "id"
                         }
                     ]
@@ -285,7 +284,7 @@
             "superTheme": [
                 "TRAN"
             ],
-            "landingPage": "http://datos.anac.gob.ar/dataset/aerodromos-del-sna-sistema-nacional-de-aeropuertos",
+            "landingPage": "http://172.19.2.65:8080/dataset/aerodromos-del-sna-sistema-nacional-de-aeropuertos",
             "identifier": "b6fca19c-6547-4530-827a-43e9e21cf031",
             "contactPoint": {
                 "@type": "vcard:Contact"
@@ -301,17 +300,17 @@
             "license": "Creative Commons Attribution",
             "title": "Datos de contacto AMEs y CMAEs",
             "issued": "2017-07-27T14:27:54.491455",
-            "modified": "2017-11-17T14:12:08.863712",
+            "modified": "2017-11-17T14:12:14.643826",
             "language": "spa",
             "distribution": [
                 {
-                    "accessURL": "http://datos.anac.gob.ar/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/a504383e-5a8e-46bd-a72b-4735156ad5c3/download/listadoames.csv",
+                    "accessURL": "http://172.19.2.65:8080/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/a504383e-5a8e-46bd-a72b-4735156ad5c3/download/listadoames.csv",
                     "description": "Datos de contacto de Médicos Examinadores Aeronáuticos (AMEs) a Julio de 2017.",
                     "title": "Médicos Examinadores Aeronáuticos (AMEs)",
                     "issued": "2017-07-27T14:38:19.381733",
                     "format": "CSV",
                     "modified": "2017-07-28T14:10:33.342274",
-                    "downloadURL": "http://datos.anac.gob.ar/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/a504383e-5a8e-46bd-a72b-4735156ad5c3/download/listadoames.csv",
+                    "downloadURL": "http://172.19.2.65:8080/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/a504383e-5a8e-46bd-a72b-4735156ad5c3/download/listadoames.csv",
                     "field": [
                         {
                             "type": "string",
@@ -371,13 +370,13 @@
                     ]
                 },
                 {
-                    "accessURL": "http://datos.anac.gob.ar/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/108c2d9f-742b-4a79-ac96-7cb17f2f3929/download/listadocmaes.csv",
+                    "accessURL": "http://172.19.2.65:8080/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/108c2d9f-742b-4a79-ac96-7cb17f2f3929/download/listadocmaes.csv",
                     "description": "Datos de contacto de Centros Médicos Examinadores Aeronáuticos (CMAEs) a Julio de 2017.",
                     "title": "Centros Médicos Examinadores Aeronáuticos (CMAEs)",
                     "issued": "2017-07-27T14:45:42.961857",
                     "format": "CSV",
                     "modified": "2017-07-28T14:12:16.997648",
-                    "downloadURL": "http://datos.anac.gob.ar/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/108c2d9f-742b-4a79-ac96-7cb17f2f3929/download/listadocmaes.csv",
+                    "downloadURL": "http://172.19.2.65:8080/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/108c2d9f-742b-4a79-ac96-7cb17f2f3929/download/listadocmaes.csv",
                     "field": [
                         {
                             "type": "string",
@@ -422,29 +421,29 @@
                     ]
                 },
                 {
-                    "accessURL": "http://datos.anac.gob.ar/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/b5f4bf00-b7ac-4e6a-852c-0da48c0e080f/download/listadoames.js.json",
+                    "accessURL": "http://172.19.2.65:8080/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/b5f4bf00-b7ac-4e6a-852c-0da48c0e080f/download/listadoames.js.json",
                     "description": "Datos de contacto de Médicos Examinadores Aeronáuticos (AMEs) a Julio de 2017.",
                     "title": "Médicos Examinadores Aeronáuticos (AMEs)",
                     "issued": "2017-07-28T14:21:35.228602",
                     "format": "JSON",
                     "modified": "2017-07-28T14:27:31.930516",
-                    "downloadURL": "http://datos.anac.gob.ar/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/b5f4bf00-b7ac-4e6a-852c-0da48c0e080f/download/listadoames.js.json"
+                    "downloadURL": "http://172.19.2.65:8080/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/b5f4bf00-b7ac-4e6a-852c-0da48c0e080f/download/listadoames.js.json"
                 },
                 {
-                    "accessURL": "http://datos.anac.gob.ar/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/acfee0dc-5b78-4925-ae05-04584974c322/download/listadocmaes.json",
+                    "accessURL": "http://172.19.2.65:8080/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/acfee0dc-5b78-4925-ae05-04584974c322/download/listadocmaes.json",
                     "description": "Datos de contacto de Centros Médicos Examinadores Aeronáuticos (CMAEs) a Julio de 2017.",
                     "title": "Centros Médicos Examinadores Aeronáuticos (CMAEs)",
                     "issued": "2017-07-28T14:28:55.926560",
                     "format": "JSON",
                     "modified": "2017-07-28T14:28:55.888099",
-                    "downloadURL": "http://datos.anac.gob.ar/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/acfee0dc-5b78-4925-ae05-04584974c322/download/listadocmaes.json"
+                    "downloadURL": "http://172.19.2.65:8080/dataset/4fb8806c-dbda-47e7-9851-23e9981aa0de/resource/acfee0dc-5b78-4925-ae05-04584974c322/download/listadocmaes.json"
                 }
             ],
             "superTheme": [
                 "TRAN"
             ],
             "accrualPeriodicity": "eventual",
-            "landingPage": "http://datos.anac.gob.ar/dataset/datos-de-contacto-ames-y-cmaes",
+            "landingPage": "http://172.19.2.65:8080/dataset/datos-de-contacto-ames-y-cmaes",
             "identifier": "4fb8806c-dbda-47e7-9851-23e9981aa0de",
             "contactPoint": {
                 "@type": "vcard:Contact"
@@ -463,13 +462,13 @@
             "modified": "2017-11-17T14:11:54.176987",
             "distribution": [
                 {
-                    "accessURL": "http://datos.anac.gob.ar/dataset/f026ae26-08e0-4676-9288-34b3a37e0691/resource/f3f96da9-1eec-41ec-b6f1-631f4f46ef76/download/centrosciac.csv",
+                    "accessURL": "http://172.19.2.65:8080/dataset/f026ae26-08e0-4676-9288-34b3a37e0691/resource/f3f96da9-1eec-41ec-b6f1-631f4f46ef76/download/centrosciac.csv",
                     "description": "Datos correspondientes a los Centros de Instrucción de Aeronáutica Civil. El dataset contempla RAAC, dirección, coordenadas y tipo de centro CIAC.",
                     "title": "Centros de Instrucción de Aeronáutica Civil (CIAC)",
                     "issued": "2017-08-01T14:50:25.379175",
                     "format": "CSV",
                     "modified": "2017-08-01T17:15:44.058578",
-                    "downloadURL": "http://datos.anac.gob.ar/dataset/f026ae26-08e0-4676-9288-34b3a37e0691/resource/f3f96da9-1eec-41ec-b6f1-631f4f46ef76/download/centrosciac.csv",
+                    "downloadURL": "http://172.19.2.65:8080/dataset/f026ae26-08e0-4676-9288-34b3a37e0691/resource/f3f96da9-1eec-41ec-b6f1-631f4f46ef76/download/centrosciac.csv",
                     "field": [
                         {
                             "type": "string",
@@ -534,13 +533,13 @@
                     ]
                 },
                 {
-                    "accessURL": "http://datos.anac.gob.ar/dataset/f026ae26-08e0-4676-9288-34b3a37e0691/resource/18ff3cf8-2668-4afd-b855-a84763316355/download/listadociac.json",
+                    "accessURL": "http://172.19.2.65:8080/dataset/f026ae26-08e0-4676-9288-34b3a37e0691/resource/18ff3cf8-2668-4afd-b855-a84763316355/download/listadociac.json",
                     "description": "Datos correspondientes a los Centros de Instrucción de Aeronáutica Civil. El dataset contempla RAAC, dirección, coordenadas y tipo de centro CIAC.",
                     "title": "Centros de Instrucción de Aeronáutica Civil (CIAC)",
                     "issued": "2017-08-01T16:37:03.407988",
                     "format": "JSON",
                     "modified": "2017-08-01T17:17:23.475276",
-                    "downloadURL": "http://datos.anac.gob.ar/dataset/f026ae26-08e0-4676-9288-34b3a37e0691/resource/18ff3cf8-2668-4afd-b855-a84763316355/download/listadociac.json"
+                    "downloadURL": "http://172.19.2.65:8080/dataset/f026ae26-08e0-4676-9288-34b3a37e0691/resource/18ff3cf8-2668-4afd-b855-a84763316355/download/listadociac.json"
                 }
             ],
             "keyword": [
@@ -551,7 +550,7 @@
             "superTheme": [
                 "TRAN"
             ],
-            "landingPage": "http://datos.anac.gob.ar/dataset/centros-de-instruccion-de-aeronautica-civil-ciac",
+            "landingPage": "http://172.19.2.65:8080/dataset/centros-de-instruccion-de-aeronautica-civil-ciac",
             "identifier": "f026ae26-08e0-4676-9288-34b3a37e0691",
             "contactPoint": {
                 "@type": "vcard:Contact"
@@ -571,13 +570,13 @@
             "language": "spa",
             "distribution": [
                 {
-                    "accessURL": "http://datos.anac.gob.ar/dataset/44be27bc-fd62-491b-b609-ad39ce833ab7/resource/e64e7060-8a69-4c3c-99a0-32ee69204997/download/aerodromos.json",
+                    "accessURL": "http://172.19.2.65:8080/dataset/44be27bc-fd62-491b-b609-ad39ce833ab7/resource/e64e7060-8a69-4c3c-99a0-32ee69204997/download/aerodromos.json",
                     "description": "Detalle de aeródromos nacionales a junio de 2017",
                     "title": "Aeródromos a Junio 2017",
                     "issued": "2017-06-23T14:27:15.223321",
                     "format": "JSON",
                     "modified": "2017-07-07T18:23:30.646567",
-                    "downloadURL": "http://datos.anac.gob.ar/dataset/44be27bc-fd62-491b-b609-ad39ce833ab7/resource/e64e7060-8a69-4c3c-99a0-32ee69204997/download/aerodromos.json",
+                    "downloadURL": "http://172.19.2.65:8080/dataset/44be27bc-fd62-491b-b609-ad39ce833ab7/resource/e64e7060-8a69-4c3c-99a0-32ee69204997/download/aerodromos.json",
                     "field": [
                         {
                             "type": "string",
@@ -667,13 +666,13 @@
                     ]
                 },
                 {
-                    "accessURL": "http://datos.anac.gob.ar/dataset/44be27bc-fd62-491b-b609-ad39ce833ab7/resource/45dff1c8-445a-44a9-9b20-d093bfe8172c/download/aerodromos.csv",
+                    "accessURL": "http://172.19.2.65:8080/dataset/44be27bc-fd62-491b-b609-ad39ce833ab7/resource/45dff1c8-445a-44a9-9b20-d093bfe8172c/download/aerodromos.csv",
                     "description": "Detalle de aeródromos nacionales a junio de 2017",
                     "title": "Aeródromos a Junio 2017",
                     "issued": "2017-06-23T14:30:38.264600",
                     "format": "CSV",
                     "modified": "2017-08-23T20:30:41.473647",
-                    "downloadURL": "http://datos.anac.gob.ar/dataset/44be27bc-fd62-491b-b609-ad39ce833ab7/resource/45dff1c8-445a-44a9-9b20-d093bfe8172c/download/aerodromos.csv",
+                    "downloadURL": "http://172.19.2.65:8080/dataset/44be27bc-fd62-491b-b609-ad39ce833ab7/resource/45dff1c8-445a-44a9-9b20-d093bfe8172c/download/aerodromos.csv",
                     "field": [
                         {
                             "type": "string",
@@ -775,7 +774,7 @@
             "superTheme": [
                 "TRAN"
             ],
-            "landingPage": "http://datos.anac.gob.ar/dataset/aerodromos-y-helipuertos",
+            "landingPage": "http://172.19.2.65:8080/dataset/aerodromos-y-helipuertos",
             "identifier": "44be27bc-fd62-491b-b609-ad39ce833ab7",
             "contactPoint": {
                 "@type": "vcard:Contact"
@@ -794,13 +793,13 @@
             "modified": "2017-11-17T14:11:38.932521",
             "distribution": [
                 {
-                    "accessURL": "http://datos.anac.gob.ar/dataset/89d80799-a371-4aa0-a085-4a09677e7ddc/resource/99c36aed-4e35-40db-a7a9-d6fb678a016a/download/helipuertos.csv",
+                    "accessURL": "http://172.19.2.65:8080/dataset/89d80799-a371-4aa0-a085-4a09677e7ddc/resource/99c36aed-4e35-40db-a7a9-d6fb678a016a/download/helipuertos.csv",
                     "description": "Detalle de helipuertos nacionales a junio de 2017",
                     "title": "Helipuertos a Junio 2017",
                     "issued": "2017-07-06T16:56:55.729826",
                     "format": "CSV",
                     "modified": "2017-08-23T20:31:50.275242",
-                    "downloadURL": "http://datos.anac.gob.ar/dataset/89d80799-a371-4aa0-a085-4a09677e7ddc/resource/99c36aed-4e35-40db-a7a9-d6fb678a016a/download/helipuertos.csv",
+                    "downloadURL": "http://172.19.2.65:8080/dataset/89d80799-a371-4aa0-a085-4a09677e7ddc/resource/99c36aed-4e35-40db-a7a9-d6fb678a016a/download/helipuertos.csv",
                     "field": [
                         {
                             "type": "string",
@@ -890,13 +889,13 @@
                     ]
                 },
                 {
-                    "accessURL": "http://datos.anac.gob.ar/dataset/89d80799-a371-4aa0-a085-4a09677e7ddc/resource/2d8a2ea2-cc1a-409f-92b2-85dc7afecd62/download/helipuertos.json",
+                    "accessURL": "http://172.19.2.65:8080/dataset/89d80799-a371-4aa0-a085-4a09677e7ddc/resource/2d8a2ea2-cc1a-409f-92b2-85dc7afecd62/download/helipuertos.json",
                     "description": "Detalle de helipuertos nacionales a junio de 2017",
                     "title": "Helipuertos a Junio 2017",
                     "issued": "2017-07-06T19:07:57.282525",
                     "format": "JSON",
                     "modified": "2017-07-07T18:27:12.402246",
-                    "downloadURL": "http://datos.anac.gob.ar/dataset/89d80799-a371-4aa0-a085-4a09677e7ddc/resource/2d8a2ea2-cc1a-409f-92b2-85dc7afecd62/download/helipuertos.json",
+                    "downloadURL": "http://172.19.2.65:8080/dataset/89d80799-a371-4aa0-a085-4a09677e7ddc/resource/2d8a2ea2-cc1a-409f-92b2-85dc7afecd62/download/helipuertos.json",
                     "field": [
                         {
                             "type": "string",
@@ -990,7 +989,7 @@
                 "TRAN"
             ],
             "accrualPeriodicity": "eventual",
-            "landingPage": "http://datos.anac.gob.ar/dataset/helipuertos",
+            "landingPage": "http://172.19.2.65:8080/dataset/helipuertos",
             "identifier": "89d80799-a371-4aa0-a085-4a09677e7ddc",
             "contactPoint": {
                 "@type": "vcard:Contact"
@@ -1009,13 +1008,13 @@
             "modified": "2017-11-17T14:11:11.790594",
             "distribution": [
                 {
-                    "accessURL": "http://datos.anac.gob.ar/dataset/34fbecae-0abb-48e1-a307-b5e7b593bcdf/resource/988bbf6c-f351-425f-a4b2-b7abb149426a/download/audiencia219.csv",
+                    "accessURL": "http://172.19.2.65:8080/dataset/34fbecae-0abb-48e1-a307-b5e7b593bcdf/resource/988bbf6c-f351-425f-a4b2-b7abb149426a/download/audiencia219.csv",
                     "description": "Detalle de solicitud de rutas aéreas Audiencia 219",
                     "title": "Solicitud de rutas aéreas audiencia 219",
                     "issued": "2017-09-06T13:58:33.147052",
                     "format": "CSV",
                     "modified": "2017-09-06T15:37:10.900846",
-                    "downloadURL": "http://datos.anac.gob.ar/dataset/34fbecae-0abb-48e1-a307-b5e7b593bcdf/resource/988bbf6c-f351-425f-a4b2-b7abb149426a/download/audiencia219.csv",
+                    "downloadURL": "http://172.19.2.65:8080/dataset/34fbecae-0abb-48e1-a307-b5e7b593bcdf/resource/988bbf6c-f351-425f-a4b2-b7abb149426a/download/audiencia219.csv",
                     "field": [
                         {
                             "type": "integer",
@@ -1040,12 +1039,12 @@
                     ]
                 },
                 {
-                    "accessURL": "http://datos.anac.gob.ar/dataset/34fbecae-0abb-48e1-a307-b5e7b593bcdf/resource/22c9e899-3b38-411c-8c45-4bff47af8e02/download/audiencia219.json",
+                    "accessURL": "http://172.19.2.65:8080/dataset/34fbecae-0abb-48e1-a307-b5e7b593bcdf/resource/22c9e899-3b38-411c-8c45-4bff47af8e02/download/audiencia219.json",
                     "title": "Solicitud de rutas aéreas audiencia 219",
                     "issued": "2017-09-06T17:42:50.015847",
                     "format": "JSON",
                     "modified": "2017-09-06T17:42:49.959776",
-                    "downloadURL": "http://datos.anac.gob.ar/dataset/34fbecae-0abb-48e1-a307-b5e7b593bcdf/resource/22c9e899-3b38-411c-8c45-4bff47af8e02/download/audiencia219.json"
+                    "downloadURL": "http://172.19.2.65:8080/dataset/34fbecae-0abb-48e1-a307-b5e7b593bcdf/resource/22c9e899-3b38-411c-8c45-4bff47af8e02/download/audiencia219.json"
                 }
             ],
             "keyword": [
@@ -1057,7 +1056,7 @@
             "superTheme": [
                 "TRAN"
             ],
-            "landingPage": "http://datos.anac.gob.ar/dataset/audiencia-publica-219",
+            "landingPage": "http://172.19.2.65:8080/dataset/audiencia-publica-219",
             "identifier": "34fbecae-0abb-48e1-a307-b5e7b593bcdf",
             "contactPoint": {
                 "@type": "vcard:Contact"
