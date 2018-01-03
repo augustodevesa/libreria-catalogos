@@ -660,7 +660,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.",
             "issued": "2016-09-28T14:57:47.665668",
-            "modified": "2018-01-03T11:59:07.067328",
+            "modified": "2018-01-03T12:05:55.143205",
             "theme": [
                 "sistema-registral"
             ],
@@ -681,12 +681,12 @@
             "distribution": [
                 {
                     "accessURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/ba6f82b3-5714-4974-8c03-6b55ec9811b4",
-                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 02-01-2018. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
+                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 03-01-2018. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
                     "title": "Sistema de Consulta Nacional de Rebeldías y Capturas",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2018-01-02T09:02:35.327704",
+                    "modified": "2018-01-03T09:00:18.801552",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/ba6f82b3-5714-4974-8c03-6b55ec9811b4/download/rebeldias-y-capturas.csv",
                     "issued": "2017-11-23T09:23:43.569306",
                     "identifier": "ba6f82b3-5714-4974-8c03-6b55ec9811b4"
@@ -1222,7 +1222,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Entidades constituidas en la Inspección General de Justicia",
             "issued": "2016-09-19T13:46:06.092494",
-            "modified": "2017-12-04T15:04:48.649574",
+            "modified": "2018-01-03T14:32:53.614226",
             "theme": [
                 "sistema-registral"
             ],
@@ -2144,6 +2144,66 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/2ab72910-46df-4ee3-8cc2-819a1817c619/download/igj-asambleas-2017-11.csv",
                     "issued": "2017-12-04T09:43:56.522911",
                     "identifier": "2ab72910-46df-4ee3-8cc2-819a1817c619"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/a3dc4da5-3bea-4337-bdec-6ad9312f5cd7",
+                    "description": "Entidades constituidas en la IGJ.",
+                    "title": "IGJ. Entidades 2017-12",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-01-03T10:35:11.538677",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/a3dc4da5-3bea-4337-bdec-6ad9312f5cd7/download/igj-entidades-2017-12.csv",
+                    "issued": "2018-01-03T10:35:12.006823",
+                    "identifier": "a3dc4da5-3bea-4337-bdec-6ad9312f5cd7"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/d4d72527-a1f6-40f4-a8fb-0080cee9639b",
+                    "description": "Domicilios de entidades constituidas en la IGJ.",
+                    "title": "IGJ. Domicilios de entidades constituidas en la IGJ 2017-12",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-01-03T10:41:48.949401",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/d4d72527-a1f6-40f4-a8fb-0080cee9639b/download/igj-domicilios-2017-12.csv",
+                    "issued": "2018-01-03T10:41:49.597442",
+                    "identifier": "d4d72527-a1f6-40f4-a8fb-0080cee9639b"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/67c82bc2-54d3-4994-b366-4d58fd199074",
+                    "description": "Autoridades de entidades constituidas en la IGJ.",
+                    "title": "IGJ. Autoridades de entidades 2017-12",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-01-03T10:54:56.665265",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/67c82bc2-54d3-4994-b366-4d58fd199074/download/igj-autoridades-2017-12.csv",
+                    "issued": "2018-01-03T10:54:57.086414",
+                    "identifier": "67c82bc2-54d3-4994-b366-4d58fd199074"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/803b006e-74d6-46b5-ac66-db6354496513",
+                    "description": "Balances presentados por entidades constituidas en la IGJ.",
+                    "title": "IGJ. Balances presentados por entidades constituidas en la IGJ 2017-12",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-01-03T11:02:18.397094",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/803b006e-74d6-46b5-ac66-db6354496513/download/igj-balances-2017-12.csv",
+                    "issued": "2018-01-03T11:02:18.923222",
+                    "identifier": "803b006e-74d6-46b5-ac66-db6354496513"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/e6ffa25c-047b-4492-8dd2-4b196db4659c",
+                    "description": "Asambleas de entidades constituidas en la IGJ.",
+                    "title": "IGJ. Asambleas de entidades constituidas en la IGJ 2017-12",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-01-03T11:32:39.545005",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/e6ffa25c-047b-4492-8dd2-4b196db4659c/download/igj-asambleas-2017-12.csv",
+                    "issued": "2018-01-03T11:13:18.799050",
+                    "identifier": "e6ffa25c-047b-4492-8dd2-4b196db4659c"
                 }
             ]
         },
