@@ -10,18 +10,21 @@
         {
             "publisher": {
                 "mbox": "",
-                "name": "Dirección de Fiscalización y Adecuación Ambiental"
+                "name": "Coordinación de Gestión y Planificación"
             },
             "accessLevel": "public",
-            "description": "Datos correspondientes a los establecimientos con clausura efectiva a Agosto de 2017.",
+            "description": "Datos correspondientes al Índice de Calidad de Vida (ICV) que forma parte del sistema de indicadores de ACUMAR.",
             "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Establecimientos Clausurados en la cuenca Matanza Riachuelo - Agosto 2017",
+            "title": "Índice de Calidad de Vida (ICV) de la cuenca Matanza Riachuelo",
             "contactPoint": {
                 "@type": "vcard:Contact"
             },
-            "issued": "2017-11-08T18:27:28.045902",
-            "modified": "2018-01-02T19:25:46.376516",
+            "issued": "2017-09-05T15:15:05.722528",
+            "modified": "2018-01-04T13:19:34.457880",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
@@ -34,8 +37,531 @@
                 "Eje Ambiental",
                 "Residuos",
                 "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Control",
+                "Eje Ambiental",
+                "Control",
+                "Eje Ambiental",
+                "Control",
+                "Eje Ambiental",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Control",
+                "Eje Ambiental"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/e4b4b74e-604a-4d0e-be57-00283e37449b/download/indice-calidad-vida.csv",
+                    "description": "Detalle de las distintas dimensiones que componen el Índice de Calidad de Vida (ICV)",
+                    "title": "Índice de Calidad de Vida de la Cuenca Matanza Riachuelo",
+                    "issued": "2017-09-05T15:18:37.924467",
+                    "format": "CSV",
+                    "modified": "2018-01-04T13:19:15.307584",
+                    "downloadURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/e4b4b74e-604a-4d0e-be57-00283e37449b/download/indice-calidad-vida.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Clasificación de los radios censales según la forma en que se asienta y\ndistribuye la población en el territorio: Urbano: con población agrupada únicamente, y conformado por manzanas y/o sectores pertenecientes a una localidad; Mixto: con población rural dispersa en campo abierto, y con población\nagrupada en pequeños poblados o en bordes amanzanados de localidades; Rural: con población dispersa únicamente, y donde las viviendas se distribuyen en campo abierto en forma diseminada.\n",
+                            "title": "tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Municipio al que pertenece el radio censal.",
+                            "title": "partido"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Código concatenado del radio censal para el CNPHV 2010. Constituye una clave única de identificación territorial, que se construye para cada unidad territorial a partir de la concatenación de las unidades territoriales de los niveles superiores. En el caso de radios, su código numérico se conforma, leído de\nizquierda a derecha, con dos dígitos que corresponden a la división políticoterritorial (“02” para la Ciudad Autónoma de Buenos Aires y “06” para la provincia de Buenos Aires), tres dígitos que refieren a la división políticoadministrativa (las comunas en la Ciudad Autónoma de Buenos Aires y los partidos en la provincia de Buenos Aires,), dos dígitos que representan a la fracción y otros dos que identifican al radio.\n",
+                            "title": "radio10"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie en hectáreas (ha) del radio censal.",
+                            "title": "sup_ha"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Población del radio censal según el CNPHV 2010.",
+                            "title": "pobl_tot"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Densidad poblacional bruta del radio censal expresada en Hab/Ha.\n",
+                            "title": "dens_ha"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor que adquiere el Índice de Salud.",
+                            "title": "in_salud"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor que adquiere el Índice de Educación.",
+                            "title": "in_educacion"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor que adquiere el Índice de Entorno.",
+                            "title": "in_entorno"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor que adquiere el Índice de Vivienda.",
+                            "title": "in_vivienda"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor que adquiere el Índice de Calidad de Vida.",
+                            "title": "icv"
+                        },
+                        {
+                            "type": "geojson",
+                            "description": "Información georreferenciada en formato abierto.",
+                            "title": "geojson"
+                        }
+                    ],
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/bad60aa0-4b46-4e05-9f71-e00dadc6f63d/download/icv-metodologia-de-calculo.pdf",
+                    "description": "Documento que indica la metodología de cálculo del ICV. Glosario de términos.",
+                    "title": "Metodología de Cálculo del Índice de Calidad de Vida",
+                    "issued": "2017-12-15T17:52:54.140369",
+                    "format": "PDF",
+                    "modified": "2017-12-15T17:52:54.085574",
+                    "downloadURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/bad60aa0-4b46-4e05-9f71-e00dadc6f63d/download/icv-metodologia-de-calculo.pdf",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/c0a97adf-e430-408a-b4f6-c066bdc85a76/download/indice-vivienda.csv",
+                    "description": "Detalle de las distintas dimensiones que componen el Índice de Vivienda.",
+                    "title": "Índice de Vivienda de la cuenca Matanza Riachuelo",
+                    "issued": "2017-12-15T17:58:00.614625",
+                    "format": "CSV",
+                    "modified": "2017-12-28T16:58:38.128454",
+                    "downloadURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/c0a97adf-e430-408a-b4f6-c066bdc85a76/download/indice-vivienda.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Clasificación de los radios censales según la forma en que se asienta y distribuye la población en el territorio: Urbano: con población agrupada únicamente, y conformado por manzanas y/o sectores pertenecientes a una localidad; Mixto: con población rural dispersa en campo abierto, y con población agrupada en pequeños poblados o en bordes amanzanados de localidades; Rural: con población dispersa únicamente, y donde las viviendas se distribuyen en campo abierto en forma diseminada.\n",
+                            "title": "tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Municipio al que pertenece el radio censal.\n",
+                            "title": "partido"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Código concatenado del radio censal para el CNPHV 2010. Constituye una clave única de identificación territorial, que se construye para cada unidad territorial a partir de la concatenación de las unidades territoriales de los niveles superiores. En el caso de radios, su código numérico se conforma, leído de izquierda a derecha, con dos dígitos que corresponden a la división políticoterritorial (“02” para la Ciudad Autónoma de Buenos Aires y “06” para la provincia de Buenos Aires), tres dígitos que refieren a la división políticoadministrativa (las comunas en la Ciudad Autónoma de Buenos Aires y los partidos en la provincia de Buenos Aires,), dos dígitos que representan a la fracción y otros dos que identifican al radio.",
+                            "title": "radio10"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie en hectáreas (ha) del radio censal.\n",
+                            "title": "sup_ha"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Población del radio censal según el CNPHV 2010.",
+                            "title": "pobl_tot"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Densidad poblacional bruta del radio censal expresada en Hab/Ha.\n",
+                            "title": "dens_ha"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Indicador de Hacinamiento. Si la población del radio censal para la cual la información disponible en la base de datos NO tiene valores válidos, es mayor al 25% (“SDATOS_P” > 25%), se considera que los resultados no son representativos de la situación del radio censal y se lo considera “Sin Datos”. Caso contrario, el Indicador de Hacinamiento se calcula de acuerdo a su definición como (“MEJOR_P” / 100).",
+                            "title": "ind_hac"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Indicador de Gas por Red. Si la población del radio censal para la cual la información disponible en la base de datos NO tiene valores válidos, es mayor al 25% (“SDATOS_P” > 25%), se considera que los resultados no son representativos de la situación del radio censal y se lo considera “Sin Datos”. Caso contrario, el Indicador de Gas por Red se calcula de acuerdo a su definición como (“MEJOR_P” / 100).",
+                            "title": "ind_gr"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Indicador Calidad de la Vivienda. Si la población del radio censal para la cual la información disponible en la base de datos NO tiene valores válidos, es mayor al 25% (“SDATOS_P” > 25%), se considera que los resultados no son representativos de la situación del radio censal y se lo considera “Sin Datos”. Caso contrario, el Indicador Calidad de la Vivienda se calcula de acuerdo a su definición como (“MEJOR_P” / 100).\n",
+                            "title": "ind_matv"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Indicador Certeza del Dominio. Si la población del radio censal para la cual la información disponible en la base de datos NO tiene valores válidos, es mayor al 25% (“SDATOS_P” > 25%), se considera que los resultados no son representativos de la situación del radio censal y se lo considera “Sin Datos”. Caso contrario, el Indicador Certeza del Dominio se calcula de acuerdo a su definición como (“MEJOR_P” / 100).\n",
+                            "title": "ind_dom"
+                        },
+                        {
+                            "type": "number",
+                            "description": " Índice de Vivienda. Si un radio censal está caracterizado como “Sin Datos” para alguno de los indicadores que lo componen, el índice queda como “Sin Datos”. Caso contrario, se calcula como: 0.263*IN_HAC + 0.141*IN_GR + 0.455*IN_CV + 0.141*IN_CD\n",
+                            "title": "in_vivienda"
+                        }
+                    ],
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/575aea71-451b-4e16-97d8-4424b555b384/download/indice-salud.csv",
+                    "description": "Detalle de las dimensiones que componen el Índice de Salud Pública",
+                    "title": "Índice Salud Pública de la cuenca Matanza Riachuelo",
+                    "issued": "2017-12-15T17:59:24.121009",
+                    "format": "CSV",
+                    "modified": "2017-12-28T17:26:02.144591",
+                    "downloadURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/575aea71-451b-4e16-97d8-4424b555b384/download/indice-salud.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Clasificación de los radios censales según la forma en que se asienta y distribuye la población en el territorio: Urbano: con población agrupada únicamente, y conformado por manzanas y/o sectores pertenecientes a una localidad; Mixto: con población rural dispersa en campo abierto, y con población agrupada en pequeños poblados o en bordes amanzanados de localidades; Rural: con población dispersa únicamente, y donde las viviendas se distribuyen en campo abierto en forma diseminada.\npartido: Municipio al que pertenece el radio censal.\n",
+                            "title": "tipo"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Código concatenado del radio censal para el CNPHV 2010. Constituye una clave única de identificación territorial, que se construye para cada unidad territorial a partir de la concatenación de las unidades territoriales de los niveles superiores. En el caso de radios, su código numérico se conforma, leído de izquierda a derecha, con dos dígitos que corresponden a la división políticoterritorial (“02” para la Ciudad Autónoma de Buenos Aires y “06” para la provincia de Buenos Aires), tres dígitos que refieren a la división políticoadministrativa (las comunas en la Ciudad Autónoma de Buenos Aires y los partidos en la provincia de Buenos Aires,), dos dígitos que representan a la fracción y otros dos que identifican al radio.\n",
+                            "title": "radio10"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie en hectáreas (ha) del radio censal.\n",
+                            "title": "sup_ha"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Población del radio censal según el CNPHV 2010.\n",
+                            "title": "pobl_tot"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Densidad poblacional bruta del radio censal expresada en Hab/Ha.",
+                            "title": "dens_ha"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Indicador Efectores de Salud. Está definido como el porcentaje de población que, a nivel de radio censal, vive a una distancia aceptable de un efector de salud de primer nivel de atención, es decir, de un Centro de Atención Primaria (CAP). Para esta variable se realizó un análisis de proximidad, definiendo áreas de influencia de 1000m para cada uno de los CAPs presentes en la cuenca. \n",
+                            "title": "ind_efesa"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Indicador Servicios Sanitarios Básicos. Está definido como el porcentaje de población que cuenta en sus viviendas con los servicios de agua de red y desagüe cloacal a red pública en forma simultánea. \n",
+                            "title": "ind_ssb"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Indicador Disposición de Residuos Está definido en base a la proporción de población que en un determinado radio censal, NO vive dentro del área de influencia de basurales de distintas categorías. A los fines de establecer criterios homogéneos para toda la cuenca, ACUMAR clasificó a cada uno de los sitios relevados según el volumen estimado de residuos que contenía en ese momento, arribándose así a cuatro tipologías: • Punto de arrojo (< a 15 m3 ); • Microbasural (entre 15 m3 y 500 m3 ); • Basural (entre 500 m3 y 15.000 m3 ); • Macrobasural (> a 15.000 m3 ). \n",
+                            "title": "ind_rsu"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Índice de Salud Pública. Muestra a nivel de radio censal las condiciones medias que ofrece el Estado para mejorar las condiciones de salud de la población. El índice se compone de tres indicadores: efectores de salud (de atención primaria), servicios sanitarios básicos y disposición de residuos. Mide el nivel de bienestar general a las condiciones prioritarias que influyen en la salud de la población. Está expresado como: 0.25*In.EfSa. + 0.50*In.SSB + 0.25*In.DispRes\n",
+                            "title": "in_salud"
+                        }
+                    ],
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/5e296bb2-a779-46ec-92ff-d2ca87b8f821/download/indice-educacion.xlsx",
+                    "description": "Detalle de las dimensiones que componen el Índice de Educación.",
+                    "title": "Índice Educación de la cuenca Matanza Riachuelo",
+                    "issued": "2017-12-15T18:01:26.029787",
+                    "format": "CSV",
+                    "modified": "2017-12-28T18:58:27.877773",
+                    "downloadURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/5e296bb2-a779-46ec-92ff-d2ca87b8f821/download/indice-educacion.xlsx",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Clasificación de los radios censales según la forma en que se asienta y distribuye la población en el territorio: Urbano: con población agrupada únicamente, y conformado por manzanas y/o sectores pertenecientes a una localidad; Mixto: con población rural dispersa en campo abierto, y con población agrupada en pequeños poblados o en bordes amanzanados de localidades; Rural: con población dispersa únicamente, y donde las viviendas se distribuyen en campo abierto en forma diseminada.\n",
+                            "title": "tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Municipio al que pertenece el radio censal.",
+                            "title": "partido"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Código concatenado del radio censal para el CNPHV 2010. Constituye una clave única de identificación territorial, que se construye para cada unidad territorial a partir de la concatenación de las unidades territoriales de los niveles superiores. En el caso de radios, su código numérico se conforma, leído de izquierda a derecha, con dos dígitos que corresponden a la división políticoterritorial (“02” para la Ciudad Autónoma de Buenos Aires y “06” para la provincia de Buenos Aires), tres dígitos que refieren a la división políticoadministrativa (las comunas en la Ciudad Autónoma de Buenos Aires y los partidos en la provincia de Buenos Aires,), dos dígitos que representan a la fracción y otros dos que identifican al radio.\n",
+                            "title": "radio10"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie en hectáreas (ha) del radio censal.\n",
+                            "title": "sup_ha"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Población del radio censal según el CNPHV 2010.\n",
+                            "title": "pobl_tot"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Densidad poblacional bruta del radio censal expresada en Hab/Ha.\n",
+                            "title": "dens_ha"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Años esperados de educación: Se refiere a los años de escolarización que un niño en edad de ingresar a la escuela puede esperar recibir si las tasas de matriculación específicas por edad se mantuvieran constantes durante toda su vida. Se calcula a partir de los 6 años de edad hasta los 24 años.\n",
+                            "title": "a_esp"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Años promedio de educación: Son los años de educación promedio de la población que en teoría está fuera del ciclo lectivo. Se calcula para la población adulta, es decir para aquella población que tienen más de 25 años. \n",
+                            "title": "a_prom"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Estandarización de los años esperados de escolarización para hacerlo comparable con los demás indicadores.",
+                            "title": "a_esp_std"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Estandarización de los años promedio de escolarización para hacerlo comparable con los demás indicadores.",
+                            "title": "a_prom_std"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Resultado del índice de educación que es una de las dimensiones del Índice de Calidad de Vida (ICV).",
+                            "title": "in_educacion"
+                        }
+                    ],
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/c0db8302-d87e-438d-95d1-d8968bebb195/download/indice-entorno.csv",
+                    "description": "Detalle de las dimensiones que componen el Índice Entorno",
+                    "title": "Índice Entorno de la cuenca Matanza Riachuelo",
+                    "issued": "2017-12-15T18:02:21.361902",
+                    "format": "CSV",
+                    "modified": "2017-12-29T14:24:07.628058",
+                    "downloadURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/c0db8302-d87e-438d-95d1-d8968bebb195/download/indice-entorno.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Clasificación de los radios censales según la forma en que se asienta y\ndistribuye la población en el territorio: Urbano: con población agrupada únicamente, y conformado por manzanas y/o sectores pertenecientes a una localidad; Mixto: con población rural dispersa en campo abierto, y con población agrupada en pequeños poblados o en bordes amanzanados de localidades; Rural: con población dispersa únicamente, y donde las viviendas se distribuyen en campo abierto en forma diseminada.\n",
+                            "title": "tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Municipio al que pertenece el radio censal.\n",
+                            "title": "partido"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Código concatenado del radio censal para el CNPHV 2010. Constituye una clave única de identificación territorial, que se construye para cada unidad territorial a partir de la concatenación de las unidades territoriales de los niveles superiores. En el caso de radios, su código numérico se conforma, leído de izquierda a derecha, con dos dígitos que corresponden a la división políticoterritorial (“02” para la Ciudad Autónoma de Buenos Aires y “06” para la provincia de Buenos Aires), tres dígitos que refieren a la división políticoadministrativa (las comunas en la Ciudad Autónoma de Buenos Aires y los partidos en la provincia de Buenos Aires,), dos dígitos que representan a la fracción y otros dos que identifican al radio.",
+                            "title": "radio10"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie en hectáreas (ha) del radio censal.\n",
+                            "title": "sup_ha"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Población del radio censal según el CNPHV 2010.\n",
+                            "title": "pobl_tot "
+                        },
+                        {
+                            "type": "number",
+                            "description": "Densidad poblacional bruta del radio censal expresada en Hab/Ha.\n",
+                            "title": "dens_ha"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Indicador Espacios Verdes Públicos:\nEn función de los distintos servicios ambientales que proveen y tomando en cuenta las especificidades locales de Cuenca Matanza Riachuelo, se procedió a establecer una categorización de los espacios verdes según su superficie: Plaza: 10.000 m2 a 40.000 m2; Parque a escala urbana: 40.000 m2 a 200.000 m2; Parque a escala metropolitana: más de 200.000 m2. \n\nTeniendo en cuenta esta clasificación se definieron distintos criterios de proximidad en función de la extensión de los espacios verdes, con lo que se propusieron dos situaciones: Mejor Situación: Vivir a 500 metros o menos de una plaza o de un parque a escala urbana. Vivir a 5000 metros o menos de un parque a escala metropolitana; Peor Situación: Vivir a una distancia mayor que las citadas.\n",
+                            "title": "ind_evp"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Indicador Cavas: teniendo en cuenta estudios antecedentes y en función de una evaluación propia de los riesgos que implica una cava (propagación de enfermedades a través de vectores patógenos, olores, interrupción de la trama urbana), se tomó como zona de influencia una distancia de 600 metros que presenta distintos grados de afectación. Con esto se plantean dos situaciones: Mejor Situación: vivir a más de 600 metros de una cava; Peor Situación: según la cercanía a la cava se plantean distintos grados de afectación.\n",
+                            "title": "ind_cavas"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Indicador Transporte Público: del análisis de estudios antecedentes, de las características propias de la Cuenca Matanza Riachuelo y de los hábitos predominantes de la población local, se definieron dos situaciones respecto al acceso de la población al transporte público de pasajeros: \n\nMejor Situación: vivir a menos de 300 metros del recorrido de una línea de transporte urbano o interurbano, o a menos de 1000 metros de una estación de tren; \n\nPeor Situación: vivir a más de 300 metros del recorrido de una línea de transporte urbano o interurbano, o a más de 1000 metros de una estación de tren.\n",
+                            "title": "ind_tp"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Indicador Industrias: En la provincia de Buenos Aires la ley 11.459 contempla que los establecimientos industriales sean de una de las tres categorías: \nPrimera categoría: considerados inocuos porque no constituyen un riesgo o molestia a la seguridad, salubridad o higiene de la población, ni generan daños a sus bienes materiales y al medio ambiente. \n\nSegunda categoría: se consideran incómodos porque su funcionamiento genera una molestia para la salubridad e higiene de la población, u ocasiona daños graves a los bienes y al medio ambiente. \n\nTercera categoría: son considerados peligrosos sea porque su funcionamiento implica un riesgo para la seguridad, salubridad e higiene de la población, u ocasiona daños graves a los bienes y al medio ambiente.\n\nEn la Ciudad Autónoma de Buenos Aires según la ley 123/98 y normativa complementaria los establecimientos se categorizan en: sin relevante efecto (SRE) o  con relevante efecto (CRE) \n\nEn base a estas clasificaciones se plantearon dos situaciones:\nMejor Situación (vivir a más de 500 metros de una industria de 2da categoría y a más de 1000 metros de una de 3ra categoría (PBA) o con relevante efecto (CABA) ) y Peor Situación.\n",
+                            "title": "ind_indus"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Indicador Riesgo por Inundación: Para el cálculo de este indicador se consideró la metodología utilizada por el Department for Environment Food and Rural Affairs (DEFRA) del Reino Unido, que propone un método de cálculo para determinar el total de los riesgos a las personas causados por la inundación. \nPara ello considera las características físicas de las inundaciones y la vulnerabilidad de las personas a las mismas. El método se basa en tres conceptos que se combinan para cada zona de la planicie de inundación a fin de estimar un promedio anual de riesgo individual o social a daños graves o muertes a causa de las inundaciones. Estos conceptos son: \n\nPeligro de Inundación (describe las condiciones en las que pueden producirse pérdidas materiales o humanas durante una inundación. Es una combinación de la profundidad, la velocidad y la presencia de desechos. Los resultados se clasifican en las distintas clases de peligro.); \n\nVulnerabilidad del Área (describe las características de la llanura de inundación, que puedan afectar a la probabilidad de estar expuesto al riesgo de inundación. Las personas son más vulnerables en las zonas con construcciones más bajas, edificios de una sola planta, y en llanuras inundables abiertas que en las zonas con construcciones de dos pisos o edificios de gran altura que puedan aportar un \"refugio seguro\" por encima del máximo nivel de inundación); \n\nPoblación en Riesgo (se describen las características de las personas afectadas por las inundaciones y su capacidad de respuesta para garantizar su propia seguridad y la de sus familiares durante una inundación.)\n",
+                            "title": "ind_inunda"
+                        }
+                    ],
+                    "@type": "dcat:Distribution"
+                }
+            ],
+            "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
+                "clausuras",
+                "control",
+                "establecimientos",
+                "fiscalizaciones",
+                "sanciones",
+                "agua subterránea",
+                "agua superficial",
+                "calidad ambiental",
+                "control",
+                "estaciones",
+                "medición",
+                "red de monitoreo",
+                "GIRSU",
+                "basurales",
+                "gestión de residuos sólidos",
+                "línea de base",
+                "macrobasurales",
+                "microbasurales",
+                "puntos de arrojo",
+                "residuos",
+                "tipologías",
+                "acceso a la información",
+                "información pública",
+                "requerimientos",
+                "solicitudes",
+                "control",
+                "denuncias",
+                "establecimientos",
+                "fiscalización",
+                "industrias",
+                "residuos",
+                "información pública",
+                "solicitudes",
+                "transparencia",
+                "información pública",
+                "rendición de cuentas",
+                "respuestas",
+                "transparencia",
+                "boletín oficial",
+                "digesto normativo",
+                "infoleg",
+                "normativa",
+                "resoluciones",
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
+                "seguimiento particular",
+                "adecuación",
+                "agentes contaminantes",
+                "control",
+                "establecimientos",
+                "fiscalizaciones",
+                "adecuación ambiental",
+                "control",
+                "establecimientos",
+                "fiscalizaciones",
+                "reconvertidos",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejos directivo",
+                "convenios",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "consejo municipal",
+                "municipios",
+                "transparencia",
+                "control",
+                "empadronados",
+                "establecimientos",
+                "fiscalizaciones",
+                "registro"
+            ],
+            "accrualPeriodicity": "R/P2Y",
+            "superTheme": [
+                "EDUC",
+                "ENVI",
+                "HEAL",
+                "SOCI"
+            ],
+            "landingPage": "http://www.acumar.gob.ar/indicadores/3619/indice-de-calidad-de-vida-icv",
+            "identifier": "ceba000d-184f-4f36-9bc4-611f22ed2faf",
+            "@type": "dcat:Dataset"
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Dirección de Fiscalización y Adecuación Ambiental"
+            },
+            "accessLevel": "public",
+            "description": "Datos correspondientes a los establecimientos con clausura efectiva a Agosto de 2017.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Establecimientos Clausurados en la cuenca Matanza Riachuelo - Agosto 2017",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            },
+            "issued": "2017-11-08T18:27:28.045902",
+            "modified": "2018-01-02T19:25:46.376516",
+            "theme": [
                 "Calidad de vida",
                 "Eje Social",
+                "Transparencia",
+                "Control",
+                "Eje Ambiental",
+                "Eje Ambiental",
+                "Monitoreo",
+                "Eje Ambiental",
+                "Residuos",
+                "Transparencia",
+                "Control",
+                "Denuncias",
+                "Eje Ambiental",
+                "Residuos",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -93,6 +619,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "clausuras",
                 "control",
                 "establecimientos",
@@ -124,12 +656,6 @@
                 "fiscalización",
                 "industrias",
                 "residuos",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -237,6 +763,9 @@
             "issued": "2017-06-22T14:29:23.322705",
             "modified": "2017-12-29T15:41:47.498742",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
@@ -248,9 +777,6 @@
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
-                "Transparencia",
-                "Calidad de vida",
-                "Eje Social",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -377,6 +903,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "clausuras",
                 "control",
                 "establecimientos",
@@ -408,12 +940,6 @@
                 "fiscalización",
                 "industrias",
                 "residuos",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -521,6 +1047,9 @@
             "issued": "2017-10-19T19:02:10.531778",
             "modified": "2017-12-29T15:29:30.103968",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
@@ -532,9 +1061,6 @@
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
-                "Transparencia",
-                "Calidad de vida",
-                "Eje Social",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -649,6 +1175,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "clausuras",
                 "control",
                 "establecimientos",
@@ -680,12 +1212,6 @@
                 "fiscalización",
                 "industrias",
                 "residuos",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -794,6 +1320,9 @@
             "temporal": "2011-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
             "modified": "2017-12-29T15:15:58.656695",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
@@ -805,9 +1334,6 @@
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
-                "Transparencia",
-                "Calidad de vida",
-                "Eje Social",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -1162,6 +1688,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "clausuras",
                 "control",
                 "establecimientos",
@@ -1193,12 +1725,6 @@
                 "fiscalización",
                 "industrias",
                 "residuos",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -1307,6 +1833,9 @@
             "temporal": "2011-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
             "modified": "2017-12-29T14:51:17.602742",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
@@ -1318,9 +1847,6 @@
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
-                "Transparencia",
-                "Calidad de vida",
-                "Eje Social",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -1780,6 +2306,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "clausuras",
                 "control",
                 "establecimientos",
@@ -1811,12 +2343,6 @@
                 "fiscalización",
                 "industrias",
                 "residuos",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -1913,532 +2439,6 @@
         {
             "publisher": {
                 "mbox": "",
-                "name": "Coordinación de Gestión y Planificación"
-            },
-            "accessLevel": "public",
-            "description": "Datos correspondientes al Índice de Calidad de Vida (ICV) que forma parte del sistema de indicadores de ACUMAR.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Índice de Calidad de Vida (ICV) de la cuenca Matanza Riachuelo",
-            "contactPoint": {
-                "@type": "vcard:Contact"
-            },
-            "issued": "2017-09-05T15:15:05.722528",
-            "modified": "2017-12-29T14:24:09.274584",
-            "theme": [
-                "Control",
-                "Eje Ambiental",
-                "Eje Ambiental",
-                "Monitoreo",
-                "Eje Ambiental",
-                "Residuos",
-                "Transparencia",
-                "Control",
-                "Denuncias",
-                "Eje Ambiental",
-                "Residuos",
-                "Transparencia",
-                "Calidad de vida",
-                "Eje Social",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Control",
-                "Eje Ambiental",
-                "Control",
-                "Eje Ambiental",
-                "Control",
-                "Eje Ambiental",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Control",
-                "Eje Ambiental"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/e4b4b74e-604a-4d0e-be57-00283e37449b/download/indice-calidad-vida.csv",
-                    "description": "Detalle de las distintas dimensiones que componen el Índice de Calidad de Vida (ICV)",
-                    "title": "Índice de Calidad de Vida de la Cuenca Matanza Riachuelo",
-                    "issued": "2017-09-05T15:18:37.924467",
-                    "format": "CSV",
-                    "modified": "2017-12-28T16:12:56.508690",
-                    "downloadURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/e4b4b74e-604a-4d0e-be57-00283e37449b/download/indice-calidad-vida.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Clasificación de los radios censales según la forma en que se asienta y\ndistribuye la población en el territorio: Urbano: con población agrupada únicamente, y conformado por manzanas y/o sectores pertenecientes a una localidad; Mixto: con población rural dispersa en campo abierto, y con población\nagrupada en pequeños poblados o en bordes amanzanados de localidades; Rural: con población dispersa únicamente, y donde las viviendas se distribuyen en campo abierto en forma diseminada.\n",
-                            "title": "tipo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Municipio al que pertenece el radio censal.",
-                            "title": "partido"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Código concatenado del radio censal para el CNPHV 2010. Constituye una clave única de identificación territorial, que se construye para cada unidad territorial a partir de la concatenación de las unidades territoriales de los niveles superiores. En el caso de radios, su código numérico se conforma, leído de\nizquierda a derecha, con dos dígitos que corresponden a la división políticoterritorial (“02” para la Ciudad Autónoma de Buenos Aires y “06” para la provincia de Buenos Aires), tres dígitos que refieren a la división políticoadministrativa (las comunas en la Ciudad Autónoma de Buenos Aires y los partidos en la provincia de Buenos Aires,), dos dígitos que representan a la fracción y otros dos que identifican al radio.\n",
-                            "title": "radio10"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Superficie en hectáreas (ha) del radio censal.",
-                            "title": "sup_ha"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Población del radio censal según el CNPHV 2010.",
-                            "title": "pobl_tot"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Densidad poblacional bruta del radio censal expresada en Hab/Ha.\n",
-                            "title": "dens_ha"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Valor que adquiere el Índice de Salud.",
-                            "title": "in_salud"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Valor que adquiere el Índice de Educación.",
-                            "title": "in_educacion"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Valor que adquiere el Índice de Entorno.",
-                            "title": "in_entorno"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Valor que adquiere el Índice de Vivienda.",
-                            "title": "in_vivienda"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Valor que adquiere el Índice de Calidad de Vida.",
-                            "title": "icv"
-                        },
-                        {
-                            "type": "geojson",
-                            "description": "Información georreferenciada en formato abierto.",
-                            "title": "geojson"
-                        }
-                    ],
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/bad60aa0-4b46-4e05-9f71-e00dadc6f63d/download/icv-metodologia-de-calculo.pdf",
-                    "description": "Documento que indica la metodología de cálculo del ICV. Glosario de términos.",
-                    "title": "Metodología de Cálculo del Índice de Calidad de Vida",
-                    "issued": "2017-12-15T17:52:54.140369",
-                    "format": "PDF",
-                    "modified": "2017-12-15T17:52:54.085574",
-                    "downloadURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/bad60aa0-4b46-4e05-9f71-e00dadc6f63d/download/icv-metodologia-de-calculo.pdf",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/c0a97adf-e430-408a-b4f6-c066bdc85a76/download/indice-vivienda.csv",
-                    "description": "Detalle de las distintas dimensiones que componen el Índice de Vivienda.",
-                    "title": "Índice de Vivienda de la cuenca Matanza Riachuelo",
-                    "issued": "2017-12-15T17:58:00.614625",
-                    "format": "CSV",
-                    "modified": "2017-12-28T16:58:38.128454",
-                    "downloadURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/c0a97adf-e430-408a-b4f6-c066bdc85a76/download/indice-vivienda.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Clasificación de los radios censales según la forma en que se asienta y distribuye la población en el territorio: Urbano: con población agrupada únicamente, y conformado por manzanas y/o sectores pertenecientes a una localidad; Mixto: con población rural dispersa en campo abierto, y con población agrupada en pequeños poblados o en bordes amanzanados de localidades; Rural: con población dispersa únicamente, y donde las viviendas se distribuyen en campo abierto en forma diseminada.\n",
-                            "title": "tipo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Municipio al que pertenece el radio censal.\n",
-                            "title": "partido"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Código concatenado del radio censal para el CNPHV 2010. Constituye una clave única de identificación territorial, que se construye para cada unidad territorial a partir de la concatenación de las unidades territoriales de los niveles superiores. En el caso de radios, su código numérico se conforma, leído de izquierda a derecha, con dos dígitos que corresponden a la división políticoterritorial (“02” para la Ciudad Autónoma de Buenos Aires y “06” para la provincia de Buenos Aires), tres dígitos que refieren a la división políticoadministrativa (las comunas en la Ciudad Autónoma de Buenos Aires y los partidos en la provincia de Buenos Aires,), dos dígitos que representan a la fracción y otros dos que identifican al radio.",
-                            "title": "radio10"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Superficie en hectáreas (ha) del radio censal.\n",
-                            "title": "sup_ha"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Población del radio censal según el CNPHV 2010.",
-                            "title": "pobl_tot"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Densidad poblacional bruta del radio censal expresada en Hab/Ha.\n",
-                            "title": "dens_ha"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Indicador de Hacinamiento. Si la población del radio censal para la cual la información disponible en la base de datos NO tiene valores válidos, es mayor al 25% (“SDATOS_P” > 25%), se considera que los resultados no son representativos de la situación del radio censal y se lo considera “Sin Datos”. Caso contrario, el Indicador de Hacinamiento se calcula de acuerdo a su definición como (“MEJOR_P” / 100).",
-                            "title": "ind_hac"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Indicador de Gas por Red. Si la población del radio censal para la cual la información disponible en la base de datos NO tiene valores válidos, es mayor al 25% (“SDATOS_P” > 25%), se considera que los resultados no son representativos de la situación del radio censal y se lo considera “Sin Datos”. Caso contrario, el Indicador de Gas por Red se calcula de acuerdo a su definición como (“MEJOR_P” / 100).",
-                            "title": "ind_gr"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Indicador Calidad de la Vivienda. Si la población del radio censal para la cual la información disponible en la base de datos NO tiene valores válidos, es mayor al 25% (“SDATOS_P” > 25%), se considera que los resultados no son representativos de la situación del radio censal y se lo considera “Sin Datos”. Caso contrario, el Indicador Calidad de la Vivienda se calcula de acuerdo a su definición como (“MEJOR_P” / 100).\n",
-                            "title": "ind_matv"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Indicador Certeza del Dominio. Si la población del radio censal para la cual la información disponible en la base de datos NO tiene valores válidos, es mayor al 25% (“SDATOS_P” > 25%), se considera que los resultados no son representativos de la situación del radio censal y se lo considera “Sin Datos”. Caso contrario, el Indicador Certeza del Dominio se calcula de acuerdo a su definición como (“MEJOR_P” / 100).\n",
-                            "title": "ind_dom"
-                        },
-                        {
-                            "type": "number",
-                            "description": " Índice de Vivienda. Si un radio censal está caracterizado como “Sin Datos” para alguno de los indicadores que lo componen, el índice queda como “Sin Datos”. Caso contrario, se calcula como: 0.263*IN_HAC + 0.141*IN_GR + 0.455*IN_CV + 0.141*IN_CD\n",
-                            "title": "in_vivienda"
-                        }
-                    ],
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/575aea71-451b-4e16-97d8-4424b555b384/download/indice-salud.csv",
-                    "description": "Detalle de las dimensiones que componen el Índice de Salud Pública",
-                    "title": "Índice Salud Pública de la cuenca Matanza Riachuelo",
-                    "issued": "2017-12-15T17:59:24.121009",
-                    "format": "CSV",
-                    "modified": "2017-12-28T17:26:02.144591",
-                    "downloadURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/575aea71-451b-4e16-97d8-4424b555b384/download/indice-salud.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Clasificación de los radios censales según la forma en que se asienta y distribuye la población en el territorio: Urbano: con población agrupada únicamente, y conformado por manzanas y/o sectores pertenecientes a una localidad; Mixto: con población rural dispersa en campo abierto, y con población agrupada en pequeños poblados o en bordes amanzanados de localidades; Rural: con población dispersa únicamente, y donde las viviendas se distribuyen en campo abierto en forma diseminada.\npartido: Municipio al que pertenece el radio censal.\n",
-                            "title": "tipo"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Código concatenado del radio censal para el CNPHV 2010. Constituye una clave única de identificación territorial, que se construye para cada unidad territorial a partir de la concatenación de las unidades territoriales de los niveles superiores. En el caso de radios, su código numérico se conforma, leído de izquierda a derecha, con dos dígitos que corresponden a la división políticoterritorial (“02” para la Ciudad Autónoma de Buenos Aires y “06” para la provincia de Buenos Aires), tres dígitos que refieren a la división políticoadministrativa (las comunas en la Ciudad Autónoma de Buenos Aires y los partidos en la provincia de Buenos Aires,), dos dígitos que representan a la fracción y otros dos que identifican al radio.\n",
-                            "title": "radio10"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Superficie en hectáreas (ha) del radio censal.\n",
-                            "title": "sup_ha"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Población del radio censal según el CNPHV 2010.\n",
-                            "title": "pobl_tot"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Densidad poblacional bruta del radio censal expresada en Hab/Ha.",
-                            "title": "dens_ha"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Indicador Efectores de Salud. Está definido como el porcentaje de población que, a nivel de radio censal, vive a una distancia aceptable de un efector de salud de primer nivel de atención, es decir, de un Centro de Atención Primaria (CAP). Para esta variable se realizó un análisis de proximidad, definiendo áreas de influencia de 1000m para cada uno de los CAPs presentes en la cuenca. \n",
-                            "title": "ind_efesa"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Indicador Servicios Sanitarios Básicos. Está definido como el porcentaje de población que cuenta en sus viviendas con los servicios de agua de red y desagüe cloacal a red pública en forma simultánea. \n",
-                            "title": "ind_ssb"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Indicador Disposición de Residuos Está definido en base a la proporción de población que en un determinado radio censal, NO vive dentro del área de influencia de basurales de distintas categorías. A los fines de establecer criterios homogéneos para toda la cuenca, ACUMAR clasificó a cada uno de los sitios relevados según el volumen estimado de residuos que contenía en ese momento, arribándose así a cuatro tipologías: • Punto de arrojo (< a 15 m3 ); • Microbasural (entre 15 m3 y 500 m3 ); • Basural (entre 500 m3 y 15.000 m3 ); • Macrobasural (> a 15.000 m3 ). \n",
-                            "title": "ind_rsu"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Índice de Salud Pública. Muestra a nivel de radio censal las condiciones medias que ofrece el Estado para mejorar las condiciones de salud de la población. El índice se compone de tres indicadores: efectores de salud (de atención primaria), servicios sanitarios básicos y disposición de residuos. Mide el nivel de bienestar general a las condiciones prioritarias que influyen en la salud de la población. Está expresado como: 0.25*In.EfSa. + 0.50*In.SSB + 0.25*In.DispRes\n",
-                            "title": "in_salud"
-                        }
-                    ],
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/5e296bb2-a779-46ec-92ff-d2ca87b8f821/download/indice-educacion.xlsx",
-                    "description": "Detalle de las dimensiones que componen el Índice de Educación.",
-                    "title": "Índice Educación de la cuenca Matanza Riachuelo",
-                    "issued": "2017-12-15T18:01:26.029787",
-                    "format": "CSV",
-                    "modified": "2017-12-28T18:58:27.877773",
-                    "downloadURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/5e296bb2-a779-46ec-92ff-d2ca87b8f821/download/indice-educacion.xlsx",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Clasificación de los radios censales según la forma en que se asienta y distribuye la población en el territorio: Urbano: con población agrupada únicamente, y conformado por manzanas y/o sectores pertenecientes a una localidad; Mixto: con población rural dispersa en campo abierto, y con población agrupada en pequeños poblados o en bordes amanzanados de localidades; Rural: con población dispersa únicamente, y donde las viviendas se distribuyen en campo abierto en forma diseminada.\n",
-                            "title": "tipo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Municipio al que pertenece el radio censal.",
-                            "title": "partido"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Código concatenado del radio censal para el CNPHV 2010. Constituye una clave única de identificación territorial, que se construye para cada unidad territorial a partir de la concatenación de las unidades territoriales de los niveles superiores. En el caso de radios, su código numérico se conforma, leído de izquierda a derecha, con dos dígitos que corresponden a la división políticoterritorial (“02” para la Ciudad Autónoma de Buenos Aires y “06” para la provincia de Buenos Aires), tres dígitos que refieren a la división políticoadministrativa (las comunas en la Ciudad Autónoma de Buenos Aires y los partidos en la provincia de Buenos Aires,), dos dígitos que representan a la fracción y otros dos que identifican al radio.\n",
-                            "title": "radio10"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Superficie en hectáreas (ha) del radio censal.\n",
-                            "title": "sup_ha"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Población del radio censal según el CNPHV 2010.\n",
-                            "title": "pobl_tot"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Densidad poblacional bruta del radio censal expresada en Hab/Ha.\n",
-                            "title": "dens_ha"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Años esperados de educación: Se refiere a los años de escolarización que un niño en edad de ingresar a la escuela puede esperar recibir si las tasas de matriculación específicas por edad se mantuvieran constantes durante toda su vida. Se calcula a partir de los 6 años de edad hasta los 24 años.\n",
-                            "title": "a_esp"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Años promedio de educación: Son los años de educación promedio de la población que en teoría está fuera del ciclo lectivo. Se calcula para la población adulta, es decir para aquella población que tienen más de 25 años. \n",
-                            "title": "a_prom"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Estandarización de los años esperados de escolarización para hacerlo comparable con los demás indicadores.",
-                            "title": "a_esp_std"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Estandarización de los años promedio de escolarización para hacerlo comparable con los demás indicadores.",
-                            "title": "a_prom_std"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Resultado del índice de educación que es una de las dimensiones del Índice de Calidad de Vida (ICV).",
-                            "title": "in_educacion"
-                        }
-                    ],
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/c0db8302-d87e-438d-95d1-d8968bebb195/download/indice-entorno.csv",
-                    "description": "Detalle de las dimensiones que componen el Índice Entorno",
-                    "title": "Índice Entorno de la cuenca Matanza Riachuelo",
-                    "issued": "2017-12-15T18:02:21.361902",
-                    "format": "CSV",
-                    "modified": "2017-12-29T14:24:07.628058",
-                    "downloadURL": "http://andino.acumar.gov.ar/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/c0db8302-d87e-438d-95d1-d8968bebb195/download/indice-entorno.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Clasificación de los radios censales según la forma en que se asienta y\ndistribuye la población en el territorio: Urbano: con población agrupada únicamente, y conformado por manzanas y/o sectores pertenecientes a una localidad; Mixto: con población rural dispersa en campo abierto, y con población agrupada en pequeños poblados o en bordes amanzanados de localidades; Rural: con población dispersa únicamente, y donde las viviendas se distribuyen en campo abierto en forma diseminada.\n",
-                            "title": "tipo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Municipio al que pertenece el radio censal.\n",
-                            "title": "partido"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Código concatenado del radio censal para el CNPHV 2010. Constituye una clave única de identificación territorial, que se construye para cada unidad territorial a partir de la concatenación de las unidades territoriales de los niveles superiores. En el caso de radios, su código numérico se conforma, leído de izquierda a derecha, con dos dígitos que corresponden a la división políticoterritorial (“02” para la Ciudad Autónoma de Buenos Aires y “06” para la provincia de Buenos Aires), tres dígitos que refieren a la división políticoadministrativa (las comunas en la Ciudad Autónoma de Buenos Aires y los partidos en la provincia de Buenos Aires,), dos dígitos que representan a la fracción y otros dos que identifican al radio.",
-                            "title": "radio10"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Superficie en hectáreas (ha) del radio censal.\n",
-                            "title": "sup_ha"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Población del radio censal según el CNPHV 2010.\n",
-                            "title": "pobl_tot "
-                        },
-                        {
-                            "type": "number",
-                            "description": "Densidad poblacional bruta del radio censal expresada en Hab/Ha.\n",
-                            "title": "dens_ha"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Indicador Espacios Verdes Públicos:\nEn función de los distintos servicios ambientales que proveen y tomando en cuenta las especificidades locales de Cuenca Matanza Riachuelo, se procedió a establecer una categorización de los espacios verdes según su superficie: Plaza: 10.000 m2 a 40.000 m2; Parque a escala urbana: 40.000 m2 a 200.000 m2; Parque a escala metropolitana: más de 200.000 m2. \n\nTeniendo en cuenta esta clasificación se definieron distintos criterios de proximidad en función de la extensión de los espacios verdes, con lo que se propusieron dos situaciones: Mejor Situación: Vivir a 500 metros o menos de una plaza o de un parque a escala urbana. Vivir a 5000 metros o menos de un parque a escala metropolitana; Peor Situación: Vivir a una distancia mayor que las citadas.\n",
-                            "title": "ind_evp"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Indicador Cavas: teniendo en cuenta estudios antecedentes y en función de una evaluación propia de los riesgos que implica una cava (propagación de enfermedades a través de vectores patógenos, olores, interrupción de la trama urbana), se tomó como zona de influencia una distancia de 600 metros que presenta distintos grados de afectación. Con esto se plantean dos situaciones: Mejor Situación: vivir a más de 600 metros de una cava; Peor Situación: según la cercanía a la cava se plantean distintos grados de afectación.\n",
-                            "title": "ind_cavas"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Indicador Transporte Público: del análisis de estudios antecedentes, de las características propias de la Cuenca Matanza Riachuelo y de los hábitos predominantes de la población local, se definieron dos situaciones respecto al acceso de la población al transporte público de pasajeros: \n\nMejor Situación: vivir a menos de 300 metros del recorrido de una línea de transporte urbano o interurbano, o a menos de 1000 metros de una estación de tren; \n\nPeor Situación: vivir a más de 300 metros del recorrido de una línea de transporte urbano o interurbano, o a más de 1000 metros de una estación de tren.\n",
-                            "title": "ind_tp"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Indicador Industrias: En la provincia de Buenos Aires la ley 11.459 contempla que los establecimientos industriales sean de una de las tres categorías: \nPrimera categoría: considerados inocuos porque no constituyen un riesgo o molestia a la seguridad, salubridad o higiene de la población, ni generan daños a sus bienes materiales y al medio ambiente. \n\nSegunda categoría: se consideran incómodos porque su funcionamiento genera una molestia para la salubridad e higiene de la población, u ocasiona daños graves a los bienes y al medio ambiente. \n\nTercera categoría: son considerados peligrosos sea porque su funcionamiento implica un riesgo para la seguridad, salubridad e higiene de la población, u ocasiona daños graves a los bienes y al medio ambiente.\n\nEn la Ciudad Autónoma de Buenos Aires según la ley 123/98 y normativa complementaria los establecimientos se categorizan en: sin relevante efecto (SRE) o  con relevante efecto (CRE) \n\nEn base a estas clasificaciones se plantearon dos situaciones:\nMejor Situación (vivir a más de 500 metros de una industria de 2da categoría y a más de 1000 metros de una de 3ra categoría (PBA) o con relevante efecto (CABA) ) y Peor Situación.\n",
-                            "title": "ind_indus"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Indicador Riesgo por Inundación: Para el cálculo de este indicador se consideró la metodología utilizada por el Department for Environment Food and Rural Affairs (DEFRA) del Reino Unido, que propone un método de cálculo para determinar el total de los riesgos a las personas causados por la inundación. \nPara ello considera las características físicas de las inundaciones y la vulnerabilidad de las personas a las mismas. El método se basa en tres conceptos que se combinan para cada zona de la planicie de inundación a fin de estimar un promedio anual de riesgo individual o social a daños graves o muertes a causa de las inundaciones. Estos conceptos son: \n\nPeligro de Inundación (describe las condiciones en las que pueden producirse pérdidas materiales o humanas durante una inundación. Es una combinación de la profundidad, la velocidad y la presencia de desechos. Los resultados se clasifican en las distintas clases de peligro.); \n\nVulnerabilidad del Área (describe las características de la llanura de inundación, que puedan afectar a la probabilidad de estar expuesto al riesgo de inundación. Las personas son más vulnerables en las zonas con construcciones más bajas, edificios de una sola planta, y en llanuras inundables abiertas que en las zonas con construcciones de dos pisos o edificios de gran altura que puedan aportar un \"refugio seguro\" por encima del máximo nivel de inundación); \n\nPoblación en Riesgo (se describen las características de las personas afectadas por las inundaciones y su capacidad de respuesta para garantizar su propia seguridad y la de sus familiares durante una inundación.)\n",
-                            "title": "ind_inunda"
-                        }
-                    ],
-                    "@type": "dcat:Distribution"
-                }
-            ],
-            "keyword": [
-                "clausuras",
-                "control",
-                "establecimientos",
-                "fiscalizaciones",
-                "sanciones",
-                "agua subterránea",
-                "agua superficial",
-                "calidad ambiental",
-                "control",
-                "estaciones",
-                "medición",
-                "red de monitoreo",
-                "GIRSU",
-                "basurales",
-                "gestión de residuos sólidos",
-                "línea de base",
-                "macrobasurales",
-                "microbasurales",
-                "puntos de arrojo",
-                "residuos",
-                "tipologías",
-                "acceso a la información",
-                "información pública",
-                "requerimientos",
-                "solicitudes",
-                "control",
-                "denuncias",
-                "establecimientos",
-                "fiscalización",
-                "industrias",
-                "residuos",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
-                "información pública",
-                "solicitudes",
-                "transparencia",
-                "información pública",
-                "rendición de cuentas",
-                "respuestas",
-                "transparencia",
-                "boletín oficial",
-                "digesto normativo",
-                "infoleg",
-                "normativa",
-                "resoluciones",
-                "control",
-                "establecimientos",
-                "fiscalización",
-                "relevancia ambiental",
-                "seguimiento particular",
-                "adecuación",
-                "agentes contaminantes",
-                "control",
-                "establecimientos",
-                "fiscalizaciones",
-                "adecuación ambiental",
-                "control",
-                "establecimientos",
-                "fiscalizaciones",
-                "reconvertidos",
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia",
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia",
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia",
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia",
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia",
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia",
-                "actas",
-                "autoridades",
-                "consejos directivo",
-                "convenios",
-                "transparencia",
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia",
-                "actas",
-                "consejo municipal",
-                "municipios",
-                "transparencia",
-                "control",
-                "empadronados",
-                "establecimientos",
-                "fiscalizaciones",
-                "registro"
-            ],
-            "accrualPeriodicity": "R/P2Y",
-            "superTheme": [
-                "EDUC",
-                "ENVI",
-                "HEAL",
-                "SOCI"
-            ],
-            "landingPage": "http://www.acumar.gob.ar/indicadores/3619/indice-de-calidad-de-vida-icv",
-            "identifier": "ceba000d-184f-4f36-9bc4-611f22ed2faf",
-            "@type": "dcat:Dataset"
-        },
-        {
-            "publisher": {
-                "mbox": "",
                 "name": "Coordinación de Documentación y Acceso a la Información Pública"
             },
             "accessLevel": "public",
@@ -2451,6 +2451,9 @@
             "issued": "2017-11-17T18:01:22.675860",
             "modified": "2017-12-28T15:10:34.886756",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
@@ -2462,9 +2465,6 @@
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
-                "Transparencia",
-                "Calidad de vida",
-                "Eje Social",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -3127,6 +3127,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "clausuras",
                 "control",
                 "establecimientos",
@@ -3158,12 +3164,6 @@
                 "fiscalización",
                 "industrias",
                 "residuos",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -3273,6 +3273,9 @@
             "issued": "2017-11-23T18:39:47.899758",
             "modified": "2017-12-28T15:06:52.862075",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
@@ -3284,9 +3287,6 @@
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
-                "Transparencia",
-                "Calidad de vida",
-                "Eje Social",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -3929,6 +3929,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "clausuras",
                 "control",
                 "establecimientos",
@@ -3960,12 +3966,6 @@
                 "fiscalización",
                 "industrias",
                 "residuos",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -4074,6 +4074,9 @@
             "issued": "2017-10-26T19:40:25.310333",
             "modified": "2017-12-28T14:56:18.576476",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
@@ -4085,9 +4088,6 @@
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
-                "Transparencia",
-                "Calidad de vida",
-                "Eje Social",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -4185,6 +4185,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "clausuras",
                 "control",
                 "establecimientos",
@@ -4216,12 +4222,6 @@
                 "fiscalización",
                 "industrias",
                 "residuos",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -4331,6 +4331,9 @@
             "issued": "2017-06-05T14:09:44.893176",
             "modified": "2017-12-28T13:19:01.378233",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
@@ -4342,9 +4345,6 @@
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
-                "Transparencia",
-                "Calidad de vida",
-                "Eje Social",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -4412,6 +4412,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "clausuras",
                 "control",
                 "establecimientos",
@@ -4443,12 +4449,6 @@
                 "fiscalización",
                 "industrias",
                 "residuos",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -4556,6 +4556,9 @@
             "issued": "2017-11-08T17:02:29.597549",
             "modified": "2017-12-28T13:18:10.686597",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
@@ -4567,9 +4570,6 @@
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
-                "Transparencia",
-                "Calidad de vida",
-                "Eje Social",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -4627,6 +4627,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "clausuras",
                 "control",
                 "establecimientos",
@@ -4658,12 +4664,6 @@
                 "fiscalización",
                 "industrias",
                 "residuos",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -4771,6 +4771,9 @@
             "issued": "2017-11-08T18:33:12.848575",
             "modified": "2017-12-28T13:17:29.214000",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
@@ -4782,9 +4785,6 @@
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
-                "Transparencia",
-                "Calidad de vida",
-                "Eje Social",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -4842,6 +4842,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "clausuras",
                 "control",
                 "establecimientos",
@@ -4873,12 +4879,6 @@
                 "fiscalización",
                 "industrias",
                 "residuos",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -4986,6 +4986,9 @@
             "issued": "2017-10-24T13:28:48.738444",
             "modified": "2017-12-26T15:55:29.609754",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
@@ -4997,9 +5000,6 @@
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
-                "Transparencia",
-                "Calidad de vida",
-                "Eje Social",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -5192,6 +5192,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "clausuras",
                 "control",
                 "establecimientos",
@@ -5223,12 +5229,6 @@
                 "fiscalización",
                 "industrias",
                 "residuos",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -5337,6 +5337,9 @@
             "issued": "2017-10-27T13:34:21.824063",
             "modified": "2017-12-26T15:54:13.973798",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
@@ -5348,9 +5351,6 @@
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
-                "Transparencia",
-                "Calidad de vida",
-                "Eje Social",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -5563,6 +5563,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "clausuras",
                 "control",
                 "establecimientos",
@@ -5594,12 +5600,6 @@
                 "fiscalización",
                 "industrias",
                 "residuos",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -5708,6 +5708,9 @@
             "issued": "2017-11-03T17:39:09.031405",
             "modified": "2017-12-26T15:52:54.099866",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
@@ -5719,9 +5722,6 @@
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
-                "Transparencia",
-                "Calidad de vida",
-                "Eje Social",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -5934,6 +5934,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "clausuras",
                 "control",
                 "establecimientos",
@@ -5965,12 +5971,6 @@
                 "fiscalización",
                 "industrias",
                 "residuos",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -6079,6 +6079,9 @@
             "issued": "2017-11-06T18:35:12.191766",
             "modified": "2017-12-26T15:51:34.021492",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
@@ -6090,9 +6093,6 @@
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
-                "Transparencia",
-                "Calidad de vida",
-                "Eje Social",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -6305,6 +6305,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "clausuras",
                 "control",
                 "establecimientos",
@@ -6336,12 +6342,6 @@
                 "fiscalización",
                 "industrias",
                 "residuos",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -6450,6 +6450,9 @@
             "issued": "2017-11-06T20:17:17.024430",
             "modified": "2017-12-26T15:28:15.713114",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
@@ -6461,9 +6464,6 @@
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
-                "Transparencia",
-                "Calidad de vida",
-                "Eje Social",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -6726,6 +6726,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "clausuras",
                 "control",
                 "establecimientos",
@@ -6757,12 +6763,6 @@
                 "fiscalización",
                 "industrias",
                 "residuos",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -6871,6 +6871,9 @@
             "issued": "2017-11-07T17:38:45.834288",
             "modified": "2017-12-26T15:26:24.847029",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
@@ -6882,9 +6885,6 @@
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
-                "Transparencia",
-                "Calidad de vida",
-                "Eje Social",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -7107,6 +7107,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "clausuras",
                 "control",
                 "establecimientos",
@@ -7138,12 +7144,6 @@
                 "fiscalización",
                 "industrias",
                 "residuos",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -7252,6 +7252,9 @@
             "issued": "2017-11-07T17:51:37.677611",
             "modified": "2017-12-26T15:25:01.181300",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
@@ -7263,9 +7266,6 @@
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
-                "Transparencia",
-                "Calidad de vida",
-                "Eje Social",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -7538,6 +7538,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "clausuras",
                 "control",
                 "establecimientos",
@@ -7569,12 +7575,6 @@
                 "fiscalización",
                 "industrias",
                 "residuos",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -7683,6 +7683,9 @@
             "issued": "2017-11-08T14:41:13.144019",
             "modified": "2017-12-26T15:18:32.118502",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
@@ -7694,9 +7697,6 @@
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
-                "Transparencia",
-                "Calidad de vida",
-                "Eje Social",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -8009,6 +8009,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "clausuras",
                 "control",
                 "establecimientos",
@@ -8040,12 +8046,6 @@
                 "fiscalización",
                 "industrias",
                 "residuos",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -8154,6 +8154,9 @@
             "issued": "2017-11-13T15:19:16.593985",
             "modified": "2017-12-26T14:49:44.276154",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
@@ -8165,9 +8168,6 @@
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
-                "Transparencia",
-                "Calidad de vida",
-                "Eje Social",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -8400,6 +8400,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "clausuras",
                 "control",
                 "establecimientos",
@@ -8431,12 +8437,6 @@
                 "fiscalización",
                 "industrias",
                 "residuos",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
@@ -8545,6 +8545,9 @@
             "issued": "2017-11-08T17:56:23.766662",
             "modified": "2017-12-21T15:06:09.153460",
             "theme": [
+                "Calidad de vida",
+                "Eje Social",
+                "Transparencia",
                 "Control",
                 "Eje Ambiental",
                 "Eje Ambiental",
@@ -8556,9 +8559,6 @@
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
-                "Transparencia",
-                "Calidad de vida",
-                "Eje Social",
                 "Transparencia",
                 "Transparencia",
                 "Transparencia",
@@ -8594,6 +8594,12 @@
                 }
             ],
             "keyword": [
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "clausuras",
                 "control",
                 "establecimientos",
@@ -8625,12 +8631,6 @@
                 "fiscalización",
                 "industrias",
                 "residuos",
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "información pública",
                 "solicitudes",
                 "transparencia",
