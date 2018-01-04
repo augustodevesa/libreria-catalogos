@@ -10,6 +10,104 @@
         {
             "publisher": {
                 "mbox": "bgarcia@ppn.gov.ar ",
+                "name": "Equipo de estadística y base de datos"
+            },
+            "accessLevel": "public",
+            "description": "La información resultante acerca de cada uno de los fallecimientos registrados es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada una de las muertes bajo custodia penitenciaria. A los efectos de este relevamiento se contabiliza la totalidad de fallecimientos, cualquiera sea su causa, de personas detenidas bajo la custodia de la administración penitenciaria federal, indistintamente que la muerte ocurra dentro del centro de detención, en hospital extramuros o durante un traslado.",
+            "license": "Creative Commons Attribution",
+            "title": "Fallecimientos en Prisión",
+            "issued": "2017-04-27T13:48:21.909008",
+            "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
+            "modified": "2018-01-04T16:03:08.271914",
+            "language": "spa",
+            "theme": [
+                "Fallecimientos"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://181.209.63.46/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision--2009--2017-1er-semestre.csv",
+                    "description": "La información resultante acerca de cada uno de los fallecimientos registrados es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada una de las muertes bajo custodia penitenciaria. A los efectos de este relevamiento se contabiliza la totalidad de fallecimientos, cualquiera sea su causa, de personas detenidas bajo la custodia de la administración penitenciaria federal, indistintamente que la muerte ocurra dentro del centro de detención, en hospital extramuros o durante un traslado.",
+                    "title": "BASE DE DATOS DE FALLECIMIENTOS EN PRISION",
+                    "issued": "2017-04-27T13:51:30.804506",
+                    "format": "CSV",
+                    "modified": "2017-12-05T12:55:12.536618",
+                    "downloadURL": "http://181.209.63.46/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision--2009--2017-1er-semestre.csv"
+                }
+            ],
+            "keyword": [
+                "cárcel",
+                "derechos humanos",
+                "fallecimientos",
+                "muerte",
+                "presos",
+                "prisión"
+            ],
+            "accrualPeriodicity": "R/P6M",
+            "superTheme": [
+                "SOCI",
+                "TECH"
+            ],
+            "landingPage": "www.ppn.gov.ar",
+            "identifier": "8b9dce12-7069-4fd6-b78b-08e1f03e3732",
+            "contactPoint": {
+                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Equipo de estadística y base de datos"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "bgarcia@ppn.gov.ar ",
+                "name": "Equipo de estadística y bases de datos"
+            },
+            "accessLevel": "public",
+            "description": "En la base se vuelca el listado de personas bajo resguardo que se solicita a cada unidad con frecuencia semestral. Incluye información sobre el origen de la medida, lugar de alojamiento, fecha desde la cual poseen la medida, etc.",
+            "license": "Creative Commons Attribution",
+            "title": "Listado de personas en Resguardo en el Servicio Penitenciario Federal",
+            "issued": "2017-05-08T15:47:22.770655",
+            "temporal": "2009-01-01T03:00:00.000Z/2015-06-30T03:00:00.000Z",
+            "modified": "2018-01-04T16:01:47.402989",
+            "language": "spa",
+            "theme": [
+                "Condiciones materiales y régimen de encierro"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://181.209.63.46/dataset/7f5ba0c2-2142-4b5e-9762-14fc52cc24bd/resource/fba68b26-58b2-4bdf-b2f4-d5182b805c81/download/base-resguardo2010-2015.csv",
+                    "description": "En la base se vuelca el listado de personas bajo resguardo que se solicita a cada unidad con frecuencia semestral. Incluye información sobre el origen de la medida, lugar de alojamiento, fecha desde la cual poseen la medida, etc.",
+                    "title": "Listado de personas en Resguardo en el Servicio Penitenciario Federal",
+                    "issued": "2017-05-08T15:50:05.650679",
+                    "format": "CSV",
+                    "modified": "2018-01-04T15:56:44.305108",
+                    "downloadURL": "http://181.209.63.46/dataset/7f5ba0c2-2142-4b5e-9762-14fc52cc24bd/resource/fba68b26-58b2-4bdf-b2f4-d5182b805c81/download/base-resguardo2010-2015.csv"
+                }
+            ],
+            "keyword": [
+                "cárcel",
+                "derechos humanos",
+                "detenidos",
+                "integridad física",
+                "presos",
+                "prisión",
+                "protocolo de resguardo",
+                "resguardo",
+                "servicio penitenciario federal"
+            ],
+            "accrualPeriodicity": "R/P6M",
+            "superTheme": [
+                "JUST"
+            ],
+            "landingPage": "www.ppn.gov.ar",
+            "identifier": "7f5ba0c2-2142-4b5e-9762-14fc52cc24bd",
+            "contactPoint": {
+                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Equipo de estadística y bases de datos"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "bgarcia@ppn.gov.ar ",
                 "name": "Equipo de estadística y bases de datos"
             },
             "accessLevel": "public",
@@ -218,104 +316,6 @@
                 "hasEmail": "mailto:bgarcia@ppn.gov.ar",
                 "@type": "vcard:Contact",
                 "fn": "Equipo de estadística y base de datos"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "bgarcia@ppn.gov.ar ",
-                "name": "Equipo de estadística y base de datos"
-            },
-            "accessLevel": "public",
-            "description": "La información resultante acerca de cada uno de los fallecimientos registrados es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada una de las muertes bajo custodia penitenciaria. A los efectos de este relevamiento se contabiliza la totalidad de fallecimientos, cualquiera sea su causa, de personas detenidas bajo la custodia de la administración penitenciaria federal, indistintamente que la muerte ocurra dentro del centro de detención, en hospital extramuros o durante un traslado.",
-            "license": "Creative Commons Attribution",
-            "title": "Fallecimientos en Prisión",
-            "issued": "2017-04-27T13:48:21.909008",
-            "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
-            "modified": "2017-12-05T12:55:12.551369",
-            "language": "spa",
-            "theme": [
-                "Fallecimientos"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://181.209.63.46/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision--2009--2017-1er-semestre.csv",
-                    "description": "La información resultante acerca de cada uno de los fallecimientos registrados es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada una de las muertes bajo custodia penitenciaria. A los efectos de este relevamiento se contabiliza la totalidad de fallecimientos, cualquiera sea su causa, de personas detenidas bajo la custodia de la administración penitenciaria federal, indistintamente que la muerte ocurra dentro del centro de detención, en hospital extramuros o durante un traslado.",
-                    "title": "BASE DE DATOS DE FALLECIMIENTOS EN PRISION",
-                    "issued": "2017-04-27T13:51:30.804506",
-                    "format": "CSV",
-                    "modified": "2017-12-05T12:55:12.536618",
-                    "downloadURL": "http://181.209.63.46/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision--2009--2017-1er-semestre.csv"
-                }
-            ],
-            "keyword": [
-                "cárcel",
-                "derechos humanos",
-                "fallecimientos",
-                "muerte",
-                "presos",
-                "prisión"
-            ],
-            "accrualPeriodicity": "R/P6M",
-            "superTheme": [
-                "SOCI",
-                "TECH"
-            ],
-            "landingPage": "www.ppn.gov.ar",
-            "identifier": "8b9dce12-7069-4fd6-b78b-08e1f03e3732",
-            "contactPoint": {
-                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Equipo de estadística y base de datos"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "bgarcia@ppn.gov.ar ",
-                "name": "Equipo de estadística y bases de datos"
-            },
-            "accessLevel": "public",
-            "description": "En la base se vuelca el listado de personas bajo resguardo que se solicita a cada unidad con frecuencia semestral. Incluye información sobre el origen de la medida, lugar de alojamiento, fecha desde la cual poseen la medida, etc.",
-            "license": "Creative Commons Attribution",
-            "title": "Listado de personas en Resguardo en el Servicio Penitenciario Federal",
-            "issued": "2017-05-08T15:47:22.770655",
-            "temporal": "2009-01-01T03:00:00.000Z/2017-06-30T03:00:00.000Z",
-            "modified": "2017-07-11T14:53:59.319870",
-            "language": "spa",
-            "theme": [
-                "Condiciones materiales y régimen de encierro"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://181.209.63.46/dataset/7f5ba0c2-2142-4b5e-9762-14fc52cc24bd/resource/fba68b26-58b2-4bdf-b2f4-d5182b805c81/download/listado-de-personas-en-resguardo-en-el-servicio-penitenciario-federal.csv",
-                    "description": "En la base se vuelca el listado de personas bajo resguardo que se solicita a cada unidad con frecuencia semestral. Incluye información sobre el origen de la medida, lugar de alojamiento, fecha desde la cual poseen la medida, etc.",
-                    "title": "Listado de personas en Resguardo en el Servicio Penitenciario Federal",
-                    "issued": "2017-05-08T15:50:05.650679",
-                    "format": "CSV",
-                    "modified": "2017-07-11T14:53:32.553801",
-                    "downloadURL": "http://181.209.63.46/dataset/7f5ba0c2-2142-4b5e-9762-14fc52cc24bd/resource/fba68b26-58b2-4bdf-b2f4-d5182b805c81/download/listado-de-personas-en-resguardo-en-el-servicio-penitenciario-federal.csv"
-                }
-            ],
-            "keyword": [
-                "cárcel",
-                "derechos humanos",
-                "detenidos",
-                "integridad física",
-                "presos",
-                "prisión",
-                "protocolo de resguardo",
-                "resguardo",
-                "servicio penitenciario federal"
-            ],
-            "accrualPeriodicity": "R/P6M",
-            "superTheme": [
-                "JUST"
-            ],
-            "landingPage": "www.ppn.gov.ar",
-            "identifier": "7f5ba0c2-2142-4b5e-9762-14fc52cc24bd",
-            "contactPoint": {
-                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Equipo de estadística y bases de datos"
             }
         },
         {
