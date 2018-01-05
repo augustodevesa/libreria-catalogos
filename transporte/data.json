@@ -81,7 +81,7 @@
             ],
             "title": "Operaciones de SUBE por mes en RMBA",
             "issued": "2016-11-01",
-            "modified": "2017-06-30",
+            "modified": "2017-10-01",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -89,7 +89,7 @@
                     "title": "Cantidad de operaciones de viajes por mes, detalle de línea",
                     "issued": "2016-11-01",
                     "format": "text/csv",
-                    "modified": "2017-06-30",
+                    "modified": "2017-10-01",
                     "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descargar.php?t=mcancelaciones&d=mlinea"
                 },
                 {
@@ -97,7 +97,7 @@
                     "title": "Cantidad de operaciones de viajes por mes, detalle de línea y tipo de pasaje (NORMAL-ATRIBUTO SOCIAL)",
                     "issued": "2016-11-01",
                     "format": "text/csv",
-                    "modified": "2017-06-30",
+                    "modified": "2017-10-01",
                     "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descargar.php?t=mcancelaciones&d=mtipo"
                 },
                 {
@@ -105,7 +105,7 @@
                     "title": "Cantidad de operaciones de viajes por mes, detalle por empresa",
                     "issued": "2016-11-01",
                     "format": "text/csv",
-                    "modified": "2017-06-30",
+                    "modified": "2017-10-01",
                     "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descargar.php?t=mcancelaciones&d=mempresa"
                 },
                 {
@@ -113,7 +113,7 @@
                     "title": "Cantidad de operaciones de viajes por mes, detalle por modo",
                     "issued": "2016-11-01",
                     "format": "text/csv",
-                    "modified": "2017-06-30",
+                    "modified": "2017-10-01",
                     "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descargar.php?t=mcancelaciones&d=mmodo"
                 }
             ],
@@ -129,7 +129,7 @@
             ],
             "title": "Operaciones de SUBE por año en RMBA",
             "issued": "2016-11-01",
-            "modified": "2017-06-30",
+            "modified": "2017-10-01",
             "accrualPeriodicity": "R/P1Y",
             "distribution": [
                 {
@@ -137,7 +137,7 @@
                     "title": "Cantidad de operaciones de viajes por año, detalle de linea",
                     "issued": "2016-11-01",
                     "format": "text/csv",
-                    "modified": "2017-06-30",
+                    "modified": "2017-10-01",
                     "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descargar.php?t=acancelaciones&d=linea"
                 },
                 {
@@ -145,7 +145,7 @@
                     "title": "Cantidad de operaciones de viajes por año, detalle de linea y tipo de pasaje (NORMAL-ATRIBUTO SOCIAL)",
                     "issued": "2016-11-01",
                     "format": "text/csv",
-                    "modified": "2017-06-30",
+                    "modified": "2017-10-01",
                     "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descargar.php?t=acancelaciones&d=tipo"
                 },
                 {
@@ -153,7 +153,7 @@
                     "title": "Cantidad de operaciones de viajes por año, detalle por empresa",
                     "issued": "2016-11-01",
                     "format": "text/csv",
-                    "modified": "2017-06-30",
+                    "modified": "2017-10-01",
                     "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descargar.php?t=acancelaciones&d=empresa"
                 },
                 {
@@ -161,7 +161,7 @@
                     "title": "Cantidad de operaciones de viajes por año, detalle por modo",
                     "issued": "2016-11-01",
                     "format": "text/csv",
-                    "modified": "2016-11-01",
+                    "modified": "2017-10-01",
                     "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descargar.php?t=acancelaciones&d=modo"
                 }
             ],
@@ -177,7 +177,7 @@
             ],
             "title": "Empresas de transporte de RMBA",
             "issued": "2016-11-01",
-            "modified": "2017-06-30",
+            "modified": "2017-10-01",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -185,7 +185,7 @@
                     "title": "Detalle de empresas de transporte que operan Jurisdiccion Municipal",
                     "issued": "2016-11-01",
                     "format": "text/csv",
-                    "modified": "2017-06-30",
+                    "modified": "2017-10-01",
                     "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descargar.php?t=empresas&d=municipal"
                 },
                 {
@@ -193,7 +193,7 @@
                     "title": "Detalle de empresas de transporte que operan Jurisdiccion Nacional",
                     "issued": "2016-11-01",
                     "format": "text/csv",
-                    "modified": "2017-06-30",
+                    "modified": "2017-10-01",
                     "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descargar.php?t=empresas&d=nacional"
                 },
                 {
@@ -201,7 +201,7 @@
                     "title": "Detalle de empresas de transporte que operan Jurisdiccion Provincial",
                     "issued": "2016-11-01",
                     "format": "text/csv",
-                    "modified": "2017-06-30",
+                    "modified": "2017-10-01",
                     "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descargar.php?t=empresas&d=provincial"
                 }
             ],
@@ -217,7 +217,7 @@
             ],
             "title": "Líneas de transporte de RMBA",
             "issued": "2016-11-01",
-            "modified": "2017-06-30",
+            "modified": "2017-10-01",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -225,7 +225,7 @@
                     "title": "Detalle de empresas de transporte que operan por Jurisdicción Municipal",
                     "issued": "2016-11-01",
                     "format": "text/csv",
-                    "modified": "2017-06-29",
+                    "modified": "2017-10-01",
                     "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descargar.php?t=lineas&d=municipal"
                 },
                 {
@@ -233,7 +233,7 @@
                     "title": "Detalle de empresas de transporte que operan por Jurisdicción Provincial",
                     "issued": "2016-11-01",
                     "format": "text/csv",
-                    "modified": "2017-06-30",
+                    "modified": "2017-10-01",
                     "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descargar.php?t=lineas&d=provincial"
                 },
                 {
@@ -241,7 +241,7 @@
                     "title": "Detalle de líneas de transporte que operan por Jurisdicción Nacional",
                     "issued": "2016-11-01",
                     "format": "text/csv",
-                    "modified": "2017-06-30",
+                    "modified": "2017-10-01",
                     "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descargar.php?t=lineas&d=nacional"
                 }
             ],
