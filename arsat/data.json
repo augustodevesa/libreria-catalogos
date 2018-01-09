@@ -55,7 +55,7 @@
             ],
             "title": "Registro de Audiencias",
             "issued": "2017-06-26T18:14:16",
-            "modified": "2018-01-09T12:17:28.904Z",
+            "modified": "2018-01-09T15:17:30.435Z",
             "language": [
                 "spa"
             ],
@@ -70,7 +70,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T18:14:16",
                     "format": "CSV",
-                    "modified": "2018-01-09T12:17:28.904Z",
+                    "modified": "2018-01-09T15:17:30.435Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -79,7 +79,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T18:14:16",
                     "format": "XLS",
-                    "modified": "2018-01-09T12:17:28.904Z",
+                    "modified": "2018-01-09T15:17:30.435Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -88,7 +88,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T18:14:16",
                     "format": "JSON",
-                    "modified": "2018-01-09T12:17:28.904Z",
+                    "modified": "2018-01-09T15:17:30.436Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -110,7 +110,7 @@
             ],
             "title": "Registro de Visitas",
             "issued": "2017-06-26T21:51:38",
-            "modified": "2018-01-09T12:17:28.915Z",
+            "modified": "2018-01-09T15:17:30.446Z",
             "language": [
                 "spa"
             ],
@@ -125,7 +125,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "CSV",
-                    "modified": "2018-01-09T12:17:28.915Z",
+                    "modified": "2018-01-09T15:17:30.446Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -134,7 +134,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "XLS",
-                    "modified": "2018-01-09T12:17:28.915Z",
+                    "modified": "2018-01-09T15:17:30.447Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -143,13 +143,182 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "JSON",
-                    "modified": "2018-01-09T12:17:28.915Z",
+                    "modified": "2018-01-09T15:17:30.447Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
             "identifier": "REGIS-DE-VISIT-31415",
             "homepage": "http://datos.arsat.com.ar/dataviews/239722/registro-de-visitas/",
             "description": "Listado de visitas recibidas en Arsat desde el 20/03/17 hasta el presente."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "ARSAT",
+                "INCAA",
+                "ODEON",
+                "CINE.AR PLAY"
+            ],
+            "title": "Datos de uso de la plataforma",
+            "issued": "2018-01-09T16:02:59",
+            "modified": "2018-01-09T19:03:06Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "cinear-play"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
+                    "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
+                    "title": "Datos de uso de la plataforma",
+                    "issued": "2018-01-09T16:02:59",
+                    "format": "CSV",
+                    "modified": "2018-01-09T19:03:06Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
+                    "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
+                    "title": "Datos de uso de la plataforma",
+                    "issued": "2018-01-09T16:02:59",
+                    "format": "XLS",
+                    "modified": "2018-01-09T19:03:06Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
+                    "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
+                    "title": "Datos de uso de la plataforma",
+                    "issued": "2018-01-09T16:02:59",
+                    "format": "JSON",
+                    "modified": "2018-01-09T19:03:06Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "ODEON-ESTAD-DE-USO",
+            "homepage": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
+            "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "ARSAT",
+                "ESCUELAS RURALES",
+                "VSAT"
+            ],
+            "title": "Escuelas conectadas",
+            "issued": "2018-01-09T15:18:50",
+            "modified": "2018-01-09T18:19:27Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "plan-de-conectividad-de-escuelas-rurales"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/",
+                    "description": "Listado de escuelas rurales conectadas",
+                    "title": "Escuelas conectadas",
+                    "issued": "2018-01-09T15:18:50",
+                    "format": "CSV",
+                    "modified": "2018-01-09T18:19:27Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/",
+                    "description": "Listado de escuelas rurales conectadas",
+                    "title": "Escuelas conectadas",
+                    "issued": "2018-01-09T15:18:50",
+                    "format": "XLS",
+                    "modified": "2018-01-09T18:19:27Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/",
+                    "description": "Listado de escuelas rurales conectadas",
+                    "title": "Escuelas conectadas",
+                    "issued": "2018-01-09T15:18:50",
+                    "format": "JSON",
+                    "modified": "2018-01-09T18:19:27Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "PLAN-DE-CONEC-DE-61064",
+            "homepage": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/",
+            "description": "Listado de escuelas rurales conectadas"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "ARSAT",
+                "ESCUELAS RURALES",
+                "VSAT"
+            ],
+            "title": "Escuelas de próxima conexión",
+            "issued": "2018-01-09T15:18:50",
+            "modified": "2018-01-09T18:19:27Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "plan-de-conectividad-de-escuelas-rurales"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/",
+                    "description": "Listado de escuelas rurales planificadas para ser conectadas",
+                    "title": "Escuelas de próxima conexión",
+                    "issued": "2018-01-09T15:18:50",
+                    "format": "CSV",
+                    "modified": "2018-01-09T18:19:27Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/",
+                    "description": "Listado de escuelas rurales planificadas para ser conectadas",
+                    "title": "Escuelas de próxima conexión",
+                    "issued": "2018-01-09T15:18:50",
+                    "format": "XLS",
+                    "modified": "2018-01-09T18:19:27Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/",
+                    "description": "Listado de escuelas rurales planificadas para ser conectadas",
+                    "title": "Escuelas de próxima conexión",
+                    "issued": "2018-01-09T15:18:50",
+                    "format": "JSON",
+                    "modified": "2018-01-09T18:19:27Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "PLAN-DE-CONEC-DE-25724",
+            "homepage": "http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/",
+            "description": "Listado de escuelas rurales planificadas para ser conectadas"
         },
         {
             "publisher": {
@@ -206,63 +375,6 @@
             "identifier": "INASI-PRUEB",
             "homepage": "http://datos.arsat.com.ar/dataviews/241643/ausentismo-total-mensual-de-dias-por-motivo-de-ausencia/",
             "description": "Detalle mensual de cantidad de días por cada uno de los motivos de inasistencia"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "ARSAT",
-                "INCAA",
-                "ODEON",
-                "CINE.AR PLAY"
-            ],
-            "title": "Datos de uso de la plataforma",
-            "issued": "2018-01-08T19:33:55",
-            "modified": "2018-01-08T22:34:05Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "cinear-play"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
-                    "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
-                    "title": "Datos de uso de la plataforma",
-                    "issued": "2018-01-08T19:33:55",
-                    "format": "CSV",
-                    "modified": "2018-01-08T22:34:05Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
-                    "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
-                    "title": "Datos de uso de la plataforma",
-                    "issued": "2018-01-08T19:33:55",
-                    "format": "XLS",
-                    "modified": "2018-01-08T22:34:05Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
-                    "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
-                    "title": "Datos de uso de la plataforma",
-                    "issued": "2018-01-08T19:33:55",
-                    "format": "JSON",
-                    "modified": "2018-01-08T22:34:05Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "ODEON-ESTAD-DE-USO",
-            "homepage": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
-            "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones."
         },
         {
             "publisher": {
@@ -648,118 +760,6 @@
             "identifier": "PLAN-DE-CONEC-DE-97527",
             "homepage": "http://datos.arsat.com.ar/dataviews/237190/porcentaje-de-avance-del-plan/",
             "description": "Porcentaje de avance de la primera Fase del Plan de conectividad de Escuelas Rurales."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "ARSAT",
-                "ESCUELAS RURALES",
-                "VSAT"
-            ],
-            "title": "Escuelas conectadas",
-            "issued": "2017-12-29T15:11:51",
-            "modified": "2017-12-29T18:15:02Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "plan-de-conectividad-de-escuelas-rurales"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/",
-                    "description": "Listado de escuelas rurales conectadas",
-                    "title": "Escuelas conectadas",
-                    "issued": "2017-12-29T15:11:51",
-                    "format": "CSV",
-                    "modified": "2017-12-29T18:15:02Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/",
-                    "description": "Listado de escuelas rurales conectadas",
-                    "title": "Escuelas conectadas",
-                    "issued": "2017-12-29T15:11:51",
-                    "format": "XLS",
-                    "modified": "2017-12-29T18:15:02Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/",
-                    "description": "Listado de escuelas rurales conectadas",
-                    "title": "Escuelas conectadas",
-                    "issued": "2017-12-29T15:11:51",
-                    "format": "JSON",
-                    "modified": "2017-12-29T18:15:02Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "PLAN-DE-CONEC-DE-61064",
-            "homepage": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/",
-            "description": "Listado de escuelas rurales conectadas"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "ARSAT",
-                "ESCUELAS RURALES",
-                "VSAT"
-            ],
-            "title": "Escuelas de próxima conexión",
-            "issued": "2017-12-29T15:07:55",
-            "modified": "2017-12-29T18:15:02Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "plan-de-conectividad-de-escuelas-rurales"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/",
-                    "description": "Listado de escuelas rurales planificadas para ser conectadas",
-                    "title": "Escuelas de próxima conexión",
-                    "issued": "2017-12-29T15:07:55",
-                    "format": "CSV",
-                    "modified": "2017-12-29T18:15:02Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/",
-                    "description": "Listado de escuelas rurales planificadas para ser conectadas",
-                    "title": "Escuelas de próxima conexión",
-                    "issued": "2017-12-29T15:07:55",
-                    "format": "XLS",
-                    "modified": "2017-12-29T18:15:02Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/",
-                    "description": "Listado de escuelas rurales planificadas para ser conectadas",
-                    "title": "Escuelas de próxima conexión",
-                    "issued": "2017-12-29T15:07:55",
-                    "format": "JSON",
-                    "modified": "2017-12-29T18:15:02Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "PLAN-DE-CONEC-DE-25724",
-            "homepage": "http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/",
-            "description": "Listado de escuelas rurales planificadas para ser conectadas"
         },
         {
             "publisher": {
