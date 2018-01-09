@@ -18,7 +18,7 @@
             "title": "Precio diario internacional de azúcar",
             "issued": "2017-08-02T15:05:21.745929",
             "temporal": "2011-01-04T03:00:00.000Z/2017-03-03T03:00:00.000Z",
-            "modified": "2018-01-08T12:53:27.818335",
+            "modified": "2018-01-09T15:22:38.966406",
             "language": [
                 "spa"
             ],
@@ -47,7 +47,7 @@
                     "title": "Precio promedio diario en el mercado de Londres - Contrato N°5",
                     "issued": "2017-08-02T15:20:52.975191",
                     "format": "CSV",
-                    "modified": "2018-01-08T12:53:27.779648",
+                    "modified": "2018-01-09T15:21:28.140207",
                     "downloadURL": "https://datos.agroindustria.gob.ar/dataset/85337517-8ec6-415b-937a-40b91f88fce8/resource/a650e0e6-7e68-4a09-82ce-bc3bb8a405b3/download/preciobolsadelondres.csv"
                 },
                 {
@@ -57,11 +57,387 @@
                     "title": "Precio promedio diario en el mercado de New York - Contrato N° 11",
                     "issued": "2017-08-02T15:22:17.372773",
                     "format": "CSV",
-                    "modified": "2018-01-08T12:52:57.279478",
+                    "modified": "2018-01-09T15:22:38.949118",
                     "downloadURL": "https://datos.agroindustria.gob.ar/dataset/85337517-8ec6-415b-937a-40b91f88fce8/resource/cf9ae133-0923-40c2-b903-70a5bc17268b/download/preciobolsadenewyork.csv"
                 }
             ],
             "landingPage": "https://datos.agroindustria.gob.ar/dataset/precio-diario-de-azucar"
+        },
+        {
+            "publisher": {
+                "mbox": "rncyfs@inase.gov.ar",
+                "name": "Dirección de Certificación y Control - INASE"
+            },
+            "identifier": "67d63f59-d025-4de5-adab-227a073d9af7",
+            "description": "Datos de superficie por ubicación de las especies que pasan por el proceso de fiscalización nacional del Instituto Nacional de Semillas.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Superficie nacional fiscalizada por especie y ubicación registrada en el INASE",
+            "issued": "2017-09-07T20:01:07.176722",
+            "modified": "2018-01-09T14:56:40.805552",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "Producción Agroindustrial"
+            ],
+            "keyword": [
+                "Argentina",
+                "Buenos Aires",
+                "Catamarca",
+                "Chaco",
+                "Chubut",
+                "Cordoba",
+                "Corrientes",
+                "Entre Rios",
+                "Formosa",
+                "INASE",
+                "Jujuy",
+                "La Pampa",
+                "La Rioja",
+                "Mendoza",
+                "Neuquen",
+                "Rio Negro",
+                "Salta",
+                "San Juan",
+                "San Luis",
+                "Santa Cruz",
+                "Santa Fe",
+                "Santiago del Estero",
+                "Tucuman",
+                "alfalfa",
+                "avena",
+                "festuca",
+                "girasol",
+                "hectareas",
+                "metros",
+                "plantas",
+                "raigras",
+                "recipiente",
+                "soja",
+                "sorgo",
+                "superficie"
+            ],
+            "accrualPeriodicity": "R/P6M",
+            "superTheme": [
+                "AGRI"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/67d63f59-d025-4de5-adab-227a073d9af7/archivo/3c4db06f-5c9d-4c19-9bd7-cb9d6811096f",
+                    "description": "Datos de superficie por ubicación de las especies que pasan por el proceso de fiscalización nacional del INASE, del período 14-15",
+                    "license": "odc-odbl",
+                    "title": "Superficie nacional fiscalizada por especie y ubicación 14-15",
+                    "issued": "2017-09-07T20:03:07.176570",
+                    "format": "CSV",
+                    "modified": "2017-09-07T20:03:07.146119",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/67d63f59-d025-4de5-adab-227a073d9af7/resource/3c4db06f-5c9d-4c19-9bd7-cb9d6811096f/download/superficie-nacional-fiscalizada-por-especie-y-ubicacion-14-15.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/67d63f59-d025-4de5-adab-227a073d9af7/archivo/81fb6e14-15c1-4265-82ab-d034caae52dd",
+                    "description": "Datos de superficie por ubicación de las especies que pasan por el proceso de fiscalización nacional del INASE, del período 16-17.",
+                    "license": "odc-odbl",
+                    "title": "Superficie nacional fiscalizada por especie y ubicación 16-17",
+                    "issued": "2017-09-07T20:06:54.743316",
+                    "format": "CSV",
+                    "modified": "2017-09-07T20:06:54.575193",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/67d63f59-d025-4de5-adab-227a073d9af7/resource/81fb6e14-15c1-4265-82ab-d034caae52dd/download/superficie-nacional-fiscalizada-por-especie-y-ubicacion-16-17.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/67d63f59-d025-4de5-adab-227a073d9af7/archivo/5ea6e630-1f7a-4ed1-9d68-1e6e9bee8500",
+                    "description": "Datos de superficie por ubicación de las especies que pasan por el proceso de fiscalización nacional del INASE, del segundo período 16-17.",
+                    "license": "odc-odbl",
+                    "title": "Superficie nacional fiscalizada por especie y ubicación 16-17",
+                    "issued": "2018-01-09T14:52:20.302690",
+                    "format": "CSV",
+                    "modified": "2018-01-09T14:56:40.778308",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/67d63f59-d025-4de5-adab-227a073d9af7/resource/5ea6e630-1f7a-4ed1-9d68-1e6e9bee8500/download/superficienacionalporespecieyubicacion.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/67d63f59-d025-4de5-adab-227a073d9af7/archivo/20de8717-4ed4-4e17-a0ac-1207fb4c6a6d",
+                    "description": "Detalle de cada una de las columnas que integran el recurso",
+                    "license": "odc-odbl",
+                    "title": "Referencias de superficie nacional fiscalizada por especie y ubicación",
+                    "issued": "2017-09-07T20:09:03.335747",
+                    "format": "CSV",
+                    "modified": "2017-09-07T20:09:03.038901",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/67d63f59-d025-4de5-adab-227a073d9af7/resource/20de8717-4ed4-4e17-a0ac-1207fb4c6a6d/download/superficie-nacional-fiscalizada-por-especie-y-ubicacion---referencias.csv"
+                }
+            ],
+            "landingPage": "https://datos.agroindustria.gob.ar/dataset/superficie-nacional-fiscalizada-por-especie-y-ubicacion-registrada-en-el-inase"
+        },
+        {
+            "publisher": {
+                "mbox": "rncyfs@inase.gov.ar",
+                "name": "Dirección de Certificación y Control - INASE"
+            },
+            "identifier": "022957c0-60a0-4c1a-8160-e601bbbf8012",
+            "description": "Datos relacionados con la producción nacional de las especies -desagregado por ubicación- que pasan por el proceso de fiscalización del INASE.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Producción nacional fiscalizada por especies y ubicación registrada en el INASE",
+            "issued": "2017-09-07T21:03:00.881825",
+            "modified": "2018-01-09T14:45:39.012960",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "Producción Agroindustrial"
+            ],
+            "keyword": [
+                "INASE",
+                "Unidades",
+                "agropiro",
+                "alfalfa",
+                "arveja",
+                "avena",
+                "cebada",
+                "cebadilla",
+                "centeno",
+                "colza",
+                "especie",
+                "festuca",
+                "girasol",
+                "lolium",
+                "lotus",
+                "maiz",
+                "moha",
+                "papa",
+                "pasto ovillo",
+                "phalaris",
+                "produccion",
+                "raigras",
+                "rendimientos",
+                "rotulos emitidos",
+                "soja",
+                "sorgo",
+                "trebol",
+                "trigo"
+            ],
+            "accrualPeriodicity": "R/P6M",
+            "superTheme": [
+                "AGRI"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/022957c0-60a0-4c1a-8160-e601bbbf8012/archivo/91bb839c-e97a-4da2-94df-e7ba62b2881a",
+                    "description": "Datos relacionados a la producción Nacional de las especies desagregado por ubicación que pasan por el proceso de fiscalización del INASE, del período 14-15.",
+                    "license": "odc-odbl",
+                    "title": "Producción nacional fiscalizada por especies y ubicación 14-15",
+                    "issued": "2017-09-07T21:04:21.760635",
+                    "format": "CSV",
+                    "modified": "2017-09-07T21:04:21.605919",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/022957c0-60a0-4c1a-8160-e601bbbf8012/resource/91bb839c-e97a-4da2-94df-e7ba62b2881a/download/34---produccion-nacional-fiscalizada-por-especie-y-ubicacion-14-15.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/022957c0-60a0-4c1a-8160-e601bbbf8012/archivo/d4d4498e-f685-43ed-b95a-979b967ae63c",
+                    "description": "Datos relacionados a la producción Nacional de las especies desagregado por ubicación que pasan por el proceso de fiscalización del INASE, del período 16-17.",
+                    "license": "odc-odbl",
+                    "title": "Producción nacional fiscalizada por especies y ubicación 16-17",
+                    "issued": "2017-09-07T21:05:13.120594",
+                    "format": "CSV",
+                    "modified": "2017-09-07T21:05:12.963718",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/022957c0-60a0-4c1a-8160-e601bbbf8012/resource/d4d4498e-f685-43ed-b95a-979b967ae63c/download/34---produccion-nacional-fiscalizada-por-especie-y-ubicacion-16-17.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/022957c0-60a0-4c1a-8160-e601bbbf8012/archivo/f881e858-7b30-49dd-8059-e57cd696e621",
+                    "description": "Datos relacionados a la producción Nacional de las especies desagregado por ubicación que pasan por el proceso de fiscalización del INASE, del segundo período 16-17.",
+                    "license": "odc-odbl",
+                    "title": "Producción nacional fiscalizada por especies y ubicación 16-17",
+                    "issued": "2018-01-09T14:30:44.320423",
+                    "format": "CSV",
+                    "modified": "2018-01-09T14:30:44.138418",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/022957c0-60a0-4c1a-8160-e601bbbf8012/resource/f881e858-7b30-49dd-8059-e57cd696e621/download/produccionnacionalfiscalizadaporespecieyubicacion.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/022957c0-60a0-4c1a-8160-e601bbbf8012/archivo/5b379ddb-5c85-4851-9394-df041bc7d816",
+                    "description": "Detalle de cada una de las columnas que integran el recurso.",
+                    "license": "odc-odbl",
+                    "title": "Referencias de producción nacional fiscalizada por especies y ubicación",
+                    "issued": "2017-09-07T21:06:25.594081",
+                    "format": "CSV",
+                    "modified": "2017-09-07T21:06:25.446661",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/022957c0-60a0-4c1a-8160-e601bbbf8012/resource/5b379ddb-5c85-4851-9394-df041bc7d816/download/produccion-nacional-fiscalizada-por-especies-y-ubicacion---referencias.csv"
+                }
+            ],
+            "landingPage": "https://datos.agroindustria.gob.ar/dataset/produccion-nacional-fiscalizada-por-especies-y-ubicacion-registrada-en-el-inase"
+        },
+        {
+            "publisher": {
+                "mbox": "rncyfs@inase.gov.ar",
+                "name": "Dirección de Certificación y Control - INASE"
+            },
+            "identifier": "56656007-f444-48bf-a6da-d3e1ff13468a",
+            "description": "Datos relacionados a la producción nacional de las especies que pasan por el proceso de fiscalización del Instituto Nacional de Semillas.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Producción nacional fiscalizada por especies registrada en el INASE",
+            "issued": "2017-09-07T20:46:53.581697",
+            "modified": "2018-01-09T14:44:51.538832",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "Producción Agroindustrial"
+            ],
+            "keyword": [
+                "INASE",
+                "achicoria",
+                "agropiro",
+                "alfalfa",
+                "algodonero",
+                "arroz",
+                "arveja",
+                "avena",
+                "cebada",
+                "cebadilla",
+                "centeno",
+                "colza",
+                "especie",
+                "festuca",
+                "garbanzo",
+                "kilos",
+                "lino",
+                "lolium",
+                "lotus",
+                "maiz",
+                "microplantulas",
+                "minituberculos",
+                "moha",
+                "papa",
+                "pasto ovillo",
+                "phalaris",
+                "plantines",
+                "plantulas",
+                "portainjerto duraznero",
+                "produccion",
+                "raigras",
+                "rendimientos",
+                "rotulos emitidos",
+                "soja",
+                "sorgo",
+                "trebol",
+                "trigo",
+                "triticale",
+                "unidades"
+            ],
+            "accrualPeriodicity": "R/P6M",
+            "superTheme": [
+                "AGRI"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/56656007-f444-48bf-a6da-d3e1ff13468a/archivo/0abffd7b-b18b-441e-a5af-b3a064632ce1",
+                    "description": "Datos relacionados a la producción nacional de las especies que pasan por el proceso de fiscalización del INASE, del período 14-15.",
+                    "license": "odc-odbl",
+                    "title": "Producción nacional fiscalizada por especies 14-15",
+                    "issued": "2017-09-07T20:48:25.324153",
+                    "format": "CSV",
+                    "modified": "2017-09-07T20:48:25.265694",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/56656007-f444-48bf-a6da-d3e1ff13468a/resource/0abffd7b-b18b-441e-a5af-b3a064632ce1/download/33---produccion-nacional-fiscalizada-por-especies-14-15.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/56656007-f444-48bf-a6da-d3e1ff13468a/archivo/9127221e-1aa2-4b86-be03-bc2c71acf0fd",
+                    "description": "Datos relacionados a la producción nacional de las especies que pasan por el proceso de fiscalización del INASE, del período 16-17.",
+                    "license": "odc-odbl",
+                    "title": "Producción nacional fiscalizada por especies 16-17",
+                    "issued": "2017-09-07T20:51:42.944135",
+                    "format": "CSV",
+                    "modified": "2017-09-07T20:51:42.286976",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/56656007-f444-48bf-a6da-d3e1ff13468a/resource/9127221e-1aa2-4b86-be03-bc2c71acf0fd/download/33---produccion-nacional-fiscalizada-por-especies-16-17.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/56656007-f444-48bf-a6da-d3e1ff13468a/archivo/73d0ad28-3698-404d-a3dc-886c68894bad",
+                    "description": "Datos relacionados a la producción nacional de las especies que pasan por el proceso de fiscalización del INASE, del segundo período 16-17.",
+                    "license": "odc-odbl",
+                    "title": "Producción nacional fiscalizada por especies 16-17",
+                    "issued": "2018-01-09T14:11:16.866767",
+                    "format": "CSV",
+                    "modified": "2018-01-09T14:11:16.597143",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/56656007-f444-48bf-a6da-d3e1ff13468a/resource/73d0ad28-3698-404d-a3dc-886c68894bad/download/produccionnacionalfiscalizadaporespecie.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/56656007-f444-48bf-a6da-d3e1ff13468a/archivo/cebc77ec-dbc1-4ccc-a95b-dbc79f8e3b2a",
+                    "description": "Detalle de cada una de las columnas que integran el recurso.",
+                    "license": "odc-odbl",
+                    "title": "Referencias de producción nacional fiscalizada por especies",
+                    "issued": "2017-09-07T20:53:58.269996",
+                    "format": "CSV",
+                    "modified": "2017-09-07T20:53:58.050460",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/56656007-f444-48bf-a6da-d3e1ff13468a/resource/cebc77ec-dbc1-4ccc-a95b-dbc79f8e3b2a/download/produccion-nacional-fiscalizada-por-especies---referencias.csv"
+                }
+            ],
+            "landingPage": "https://datos.agroindustria.gob.ar/dataset/produccion-nacional-fiscalizada-por-especies-registrada-en-el-inase"
+        },
+        {
+            "publisher": {
+                "mbox": "rncyfs@inase.gov.ar",
+                "name": "Dirección de Certificación y Control - INASE"
+            },
+            "identifier": "d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c",
+            "description": "Datos de superficie de las especies que pasan por el proceso de fiscalización nacional del INASE.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Superficie nacional fiscalizada por especies",
+            "issued": "2017-09-07T20:25:36.033484",
+            "modified": "2018-01-09T14:44:18.102132",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "Producción Agroindustrial"
+            ],
+            "keyword": [
+                "INASE",
+                "hectareas",
+                "metros",
+                "plantas",
+                "recipiente",
+                "superficie"
+            ],
+            "accrualPeriodicity": "R/P6M",
+            "superTheme": [
+                "AGRI"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c/archivo/d16bdaf7-3a41-4a3b-8c53-8d44ece90326",
+                    "description": "Datos de superficie de las especies que pasan por el proceso de fiscalización nacional del INASE, del período 14-15.",
+                    "license": "odc-odbl",
+                    "title": "Superficie nacional fiscalizada por especies 14-15",
+                    "issued": "2017-09-07T20:32:14.086373",
+                    "format": "CSV",
+                    "modified": "2017-09-07T21:13:45.253037",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c/resource/d16bdaf7-3a41-4a3b-8c53-8d44ece90326/download/superficie-nacional-fiscalizada-por-especies-14-15.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c/archivo/17b29c45-95c2-4e32-8edc-8cc3cc61e113",
+                    "description": "Datos de superficie de las especies que pasan por el proceso de fiscalización nacional del INASE, del período 16-17.",
+                    "license": "odc-odbl",
+                    "title": "Superficie nacional fiscalizada por especies 16-17",
+                    "issued": "2017-09-07T20:34:27.778057",
+                    "format": "CSV",
+                    "modified": "2017-09-07T21:14:11.372346",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c/resource/17b29c45-95c2-4e32-8edc-8cc3cc61e113/download/superficie-nacional-fiscalizada-por-especie-16-17.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c/archivo/5b08496d-bdd8-4135-a795-b88df51a1d1e",
+                    "description": "Datos de superficie de las especies que pasan por el proceso de fiscalización nacional del INASE, del segundo período 16-17.",
+                    "license": "odc-odbl",
+                    "title": "Superficie nacional fiscalizada por especies 16-17",
+                    "issued": "2018-01-09T14:43:39.942051",
+                    "format": "CSV",
+                    "modified": "2018-01-09T14:43:39.878745",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c/resource/5b08496d-bdd8-4135-a795-b88df51a1d1e/download/superficienacionalporespecie.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c/archivo/3d20a85f-735d-402b-a7e2-f987472c70e8",
+                    "description": "Detalle de cada una de las columnas que integran el recurso",
+                    "license": "odc-odbl",
+                    "title": "Referencias de superficie nacional fiscalizada por especies",
+                    "issued": "2017-09-07T20:38:53.652170",
+                    "format": "CSV",
+                    "modified": "2017-09-07T20:38:53.593944",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c/resource/3d20a85f-735d-402b-a7e2-f987472c70e8/download/superficie-nacional-fiscalizada-por-especies---referencias.csv"
+                }
+            ],
+            "landingPage": "https://datos.agroindustria.gob.ar/dataset/superficie-nacional-fiscalizada-por-especies"
         },
         {
             "publisher": {
@@ -2219,194 +2595,6 @@
         },
         {
             "publisher": {
-                "mbox": "rncyfs@inase.gov.ar",
-                "name": "Dirección de Certificación y Control - INASE"
-            },
-            "identifier": "56656007-f444-48bf-a6da-d3e1ff13468a",
-            "description": "Datos relacionados a la producción nacional de las especies que pasan por el proceso de fiscalización del Instituto Nacional de Semillas.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Producción nacional fiscalizada por especies registrada en el INASE",
-            "issued": "2017-09-07T20:46:53.581697",
-            "modified": "2017-10-02T14:33:33.435082",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "Producción Agroindustrial"
-            ],
-            "keyword": [
-                "INASE",
-                "achicoria",
-                "agropiro",
-                "alfalfa",
-                "algodonero",
-                "arroz",
-                "arveja",
-                "avena",
-                "cebada",
-                "cebadilla",
-                "centeno",
-                "colza",
-                "especie",
-                "festuca",
-                "garbanzo",
-                "kilos",
-                "lino",
-                "lolium",
-                "lotus",
-                "maiz",
-                "microplantulas",
-                "minituberculos",
-                "moha",
-                "papa",
-                "pasto ovillo",
-                "phalaris",
-                "plantines",
-                "plantulas",
-                "portainjerto duraznero",
-                "produccion",
-                "raigras",
-                "rendimientos",
-                "rotulos emitidos",
-                "soja",
-                "sorgo",
-                "trebol",
-                "trigo",
-                "triticale",
-                "unidades"
-            ],
-            "accrualPeriodicity": "R/P6M",
-            "superTheme": [
-                "AGRI"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.agroindustria.gob.ar/dataset/56656007-f444-48bf-a6da-d3e1ff13468a/archivo/0abffd7b-b18b-441e-a5af-b3a064632ce1",
-                    "description": "Datos relacionados a la producción nacional de las especies que pasan por el proceso de fiscalización del INASE, del período 14-15.",
-                    "license": "odc-odbl",
-                    "title": "Producción nacional fiscalizada por especies 14-15",
-                    "issued": "2017-09-07T20:48:25.324153",
-                    "format": "CSV",
-                    "modified": "2017-09-07T20:48:25.265694",
-                    "downloadURL": "http://datos.agroindustria.gob.ar/dataset/56656007-f444-48bf-a6da-d3e1ff13468a/resource/0abffd7b-b18b-441e-a5af-b3a064632ce1/download/33---produccion-nacional-fiscalizada-por-especies-14-15.csv"
-                },
-                {
-                    "accessURL": "http://datos.agroindustria.gob.ar/dataset/56656007-f444-48bf-a6da-d3e1ff13468a/archivo/9127221e-1aa2-4b86-be03-bc2c71acf0fd",
-                    "description": "Datos relacionados a la producción nacional de las especies que pasan por el proceso de fiscalización del INASE, del período 16-17.",
-                    "license": "odc-odbl",
-                    "title": "Producción nacional fiscalizada por especies 16-17",
-                    "issued": "2017-09-07T20:51:42.944135",
-                    "format": "CSV",
-                    "modified": "2017-09-07T20:51:42.286976",
-                    "downloadURL": "http://datos.agroindustria.gob.ar/dataset/56656007-f444-48bf-a6da-d3e1ff13468a/resource/9127221e-1aa2-4b86-be03-bc2c71acf0fd/download/33---produccion-nacional-fiscalizada-por-especies-16-17.csv"
-                },
-                {
-                    "accessURL": "http://datos.agroindustria.gob.ar/dataset/56656007-f444-48bf-a6da-d3e1ff13468a/archivo/cebc77ec-dbc1-4ccc-a95b-dbc79f8e3b2a",
-                    "description": "Detalle de cada una de las columnas que integran el recurso.",
-                    "license": "odc-odbl",
-                    "title": "Referencias de producción nacional fiscalizada por especies",
-                    "issued": "2017-09-07T20:53:58.269996",
-                    "format": "CSV",
-                    "modified": "2017-09-07T20:53:58.050460",
-                    "downloadURL": "http://datos.agroindustria.gob.ar/dataset/56656007-f444-48bf-a6da-d3e1ff13468a/resource/cebc77ec-dbc1-4ccc-a95b-dbc79f8e3b2a/download/produccion-nacional-fiscalizada-por-especies---referencias.csv"
-                }
-            ],
-            "landingPage": "http://datos.agroindustria.gob.ar/dataset/produccion-nacional-fiscalizada-por-especies-registrada-en-el-inase"
-        },
-        {
-            "publisher": {
-                "mbox": "rncyfs@inase.gov.ar",
-                "name": "Dirección de Certificación y Control - INASE"
-            },
-            "identifier": "67d63f59-d025-4de5-adab-227a073d9af7",
-            "description": "Datos de superficie por ubicación de las especies que pasan por el proceso de fiscalización nacional del Instituto Nacional de Semillas.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Superficie nacional fiscalizada por especie y ubicación registrada en el INASE",
-            "issued": "2017-09-07T20:01:07.176722",
-            "modified": "2017-10-02T14:33:00.301002",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "Producción Agroindustrial"
-            ],
-            "keyword": [
-                "Argentina",
-                "Buenos Aires",
-                "Catamarca",
-                "Chaco",
-                "Chubut",
-                "Cordoba",
-                "Corrientes",
-                "Entre Rios",
-                "Formosa",
-                "INASE",
-                "Jujuy",
-                "La Pampa",
-                "La Rioja",
-                "Mendoza",
-                "Neuquen",
-                "Rio Negro",
-                "Salta",
-                "San Juan",
-                "San Luis",
-                "Santa Cruz",
-                "Santa Fe",
-                "Santiago del Estero",
-                "Tucuman",
-                "alfalfa",
-                "avena",
-                "festuca",
-                "girasol",
-                "hectareas",
-                "metros",
-                "plantas",
-                "raigras",
-                "recipiente",
-                "soja",
-                "sorgo",
-                "superficie"
-            ],
-            "accrualPeriodicity": "R/P6M",
-            "superTheme": [
-                "AGRI"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.agroindustria.gob.ar/dataset/67d63f59-d025-4de5-adab-227a073d9af7/archivo/3c4db06f-5c9d-4c19-9bd7-cb9d6811096f",
-                    "description": "Datos de superficie por ubicación de las especies que pasan por el proceso de fiscalización nacional del INASE, del período 14-15",
-                    "license": "odc-odbl",
-                    "title": "Superficie nacional fiscalizada por especie y ubicación 14-15",
-                    "issued": "2017-09-07T20:03:07.176570",
-                    "format": "CSV",
-                    "modified": "2017-09-07T20:03:07.146119",
-                    "downloadURL": "http://datos.agroindustria.gob.ar/dataset/67d63f59-d025-4de5-adab-227a073d9af7/resource/3c4db06f-5c9d-4c19-9bd7-cb9d6811096f/download/superficie-nacional-fiscalizada-por-especie-y-ubicacion-14-15.csv"
-                },
-                {
-                    "accessURL": "http://datos.agroindustria.gob.ar/dataset/67d63f59-d025-4de5-adab-227a073d9af7/archivo/81fb6e14-15c1-4265-82ab-d034caae52dd",
-                    "description": "Datos de superficie por ubicación de las especies que pasan por el proceso de fiscalización nacional del INASE, del período 16-17.",
-                    "license": "odc-odbl",
-                    "title": "Superficie nacional fiscalizada por especie y ubicación 16-17",
-                    "issued": "2017-09-07T20:06:54.743316",
-                    "format": "CSV",
-                    "modified": "2017-09-07T20:06:54.575193",
-                    "downloadURL": "http://datos.agroindustria.gob.ar/dataset/67d63f59-d025-4de5-adab-227a073d9af7/resource/81fb6e14-15c1-4265-82ab-d034caae52dd/download/superficie-nacional-fiscalizada-por-especie-y-ubicacion-16-17.csv"
-                },
-                {
-                    "accessURL": "http://datos.agroindustria.gob.ar/dataset/67d63f59-d025-4de5-adab-227a073d9af7/archivo/20de8717-4ed4-4e17-a0ac-1207fb4c6a6d",
-                    "description": "Detalle de cada una de las columnas que integran el recurso",
-                    "license": "odc-odbl",
-                    "title": "Referencias de superficie nacional fiscalizada por especie y ubicación",
-                    "issued": "2017-09-07T20:09:03.335747",
-                    "format": "CSV",
-                    "modified": "2017-09-07T20:09:03.038901",
-                    "downloadURL": "http://datos.agroindustria.gob.ar/dataset/67d63f59-d025-4de5-adab-227a073d9af7/resource/20de8717-4ed4-4e17-a0ac-1207fb4c6a6d/download/superficie-nacional-fiscalizada-por-especie-y-ubicacion---referencias.csv"
-                }
-            ],
-            "landingPage": "http://datos.agroindustria.gob.ar/dataset/superficie-nacional-fiscalizada-por-especie-y-ubicacion-registrada-en-el-inase"
-        },
-        {
-            "publisher": {
                 "mbox": "ecoforestal@magyp.gob.ar",
                 "name": "Subsecretaría de Desarrollo Foresto Industrial"
             },
@@ -3779,91 +3967,6 @@
         },
         {
             "publisher": {
-                "mbox": "rncyfs@inase.gov.ar",
-                "name": "Dirección de Certificación y Control - INASE"
-            },
-            "identifier": "022957c0-60a0-4c1a-8160-e601bbbf8012",
-            "description": "Datos relacionados con la producción nacional de las especies -desagregado por ubicación- que pasan por el proceso de fiscalización del INASE.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Producción nacional fiscalizada por especies y ubicación registrada en el INASE",
-            "issued": "2017-09-07T21:03:00.881825",
-            "modified": "2017-10-02T14:28:34.826943",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "Producción Agroindustrial"
-            ],
-            "keyword": [
-                "INASE",
-                "Unidades",
-                "agropiro",
-                "alfalfa",
-                "arveja",
-                "avena",
-                "cebada",
-                "cebadilla",
-                "centeno",
-                "colza",
-                "especie",
-                "festuca",
-                "girasol",
-                "lolium",
-                "lotus",
-                "maiz",
-                "moha",
-                "papa",
-                "pasto ovillo",
-                "phalaris",
-                "produccion",
-                "raigras",
-                "rendimientos",
-                "rotulos emitidos",
-                "soja",
-                "sorgo",
-                "trebol",
-                "trigo"
-            ],
-            "accrualPeriodicity": "R/P6M",
-            "superTheme": [
-                "AGRI"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.agroindustria.gob.ar/dataset/022957c0-60a0-4c1a-8160-e601bbbf8012/archivo/91bb839c-e97a-4da2-94df-e7ba62b2881a",
-                    "description": "Datos relacionados a la producción Nacional de las especies desagregado por ubicación que pasan por el proceso de fiscalización del INASE, del período 14-15.",
-                    "license": "odc-odbl",
-                    "title": "Producción nacional fiscalizada por especies y ubicación 14-15",
-                    "issued": "2017-09-07T21:04:21.760635",
-                    "format": "CSV",
-                    "modified": "2017-09-07T21:04:21.605919",
-                    "downloadURL": "http://datos.agroindustria.gob.ar/dataset/022957c0-60a0-4c1a-8160-e601bbbf8012/resource/91bb839c-e97a-4da2-94df-e7ba62b2881a/download/34---produccion-nacional-fiscalizada-por-especie-y-ubicacion-14-15.csv"
-                },
-                {
-                    "accessURL": "http://datos.agroindustria.gob.ar/dataset/022957c0-60a0-4c1a-8160-e601bbbf8012/archivo/d4d4498e-f685-43ed-b95a-979b967ae63c",
-                    "description": "Datos relacionados a la producción Nacional de las especies desagregado por ubicación que pasan por el proceso de fiscalización del INASE, del período 16-17.",
-                    "license": "odc-odbl",
-                    "title": "Producción nacional fiscalizada por especies y ubicación 16-17",
-                    "issued": "2017-09-07T21:05:13.120594",
-                    "format": "CSV",
-                    "modified": "2017-09-07T21:05:12.963718",
-                    "downloadURL": "http://datos.agroindustria.gob.ar/dataset/022957c0-60a0-4c1a-8160-e601bbbf8012/resource/d4d4498e-f685-43ed-b95a-979b967ae63c/download/34---produccion-nacional-fiscalizada-por-especie-y-ubicacion-16-17.csv"
-                },
-                {
-                    "accessURL": "http://datos.agroindustria.gob.ar/dataset/022957c0-60a0-4c1a-8160-e601bbbf8012/archivo/5b379ddb-5c85-4851-9394-df041bc7d816",
-                    "description": "Detalle de cada una de las columnas que integran el recurso.",
-                    "license": "odc-odbl",
-                    "title": "Referencias de producción nacional fiscalizada por especies y ubicación",
-                    "issued": "2017-09-07T21:06:25.594081",
-                    "format": "CSV",
-                    "modified": "2017-09-07T21:06:25.446661",
-                    "downloadURL": "http://datos.agroindustria.gob.ar/dataset/022957c0-60a0-4c1a-8160-e601bbbf8012/resource/5b379ddb-5c85-4851-9394-df041bc7d816/download/produccion-nacional-fiscalizada-por-especies-y-ubicacion---referencias.csv"
-                }
-            ],
-            "landingPage": "http://datos.agroindustria.gob.ar/dataset/produccion-nacional-fiscalizada-por-especies-y-ubicacion-registrada-en-el-inase"
-        },
-        {
-            "publisher": {
                 "mbox": "ecoforestal@magyp.gob.ar",
                 "name": "Dirección de Análisis Económico e Inversión"
             },
@@ -4414,69 +4517,6 @@
                 }
             ],
             "landingPage": "http://datos.agroindustria.gob.ar/dataset/montos-pagados-por-la-ley-25080-264-32-para-la-actividad-plantacion"
-        },
-        {
-            "publisher": {
-                "mbox": "rncyfs@inase.gov.ar",
-                "name": "Dirección de Certificación y Control - INASE"
-            },
-            "identifier": "d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c",
-            "description": "Datos de superficie de las especies que pasan por el proceso de fiscalización nacional del INASE.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Superficie nacional fiscalizada por especies",
-            "issued": "2017-09-07T20:25:36.033484",
-            "modified": "2017-09-29T12:37:03.679942",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "Producción Agroindustrial"
-            ],
-            "keyword": [
-                "INASE",
-                "hectareas",
-                "metros",
-                "plantas",
-                "recipiente",
-                "superficie"
-            ],
-            "accrualPeriodicity": "R/P6M",
-            "superTheme": [
-                "AGRI"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.agroindustria.gob.ar/dataset/d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c/archivo/d16bdaf7-3a41-4a3b-8c53-8d44ece90326",
-                    "description": "Datos de superficie de las especies que pasan por el proceso de fiscalización nacional del INASE, del período 14-15.",
-                    "license": "odc-odbl",
-                    "title": "Superficie nacional fiscalizada por especies 14-15",
-                    "issued": "2017-09-07T20:32:14.086373",
-                    "format": "CSV",
-                    "modified": "2017-09-07T21:13:45.253037",
-                    "downloadURL": "http://datos.agroindustria.gob.ar/dataset/d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c/resource/d16bdaf7-3a41-4a3b-8c53-8d44ece90326/download/superficie-nacional-fiscalizada-por-especies-14-15.csv"
-                },
-                {
-                    "accessURL": "http://datos.agroindustria.gob.ar/dataset/d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c/archivo/17b29c45-95c2-4e32-8edc-8cc3cc61e113",
-                    "description": "Datos de superficie de las especies que pasan por el proceso de fiscalización nacional del INASE, del período 16-17.",
-                    "license": "odc-odbl",
-                    "title": "Superficie nacional fiscalizada por especies 16-17",
-                    "issued": "2017-09-07T20:34:27.778057",
-                    "format": "CSV",
-                    "modified": "2017-09-07T21:14:11.372346",
-                    "downloadURL": "http://datos.agroindustria.gob.ar/dataset/d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c/resource/17b29c45-95c2-4e32-8edc-8cc3cc61e113/download/superficie-nacional-fiscalizada-por-especie-16-17.csv"
-                },
-                {
-                    "accessURL": "http://datos.agroindustria.gob.ar/dataset/d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c/archivo/3d20a85f-735d-402b-a7e2-f987472c70e8",
-                    "description": "Detalle de cada una de las columnas que integran el recurso",
-                    "license": "odc-odbl",
-                    "title": "Referencias de superficie nacional fiscalizada por especies",
-                    "issued": "2017-09-07T20:38:53.652170",
-                    "format": "CSV",
-                    "modified": "2017-09-07T20:38:53.593944",
-                    "downloadURL": "http://datos.agroindustria.gob.ar/dataset/d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c/resource/3d20a85f-735d-402b-a7e2-f987472c70e8/download/superficie-nacional-fiscalizada-por-especies---referencias.csv"
-                }
-            ],
-            "landingPage": "http://datos.agroindustria.gob.ar/dataset/superficie-nacional-fiscalizada-por-especies"
         }
     ],
     "themeTaxonomy": [
