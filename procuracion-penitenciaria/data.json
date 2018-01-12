@@ -9,38 +9,39 @@
     "dataset": [
         {
             "publisher": {
-                "mbox": "masheehan@ppn.gov.ar",
-                "name": "Maximiliano Sheehan"
+                "mbox": " investigaciones@ppn.gov.ar",
+                "name": "Departamento de Investigaciones, Procuración  Penitenciaria de la Nación"
             },
             "accessLevel": "public",
-            "description": "Casos comunicados (registrados y/o documentados), con distintas posibilidades de constatación y casos judicializados, por existir denuncia penal.",
+            "description": "Los datos son producidos por la Procuración Penitenciaria de la Nación y la\r\nComisión Provincial por la Memoria en sus procedimientos regulares, integrándose\r\nademás los producidos en relevamientos específicos del Registro Nacional de\r\nCasos de Tortura, compuesto por los organismos antedichos y el Grupo de\r\nEstudios sobre Sistema Penal y Derechos Humanos (IIGG, UBA). La base presenta\r\ndatos sobre los distintos tipos de tortura y malos tratos perpetrados contra las\r\nvíctimas, los lugares de ocurrencia y las agencias policiales y/o de seguridad\r\nimplicadas.",
             "license": "No se especificó la licencia",
-            "title": "MALOS TRATOS POR PARTE DE POLICÍAS Y OTRAS FUERZAS DE SEGURIDAD (RNCT POLICIAL)",
+            "title": "Víctimas relevadas por el Registro Nacional de Casos de Tortura Policial",
             "issued": "2018-01-09T17:23:02.626770",
-            "temporal": "2015-01-01T03:00:00.000Z/2016-01-31T03:00:00.000Z",
-            "modified": "2018-01-09T17:34:23.715956",
+            "temporal": "2011-01-01T03:00:00.000Z/2016-01-31T03:00:00.000Z",
+            "modified": "2018-01-12T13:28:47.099253",
             "language": "spa",
             "theme": [
+                "Condiciones materiales y régimen de encierro",
                 "Malos tratos"
             ],
             "distribution": [
                 {
                     "accessURL": "http://181.209.63.46/dataset/e7b8a31f-eb33-4dd5-9fb2-086d7a826422/resource/6b322c17-412e-4f17-bbed-3ac3a7cc59a6/download/base-rnct-cpm-ppn-tortura-policial-2015-2016.csv",
-                    "description": "Datos del relevamiento:\r\n-\tDatos de identificación del caso/víctima.\r\n-\tAño de relevamiento.\r\n-\tOrganismo receptor. Procuración Penitenciaria de la Nación (PPN) o Comité contra la Tortura de la Comisión Provincial por la Memoria (CCT-CPM).\r\n-\tTipo de relevamiento. Registra las modalidades de relevamiento de la información. En caso de que se trate de una visita a un centro de detención penitenciario o policial: Campo RNCT-PPN; Campo RNCT-CCT; Observación. Cuando la información se releve de una causa judicial o por comunicación de la víctimas o allegados a los organismos: Procedimiento investigación MT–PPN; Comunicaciones Seleccionadas CCT; Planillas de Intervención Seleccionadas CCT.\r\n-\tLugar de relevamiento. Centro de detención penitenciario o policial donde se realizó la entrevista con la víctima.\r\nDatos de la víctima:\r\n-\tEdad.\r\n-\tGénero.\r\n-\tNacionalidad.\r\nDatos de la detención:\r\n-\tFecha de la detención.\r\n-\tNombre de la principal fuerza policial o de seguridad que intervino en la detención. Policía Federal Argentina; Policía Metropolitana;  Gendarmería Nacional Argentina; Prefectura Naval Argentina; Policía de Seguridad Aeroportuaria; Policía Bonaerense (se especifica la nominación correspondiente: Policía de Seguridad Comunal, Policía de Seguridad Distrital, Policía de Prevención Local, etc.); Policías Provinciales (se señala provincia de la que depende); Fuerzas Municipales (guardias urbanas, cuerpos de control locales, etc., dependientes de los municipios); otra. \r\n-\tDependencia funcional/ operativa de la fuerza policial o de seguridad que intervino en la detención. Puede ser: superintendencia, comisaría, destacamento, escuadrones, operativo, etc.\r\n-\tProvincia/ Localidad y barrio donde se produjo la detención. \r\n-\tObservaciones. Se detalla la participación de otras fuerzas policiales y de seguridad y la modalidad. \r\n-\tProcedimiento/ modalidad de aprehensión.",
-                    "title": "MALOS TRATOS POR PARTE DE POLICÍAS Y OTRAS FUERZAS DE SEGURIDAD (RNCT POLICIAL) 2015-2016",
+                    "description": "Los datos son producidos por la Procuración Penitenciaria de la Nación y la\r\nComisión Provincial por la Memoria en sus procedimientos regulares, integrándose\r\nademás los producidos en relevamientos específicos del Registro Nacional de\r\nCasos de Tortura, compuesto por los organismos antedichos y el Grupo de\r\nEstudios sobre Sistema Penal y Derechos Humanos (IIGG, UBA). La base presenta\r\ndatos sobre los distintos tipos de tortura y malos tratos perpetrados contra las\r\nvíctimas, los lugares de ocurrencia y las agencias policiales y/o de seguridad\r\nimplicadas.",
+                    "title": "Víctimas relevadas por el Registro Nacional de Casos de Tortura Policial",
                     "issued": "2018-01-09T17:27:44.989573",
                     "format": "CSV",
                     "modified": "2018-01-09T17:27:44.935035",
                     "downloadURL": "http://181.209.63.46/dataset/e7b8a31f-eb33-4dd5-9fb2-086d7a826422/resource/6b322c17-412e-4f17-bbed-3ac3a7cc59a6/download/base-rnct-cpm-ppn-tortura-policial-2015-2016.csv"
                 },
                 {
-                    "accessURL": "http://181.209.63.46/dataset/e7b8a31f-eb33-4dd5-9fb2-086d7a826422/resource/25652323-e22b-41bf-876d-3854e525e4a2/download/registro-nacional-de-casos-de-tortura-policias-y-ffss.docx",
+                    "accessURL": "http://181.209.63.46/dataset/e7b8a31f-eb33-4dd5-9fb2-086d7a826422/resource/25652323-e22b-41bf-876d-3854e525e4a2/download/ficha-tecnica-rnct-penitenciario.docx",
                     "description": "El presente documento desarrolla los siguientes contenidos para una mejor utilización de la base de datos: \r\nDefiniciones - Información que contempla el RNCT policial - Fuentes que componen el RNCT policial - Temporalidad y contenido de la ficha de relevamiento de casos - Niveles de relevamiento (víctima, tipo, hecho, acto) y multiplicidad de los hechos de tortura y/o malos tratos - CONTENIDO PRESENTADO EN LA BASE DE DATOS",
                     "title": "RNCT POLICIAL - Documento descriptivo",
                     "issued": "2018-01-09T17:34:23.748881",
                     "format": "DOCX",
-                    "modified": "2018-01-09T17:34:23.699332",
-                    "downloadURL": "http://181.209.63.46/dataset/e7b8a31f-eb33-4dd5-9fb2-086d7a826422/resource/25652323-e22b-41bf-876d-3854e525e4a2/download/registro-nacional-de-casos-de-tortura-policias-y-ffss.docx"
+                    "modified": "2018-01-12T13:28:47.078858",
+                    "downloadURL": "http://181.209.63.46/dataset/e7b8a31f-eb33-4dd5-9fb2-086d7a826422/resource/25652323-e22b-41bf-876d-3854e525e4a2/download/ficha-tecnica-rnct-penitenciario.docx"
                 }
             ],
             "keyword": [
@@ -54,8 +55,7 @@
             ],
             "accrualPeriodicity": "R/P1Y",
             "superTheme": [
-                "JUST",
-                "SOCI"
+                "JUST"
             ],
             "landingPage": "http://181.209.63.46/dataset/http-datos-ppn-gov-ar-dataset-rnctpolicial",
             "identifier": "e7b8a31f-eb33-4dd5-9fb2-086d7a826422",
