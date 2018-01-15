@@ -9,66 +9,64 @@
     "dataset": [
         {
             "publisher": {
-                "mbox": " investigaciones@ppn.gov.ar",
-                "name": "Departamento de Investigaciones, Procuración  Penitenciaria de la Nación"
+                "mbox": "masheehan@ppn.gov.ar",
+                "name": "Subdirección General de Gestión Administrativa"
             },
             "accessLevel": "public",
-            "description": "Los datos son producidos por la Procuración Penitenciaria de la Nación y la\r\nComisión Provincial por la Memoria en sus procedimientos regulares, integrándose\r\nademás los producidos en relevamientos específicos del Registro Nacional de\r\nCasos de Tortura, compuesto por los organismos antedichos y el Grupo de\r\nEstudios sobre Sistema Penal y Derechos Humanos (IIGG, UBA). La base presenta\r\ndatos sobre los distintos tipos de tortura y malos tratos perpetrados contra las\r\nvíctimas, los lugares de ocurrencia y las agencias policiales y/o de seguridad\r\nimplicadas.",
-            "license": "No se especificó la licencia",
-            "title": "Víctimas relevadas por el Registro Nacional de Casos de Tortura Policial",
-            "issued": "2018-01-09T17:23:02.626770",
-            "temporal": "2011-01-01T03:00:00.000Z/2016-01-31T03:00:00.000Z",
-            "modified": "2018-01-12T17:42:46.682601",
-            "language": "spa",
+            "description": "Registros generados por la central telefónica informatizada con la que presta el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria, al que los privados de libertad o sus familiares pueden comunicarse para notificar la vulneración de derechos o recibir asesoramiento.",
+            "license": "Creative Commons Attribution",
+            "title": "Registro de llamadas Central Telefónica",
+            "issued": "2017-05-31T18:47:02.969845",
+            "temporal": "2013-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
+            "modified": "2018-01-15T14:18:06.056922",
             "theme": [
-                "Condiciones materiales y régimen de encierro",
-                "Malos tratos"
+                "Gestión administrativa"
             ],
             "distribution": [
                 {
-                    "accessURL": "http://181.209.63.46/dataset/e7b8a31f-eb33-4dd5-9fb2-086d7a826422/resource/6b322c17-412e-4f17-bbed-3ac3a7cc59a6/download/victimas-relevadas-por-el-registro-nacional-de-casos-de-tortura-policial.csv",
-                    "description": "Los datos son producidos por la Procuración Penitenciaria de la Nación y la\r\nComisión Provincial por la Memoria en sus procedimientos regulares, integrándose\r\nademás los producidos en relevamientos específicos del Registro Nacional de\r\nCasos de Tortura, compuesto por los organismos antedichos y el Grupo de\r\nEstudios sobre Sistema Penal y Derechos Humanos (IIGG, UBA). La base presenta\r\ndatos sobre los distintos tipos de tortura y malos tratos perpetrados contra las\r\nvíctimas, los lugares de ocurrencia y las agencias policiales y/o de seguridad\r\nimplicadas.",
-                    "title": "Víctimas relevadas por el Registro Nacional de Casos de Tortura Policial",
-                    "issued": "2018-01-09T17:27:44.989573",
-                    "format": "CSV",
-                    "modified": "2018-01-12T17:42:46.667083",
-                    "downloadURL": "http://181.209.63.46/dataset/e7b8a31f-eb33-4dd5-9fb2-086d7a826422/resource/6b322c17-412e-4f17-bbed-3ac3a7cc59a6/download/victimas-relevadas-por-el-registro-nacional-de-casos-de-tortura-policial.csv"
+                    "accessURL": "http://181.209.63.46/dataset/3959d625-4c9a-4516-be6c-4a9214d8a90b/resource/012f8a46-1aeb-49cd-b14e-010c52eee214/download/registro-de-central-telefonica-ano-2014.xlsx",
+                    "description": "Contiene información obtenida de la central telefónica informatizada del Centro de Denuncias desde el que se atienden los teléfonos con los que los detenidos y sus familiares se pueden comunicar gratuitamente para recibir asesoramiento o para solicitar la intervención de la Procuración Penitenciaria en virtud de haber sido víctimas de alguna violación de derechos.",
+                    "title": "Llamadas telefónicas año 2014",
+                    "issued": "2017-05-31T18:52:11.286388",
+                    "format": "XLSX",
+                    "modified": "2017-05-31T19:27:42.531348",
+                    "downloadURL": "http://181.209.63.46/dataset/3959d625-4c9a-4516-be6c-4a9214d8a90b/resource/012f8a46-1aeb-49cd-b14e-010c52eee214/download/registro-de-central-telefonica-ano-2014.xlsx"
                 },
                 {
-                    "accessURL": "http://181.209.63.46/dataset/e7b8a31f-eb33-4dd5-9fb2-086d7a826422/resource/25652323-e22b-41bf-876d-3854e525e4a2/download/ficha-tecnica-rnct-penitenciario.docx",
-                    "description": "El presente documento desarrolla los siguientes contenidos para una mejor utilización de la base de datos: \r\nDefiniciones - Información que contempla el RNCT policial - Fuentes que componen el RNCT policial - Temporalidad y contenido de la ficha de relevamiento de casos - Niveles de relevamiento (víctima, tipo, hecho, acto) y multiplicidad de los hechos de tortura y/o malos tratos - CONTENIDO PRESENTADO EN LA BASE DE DATOS",
-                    "title": "RNCT POLICIAL - Documento descriptivo",
-                    "issued": "2018-01-09T17:34:23.748881",
-                    "format": "DOCX",
-                    "modified": "2018-01-12T13:28:47.078858",
-                    "downloadURL": "http://181.209.63.46/dataset/e7b8a31f-eb33-4dd5-9fb2-086d7a826422/resource/25652323-e22b-41bf-876d-3854e525e4a2/download/ficha-tecnica-rnct-penitenciario.docx"
+                    "accessURL": "http://181.209.63.46/dataset/3959d625-4c9a-4516-be6c-4a9214d8a90b/resource/61871757-e128-448b-a36d-64dab068c9e5/download/registro-de-central-telefonica-ano-2013.xlsx",
+                    "description": "Contiene información obtenida de la central telefónica informatizada del Centro de Denuncias desde el que se atienden los teléfonos con los que los detenidos y sus familiares se pueden comunicar gratuitamente para recibir asesoramiento o para solicitar la intervención de la Procuración Penitenciaria en virtud de haber sido víctimas de alguna violación de derechos.",
+                    "title": "Llamadas telefónicas año 2013",
+                    "issued": "2017-05-31T19:09:51.727501",
+                    "format": "XLSX",
+                    "modified": "2017-05-31T19:07:31.215407",
+                    "downloadURL": "http://181.209.63.46/dataset/3959d625-4c9a-4516-be6c-4a9214d8a90b/resource/61871757-e128-448b-a36d-64dab068c9e5/download/registro-de-central-telefonica-ano-2013.xlsx"
                 }
             ],
             "keyword": [
-                "agresiones",
-                "cárcel",
+                "carcel",
+                "ddhh",
                 "derechos humanos",
-                "malos tratos",
-                "policial",
-                "prisión",
+                "gestion",
+                "llamadas",
+                "ppn",
                 "privados de libertad"
             ],
             "accrualPeriodicity": "R/P1Y",
             "superTheme": [
-                "JUST"
+                "SOCI"
             ],
-            "landingPage": "http://181.209.63.46/dataset/http-datos-ppn-gov-ar-dataset-rnctpolicial",
-            "identifier": "e7b8a31f-eb33-4dd5-9fb2-086d7a826422",
+            "landingPage": "http://181.209.63.46/dataset/registro-de-llamadas-central-telefonica",
+            "identifier": "3959d625-4c9a-4516-be6c-4a9214d8a90b",
             "contactPoint": {
-                "hasEmail": "mailto:jandersen@ppn.gov.ar",
+                "hasEmail": "mailto:grodriguez@ppn.gov.ar",
                 "@type": "vcard:Contact",
-                "fn": "Jimena Andersen"
+                "fn": "Área de Sistemas y Comunicaciones"
             }
         },
         {
             "publisher": {
-                "mbox": "cmotto@ppn.gov.ar",
-                "name": "RNCT"
+                "mbox": "investigaciones@ppn.gov.ar",
+                "name": "Departamento de Investigaciones"
             },
             "accessLevel": "public",
             "description": "El Registro Nacional de Casos de Tortura y/o Malos Tratos pretende avanzar en la instrumentación operativa a nivel local del Protocolo Facultativo de la Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes. Para esto, se registran casos concretos y fehacientes sobre violación de derechos y torturas a través de las visitas periódicas a lugares de encierro (en el marco del monitoreo de condiciones de detención), así como la presentación y/o comunicación espontánea de personas detenidas y familiares ante la Procuración Penitenciaria de la Nación  y la Comisión Provincial por la Memoria.",
@@ -76,7 +74,7 @@
             "title": "Registro Nacional de casos de tortura y/o malos tratos (RNCT)",
             "issued": "2017-12-01T14:15:13.354337",
             "temporal": "2015-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
-            "modified": "2018-01-12T17:34:57.611495",
+            "modified": "2018-01-15T13:23:33.595457",
             "language": "spa",
             "theme": [
                 "Aislamiento",
@@ -163,9 +161,68 @@
             "landingPage": "http://181.209.63.46/dataset/datos-ppn-gov-ar",
             "identifier": "4ab10495-240e-4c8e-a379-adf3e7e7c160",
             "contactPoint": {
-                "hasEmail": "mailto:masheehan@ppn.gov.ar",
+                "hasEmail": "mailto:cmotto@ppn.gov.ar",
                 "@type": "vcard:Contact",
-                "fn": "Maximiliano Sheehan"
+                "fn": "Carlos Motto"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "investigaciones@ppn.gov.ar",
+                "name": "Departamento de Investigaciones"
+            },
+            "accessLevel": "public",
+            "description": "Los datos son producidos por la Procuración Penitenciaria de la Nación y la\r\nComisión Provincial por la Memoria en sus procedimientos regulares, integrándose\r\nademás los producidos en relevamientos específicos del Registro Nacional de\r\nCasos de Tortura, compuesto por los organismos antedichos y el Grupo de\r\nEstudios sobre Sistema Penal y Derechos Humanos (IIGG, UBA). La base presenta\r\ndatos sobre los distintos tipos de tortura y malos tratos perpetrados contra las\r\nvíctimas, los lugares de ocurrencia y las agencias policiales y/o de seguridad\r\nimplicadas.",
+            "license": "Otra (Abierta)",
+            "title": "Víctimas relevadas por el Registro Nacional de Casos de Tortura Policial",
+            "issued": "2018-01-09T17:23:02.626770",
+            "temporal": "2011-01-01T03:00:00.000Z/2016-01-31T03:00:00.000Z",
+            "modified": "2018-01-15T13:20:53.441442",
+            "language": "spa",
+            "theme": [
+                "Aislamiento",
+                "Condiciones materiales y régimen de encierro",
+                "Malos tratos"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://181.209.63.46/dataset/e7b8a31f-eb33-4dd5-9fb2-086d7a826422/resource/6b322c17-412e-4f17-bbed-3ac3a7cc59a6/download/victimas-relevadas-por-el-registro-nacional-de-casos-de-tortura-policial.csv",
+                    "description": "Los datos son producidos por la Procuración Penitenciaria de la Nación y la\r\nComisión Provincial por la Memoria en sus procedimientos regulares, integrándose\r\nademás los producidos en relevamientos específicos del Registro Nacional de\r\nCasos de Tortura, compuesto por los organismos antedichos y el Grupo de\r\nEstudios sobre Sistema Penal y Derechos Humanos (IIGG, UBA). La base presenta\r\ndatos sobre los distintos tipos de tortura y malos tratos perpetrados contra las\r\nvíctimas, los lugares de ocurrencia y las agencias policiales y/o de seguridad\r\nimplicadas.",
+                    "title": "Víctimas relevadas por el Registro Nacional de Casos de Tortura Policial",
+                    "issued": "2018-01-09T17:27:44.989573",
+                    "format": "CSV",
+                    "modified": "2018-01-12T17:42:46.667083",
+                    "downloadURL": "http://181.209.63.46/dataset/e7b8a31f-eb33-4dd5-9fb2-086d7a826422/resource/6b322c17-412e-4f17-bbed-3ac3a7cc59a6/download/victimas-relevadas-por-el-registro-nacional-de-casos-de-tortura-policial.csv"
+                },
+                {
+                    "accessURL": "http://181.209.63.46/dataset/e7b8a31f-eb33-4dd5-9fb2-086d7a826422/resource/25652323-e22b-41bf-876d-3854e525e4a2/download/ficha-tecnica-rnct-penitenciario.docx",
+                    "description": "El presente documento desarrolla los siguientes contenidos para una mejor utilización de la base de datos: \r\nDefiniciones - Información que contempla el RNCT policial - Fuentes que componen el RNCT policial - Temporalidad y contenido de la ficha de relevamiento de casos - Niveles de relevamiento (víctima, tipo, hecho, acto) y multiplicidad de los hechos de tortura y/o malos tratos - CONTENIDO PRESENTADO EN LA BASE DE DATOS",
+                    "title": "RNCT POLICIAL - Documento descriptivo",
+                    "issued": "2018-01-09T17:34:23.748881",
+                    "format": "DOCX",
+                    "modified": "2018-01-12T13:28:47.078858",
+                    "downloadURL": "http://181.209.63.46/dataset/e7b8a31f-eb33-4dd5-9fb2-086d7a826422/resource/25652323-e22b-41bf-876d-3854e525e4a2/download/ficha-tecnica-rnct-penitenciario.docx"
+                }
+            ],
+            "keyword": [
+                "agresiones",
+                "cárcel",
+                "derechos humanos",
+                "malos tratos",
+                "policial",
+                "prisión",
+                "privados de libertad"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "JUST"
+            ],
+            "landingPage": "http://181.209.63.46/dataset/http-datos-ppn-gov-ar-dataset-rnctpolicial",
+            "identifier": "e7b8a31f-eb33-4dd5-9fb2-086d7a826422",
+            "contactPoint": {
+                "hasEmail": "mailto:jandersen@ppn.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Jimena Andersen"
             }
         },
         {
@@ -996,62 +1053,6 @@
             ],
             "landingPage": "http://181.209.63.46/dataset/gestion-de-reclamos-y-afines",
             "identifier": "0d62b281-b0c6-43ae-a911-d92adefb0889",
-            "contactPoint": {
-                "hasEmail": "mailto:grodriguez@ppn.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Área de Sistemas y Comunicaciones"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "masheehan@ppn.gov.ar",
-                "name": "SDGGA"
-            },
-            "accessLevel": "public",
-            "description": "Registros generados por la central telefónica informatizada con la que presta el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria, al que los privados de libertad o sus familiares pueden comunicarse para notificar la vulneración de derechos o recibir asesoramiento.",
-            "license": "Creative Commons Attribution",
-            "title": "Registro de llamadas Central Telefónica",
-            "issued": "2017-05-31T18:47:02.969845",
-            "temporal": "2013-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
-            "modified": "2017-06-02T14:31:54.971745",
-            "theme": [
-                "Gestión administrativa"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://181.209.63.46/dataset/3959d625-4c9a-4516-be6c-4a9214d8a90b/resource/012f8a46-1aeb-49cd-b14e-010c52eee214/download/registro-de-central-telefonica-ano-2014.xlsx",
-                    "description": "Contiene información obtenida de la central telefónica informatizada del Centro de Denuncias desde el que se atienden los teléfonos con los que los detenidos y sus familiares se pueden comunicar gratuitamente para recibir asesoramiento o para solicitar la intervención de la Procuración Penitenciaria en virtud de haber sido víctimas de alguna violación de derechos.",
-                    "title": "Llamadas telefónicas año 2014",
-                    "issued": "2017-05-31T18:52:11.286388",
-                    "format": "XLSX",
-                    "modified": "2017-05-31T19:27:42.531348",
-                    "downloadURL": "http://181.209.63.46/dataset/3959d625-4c9a-4516-be6c-4a9214d8a90b/resource/012f8a46-1aeb-49cd-b14e-010c52eee214/download/registro-de-central-telefonica-ano-2014.xlsx"
-                },
-                {
-                    "accessURL": "http://181.209.63.46/dataset/3959d625-4c9a-4516-be6c-4a9214d8a90b/resource/61871757-e128-448b-a36d-64dab068c9e5/download/registro-de-central-telefonica-ano-2013.xlsx",
-                    "description": "Contiene información obtenida de la central telefónica informatizada del Centro de Denuncias desde el que se atienden los teléfonos con los que los detenidos y sus familiares se pueden comunicar gratuitamente para recibir asesoramiento o para solicitar la intervención de la Procuración Penitenciaria en virtud de haber sido víctimas de alguna violación de derechos.",
-                    "title": "Llamadas telefónicas año 2013",
-                    "issued": "2017-05-31T19:09:51.727501",
-                    "format": "XLSX",
-                    "modified": "2017-05-31T19:07:31.215407",
-                    "downloadURL": "http://181.209.63.46/dataset/3959d625-4c9a-4516-be6c-4a9214d8a90b/resource/61871757-e128-448b-a36d-64dab068c9e5/download/registro-de-central-telefonica-ano-2013.xlsx"
-                }
-            ],
-            "keyword": [
-                "carcel",
-                "ddhh",
-                "derechos humanos",
-                "gestion",
-                "llamadas",
-                "ppn",
-                "privados de libertad"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "superTheme": [
-                "SOCI"
-            ],
-            "landingPage": "http://181.209.63.46/dataset/registro-de-llamadas-central-telefonica",
-            "identifier": "3959d625-4c9a-4516-be6c-4a9214d8a90b",
             "contactPoint": {
                 "hasEmail": "mailto:grodriguez@ppn.gov.ar",
                 "@type": "vcard:Contact",
