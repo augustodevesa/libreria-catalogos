@@ -6,6 +6,118 @@
     "description": "Ponemos a tu alcance datos públicos del Ministerio de Desarrollo Social de la Nación en formatos abiertos de modo que puedas usarlos y compartirlos. Te proponemos, a través de este portal, tener un punto de encuentro entre el ministerio, las organizaciones de la sociedad civil y los ciudadanos.",
     "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
     "title": "Ministerio de Desarrollo Social",
-    "dataset": [],
+    "dataset": [
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "MDSN"
+            },
+            "accessLevel": "public",
+            "description": "Huertas comunitarias, escolares y familiares",
+            "license": "Creative Commons Attribution",
+            "title": "Programa ProHuerta",
+            "issued": "2018-01-16T17:10:58.965671",
+            "modified": "2018-01-16T17:12:45.239074",
+            "language": "spa",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.desarrollosocial.gob.ar/dataset/486d58b7-1be8-4b16-a5fe-01f31201c9d7/resource/1d418fc5-05ef-46a7-9ddb-210b892eb91e/download/dataset---anexo-huertas.csv",
+                    "description": "Huertas asistidas como fuente de alimentos y/o ingresos para personas en situación de vulnerabilidad social, según tipo (comunitarias, escolares y familiares)\r\nHuertas en existencia (Julio 2017)",
+                    "title": "Huertas en Existencia",
+                    "issued": "2018-01-16T17:12:44.119776",
+                    "format": "CSV",
+                    "modified": "2018-01-16T17:12:44.019839",
+                    "downloadURL": "http://datosabiertos.desarrollosocial.gob.ar/dataset/486d58b7-1be8-4b16-a5fe-01f31201c9d7/resource/1d418fc5-05ef-46a7-9ddb-210b892eb91e/download/dataset---anexo-huertas.csv"
+                }
+            ],
+            "keyword": [
+                "ProHuerta",
+                "Seguridad Alimentaria"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "SOCI"
+            ],
+            "landingPage": "http://datosabiertos.desarrollosocial.gob.ar/dataset/programa-prohuerta",
+            "identifier": "486d58b7-1be8-4b16-a5fe-01f31201c9d7",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "MDSN"
+            },
+            "accessLevel": "public",
+            "description": "Detalle de centros de referencia de todo el país",
+            "license": "Creative Commons Attribution",
+            "title": "Centros de Referencia",
+            "issued": "2018-01-16T17:05:30.346977",
+            "modified": "2018-01-16T17:07:20.665440",
+            "language": "spa",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.desarrollosocial.gob.ar/dataset/9d57124c-a6af-4f53-8a34-4aecce6fee91/resource/82b3d5ca-2067-4a8c-89b0-c6aedae323e7/download/dataset---anexo-cdr.csv",
+                    "description": "Destalle de Centros de Referencia del país",
+                    "title": "Centros de Referencia",
+                    "issued": "2018-01-16T17:07:19.414787",
+                    "format": "CSV",
+                    "modified": "2018-01-16T17:07:19.347630",
+                    "downloadURL": "http://datosabiertos.desarrollosocial.gob.ar/dataset/9d57124c-a6af-4f53-8a34-4aecce6fee91/resource/82b3d5ca-2067-4a8c-89b0-c6aedae323e7/download/dataset---anexo-cdr.csv"
+                }
+            ],
+            "keyword": [
+                "CDR",
+                "Centro de Referencia"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "SOCI"
+            ],
+            "landingPage": "http://datosabiertos.desarrollosocial.gob.ar/dataset/centros-de-referencia",
+            "identifier": "9d57124c-a6af-4f53-8a34-4aecce6fee91",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "MDSN"
+            },
+            "accessLevel": "public",
+            "description": "Detalle de capacitaciones a Adultos Mayores",
+            "license": "Creative Commons Attribution",
+            "title": "Adultos Mayores",
+            "issued": "2018-01-11T18:45:28.934311",
+            "modified": "2018-01-16T17:06:28.258613",
+            "language": "spa",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.desarrollosocial.gob.ar/dataset/61d0928e-30b2-4b97-a674-62338949dcba/resource/98d21341-ddef-47e6-9628-51ac860fc201/download/dataset---adultos-mayores.csv",
+                    "description": "Detalle de las capacitaciones brindadas a Adultos Mayores",
+                    "title": "Capacitación adultos mayores",
+                    "issued": "2018-01-16T16:58:15.598733",
+                    "format": "CSV",
+                    "modified": "2018-01-16T16:58:15.490360",
+                    "downloadURL": "http://datosabiertos.desarrollosocial.gob.ar/dataset/61d0928e-30b2-4b97-a674-62338949dcba/resource/98d21341-ddef-47e6-9628-51ac860fc201/download/dataset---adultos-mayores.csv"
+                }
+            ],
+            "keyword": [
+                "Adultos Mayores",
+                "Capacitación"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "SOCI"
+            ],
+            "landingPage": "http://datosabiertos.desarrollosocial.gob.ar/dataset/ninez-y-familia",
+            "identifier": "61d0928e-30b2-4b97-a674-62338949dcba",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        }
+    ],
     "themeTaxonomy": []
 }
