@@ -3295,7 +3295,7 @@
                 "ECON"
             ],
             "title": "Indicadores Provinciales Socioeconómicos",
-            "temporal": "1991-01-01/2017-12-31",
+            "temporal": "1991-01-01/2018-12-31",
             "source": "INDEC, MSAL, Ministerio de Educación, MTEySS, BCRA, MinHacienda, DPEyC, CEP",
             "theme": [
                 "sociodemograficos",
@@ -3357,19 +3357,19 @@
                             "description": "Alumnos de Educación Común - Inicial - Sector Estatal y Privado",
                             "title": "alum_comun_inic",
                             "type": "number",
-                            "units": "por cada 1.000 nacidos vivos"
+                            "units": "alumnos"
                         },
                         {
                             "description": "Alumnos de Educación Común - Primario - Sector Estatal y Privado",
                             "title": "alum_comun_pri",
                             "type": "number",
-                            "units": "por cada 1.000 nacidos vivos"
+                            "units": "alumnos"
                         },
                         {
                             "description": "Alumnos de Educación Común - Secundario Ciclo Básico - Sector Estatal y Privado",
                             "title": "alum_comun_sec_bas",
                             "type": "number",
-                            "units": "por cada 1.000 nacidos vivos"
+                            "units": "alumnos"
                         },
                         {
                             "description": "Alumnos de Educación Común - Secundario Ciclo Orientado - Sector Estatal y Privado",
@@ -5180,6 +5180,155 @@
                 }
             ],
             "identifier": "12"
+        },
+        {
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ECON"
+            ],
+            "title": "Indicadores Sectoriales de Energías Alternativas",
+            "temporal": "1996-01-01/2017-11-01",
+            "source": "CAMMESA, MTEySS",
+            "theme": [
+                "produccion_actividad",
+                "mercado laboral"
+            ],
+            "spatial": "ARG",
+            "description": "Indicadores de la cadena de valor Energías Alternativas",
+            "contactPoint": {
+                "hasEmail": "sspmicro@mecon.gov.ar",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
+            },
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "keyword": [
+                "nuclear",
+                "eólica",
+                "biogás",
+                "biomasa",
+                "solar",
+                "potencia",
+                "generación",
+                "energía",
+                "renovables"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "description": "Indicadores de Energías alternativas en valores anuales, trimestrales y mensuales",
+                    "title": "Indicadores de Energías alternativas en valores anuales, trimestrales y mensuales",
+                    "format": "CSV",
+                    "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/25-indicadores-energias-alternativas-basecompleta.csv",
+                    "field": [
+                        {
+                            "description": "Anual, trimestral y mensual",
+                            "title": "indice_tiempo",
+                            "type": "date"
+                        },
+                        {
+                            "description": "Identifica la frecuencia del dato con valores: anual, trimestral y mensual",
+                            "title": "frec_temporal",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Alcance a nivel país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_tipo",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Código de país, provincia, municipio, localidad, departamento, conglomerado, empresas, otros",
+                            "title": "alcance_id",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Identifica el nombre de provincia, departament, localidad, otros de referencia",
+                            "title": "alcance_nombre",
+                            "type": "text"
+                        },
+                        {
+                            "description": "Potencia instalada eólica",
+                            "title": "potencia_eolica",
+                            "type": "number",
+                            "units": "MW (megavatio)"
+                        },
+                        {
+                            "description": "Potencia instalada solar",
+                            "title": "potencia_solar",
+                            "type": "number",
+                            "units": "MW (megavatio)"
+                        },
+                        {
+                            "description": "Potencia instalada biogás",
+                            "title": "potencia_biogas",
+                            "type": "number",
+                            "units": "MW (megavatio)"
+                        },
+                        {
+                            "description": "Potencia instalada pequeños aprovechamientos hidroeléctricos",
+                            "title": "potencia_pah",
+                            "type": "number",
+                            "units": "MW (megavatio)"
+                        },
+                        {
+                            "description": "Potencia instalada nuclear",
+                            "title": "potencia_nuclear",
+                            "type": "number",
+                            "units": "MW (megavatio)"
+                        },
+                        {
+                            "description": "Generación de energía fuente eólica",
+                            "title": "generacion_eolica",
+                            "type": "number",
+                            "units": "MWh (megavatio hora)"
+                        },
+                        {
+                            "description": "Generación de energía fuente solar",
+                            "title": "generacion_solar",
+                            "type": "number",
+                            "units": "MWh (megavatio hora)"
+                        },
+                        {
+                            "description": "Generación de energía fuente biogás",
+                            "title": "generacion_biogas",
+                            "type": "number",
+                            "units": "MWh (megavatio hora)"
+                        },
+                        {
+                            "description": "Generación de energía fuente pequeños aprovechamientos hidroeléctricos",
+                            "title": "generacion_pah",
+                            "type": "number",
+                            "units": "MWh (megavatio hora)"
+                        },
+                        {
+                            "description": "Generación de energía fuente  biomasa",
+                            "title": "generacion_biomasa",
+                            "type": "number",
+                            "units": "MWh (megavatio hora)"
+                        },
+                        {
+                            "description": "Generación de energía fuente nuclear",
+                            "title": "generacion_nuclear",
+                            "type": "number",
+                            "units": "MWh (megavatio hora)"
+                        },
+                        {
+                            "description": "Empleo asalariado registrado del sector privado: CIIU 4011 Generación de energía eléctrica",
+                            "title": "empleo_4011",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        }
+                    ],
+                    "identifier": "25.1"
+                }
+            ],
+            "identifier": "25"
         }
     ],
     "language": [
