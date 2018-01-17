@@ -68,6 +68,60 @@
             "superTheme": [
                 "TECH"
             ],
+            "keyword": [
+                "licencias"
+            ],
+            "title": "Licencias TIC otorgadas",
+            "issued": "2017-12-21T14:38:16",
+            "modified": "2018-01-17T22:36:41Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "licencias"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/244212/licencias-tic-otorgadas/",
+                    "description": "Licencias TIC otorgadas por ENACOM",
+                    "title": "Licencias TIC otorgadas",
+                    "issued": "2017-12-21T14:38:16",
+                    "format": "CSV",
+                    "modified": "2018-01-17T22:36:41Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-OTORG/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/244212/licencias-tic-otorgadas/",
+                    "description": "Licencias TIC otorgadas por ENACOM",
+                    "title": "Licencias TIC otorgadas",
+                    "issued": "2017-12-21T14:38:16",
+                    "format": "XLS",
+                    "modified": "2018-01-17T22:36:41Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-OTORG/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/244212/licencias-tic-otorgadas/",
+                    "description": "Licencias TIC otorgadas por ENACOM",
+                    "title": "Licencias TIC otorgadas",
+                    "issued": "2017-12-21T14:38:16",
+                    "format": "JSON",
+                    "modified": "2018-01-17T22:36:41Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-OTORG/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "LICEN-TIC-OTORG",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/244212/licencias-tic-otorgadas/",
+            "description": "Licencias TIC otorgadas por ENACOM"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
             "keyword": [],
             "title": "Fomeca: montos aprobados y pagados por entidad beneficiada",
             "issued": "2017-09-19T14:58:28",
@@ -1165,60 +1219,6 @@
             "identifier": "ACCES-A-INTER-FIJO-23248",
             "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240904/acceso-a-internet-fijo-por-velocidad-de-bajada-y-provincia/",
             "description": "Número de accesos al servicio de Internet fijo por velocidad de bajada en cada provincia (trimestral)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "licencias"
-            ],
-            "title": "Licencias TIC otorgadas",
-            "issued": "2017-12-21T14:38:16",
-            "modified": "2017-12-21T17:45:52Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "licencias"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/244212/licencias-tic-otorgadas/",
-                    "description": "Licencias TIC otorgadas por ENACOM",
-                    "title": "Licencias TIC otorgadas",
-                    "issued": "2017-12-21T14:38:16",
-                    "format": "CSV",
-                    "modified": "2017-12-21T17:45:52Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-OTORG/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/244212/licencias-tic-otorgadas/",
-                    "description": "Licencias TIC otorgadas por ENACOM",
-                    "title": "Licencias TIC otorgadas",
-                    "issued": "2017-12-21T14:38:16",
-                    "format": "XLS",
-                    "modified": "2017-12-21T17:45:52Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-OTORG/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/244212/licencias-tic-otorgadas/",
-                    "description": "Licencias TIC otorgadas por ENACOM",
-                    "title": "Licencias TIC otorgadas",
-                    "issued": "2017-12-21T14:38:16",
-                    "format": "JSON",
-                    "modified": "2017-12-21T17:45:52Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-OTORG/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "LICEN-TIC-OTORG",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/244212/licencias-tic-otorgadas/",
-            "description": "Licencias TIC otorgadas por ENACOM"
         },
         {
             "publisher": {
