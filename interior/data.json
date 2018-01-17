@@ -17,7 +17,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Ingresos y Egresos de personas al pais y Residencias Otorgadas.",
             "issued": "2017-09-20T12:49:40.599062",
-            "modified": "2018-01-16T21:29:46.225373",
+            "modified": "2018-01-16T21:49:45.616066",
             "language": [
                 "spa"
             ],
@@ -42,6 +42,134 @@
                 "TRAN"
             ],
             "distribution": [
+                {
+                    "accessURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/archivo/ce89c526-ef09-4b35-a0ee-84d6c5b7a190",
+                    "description": "Movimientos Migratorios - 4° trimestre - año 2017",
+                    "license": "odc-odbl",
+                    "title": "Ingresos y Egresos de personas al pais - 4° trimestre - año 2017.",
+                    "issued": "2018-01-16T21:23:22.277897",
+                    "format": "CSV",
+                    "modified": "2018-01-16T21:23:06.097303",
+                    "downloadURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/ce89c526-ef09-4b35-a0ee-84d6c5b7a190/download/movimientos-migratorios--4-trimestre-2017.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "PASO_CRUCE"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de ingresos y egresos de personas.",
+                            "unit": "",
+                            "title": "CANTIDAD"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/archivo/a1b7bb00-9bd0-415d-b47e-89c19fa70c74",
+                    "description": "Detalle Residencias otorgadas - 4° trimestre - año 2017",
+                    "license": "odc-odbl",
+                    "title": "Residencias otorgadas - 4° trimestre - año 2017",
+                    "issued": "2018-01-16T21:43:08.194346",
+                    "format": "CSV",
+                    "modified": "2018-01-16T21:41:11.146500",
+                    "downloadURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/a1b7bb00-9bd0-415d-b47e-89c19fa70c74/download/residencias-otorgadas---4-trimestre---ano-2017.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "PROVINCIA",
+                            "title": "PROVINCIA"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Tipo de Residencia",
+                            "unit": "",
+                            "title": "TRANSITORIAS"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Tipo de Residencia",
+                            "unit": "",
+                            "title": "TEMPORARIAS"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Tipo de Residencia",
+                            "unit": "",
+                            "title": "PERMANENTES"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Totales de residencias otorgadas",
+                            "unit": "",
+                            "title": "TOTALES"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/archivo/85313fb9-2b74-4d6a-a842-33f9b05b80c1",
+                    "description": "Movimientos Migratorios - 3° trimestre - año 2017",
+                    "license": "odc-odbl",
+                    "title": "Ingresos y Egresos de personas al pais - 3° trimestre - año 2017.",
+                    "issued": "2018-01-16T20:48:59.625736",
+                    "format": "CSV",
+                    "modified": "2018-01-16T21:15:06.418643",
+                    "downloadURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/85313fb9-2b74-4d6a-a842-33f9b05b80c1/download/ingresos-y-egresos-de-personas-al-pais---3-trimestre---ano-2017..csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Paso por donde se realizo el transito.",
+                            "title": "PASO_CRUCE"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de ingresos y egresos de personas.",
+                            "unit": "",
+                            "title": "CANTIDAD"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/archivo/8782b0fd-8f82-4652-93be-5b8c0cc8b19b",
+                    "description": "Detalle Residencias otorgadas - 3° trimestre - año 2017",
+                    "license": "odc-odbl",
+                    "title": "Residencias otorgadas - 3° trimestre - año 2017",
+                    "issued": "2018-01-16T21:29:46.311153",
+                    "format": "CSV",
+                    "modified": "2018-01-16T21:29:46.146942",
+                    "downloadURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/8782b0fd-8f82-4652-93be-5b8c0cc8b19b/download/residencias-otorgadas---3-trimestre---ano-2017.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "PROVINCIA",
+                            "title": "PROVINCIA"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Tipo de Residencia",
+                            "unit": "",
+                            "title": "TRANSITORIAS"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Tipo de Residencia",
+                            "unit": "",
+                            "title": "TEMPORARIAS"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Tipo de Residencia",
+                            "unit": "",
+                            "title": "PERMANENTES"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Totales de residencias otorgadas",
+                            "unit": "",
+                            "title": "TOTALES"
+                        }
+                    ]
+                },
                 {
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/archivo/916b441c-56c4-46be-af0a-976e460e7201",
                     "description": "Movimientos Migratorios - 2° trimestre - año 2017",
@@ -191,93 +319,6 @@
                             "type": "string",
                             "description": "Paso por donde se realizo el transito.",
                             "title": "PASO_CRUCE"
-                        }
-                    ]
-                },
-                {
-                    "accessURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/archivo/85313fb9-2b74-4d6a-a842-33f9b05b80c1",
-                    "description": "Movimientos Migratorios - 3° trimestre - año 2017",
-                    "license": "odc-odbl",
-                    "title": "Ingresos y Egresos de personas al pais - 3° trimestre - año 2017.",
-                    "issued": "2018-01-16T20:48:59.625736",
-                    "format": "CSV",
-                    "modified": "2018-01-16T21:15:06.418643",
-                    "downloadURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/85313fb9-2b74-4d6a-a842-33f9b05b80c1/download/ingresos-y-egresos-de-personas-al-pais---3-trimestre---ano-2017..csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Paso por donde se realizo el transito.",
-                            "title": "PASO_CRUCE"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Cantidad de ingresos y egresos de personas.",
-                            "unit": "",
-                            "title": "CANTIDAD"
-                        }
-                    ]
-                },
-                {
-                    "accessURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/archivo/ce89c526-ef09-4b35-a0ee-84d6c5b7a190",
-                    "description": "Movimientos Migratorios - 4° trimestre - año 2017",
-                    "license": "odc-odbl",
-                    "title": "Ingresos y Egresos de personas al pais - 4° trimestre - año 2017.",
-                    "issued": "2018-01-16T21:23:22.277897",
-                    "format": "CSV",
-                    "modified": "2018-01-16T21:23:06.097303",
-                    "downloadURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/ce89c526-ef09-4b35-a0ee-84d6c5b7a190/download/movimientos-migratorios--4-trimestre-2017.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "",
-                            "title": "PASO_CRUCE"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Cantidad de ingresos y egresos de personas.",
-                            "unit": "",
-                            "title": "CANTIDAD"
-                        }
-                    ]
-                },
-                {
-                    "accessURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/archivo/8782b0fd-8f82-4652-93be-5b8c0cc8b19b",
-                    "description": "Detalle Residencias otorgadas - 3° trimestre - año 2017",
-                    "license": "odc-odbl",
-                    "title": "Residencias otorgadas - 3° trimestre - año 2017",
-                    "issued": "2018-01-16T21:29:46.311153",
-                    "format": "CSV",
-                    "modified": "2018-01-16T21:29:46.146942",
-                    "downloadURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/8782b0fd-8f82-4652-93be-5b8c0cc8b19b/download/residencias-otorgadas---3-trimestre---ano-2017.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "PROVINCIA",
-                            "title": "PROVINCIA"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Tipo de Residencia",
-                            "unit": "",
-                            "title": "TRANSITORIAS"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Tipo de Residencia",
-                            "unit": "",
-                            "title": "TEMPORARIAS"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Tipo de Residencia",
-                            "unit": "",
-                            "title": "PERMANENTES"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Totales de residencias otorgadas",
-                            "unit": "",
-                            "title": "TOTALES"
                         }
                     ]
                 }
