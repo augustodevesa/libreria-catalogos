@@ -9,6 +9,41 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "privadasspt@mininterior.gob.ar",
+                "name": "Subsecretaría de Planificación Territorial de la Inversión Pública"
+            },
+            "identifier": "23f24c02-7a31-4998-a774-ec8bf82d9b5f",
+            "description": "El Plan Estratégico Territorial (PET) es uno de los instrumentos de concreción de la Política Nacional de Desarrollo y Ordenamiento Territorial, una guía para el despliegue de la inversión pública en el territorio con el objeto de construir una Argentina integrada, equilibrada, sustentable y socialmente justa.",
+            "license": "Otra (Abierta)",
+            "title": "Plan Estratégico Territorial",
+            "issued": "2017-12-07T18:20:00.309535",
+            "modified": "2018-01-18T14:08:15.461024",
+            "language": [
+                "spa"
+            ],
+            "keyword": [
+                "Plan",
+                "Plan Estrategico Territorial"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "GOVE"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://www.mininterior.gob.ar/planificacion/plan-estrategico.ph",
+                    "description": "Enlace al Plan Estratégico Territorial",
+                    "license": "other-open",
+                    "title": "Plan Estratégico Territorial",
+                    "issued": "2017-12-07T18:21:14.446408",
+                    "format": "link",
+                    "downloadURL": "http://www.mininterior.gob.ar/planificacion/plan-estrategico.php"
+                }
+            ],
+            "landingPage": "http://www.mininterior.gob.ar/planificacion/plan-estrategico.php"
+        },
+        {
+            "publisher": {
                 "mbox": "jbudrovich@migraciones.gov.ar",
                 "name": "Dirección Nacional de Migraciones"
             },
@@ -501,40 +536,6 @@
                 }
             ],
             "landingPage": "https://datos.mininterior.gob.ar/dataset/resultados-definitivos-elecciones-generales-2017"
-        },
-        {
-            "publisher": {
-                "mbox": "privadasspt@mininterior.gob.ar",
-                "name": "Subsecretaría de Planificación Territorial de la Inversión Pública"
-            },
-            "identifier": "23f24c02-7a31-4998-a774-ec8bf82d9b5f",
-            "description": "El Plan Estratégico Territorial (PET) es uno de los instrumentos de concreción de la Política Nacional de Desarrollo y Ordenamiento Territorial, una guía para el despliegue de la inversión pública en el territorio con el objeto de construir una Argentina integrada, equilibrada, sustentable y socialmente justa.",
-            "license": "Other (Open)",
-            "title": "Plan Estratégico Territorial",
-            "issued": "2017-12-07T18:20:00.309535",
-            "modified": "2017-12-12T18:38:20.156779",
-            "language": [
-                "spa"
-            ],
-            "keyword": [
-                "Plan",
-                "Plan Estrategico Territorial"
-            ],
-            "accrualPeriodicity": "eventual",
-            "superTheme": [
-                "GOVE"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://www.mininterior.gob.ar/planificacion/plan-estrategico.ph",
-                    "description": "Enlace al Plan Estratégico Territorial",
-                    "license": "other-open",
-                    "title": "Plan Estratégico Territorial",
-                    "issued": "2017-12-07T18:21:14.446408",
-                    "downloadURL": "http://www.mininterior.gob.ar/planificacion/plan-estrategico.php"
-                }
-            ],
-            "landingPage": "http://www.mininterior.gob.ar/planificacion/plan-estrategico.php"
         },
         {
             "publisher": {
