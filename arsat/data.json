@@ -55,7 +55,7 @@
             ],
             "title": "Registro de Audiencias",
             "issued": "2017-06-26T18:14:16",
-            "modified": "2018-01-30T09:17:30.872Z",
+            "modified": "2018-01-30T12:17:32.644Z",
             "language": [
                 "spa"
             ],
@@ -70,7 +70,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T18:14:16",
                     "format": "CSV",
-                    "modified": "2018-01-30T09:17:30.872Z",
+                    "modified": "2018-01-30T12:17:32.644Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -79,7 +79,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T18:14:16",
                     "format": "XLS",
-                    "modified": "2018-01-30T09:17:30.872Z",
+                    "modified": "2018-01-30T12:17:32.644Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -88,7 +88,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T18:14:16",
                     "format": "JSON",
-                    "modified": "2018-01-30T09:17:30.873Z",
+                    "modified": "2018-01-30T12:17:32.644Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -110,7 +110,7 @@
             ],
             "title": "Registro de Visitas",
             "issued": "2017-06-26T21:51:38",
-            "modified": "2018-01-30T09:17:30.883Z",
+            "modified": "2018-01-30T12:17:32.654Z",
             "language": [
                 "spa"
             ],
@@ -125,7 +125,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "CSV",
-                    "modified": "2018-01-30T09:17:30.883Z",
+                    "modified": "2018-01-30T12:17:32.654Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -134,7 +134,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "XLS",
-                    "modified": "2018-01-30T09:17:30.883Z",
+                    "modified": "2018-01-30T12:17:32.654Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -143,13 +143,174 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "JSON",
-                    "modified": "2018-01-30T09:17:30.883Z",
+                    "modified": "2018-01-30T12:17:32.654Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
             "identifier": "REGIS-DE-VISIT-31415",
             "homepage": "http://datos.arsat.com.ar/dataviews/239722/registro-de-visitas/",
             "description": "Listado de visitas recibidas en Arsat desde el 20/03/17 hasta el presente."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "arsat",
+                "plan federal de internet"
+            ],
+            "title": "Coordenadas de la red de fibra óptica en servicio",
+            "issued": "2018-01-30T13:07:04",
+            "modified": "2018-01-30T16:07:32Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236038/coordenadas-de-la-red-de-fibra-optica-en-servicio/",
+                    "description": "El listado muestra las coordenadas de los diferentes tramos de la Red de Fibra Óptica que actualmente se encuentran en condiciones de transportar internet de alta velocidad según sus coordenadas.",
+                    "title": "Coordenadas de la red de fibra óptica en servicio",
+                    "issued": "2018-01-30T13:07:04",
+                    "format": "CSV",
+                    "modified": "2018-01-30T16:07:32Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-FEDER-DE-INTER-TRAZA/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236038/coordenadas-de-la-red-de-fibra-optica-en-servicio/",
+                    "description": "El listado muestra las coordenadas de los diferentes tramos de la Red de Fibra Óptica que actualmente se encuentran en condiciones de transportar internet de alta velocidad según sus coordenadas.",
+                    "title": "Coordenadas de la red de fibra óptica en servicio",
+                    "issued": "2018-01-30T13:07:04",
+                    "format": "XLS",
+                    "modified": "2018-01-30T16:07:32Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-FEDER-DE-INTER-TRAZA/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236038/coordenadas-de-la-red-de-fibra-optica-en-servicio/",
+                    "description": "El listado muestra las coordenadas de los diferentes tramos de la Red de Fibra Óptica que actualmente se encuentran en condiciones de transportar internet de alta velocidad según sus coordenadas.",
+                    "title": "Coordenadas de la red de fibra óptica en servicio",
+                    "issued": "2018-01-30T13:07:04",
+                    "format": "JSON",
+                    "modified": "2018-01-30T16:07:32Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-FEDER-DE-INTER-TRAZA/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "PLAN-FEDER-DE-INTER-TRAZA",
+            "homepage": "http://datos.arsat.com.ar/dataviews/236038/coordenadas-de-la-red-de-fibra-optica-en-servicio/",
+            "description": "El listado muestra las coordenadas de los diferentes tramos de la Red de Fibra Óptica que actualmente se encuentran en condiciones de transportar internet de alta velocidad según sus coordenadas."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "arsat"
+            ],
+            "title": "Fibra óptica en construcción",
+            "issued": "2018-01-30T13:06:28",
+            "modified": "2018-01-30T16:07:31Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-construccion/",
+                    "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil",
+                    "title": "Fibra óptica en construcción",
+                    "issued": "2018-01-30T13:06:28",
+                    "format": "CSV",
+                    "modified": "2018-01-30T16:07:31Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-construccion/",
+                    "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil",
+                    "title": "Fibra óptica en construcción",
+                    "issued": "2018-01-30T13:06:28",
+                    "format": "XLS",
+                    "modified": "2018-01-30T16:07:31Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-construccion/",
+                    "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil",
+                    "title": "Fibra óptica en construcción",
+                    "issued": "2018-01-30T13:06:28",
+                    "format": "JSON",
+                    "modified": "2018-01-30T16:07:31Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "FIBRA-OPTIC-PROXI-EN-OBRA",
+            "homepage": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-construccion/",
+            "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [],
+            "title": "Fibra óptica sin iluminar",
+            "issued": "2018-01-30T13:05:42",
+            "modified": "2018-01-30T16:07:31Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238754/fibra-optica-sin-iluminar/",
+                    "description": "Traza de Fibra óptica sin iluminar",
+                    "title": "Fibra óptica sin iluminar",
+                    "issued": "2018-01-30T13:05:42",
+                    "format": "CSV",
+                    "modified": "2018-01-30T16:07:31Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-TENDI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238754/fibra-optica-sin-iluminar/",
+                    "description": "Traza de Fibra óptica sin iluminar",
+                    "title": "Fibra óptica sin iluminar",
+                    "issued": "2018-01-30T13:05:42",
+                    "format": "XLS",
+                    "modified": "2018-01-30T16:07:31Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-TENDI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238754/fibra-optica-sin-iluminar/",
+                    "description": "Traza de Fibra óptica sin iluminar",
+                    "title": "Fibra óptica sin iluminar",
+                    "issued": "2018-01-30T13:05:42",
+                    "format": "JSON",
+                    "modified": "2018-01-30T16:07:31Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-TENDI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "FIBRA-OPTIC-TENDI",
+            "homepage": "http://datos.arsat.com.ar/dataviews/238754/fibra-optica-sin-iluminar/",
+            "description": "Traza de Fibra óptica sin iluminar"
         },
         {
             "publisher": {
@@ -1311,167 +1472,6 @@
             "identifier": "COORD-DE-TRAZA-DE-FIBRA",
             "homepage": "http://datos.arsat.com.ar/dataviews/244251/coordenadas-de-traza-de-fibra-optica-de-redes-provinciales/",
             "description": "La tabla muestra las coordenadas de traza de Fibra óptica de Redes Provinciales"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [],
-            "title": "Fibra óptica sin iluminar",
-            "issued": "2017-12-28T16:11:04",
-            "modified": "2017-12-28T19:12:52Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238754/fibra-optica-sin-iluminar/",
-                    "description": "Traza de Fibra óptica sin iluminar",
-                    "title": "Fibra óptica sin iluminar",
-                    "issued": "2017-12-28T16:11:04",
-                    "format": "CSV",
-                    "modified": "2017-12-28T19:12:52Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-TENDI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238754/fibra-optica-sin-iluminar/",
-                    "description": "Traza de Fibra óptica sin iluminar",
-                    "title": "Fibra óptica sin iluminar",
-                    "issued": "2017-12-28T16:11:04",
-                    "format": "XLS",
-                    "modified": "2017-12-28T19:12:52Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-TENDI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238754/fibra-optica-sin-iluminar/",
-                    "description": "Traza de Fibra óptica sin iluminar",
-                    "title": "Fibra óptica sin iluminar",
-                    "issued": "2017-12-28T16:11:04",
-                    "format": "JSON",
-                    "modified": "2017-12-28T19:12:52Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-TENDI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "FIBRA-OPTIC-TENDI",
-            "homepage": "http://datos.arsat.com.ar/dataviews/238754/fibra-optica-sin-iluminar/",
-            "description": "Traza de Fibra óptica sin iluminar"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "PLAN FEDERAL DE INTERNET",
-                "ARSAT"
-            ],
-            "title": "Coordenadas de la red de fibra óptica en servicio",
-            "issued": "2017-12-28T16:05:14",
-            "modified": "2017-12-28T19:07:54Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236038/coordenadas-de-la-red-de-fibra-optica-en-servicio/",
-                    "description": "El listado muestra las coordenadas de los diferentes tramos de la Red de Fibra Óptica que actualmente se encuentran en condiciones de transportar internet de alta velocidad según sus coordenadas.",
-                    "title": "Coordenadas de la red de fibra óptica en servicio",
-                    "issued": "2017-12-28T16:05:14",
-                    "format": "CSV",
-                    "modified": "2017-12-28T19:07:54Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-FEDER-DE-INTER-TRAZA/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236038/coordenadas-de-la-red-de-fibra-optica-en-servicio/",
-                    "description": "El listado muestra las coordenadas de los diferentes tramos de la Red de Fibra Óptica que actualmente se encuentran en condiciones de transportar internet de alta velocidad según sus coordenadas.",
-                    "title": "Coordenadas de la red de fibra óptica en servicio",
-                    "issued": "2017-12-28T16:05:14",
-                    "format": "XLS",
-                    "modified": "2017-12-28T19:07:54Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-FEDER-DE-INTER-TRAZA/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236038/coordenadas-de-la-red-de-fibra-optica-en-servicio/",
-                    "description": "El listado muestra las coordenadas de los diferentes tramos de la Red de Fibra Óptica que actualmente se encuentran en condiciones de transportar internet de alta velocidad según sus coordenadas.",
-                    "title": "Coordenadas de la red de fibra óptica en servicio",
-                    "issued": "2017-12-28T16:05:14",
-                    "format": "JSON",
-                    "modified": "2017-12-28T19:07:54Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-FEDER-DE-INTER-TRAZA/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "PLAN-FEDER-DE-INTER-TRAZA",
-            "homepage": "http://datos.arsat.com.ar/dataviews/236038/coordenadas-de-la-red-de-fibra-optica-en-servicio/",
-            "description": "El listado muestra las coordenadas de los diferentes tramos de la Red de Fibra Óptica que actualmente se encuentran en condiciones de transportar internet de alta velocidad según sus coordenadas."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "ARSAT"
-            ],
-            "title": "Fibra óptica en construcción",
-            "issued": "2017-12-28T15:58:57",
-            "modified": "2017-12-28T19:01:19Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-construccion/",
-                    "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil",
-                    "title": "Fibra óptica en construcción",
-                    "issued": "2017-12-28T15:58:57",
-                    "format": "CSV",
-                    "modified": "2017-12-28T19:01:19Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-construccion/",
-                    "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil",
-                    "title": "Fibra óptica en construcción",
-                    "issued": "2017-12-28T15:58:57",
-                    "format": "XLS",
-                    "modified": "2017-12-28T19:01:19Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-construccion/",
-                    "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil",
-                    "title": "Fibra óptica en construcción",
-                    "issued": "2017-12-28T15:58:57",
-                    "format": "JSON",
-                    "modified": "2017-12-28T19:01:19Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "FIBRA-OPTIC-PROXI-EN-OBRA",
-            "homepage": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-construccion/",
-            "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil"
         },
         {
             "publisher": {
