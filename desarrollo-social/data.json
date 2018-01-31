@@ -13,6 +13,65 @@
                 "name": "MDSN"
             },
             "accessLevel": "public",
+            "description": "Detalle de centros de referencia de todo el país",
+            "license": "Creative Commons Attribution",
+            "title": "Centros de Referencia",
+            "issued": "2018-01-16T17:05:30.346977",
+            "modified": "2018-01-26T15:04:14.573939",
+            "language": "spa",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.desarrollosocial.gob.ar/dataset/9d57124c-a6af-4f53-8a34-4aecce6fee91/resource/622e82c3-0e1a-46ca-845d-ffeaa2797dd7/download/dataset---anexo-cdr.csv",
+                    "description": "Detalle de Centros de Referencia del país 2017",
+                    "title": "Centros de Referencia",
+                    "issued": "2018-01-26T15:03:13.318735",
+                    "format": "CSV",
+                    "modified": "2018-01-26T15:03:12.934882",
+                    "downloadURL": "http://datosabiertos.desarrollosocial.gob.ar/dataset/9d57124c-a6af-4f53-8a34-4aecce6fee91/resource/622e82c3-0e1a-46ca-845d-ffeaa2797dd7/download/dataset---anexo-cdr.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Nombre de la institución",
+                            "title": "Institucion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Datos de la locación",
+                            "title": "Direccion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Datos de la locación",
+                            "title": "Provincia"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Datos de la locación",
+                            "title": "Municipio_o_Localidad"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "CDR",
+                "Centro de Referencia"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "SOCI"
+            ],
+            "landingPage": "http://datosabiertos.desarrollosocial.gob.ar/dataset/centros-de-referencia",
+            "identifier": "9d57124c-a6af-4f53-8a34-4aecce6fee91",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "MDSN"
+            },
+            "accessLevel": "public",
             "description": "Huertas comunitarias, escolares y familiares",
             "license": "Creative Commons Attribution",
             "title": "Programa ProHuerta",
@@ -40,43 +99,6 @@
             ],
             "landingPage": "http://datosabiertos.desarrollosocial.gob.ar/dataset/programa-prohuerta",
             "identifier": "486d58b7-1be8-4b16-a5fe-01f31201c9d7",
-            "contactPoint": {
-                "@type": "vcard:Contact"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "MDSN"
-            },
-            "accessLevel": "public",
-            "description": "Detalle de centros de referencia de todo el país",
-            "license": "Creative Commons Attribution",
-            "title": "Centros de Referencia",
-            "issued": "2018-01-16T17:05:30.346977",
-            "modified": "2018-01-16T17:07:20.665440",
-            "language": "spa",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.desarrollosocial.gob.ar/dataset/9d57124c-a6af-4f53-8a34-4aecce6fee91/resource/82b3d5ca-2067-4a8c-89b0-c6aedae323e7/download/dataset---anexo-cdr.csv",
-                    "description": "Destalle de Centros de Referencia del país",
-                    "title": "Centros de Referencia",
-                    "issued": "2018-01-16T17:07:19.414787",
-                    "format": "CSV",
-                    "modified": "2018-01-16T17:07:19.347630",
-                    "downloadURL": "http://datosabiertos.desarrollosocial.gob.ar/dataset/9d57124c-a6af-4f53-8a34-4aecce6fee91/resource/82b3d5ca-2067-4a8c-89b0-c6aedae323e7/download/dataset---anexo-cdr.csv"
-                }
-            ],
-            "keyword": [
-                "CDR",
-                "Centro de Referencia"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "superTheme": [
-                "SOCI"
-            ],
-            "landingPage": "http://datosabiertos.desarrollosocial.gob.ar/dataset/centros-de-referencia",
-            "identifier": "9d57124c-a6af-4f53-8a34-4aecce6fee91",
             "contactPoint": {
                 "@type": "vcard:Contact"
             }
