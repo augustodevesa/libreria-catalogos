@@ -20,7 +20,7 @@
                 "@type": "vcard:Contact"
             },
             "issued": "2017-07-05T15:33:48.263719",
-            "modified": "2018-01-30T17:54:48.452691",
+            "modified": "2018-01-31T13:30:48.749582",
             "theme": [
                 "Movilidad Urbana",
                 "Transporte Automotor",
@@ -304,6 +304,76 @@
                     "format": "JSON",
                     "modified": "2018-01-30T17:54:48.420580",
                     "downloadURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/81005434-2c77-42d5-9431-4d58292075d7/download/ambapuntos.geojson",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/048890d7-d713-4be2-8bb8-5007099ad13b/download/ambalineas.kml",
+                    "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Ferrocarril - Lineas -- Fuente: ADIF -- Fecha de actualización:16/02/2017",
+                    "title": "Ferrocarril - Líneas",
+                    "issued": "2018-01-31T13:20:48.484272",
+                    "format": "KML",
+                    "modified": "2018-01-31T13:20:48.395806",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/048890d7-d713-4be2-8bb8-5007099ad13b/download/ambalineas.kml",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/9da7698b-6eb0-40cf-9045-9ab0dbc876f7/download/ambapuntos.kml",
+                    "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Ferrocarril - Estaciones -- Fuente: ADIF -- Fecha de actualización:16/02/2017",
+                    "title": "Ferrocarril - Estaciones",
+                    "issued": "2018-01-31T13:22:13.594901",
+                    "format": "KML",
+                    "modified": "2018-01-31T13:22:13.501716",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/9da7698b-6eb0-40cf-9045-9ab0dbc876f7/download/ambapuntos.kml",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/fb23b21c-59c3-427d-a4c6-b5255ffa6f82/download/lineasnacionales.kml",
+                    "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Buses - Lineas Jurisdicción Nacional -- Fecha Actualización: 2016-11 -- Fuente: CNRT",
+                    "title": "Buses - Líneas Jurisdicción Nacional",
+                    "issued": "2018-01-31T13:23:32.319285",
+                    "format": "KML",
+                    "modified": "2018-01-31T13:23:32.227933",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/fb23b21c-59c3-427d-a4c6-b5255ffa6f82/download/lineasnacionales.kml",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/136d2a25-589d-4efc-8393-e0baa77620a6/download/lineasprovinciales.kml",
+                    "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Buses - Lineas Jurisdicción Provincial Fecha Actualización: Fuente: INTRUPUBA Fecha: - Relevamiento: 2006 - Publicación: 2011",
+                    "title": "Buses - Líneas Jurisdicción Provincial",
+                    "issued": "2018-01-31T13:25:53.156468",
+                    "format": "KML",
+                    "modified": "2018-01-31T13:25:53.063652",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/136d2a25-589d-4efc-8393-e0baa77620a6/download/lineasprovinciales.kml",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/f78c9c6c-2e96-45eb-be50-7f1a519b011d/download/lineasmunicipales.kml",
+                    "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Buses - Lineas Jurisdicción Municipal -- Fecha Actualización: NA -- Fuente: INTRUPUBA -- Fecha: - Relevamiento: 2006 - Publicación: 2011",
+                    "title": "Buses - Líneas Jurisdicción Municipal",
+                    "issued": "2018-01-31T13:27:22.126344",
+                    "format": "KML",
+                    "modified": "2018-01-31T13:27:22.033487",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/f78c9c6c-2e96-45eb-be50-7f1a519b011d/download/lineasmunicipales.kml",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/f5fe0a3d-025b-4b40-af8f-53a83cc9205f/download/estacionesdesubte.kml",
+                    "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Subterraneo -- Estaciones -- Fuente: Ministerio de Desarrollo Urbano y Transporte - SS de Tránsito y Transporte - DG de Transporte y Tránsito -- Fecha actualización: 11/04/2017",
+                    "title": "Subterráneo - Estaciones",
+                    "issued": "2018-01-31T13:29:33.839420",
+                    "format": "KML",
+                    "modified": "2018-01-31T13:29:33.736006",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/f5fe0a3d-025b-4b40-af8f-53a83cc9205f/download/estacionesdesubte.kml",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/a05b5e9f-e0e9-43e3-8056-93c23e833a00/download/reddesubterraneo.kml",
+                    "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Subterraneo -- Lineas -- Fuente: Ministerio de Desarrollo Urbano y Transporte - SS de Tránsito y Transporte - DG de Transporte y Tránsito -- Fecha actualización: 11/04/2017",
+                    "title": "Subterráneo - Líneas",
+                    "issued": "2018-01-31T13:30:48.808585",
+                    "format": "KML",
+                    "modified": "2018-01-31T13:30:48.710677",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/a05b5e9f-e0e9-43e3-8056-93c23e833a00/download/reddesubterraneo.kml",
                     "@type": "dcat:Distribution"
                 }
             ],
