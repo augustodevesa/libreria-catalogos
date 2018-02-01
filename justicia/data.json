@@ -727,7 +727,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ-",
             "issued": "2017-06-23T14:53:43.430826",
-            "modified": "2018-02-01T12:40:47.691119",
+            "modified": "2018-02-01T19:29:33.785352",
             "theme": [
                 "acceso-a-justicia"
             ],
@@ -752,13 +752,25 @@
             "identifier": "bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c",
             "distribution": [
                 {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/20a62cd0-44fe-4e13-8651-3b3725bb57ea",
+                    "description": "Consultas efectuadas en los Centros de Acceso a la Justicia que se encuentran informatizados",
+                    "title": "Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ- 2017 semestre 2",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-02-01T16:16:46.066308",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/20a62cd0-44fe-4e13-8651-3b3725bb57ea/download/consultas-centros-acceso-justicia-2017-semestre-2.csv",
+                    "issued": "2018-02-01T16:16:46.220853",
+                    "identifier": "20a62cd0-44fe-4e13-8651-3b3725bb57ea"
+                },
+                {
                     "accessURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/31725ef6-1c49-4a2f-b314-3b486af060f5",
                     "description": "Consultas efectuadas en los Centros de Acceso a la Justicia que se encuentran informatizados",
                     "title": "Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ- 2017 semestre 1",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2018-02-01T09:14:02.060107",
+                    "modified": "2018-02-01T16:11:03.222368",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/31725ef6-1c49-4a2f-b314-3b486af060f5/download/consultas-centros-acceso-justicia-2017-semestre-1.csv",
                     "issued": "2017-08-16T15:14:04.883735",
                     "identifier": "31725ef6-1c49-4a2f-b314-3b486af060f5"
@@ -770,7 +782,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-07-25T10:10:46.682044",
+                    "modified": "2018-02-01T15:36:59.223224",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/8a7d8ac2-7ba8-4e6e-924c-9fde49e22856/download/consultas-centros-acceso-justicia-2016-semestre-2.csv",
                     "issued": "2017-06-23T11:55:10.004110",
                     "identifier": "8a7d8ac2-7ba8-4e6e-924c-9fde49e22856"
