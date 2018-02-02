@@ -10,6 +10,207 @@
         {
             "publisher": {
                 "mbox": "",
+                "name": "Coordinación de Fiscalización"
+            },
+            "accessLevel": "public",
+            "description": "Datos correspondientes a la base de datos de establecimientos de seguimiento particular de acuerdo a su relevancia ambiental de la Dirección de Fiscalización y Adecuación Ambiental.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Establecimientos de Seguimiento Particular de la cuenca Matanza Riachuelo - Diciembre 2017",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Coordinación de Comunicación y Prensa"
+            },
+            "issued": "2018-02-02T17:32:36.144794",
+            "modified": "2018-02-02T17:43:29.227619",
+            "theme": [
+                "Control",
+                "Eje Ambiental",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
+                "Transparencia",
+                "Control",
+                "Eje Ambiental",
+                "Eje Ambiental",
+                "Monitoreo",
+                "Eje Ambiental",
+                "Residuos",
+                "Transparencia",
+                "Control",
+                "Denuncias",
+                "Eje Ambiental",
+                "Residuos",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Control",
+                "Eje Ambiental",
+                "Control",
+                "Eje Ambiental",
+                "Control",
+                "Eje Ambiental",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Control",
+                "Eje Ambiental"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://172.17.0.4/dataset/d7d44b1b-780d-4c1b-9137-e6c809333ab6/resource/5827ff3e-b373-44a0-805e-23e9da194357/download/establecimientos-de-seguimiento-particular---diciembre-2017--.csv",
+                    "description": "Listado de establecimientos de seguimiento particular - Diciembre 2017",
+                    "title": "Establecimientos de Seguimiento Particular de la cuenca Matanza Riachuelo",
+                    "issued": "2018-02-02T17:39:50.127542",
+                    "format": "CSV",
+                    "modified": "2018-02-02T17:39:50.073739",
+                    "downloadURL": "http://172.17.0.4/dataset/d7d44b1b-780d-4c1b-9137-e6c809333ab6/resource/5827ff3e-b373-44a0-805e-23e9da194357/download/establecimientos-de-seguimiento-particular---diciembre-2017--.csv",
+                    "@type": "dcat:Distribution"
+                }
+            ],
+            "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
+                "clausuras",
+                "control",
+                "establecimientos",
+                "fiscalizaciones",
+                "sanciones",
+                "agua subterránea",
+                "agua superficial",
+                "calidad ambiental",
+                "control",
+                "estaciones",
+                "medición",
+                "red de monitoreo",
+                "GIRSU",
+                "basurales",
+                "gestión de residuos sólidos",
+                "línea de base",
+                "macrobasurales",
+                "microbasurales",
+                "puntos de arrojo",
+                "residuos",
+                "tipologías",
+                "acceso a la información",
+                "información pública",
+                "requerimientos",
+                "solicitudes",
+                "control",
+                "denuncias",
+                "establecimientos",
+                "fiscalización",
+                "industrias",
+                "residuos",
+                "información pública",
+                "solicitudes",
+                "transparencia",
+                "información pública",
+                "rendición de cuentas",
+                "respuestas",
+                "transparencia",
+                "boletín oficial",
+                "digesto normativo",
+                "infoleg",
+                "normativa",
+                "resoluciones",
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
+                "seguimiento particular",
+                "adecuación",
+                "agentes contaminantes",
+                "control",
+                "establecimientos",
+                "fiscalizaciones",
+                "adecuación ambiental",
+                "control",
+                "establecimientos",
+                "fiscalizaciones",
+                "reconvertidos",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejos directivo",
+                "convenios",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "consejo municipal",
+                "municipios",
+                "transparencia",
+                "control",
+                "empadronados",
+                "establecimientos",
+                "fiscalizaciones",
+                "registro"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://172.17.0.4/dataset/establecimientos-de-seguimiento-particular-de-la-cuenca-matanza-riachuelo",
+            "identifier": "d7d44b1b-780d-4c1b-9137-e6c809333ab6",
+            "@type": "dcat:Dataset"
+        },
+        {
+            "publisher": {
+                "mbox": "",
                 "name": "Coordinación de Gestión y Planificación"
             },
             "accessLevel": "public",
@@ -22,6 +223,8 @@
             "issued": "2017-09-05T15:15:05.722528",
             "modified": "2018-01-05T17:24:38.441799",
             "theme": [
+                "Control",
+                "Eje Ambiental",
                 "Calidad de vida",
                 "Eje Social",
                 "Indicadores",
@@ -402,6 +605,10 @@
                 }
             ],
             "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
                 "entorno",
                 "icv",
                 "indicadores",
@@ -549,6 +756,8 @@
             "issued": "2017-11-08T18:27:28.045902",
             "modified": "2018-01-02T19:25:46.376516",
             "theme": [
+                "Control",
+                "Eje Ambiental",
                 "Calidad de vida",
                 "Eje Social",
                 "Indicadores",
@@ -621,6 +830,10 @@
                 }
             ],
             "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
                 "entorno",
                 "icv",
                 "indicadores",
@@ -765,6 +978,8 @@
             "issued": "2017-06-22T14:29:23.322705",
             "modified": "2017-12-29T15:41:47.498742",
             "theme": [
+                "Control",
+                "Eje Ambiental",
                 "Calidad de vida",
                 "Eje Social",
                 "Indicadores",
@@ -906,6 +1121,10 @@
                 }
             ],
             "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
                 "entorno",
                 "icv",
                 "indicadores",
@@ -1050,6 +1269,8 @@
             "issued": "2017-10-19T19:02:10.531778",
             "modified": "2017-12-29T15:29:30.103968",
             "theme": [
+                "Control",
+                "Eje Ambiental",
                 "Calidad de vida",
                 "Eje Social",
                 "Indicadores",
@@ -1179,6 +1400,10 @@
                 }
             ],
             "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
                 "entorno",
                 "icv",
                 "indicadores",
@@ -1324,6 +1549,8 @@
             "temporal": "2011-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
             "modified": "2017-12-29T15:15:58.656695",
             "theme": [
+                "Control",
+                "Eje Ambiental",
                 "Calidad de vida",
                 "Eje Social",
                 "Indicadores",
@@ -1693,6 +1920,10 @@
                 }
             ],
             "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
                 "entorno",
                 "icv",
                 "indicadores",
@@ -1838,6 +2069,8 @@
             "temporal": "2011-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
             "modified": "2017-12-29T14:51:17.602742",
             "theme": [
+                "Control",
+                "Eje Ambiental",
                 "Calidad de vida",
                 "Eje Social",
                 "Indicadores",
@@ -2312,6 +2545,10 @@
                 }
             ],
             "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
                 "entorno",
                 "icv",
                 "indicadores",
@@ -2457,6 +2694,8 @@
             "issued": "2017-11-17T18:01:22.675860",
             "modified": "2017-12-28T15:10:34.886756",
             "theme": [
+                "Control",
+                "Eje Ambiental",
                 "Calidad de vida",
                 "Eje Social",
                 "Indicadores",
@@ -3134,6 +3373,10 @@
                 }
             ],
             "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
                 "entorno",
                 "icv",
                 "indicadores",
@@ -3280,6 +3523,8 @@
             "issued": "2017-11-23T18:39:47.899758",
             "modified": "2017-12-28T15:06:52.862075",
             "theme": [
+                "Control",
+                "Eje Ambiental",
                 "Calidad de vida",
                 "Eje Social",
                 "Indicadores",
@@ -3937,6 +4182,10 @@
                 }
             ],
             "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
                 "entorno",
                 "icv",
                 "indicadores",
@@ -4082,6 +4331,8 @@
             "issued": "2017-10-26T19:40:25.310333",
             "modified": "2017-12-28T14:56:18.576476",
             "theme": [
+                "Control",
+                "Eje Ambiental",
                 "Calidad de vida",
                 "Eje Social",
                 "Indicadores",
@@ -4194,6 +4445,10 @@
                 }
             ],
             "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
                 "entorno",
                 "icv",
                 "indicadores",
@@ -4340,6 +4595,8 @@
             "issued": "2017-06-05T14:09:44.893176",
             "modified": "2017-12-28T13:19:01.378233",
             "theme": [
+                "Control",
+                "Eje Ambiental",
                 "Calidad de vida",
                 "Eje Social",
                 "Indicadores",
@@ -4422,6 +4679,10 @@
                 }
             ],
             "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
                 "entorno",
                 "icv",
                 "indicadores",
@@ -4566,6 +4827,8 @@
             "issued": "2017-11-08T17:02:29.597549",
             "modified": "2017-12-28T13:18:10.686597",
             "theme": [
+                "Control",
+                "Eje Ambiental",
                 "Calidad de vida",
                 "Eje Social",
                 "Indicadores",
@@ -4638,6 +4901,10 @@
                 }
             ],
             "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
                 "entorno",
                 "icv",
                 "indicadores",
@@ -4782,6 +5049,8 @@
             "issued": "2017-11-08T18:33:12.848575",
             "modified": "2017-12-28T13:17:29.214000",
             "theme": [
+                "Control",
+                "Eje Ambiental",
                 "Calidad de vida",
                 "Eje Social",
                 "Indicadores",
@@ -4854,6 +5123,10 @@
                 }
             ],
             "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
                 "entorno",
                 "icv",
                 "indicadores",
@@ -4998,6 +5271,8 @@
             "issued": "2017-10-24T13:28:48.738444",
             "modified": "2017-12-26T15:55:29.609754",
             "theme": [
+                "Control",
+                "Eje Ambiental",
                 "Calidad de vida",
                 "Eje Social",
                 "Indicadores",
@@ -5205,6 +5480,10 @@
                 }
             ],
             "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
                 "entorno",
                 "icv",
                 "indicadores",
@@ -5350,6 +5629,8 @@
             "issued": "2017-10-27T13:34:21.824063",
             "modified": "2017-12-26T15:54:13.973798",
             "theme": [
+                "Control",
+                "Eje Ambiental",
                 "Calidad de vida",
                 "Eje Social",
                 "Indicadores",
@@ -5577,6 +5858,10 @@
                 }
             ],
             "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
                 "entorno",
                 "icv",
                 "indicadores",
@@ -5722,6 +6007,8 @@
             "issued": "2017-11-03T17:39:09.031405",
             "modified": "2017-12-26T15:52:54.099866",
             "theme": [
+                "Control",
+                "Eje Ambiental",
                 "Calidad de vida",
                 "Eje Social",
                 "Indicadores",
@@ -5949,6 +6236,10 @@
                 }
             ],
             "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
                 "entorno",
                 "icv",
                 "indicadores",
@@ -6094,6 +6385,8 @@
             "issued": "2017-11-06T18:35:12.191766",
             "modified": "2017-12-26T15:51:34.021492",
             "theme": [
+                "Control",
+                "Eje Ambiental",
                 "Calidad de vida",
                 "Eje Social",
                 "Indicadores",
@@ -6321,6 +6614,10 @@
                 }
             ],
             "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
                 "entorno",
                 "icv",
                 "indicadores",
@@ -6466,6 +6763,8 @@
             "issued": "2017-11-06T20:17:17.024430",
             "modified": "2017-12-26T15:28:15.713114",
             "theme": [
+                "Control",
+                "Eje Ambiental",
                 "Calidad de vida",
                 "Eje Social",
                 "Indicadores",
@@ -6743,6 +7042,10 @@
                 }
             ],
             "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
                 "entorno",
                 "icv",
                 "indicadores",
@@ -6888,6 +7191,8 @@
             "issued": "2017-11-07T17:38:45.834288",
             "modified": "2017-12-26T15:26:24.847029",
             "theme": [
+                "Control",
+                "Eje Ambiental",
                 "Calidad de vida",
                 "Eje Social",
                 "Indicadores",
@@ -7125,6 +7430,10 @@
                 }
             ],
             "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
                 "entorno",
                 "icv",
                 "indicadores",
@@ -7270,6 +7579,8 @@
             "issued": "2017-11-07T17:51:37.677611",
             "modified": "2017-12-26T15:25:01.181300",
             "theme": [
+                "Control",
+                "Eje Ambiental",
                 "Calidad de vida",
                 "Eje Social",
                 "Indicadores",
@@ -7557,6 +7868,10 @@
                 }
             ],
             "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
                 "entorno",
                 "icv",
                 "indicadores",
@@ -7702,6 +8017,8 @@
             "issued": "2017-11-08T14:41:13.144019",
             "modified": "2017-12-26T15:18:32.118502",
             "theme": [
+                "Control",
+                "Eje Ambiental",
                 "Calidad de vida",
                 "Eje Social",
                 "Indicadores",
@@ -8029,6 +8346,10 @@
                 }
             ],
             "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
                 "entorno",
                 "icv",
                 "indicadores",
@@ -8174,6 +8495,8 @@
             "issued": "2017-11-13T15:19:16.593985",
             "modified": "2017-12-26T14:49:44.276154",
             "theme": [
+                "Control",
+                "Eje Ambiental",
                 "Calidad de vida",
                 "Eje Social",
                 "Indicadores",
@@ -8421,6 +8744,10 @@
                 }
             ],
             "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
                 "entorno",
                 "icv",
                 "indicadores",
@@ -8566,6 +8893,8 @@
             "issued": "2017-11-08T17:56:23.766662",
             "modified": "2017-12-21T15:06:09.153460",
             "theme": [
+                "Control",
+                "Eje Ambiental",
                 "Calidad de vida",
                 "Eje Social",
                 "Indicadores",
@@ -8616,6 +8945,10 @@
                 }
             ],
             "keyword": [
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
                 "entorno",
                 "icv",
                 "indicadores",
