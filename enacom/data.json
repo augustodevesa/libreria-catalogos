@@ -71,6 +71,345 @@
             "keyword": [
                 "internet",
                 "banda ancha",
+                "provincial",
+                "banda angosta"
+            ],
+            "title": "Banda ancha y banda angosta por provincia",
+            "issued": "2018-02-02T21:29:38",
+            "modified": "2018-02-03T00:29:43Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "acceso-a-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240974/banda-ancha-y-banda-angosta-por-provincia/",
+                    "description": "Número de accesos al servicio de Internet fijo por banda ancha y banda angosta en cada provincia (trimestral)",
+                    "title": "Banda ancha y banda angosta por provincia",
+                    "issued": "2018-02-02T21:29:38",
+                    "format": "CSV",
+                    "modified": "2018-02-03T00:29:43Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/BANDA-ANCHA-Y-BANDA-ANGOS/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240974/banda-ancha-y-banda-angosta-por-provincia/",
+                    "description": "Número de accesos al servicio de Internet fijo por banda ancha y banda angosta en cada provincia (trimestral)",
+                    "title": "Banda ancha y banda angosta por provincia",
+                    "issued": "2018-02-02T21:29:38",
+                    "format": "XLS",
+                    "modified": "2018-02-03T00:29:43Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/BANDA-ANCHA-Y-BANDA-ANGOS/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240974/banda-ancha-y-banda-angosta-por-provincia/",
+                    "description": "Número de accesos al servicio de Internet fijo por banda ancha y banda angosta en cada provincia (trimestral)",
+                    "title": "Banda ancha y banda angosta por provincia",
+                    "issued": "2018-02-02T21:29:38",
+                    "format": "JSON",
+                    "modified": "2018-02-03T00:29:43Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/BANDA-ANCHA-Y-BANDA-ANGOS/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "BANDA-ANCHA-Y-BANDA-ANGOS",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240974/banda-ancha-y-banda-angosta-por-provincia/",
+            "description": "Número de accesos al servicio de Internet fijo por banda ancha y banda angosta en cada provincia (trimestral)"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "internet",
+                "banda ancha",
+                "provincial",
+                "banda angosta"
+            ],
+            "title": "Total nacional de accesos a Internet fijo por banda ancha y banda angosta",
+            "issued": "2017-09-27T20:35:24",
+            "modified": "2018-02-03T00:28:51Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "acceso-a-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240976/total-nacional-de-accesos-a-internet-fijo-por-banda-ancha-y-banda-angosta/",
+                    "description": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)",
+                    "title": "Total nacional de accesos a Internet fijo por banda ancha y banda angosta",
+                    "issued": "2017-09-27T20:35:24",
+                    "format": "CSV",
+                    "modified": "2018-02-03T00:28:51Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-48866/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240976/total-nacional-de-accesos-a-internet-fijo-por-banda-ancha-y-banda-angosta/",
+                    "description": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)",
+                    "title": "Total nacional de accesos a Internet fijo por banda ancha y banda angosta",
+                    "issued": "2017-09-27T20:35:24",
+                    "format": "XLS",
+                    "modified": "2018-02-03T00:28:51Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-48866/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240976/total-nacional-de-accesos-a-internet-fijo-por-banda-ancha-y-banda-angosta/",
+                    "description": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)",
+                    "title": "Total nacional de accesos a Internet fijo por banda ancha y banda angosta",
+                    "issued": "2017-09-27T20:35:24",
+                    "format": "JSON",
+                    "modified": "2018-02-03T00:28:51Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-48866/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "TOTAL-NACIO-DE-ACCES-48866",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240976/total-nacional-de-accesos-a-internet-fijo-por-banda-ancha-y-banda-angosta/",
+            "description": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "internet",
+                "banda ancha",
+                "provincial"
+            ],
+            "title": "Acceso a Internet fijo por tecnología y provincia",
+            "issued": "2018-02-02T21:28:15",
+            "modified": "2018-02-03T00:28:19Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "acceso-a-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240898/acceso-a-internet-fijo-por-tecnologia-y-provincia/",
+                    "description": "Número de accesos al servicio de Internet fijo por tipo de tecnología en cada provincia (trimestral)",
+                    "title": "Acceso a Internet fijo por tecnología y provincia",
+                    "issued": "2018-02-02T21:28:15",
+                    "format": "CSV",
+                    "modified": "2018-02-03T00:28:19Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-A-INTER-FIJO-POR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240898/acceso-a-internet-fijo-por-tecnologia-y-provincia/",
+                    "description": "Número de accesos al servicio de Internet fijo por tipo de tecnología en cada provincia (trimestral)",
+                    "title": "Acceso a Internet fijo por tecnología y provincia",
+                    "issued": "2018-02-02T21:28:15",
+                    "format": "XLS",
+                    "modified": "2018-02-03T00:28:19Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-A-INTER-FIJO-POR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240898/acceso-a-internet-fijo-por-tecnologia-y-provincia/",
+                    "description": "Número de accesos al servicio de Internet fijo por tipo de tecnología en cada provincia (trimestral)",
+                    "title": "Acceso a Internet fijo por tecnología y provincia",
+                    "issued": "2018-02-02T21:28:15",
+                    "format": "JSON",
+                    "modified": "2018-02-03T00:28:19Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-A-INTER-FIJO-POR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "ACCES-A-INTER-FIJO-POR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240898/acceso-a-internet-fijo-por-tecnologia-y-provincia/",
+            "description": "Número de accesos al servicio de Internet fijo por tipo de tecnología en cada provincia (trimestral)"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "internet",
+                "banda ancha"
+            ],
+            "title": "Total nacional de accesos a Internet fijo por tipo de tecnología",
+            "issued": "2017-07-14T19:19:12",
+            "modified": "2018-02-03T00:27:34Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "acceso-a-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240902/total-nacional-de-accesos-a-internet-fijo-por-tipo-de-tecnologia/",
+                    "description": "Número total de accesos al servicio de Internet fijo por tipo de tecnología (trimestral)",
+                    "title": "Total nacional de accesos a Internet fijo por tipo de tecnología",
+                    "issued": "2017-07-14T19:19:12",
+                    "format": "CSV",
+                    "modified": "2018-02-03T00:27:34Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-A/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240902/total-nacional-de-accesos-a-internet-fijo-por-tipo-de-tecnologia/",
+                    "description": "Número total de accesos al servicio de Internet fijo por tipo de tecnología (trimestral)",
+                    "title": "Total nacional de accesos a Internet fijo por tipo de tecnología",
+                    "issued": "2017-07-14T19:19:12",
+                    "format": "XLS",
+                    "modified": "2018-02-03T00:27:34Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-A/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240902/total-nacional-de-accesos-a-internet-fijo-por-tipo-de-tecnologia/",
+                    "description": "Número total de accesos al servicio de Internet fijo por tipo de tecnología (trimestral)",
+                    "title": "Total nacional de accesos a Internet fijo por tipo de tecnología",
+                    "issued": "2017-07-14T19:19:12",
+                    "format": "JSON",
+                    "modified": "2018-02-03T00:27:34Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-A/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "TOTAL-NACIO-DE-ACCES-A",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240902/total-nacional-de-accesos-a-internet-fijo-por-tipo-de-tecnologia/",
+            "description": "Número total de accesos al servicio de Internet fijo por tipo de tecnología (trimestral)"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "internet",
+                "banda ancha",
+                "provincial",
+                "banda angosta"
+            ],
+            "title": "Acceso a Internet fijo por velocidad de bajada y provincia",
+            "issued": "2018-02-02T21:24:43",
+            "modified": "2018-02-03T00:24:48Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "acceso-a-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240904/acceso-a-internet-fijo-por-velocidad-de-bajada-y-provincia/",
+                    "description": "Número de accesos al servicio de Internet fijo por velocidad de bajada en cada provincia (trimestral)",
+                    "title": "Acceso a Internet fijo por velocidad de bajada y provincia",
+                    "issued": "2018-02-02T21:24:43",
+                    "format": "CSV",
+                    "modified": "2018-02-03T00:24:48Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-A-INTER-FIJO-23248/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240904/acceso-a-internet-fijo-por-velocidad-de-bajada-y-provincia/",
+                    "description": "Número de accesos al servicio de Internet fijo por velocidad de bajada en cada provincia (trimestral)",
+                    "title": "Acceso a Internet fijo por velocidad de bajada y provincia",
+                    "issued": "2018-02-02T21:24:43",
+                    "format": "XLS",
+                    "modified": "2018-02-03T00:24:48Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-A-INTER-FIJO-23248/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240904/acceso-a-internet-fijo-por-velocidad-de-bajada-y-provincia/",
+                    "description": "Número de accesos al servicio de Internet fijo por velocidad de bajada en cada provincia (trimestral)",
+                    "title": "Acceso a Internet fijo por velocidad de bajada y provincia",
+                    "issued": "2018-02-02T21:24:43",
+                    "format": "JSON",
+                    "modified": "2018-02-03T00:24:48Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-A-INTER-FIJO-23248/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "ACCES-A-INTER-FIJO-23248",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240904/acceso-a-internet-fijo-por-velocidad-de-bajada-y-provincia/",
+            "description": "Número de accesos al servicio de Internet fijo por velocidad de bajada en cada provincia (trimestral)"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "internet",
+                "banda ancha",
+                "provincial",
+                "banda angosta"
+            ],
+            "title": "Total nacional de accesos a Internet fijo por velocidad de bajada",
+            "issued": "2017-08-01T17:06:16",
+            "modified": "2018-02-03T00:23:53Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "acceso-a-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241420/total-nacional-de-accesos-a-internet-fijo-por-velocidad-de-bajada/",
+                    "description": "Número total de accesos al servicio de Internet fijo por velocidad de bajada (trimestral)",
+                    "title": "Total nacional de accesos a Internet fijo por velocidad de bajada",
+                    "issued": "2017-08-01T17:06:16",
+                    "format": "CSV",
+                    "modified": "2018-02-03T00:23:53Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-32663/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241420/total-nacional-de-accesos-a-internet-fijo-por-velocidad-de-bajada/",
+                    "description": "Número total de accesos al servicio de Internet fijo por velocidad de bajada (trimestral)",
+                    "title": "Total nacional de accesos a Internet fijo por velocidad de bajada",
+                    "issued": "2017-08-01T17:06:16",
+                    "format": "XLS",
+                    "modified": "2018-02-03T00:23:53Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-32663/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241420/total-nacional-de-accesos-a-internet-fijo-por-velocidad-de-bajada/",
+                    "description": "Número total de accesos al servicio de Internet fijo por velocidad de bajada (trimestral)",
+                    "title": "Total nacional de accesos a Internet fijo por velocidad de bajada",
+                    "issued": "2017-08-01T17:06:16",
+                    "format": "JSON",
+                    "modified": "2018-02-03T00:23:53Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-32663/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "TOTAL-NACIO-DE-ACCES-32663",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241420/total-nacional-de-accesos-a-internet-fijo-por-velocidad-de-bajada/",
+            "description": "Número total de accesos al servicio de Internet fijo por velocidad de bajada (trimestral)"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "internet",
+                "banda ancha",
                 "servicio universal"
             ],
             "title": "Aportes no reembolsables (ANR)",
@@ -936,345 +1275,6 @@
             "identifier": "INGRE-POR-LA-OPERA-DEL",
             "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240977/ingresos-por-la-operacion-del-servicio-de-internet-fijo/",
             "description": "Ingresos trimestrales de los operadores por el servicio de Internet fijo"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "Internet",
-                "banda ancha",
-                "banda angosta",
-                "provincial"
-            ],
-            "title": "Banda ancha y banda angosta por provincia",
-            "issued": "2017-09-28T16:00:50",
-            "modified": "2017-12-21T18:17:08Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "acceso-a-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240974/banda-ancha-y-banda-angosta-por-provincia/",
-                    "description": "Número de accesos al servicio de Internet fijo por banda ancha y banda angosta en cada provincia (trimestral)",
-                    "title": "Banda ancha y banda angosta por provincia",
-                    "issued": "2017-09-28T16:00:50",
-                    "format": "CSV",
-                    "modified": "2017-12-21T18:17:08Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/BANDA-ANCHA-Y-BANDA-ANGOS/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240974/banda-ancha-y-banda-angosta-por-provincia/",
-                    "description": "Número de accesos al servicio de Internet fijo por banda ancha y banda angosta en cada provincia (trimestral)",
-                    "title": "Banda ancha y banda angosta por provincia",
-                    "issued": "2017-09-28T16:00:50",
-                    "format": "XLS",
-                    "modified": "2017-12-21T18:17:08Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/BANDA-ANCHA-Y-BANDA-ANGOS/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240974/banda-ancha-y-banda-angosta-por-provincia/",
-                    "description": "Número de accesos al servicio de Internet fijo por banda ancha y banda angosta en cada provincia (trimestral)",
-                    "title": "Banda ancha y banda angosta por provincia",
-                    "issued": "2017-09-28T16:00:50",
-                    "format": "JSON",
-                    "modified": "2017-12-21T18:17:08Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/BANDA-ANCHA-Y-BANDA-ANGOS/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "BANDA-ANCHA-Y-BANDA-ANGOS",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240974/banda-ancha-y-banda-angosta-por-provincia/",
-            "description": "Número de accesos al servicio de Internet fijo por banda ancha y banda angosta en cada provincia (trimestral)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "Internet",
-                "banda ancha",
-                "banda angosta",
-                "provincial"
-            ],
-            "title": "Total nacional de accesos a Internet fijo por banda ancha y banda angosta",
-            "issued": "2017-09-27T20:35:24",
-            "modified": "2017-12-21T18:17:08Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "acceso-a-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240976/total-nacional-de-accesos-a-internet-fijo-por-banda-ancha-y-banda-angosta/",
-                    "description": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)",
-                    "title": "Total nacional de accesos a Internet fijo por banda ancha y banda angosta",
-                    "issued": "2017-09-27T20:35:24",
-                    "format": "CSV",
-                    "modified": "2017-12-21T18:17:08Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-48866/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240976/total-nacional-de-accesos-a-internet-fijo-por-banda-ancha-y-banda-angosta/",
-                    "description": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)",
-                    "title": "Total nacional de accesos a Internet fijo por banda ancha y banda angosta",
-                    "issued": "2017-09-27T20:35:24",
-                    "format": "XLS",
-                    "modified": "2017-12-21T18:17:08Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-48866/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240976/total-nacional-de-accesos-a-internet-fijo-por-banda-ancha-y-banda-angosta/",
-                    "description": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)",
-                    "title": "Total nacional de accesos a Internet fijo por banda ancha y banda angosta",
-                    "issued": "2017-09-27T20:35:24",
-                    "format": "JSON",
-                    "modified": "2017-12-21T18:17:08Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-48866/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "TOTAL-NACIO-DE-ACCES-48866",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240976/total-nacional-de-accesos-a-internet-fijo-por-banda-ancha-y-banda-angosta/",
-            "description": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "Internet",
-                "banda ancha",
-                "provincial"
-            ],
-            "title": "Acceso a Internet fijo por tecnología y provincia",
-            "issued": "2017-09-28T16:05:32",
-            "modified": "2017-12-21T18:10:14Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "acceso-a-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240898/acceso-a-internet-fijo-por-tecnologia-y-provincia/",
-                    "description": "Número de accesos al servicio de Internet fijo por tipo de tecnología en cada provincia (trimestral)",
-                    "title": "Acceso a Internet fijo por tecnología y provincia",
-                    "issued": "2017-09-28T16:05:32",
-                    "format": "CSV",
-                    "modified": "2017-12-21T18:10:14Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-A-INTER-FIJO-POR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240898/acceso-a-internet-fijo-por-tecnologia-y-provincia/",
-                    "description": "Número de accesos al servicio de Internet fijo por tipo de tecnología en cada provincia (trimestral)",
-                    "title": "Acceso a Internet fijo por tecnología y provincia",
-                    "issued": "2017-09-28T16:05:32",
-                    "format": "XLS",
-                    "modified": "2017-12-21T18:10:14Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-A-INTER-FIJO-POR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240898/acceso-a-internet-fijo-por-tecnologia-y-provincia/",
-                    "description": "Número de accesos al servicio de Internet fijo por tipo de tecnología en cada provincia (trimestral)",
-                    "title": "Acceso a Internet fijo por tecnología y provincia",
-                    "issued": "2017-09-28T16:05:32",
-                    "format": "JSON",
-                    "modified": "2017-12-21T18:10:14Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-A-INTER-FIJO-POR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "ACCES-A-INTER-FIJO-POR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240898/acceso-a-internet-fijo-por-tecnologia-y-provincia/",
-            "description": "Número de accesos al servicio de Internet fijo por tipo de tecnología en cada provincia (trimestral)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "Internet",
-                "banda ancha"
-            ],
-            "title": "Total nacional de accesos a Internet fijo por tipo de tecnología",
-            "issued": "2017-07-14T19:19:12",
-            "modified": "2017-12-21T18:10:14Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "acceso-a-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240902/total-nacional-de-accesos-a-internet-fijo-por-tipo-de-tecnologia/",
-                    "description": "Número total de accesos al servicio de Internet fijo por tipo de tecnología (trimestral)",
-                    "title": "Total nacional de accesos a Internet fijo por tipo de tecnología",
-                    "issued": "2017-07-14T19:19:12",
-                    "format": "CSV",
-                    "modified": "2017-12-21T18:10:14Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-A/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240902/total-nacional-de-accesos-a-internet-fijo-por-tipo-de-tecnologia/",
-                    "description": "Número total de accesos al servicio de Internet fijo por tipo de tecnología (trimestral)",
-                    "title": "Total nacional de accesos a Internet fijo por tipo de tecnología",
-                    "issued": "2017-07-14T19:19:12",
-                    "format": "XLS",
-                    "modified": "2017-12-21T18:10:14Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-A/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240902/total-nacional-de-accesos-a-internet-fijo-por-tipo-de-tecnologia/",
-                    "description": "Número total de accesos al servicio de Internet fijo por tipo de tecnología (trimestral)",
-                    "title": "Total nacional de accesos a Internet fijo por tipo de tecnología",
-                    "issued": "2017-07-14T19:19:12",
-                    "format": "JSON",
-                    "modified": "2017-12-21T18:10:14Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-A/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "TOTAL-NACIO-DE-ACCES-A",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240902/total-nacional-de-accesos-a-internet-fijo-por-tipo-de-tecnologia/",
-            "description": "Número total de accesos al servicio de Internet fijo por tipo de tecnología (trimestral)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "Internet",
-                "banda ancha",
-                "banda angosta",
-                "provincial"
-            ],
-            "title": "Total nacional de accesos a Internet fijo por velocidad de bajada",
-            "issued": "2017-08-01T17:06:16",
-            "modified": "2017-12-21T18:05:01Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "acceso-a-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241420/total-nacional-de-accesos-a-internet-fijo-por-velocidad-de-bajada/",
-                    "description": "Número total de accesos al servicio de Internet fijo por velocidad de bajada (trimestral)",
-                    "title": "Total nacional de accesos a Internet fijo por velocidad de bajada",
-                    "issued": "2017-08-01T17:06:16",
-                    "format": "CSV",
-                    "modified": "2017-12-21T18:05:01Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-32663/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241420/total-nacional-de-accesos-a-internet-fijo-por-velocidad-de-bajada/",
-                    "description": "Número total de accesos al servicio de Internet fijo por velocidad de bajada (trimestral)",
-                    "title": "Total nacional de accesos a Internet fijo por velocidad de bajada",
-                    "issued": "2017-08-01T17:06:16",
-                    "format": "XLS",
-                    "modified": "2017-12-21T18:05:01Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-32663/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241420/total-nacional-de-accesos-a-internet-fijo-por-velocidad-de-bajada/",
-                    "description": "Número total de accesos al servicio de Internet fijo por velocidad de bajada (trimestral)",
-                    "title": "Total nacional de accesos a Internet fijo por velocidad de bajada",
-                    "issued": "2017-08-01T17:06:16",
-                    "format": "JSON",
-                    "modified": "2017-12-21T18:05:01Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-32663/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "TOTAL-NACIO-DE-ACCES-32663",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241420/total-nacional-de-accesos-a-internet-fijo-por-velocidad-de-bajada/",
-            "description": "Número total de accesos al servicio de Internet fijo por velocidad de bajada (trimestral)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "Internet",
-                "banda ancha",
-                "banda angosta",
-                "provincial"
-            ],
-            "title": "Acceso a Internet fijo por velocidad de bajada y provincia",
-            "issued": "2017-09-28T16:03:19",
-            "modified": "2017-12-21T18:05:00Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "acceso-a-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240904/acceso-a-internet-fijo-por-velocidad-de-bajada-y-provincia/",
-                    "description": "Número de accesos al servicio de Internet fijo por velocidad de bajada en cada provincia (trimestral)",
-                    "title": "Acceso a Internet fijo por velocidad de bajada y provincia",
-                    "issued": "2017-09-28T16:03:19",
-                    "format": "CSV",
-                    "modified": "2017-12-21T18:05:00Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-A-INTER-FIJO-23248/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240904/acceso-a-internet-fijo-por-velocidad-de-bajada-y-provincia/",
-                    "description": "Número de accesos al servicio de Internet fijo por velocidad de bajada en cada provincia (trimestral)",
-                    "title": "Acceso a Internet fijo por velocidad de bajada y provincia",
-                    "issued": "2017-09-28T16:03:19",
-                    "format": "XLS",
-                    "modified": "2017-12-21T18:05:00Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-A-INTER-FIJO-23248/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240904/acceso-a-internet-fijo-por-velocidad-de-bajada-y-provincia/",
-                    "description": "Número de accesos al servicio de Internet fijo por velocidad de bajada en cada provincia (trimestral)",
-                    "title": "Acceso a Internet fijo por velocidad de bajada y provincia",
-                    "issued": "2017-09-28T16:03:19",
-                    "format": "JSON",
-                    "modified": "2017-12-21T18:05:00Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-A-INTER-FIJO-23248/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "ACCES-A-INTER-FIJO-23248",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240904/acceso-a-internet-fijo-por-velocidad-de-bajada-y-provincia/",
-            "description": "Número de accesos al servicio de Internet fijo por velocidad de bajada en cada provincia (trimestral)"
         },
         {
             "publisher": {
