@@ -13,6 +13,78 @@
                 "name": "MDSN"
             },
             "accessLevel": "public",
+            "description": "Datos correspondientes a programas de la Economía Social",
+            "license": "Creative Commons Attribution",
+            "title": "Plan para la Economía Popular",
+            "issued": "2018-02-07T15:08:12.952212",
+            "modified": "2018-02-07T15:10:59.681384",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.desarrollosocial.gob.ar/dataset/946ea291-d57b-4c11-962e-a0015836baa6/resource/4d107da2-3c95-4baf-b0ab-818a224697ea/download/gobierno-abierto-301017-vf---economia-popular.csv",
+                    "description": "Datos correspondientes a programas de la Economía Social",
+                    "title": "Conjunto de datos",
+                    "issued": "2018-02-07T15:10:56.025526",
+                    "format": "CSV",
+                    "modified": "2018-02-07T15:10:55.880783",
+                    "downloadURL": "http://datosabiertos.desarrollosocial.gob.ar/dataset/946ea291-d57b-4c11-962e-a0015836baa6/resource/4d107da2-3c95-4baf-b0ab-818a224697ea/download/gobierno-abierto-301017-vf---economia-popular.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Nombre del plan",
+                            "title": "Plan"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Nombre del conjunto de datos"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Fuente / área"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Periodicidad de la actualización"
+                        },
+                        {
+                            "type": "",
+                            "description": "",
+                            "title": "Fecha de actualización del dato"
+                        },
+                        {
+                            "type": "",
+                            "description": "",
+                            "title": "Descripción"
+                        },
+                        {
+                            "type": "",
+                            "description": "",
+                            "title": "Conjunto de Datos"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Economia Social"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "SOCI"
+            ],
+            "landingPage": "http://datosabiertos.desarrollosocial.gob.ar/dataset/plan-para-la-economia-popular",
+            "identifier": "946ea291-d57b-4c11-962e-a0015836baa6",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "MDSN"
+            },
+            "accessLevel": "public",
             "description": "Detalle de centros de referencia de todo el país",
             "license": "Creative Commons Attribution",
             "title": "Centros de Referencia",
