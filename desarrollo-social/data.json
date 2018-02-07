@@ -13,6 +13,79 @@
                 "name": "MDSN"
             },
             "accessLevel": "public",
+            "description": "Abordaje territorial",
+            "license": "Creative Commons Attribution",
+            "title": "Abordaje territorial",
+            "issued": "2018-02-07T19:57:05.299449",
+            "modified": "2018-02-07T19:58:45.047140",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.desarrollosocial.gob.ar/dataset/2741333b-292e-402a-aa25-f63f0838a7bf/resource/57d98b93-0418-4c25-a9f7-50138213b7bc/download/gobierno-abierto-301017-vf---abordaje-territorial.csv",
+                    "description": "Asistencia en Emergencias Climáticas",
+                    "title": "Asistencia en Emergencias Climáticas",
+                    "issued": "2018-02-07T19:58:44.040177",
+                    "format": "CSV",
+                    "modified": "2018-02-07T19:58:43.965197",
+                    "downloadURL": "http://datosabiertos.desarrollosocial.gob.ar/dataset/2741333b-292e-402a-aa25-f63f0838a7bf/resource/57d98b93-0418-4c25-a9f7-50138213b7bc/download/gobierno-abierto-301017-vf---abordaje-territorial.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Plan"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Nombre del Conjunto de Datos"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Fuente / área"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Periodicidad de la Actualización"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Fecha de actualización del dato"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Descripción"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "",
+                            "title": "Conjunto de Datos"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Abordaje territorial",
+                "Emergencia climática"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "SOCI"
+            ],
+            "landingPage": "http://datosabiertos.desarrollosocial.gob.ar/dataset/abordaje-territorial",
+            "identifier": "2741333b-292e-402a-aa25-f63f0838a7bf",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "MDSN"
+            },
+            "accessLevel": "public",
             "description": "Participación Ciudadana",
             "license": "Creative Commons Attribution",
             "title": "Participación Ciudadana",
