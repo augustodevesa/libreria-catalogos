@@ -17,7 +17,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Ingresos y Egresos de personas al pais y Residencias Otorgadas.",
             "issued": "2017-09-20T12:49:40.599062",
-            "modified": "2018-02-06T20:06:26.113531",
+            "modified": "2018-02-07T19:26:57.587020",
             "language": [
                 "spa"
             ],
@@ -210,21 +210,25 @@
                         {
                             "type": "integer",
                             "description": "Tipo de Residencia",
+                            "unit": "",
                             "title": "TRANSITORIAS"
                         },
                         {
                             "type": "integer",
                             "description": "Tipo de Residencia",
+                            "unit": "",
                             "title": "TEMPORARIAS"
                         },
                         {
-                            "type": "number",
+                            "type": "integer",
                             "description": "Tipo de Residencia",
+                            "unit": "",
                             "title": "PERMANENTES"
                         },
                         {
-                            "type": "number",
+                            "type": "integer",
                             "description": "Totales de residencias otorgadas",
+                            "unit": "",
                             "title": "TOTALES"
                         }
                     ]
@@ -316,7 +320,7 @@
                     "downloadURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/a6509549-da34-442b-bc9f-75289a085c51/download/ingresos-y-egresos-de-personas-al-pais---3-trimestre---ano-2017..csv"
                 }
             ],
-            "landingPage": "https://www.migraciones.gov.ar"
+            "landingPage": "http://www.migraciones.gov.ar"
         },
         {
             "publisher": {
