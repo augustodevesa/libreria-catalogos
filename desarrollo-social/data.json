@@ -13,6 +13,297 @@
                 "name": "MDSN"
             },
             "accessLevel": "public",
+            "description": "Participación Ciudadana",
+            "license": "Creative Commons Attribution",
+            "title": "Participación Ciudadana",
+            "issued": "2018-02-07T16:09:59.150133",
+            "modified": "2018-02-07T16:16:08.626410",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.desarrollosocial.gob.ar/dataset/af5ece35-e3ef-49d7-81d4-99000f9c3ef0/resource/4fd7c9af-a4e9-4631-beb9-e9028a011309/download/gobierno-abierto-301017-vf---participacion-ciudadana.csv",
+                    "description": "Datos de Participación Ciudadana",
+                    "title": "Datos de Participación Ciudadana",
+                    "issued": "2018-02-07T16:11:53.658968",
+                    "format": "CSV",
+                    "modified": "2018-02-07T16:11:53.603260",
+                    "downloadURL": "http://datosabiertos.desarrollosocial.gob.ar/dataset/af5ece35-e3ef-49d7-81d4-99000f9c3ef0/resource/4fd7c9af-a4e9-4631-beb9-e9028a011309/download/gobierno-abierto-301017-vf---participacion-ciudadana.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Plan"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Nombre del Conjunto de Datos"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Fuente / área"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Periodicidad de la Actualización"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Fecha de actualización del dato"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Descripción"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "",
+                            "title": "Conjunto de Datos"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Participación ciudadana"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "SOCI"
+            ],
+            "landingPage": "http://datosabiertos.desarrollosocial.gob.ar/dataset/participacion-ciudadana",
+            "identifier": "af5ece35-e3ef-49d7-81d4-99000f9c3ef0",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "MDSN"
+            },
+            "accessLevel": "public",
+            "description": "Registros Internos del programa El Estado en tu Barrio",
+            "license": "Creative Commons Attribution",
+            "title": "El Estado en tu Barrio y Tren Argentino",
+            "issued": "2018-02-07T16:13:43.984296",
+            "modified": "2018-02-07T16:15:52.418592",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.desarrollosocial.gob.ar/dataset/e574360e-6377-446c-a034-7000cf6619eb/resource/33d2f1dc-dec4-4476-a650-f5638577e0ef/download/gobierno-abierto-301017-vf---eetb.csv",
+                    "description": "Registros Internos del programa El Estado en tu barrio",
+                    "title": "Registros Internos del programa El Estado en tu barrio",
+                    "issued": "2018-02-07T16:15:14.757466",
+                    "format": "CSV",
+                    "modified": "2018-02-07T16:15:14.695673",
+                    "downloadURL": "http://datosabiertos.desarrollosocial.gob.ar/dataset/e574360e-6377-446c-a034-7000cf6619eb/resource/33d2f1dc-dec4-4476-a650-f5638577e0ef/download/gobierno-abierto-301017-vf---eetb.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Plan"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Nombre del Conjunto de Datos"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Fuente / área"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Periodicidad de la Actualización"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Fecha de actualización del dato"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Descripción"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "",
+                            "title": "Conjunto de Datos"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Estado en tu Barrio",
+                "Tren Argentino"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "SOCI"
+            ],
+            "landingPage": "http://datosabiertos.desarrollosocial.gob.ar/dataset/el-estado-en-tu-barrio",
+            "identifier": "e574360e-6377-446c-a034-7000cf6619eb",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "MDSN"
+            },
+            "accessLevel": "public",
+            "description": "Registros Internos SENNAF Espacios de Primera Infancia",
+            "license": "Creative Commons Attribution",
+            "title": "Plan nacional de primera infancia",
+            "issued": "2018-02-07T15:21:57.930704",
+            "modified": "2018-02-07T15:23:28.662520",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.desarrollosocial.gob.ar/dataset/a3eb5de1-5e2f-4a8e-9c36-a546e39165a2/resource/07dbef78-2f3f-4cf0-b48c-7a4e1c314df0/download/gobierno-abierto-301017-vf---primera-infancia.csv",
+                    "description": "Espacios de Primera Infancia",
+                    "title": "Espacios de Primera Infancia",
+                    "issued": "2018-02-07T15:23:27.708507",
+                    "format": "CSV",
+                    "modified": "2018-02-07T15:23:27.648599",
+                    "downloadURL": "http://datosabiertos.desarrollosocial.gob.ar/dataset/a3eb5de1-5e2f-4a8e-9c36-a546e39165a2/resource/07dbef78-2f3f-4cf0-b48c-7a4e1c314df0/download/gobierno-abierto-301017-vf---primera-infancia.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Plan"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Nombre del Conjunto de Datos"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Fuente / área"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Periodicidad de la Actualización"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Fecha de actualización del dato"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Descripción"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "",
+                            "title": "Conjunto de Datos"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Primera infancia"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "SOCI"
+            ],
+            "landingPage": "http://datosabiertos.desarrollosocial.gob.ar/dataset/plan-nacional-de-primera-infancia",
+            "identifier": "a3eb5de1-5e2f-4a8e-9c36-a546e39165a2",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "MDSN"
+            },
+            "accessLevel": "public",
+            "description": "Registros internos de Subsecretaría de Juventud y Registros internos de SENNAF",
+            "license": "Creative Commons Attribution",
+            "title": "Estrategia Nacional para Adolescentes y Jóvenes Vulnerables",
+            "issued": "2018-02-07T15:16:40.559769",
+            "modified": "2018-02-07T15:19:43.931727",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.desarrollosocial.gob.ar/dataset/65acfc50-2c36-4f96-924b-0fd2305cc0c9/resource/6d598a82-b661-4d38-847b-0565d7723abb/download/gobierno-abierto-301017-vf---jovenes-y-adolescentes.csv",
+                    "description": "Jóvenes y adolescentes alcanzados desde las líneas de acción del MDS",
+                    "title": "Jóvenes y adolescentes alcanzados desde las líneas de acción del MDS",
+                    "issued": "2018-02-07T15:19:42.653963",
+                    "format": "CSV",
+                    "modified": "2018-02-07T15:19:42.578944",
+                    "downloadURL": "http://datosabiertos.desarrollosocial.gob.ar/dataset/65acfc50-2c36-4f96-924b-0fd2305cc0c9/resource/6d598a82-b661-4d38-847b-0565d7723abb/download/gobierno-abierto-301017-vf---jovenes-y-adolescentes.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Nombre del plan",
+                            "title": "Plan"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Nombre del conjunto de datos"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Fuente / área"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Periodicidad de actualización"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Fecha de actualización del dato"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Descripción"
+                        },
+                        {
+                            "type": "string",
+                            "description": "",
+                            "title": "Conjunto de Datos"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Jovenes",
+                "Juventud",
+                "Vulnerabilidad"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "SOCI"
+            ],
+            "landingPage": "http://datosabiertos.desarrollosocial.gob.ar/dataset/estrategia-nacional-para-adolescentes-y-jovenes-vulnerables",
+            "identifier": "65acfc50-2c36-4f96-924b-0fd2305cc0c9",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "MDSN"
+            },
+            "accessLevel": "public",
             "description": "Datos correspondientes a programas de la Economía Social",
             "license": "Creative Commons Attribution",
             "title": "Plan para la Economía Popular",
