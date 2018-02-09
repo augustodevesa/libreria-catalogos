@@ -11,6 +11,7 @@
     "modified": "2017-07-14T00:00:00",
     "dataset": [
         {
+            "issued": "2017-07-14T00:00:00",
             "accessLevel": "ABIERTO",
             "superTheme": [
                 "JUST"
@@ -49,9 +50,6 @@
             "distribution": [
                 {
                     "accessURL": "https://estadisticascriminales.minseg.gob.ar/",
-                    "description": "Estadísticas criminales en la República Argentina para los años 2014, 2015 y 2016 provinientes del Sistema Nacional de Información Criminal",
-                    "title": "Estadísticas criminales en la República Argentina para los años 2014, 2015 y 2016",
-                    "format": "CSV",
                     "field": [
                         {
                             "description": "Año en el que ocurrió el delito",
@@ -89,12 +87,18 @@
                             "type": "integer"
                         }
                     ],
+                    "description": "Estadísticas criminales en la República Argentina para los años 2014, 2015 y 2016 provinientes del Sistema Nacional de Información Criminal",
+                    "title": "Estadísticas criminales en la República Argentina para los años 2014, 2015 y 2016",
+                    "issued": "2017-07-14T00:00:00",
+                    "format": "CSV",
+                    "downloadURL": "https://estadisticascriminales.minseg.gob.ar/datos/snic-pais-2014-2015-2016.csv",
                     "identifier": "1.1"
                 }
             ],
             "identifier": "1"
         },
         {
+            "issued": "2017-07-14T00:00:00",
             "accessLevel": "ABIERTO",
             "superTheme": [
                 "JUST"
@@ -133,9 +137,6 @@
             "distribution": [
                 {
                     "accessURL": "https://estadisticascriminales.minseg.gob.ar/",
-                    "description": "Estadísticas criminales en la República Argentina por Provincias para los años 2014, 2015 y 2016 provinientes del Sistema Nacional de Información Criminal",
-                    "title": "Estadísticas criminales en la República Argentina por Provincias para los años 2014, 2015 y 2016",
-                    "format": "CSV",
                     "field": [
                         {
                             "description": "Año en el que ocurrió el delito",
@@ -173,6 +174,11 @@
                             "type": "integer"
                         }
                     ],
+                    "description": "Estadísticas criminales en la República Argentina por Provincias para los años 2014, 2015 y 2016 provinientes del Sistema Nacional de Información Criminal",
+                    "title": "Estadísticas criminales en la República Argentina por Provincias para los años 2014, 2015 y 2016",
+                    "issued": "2017-07-14T00:00:00",
+                    "format": "CSV",
+                    "downloadURL": "https://estadisticascriminales.minseg.gob.ar/datos/snic-provincias-2014-2015-2016.csv",
                     "identifier": "2.1"
                 }
             ],
