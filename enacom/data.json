@@ -69,12 +69,510 @@
                 "TECH"
             ],
             "keyword": [
+                "telefonia fija",
+                "provincial"
+            ],
+            "title": "Accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros)",
+            "issued": "2018-02-09T20:25:52",
+            "modified": "2018-02-09T23:25:55Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-fija"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241309/accesos-de-telefonia-fija-por-provincia-hogares-comerciales-gobierno-y-otros/",
+                    "description": "Número de accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros) (trimestral)",
+                    "title": "Accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros)",
+                    "issued": "2018-02-09T20:25:52",
+                    "format": "CSV",
+                    "modified": "2018-02-09T23:25:55Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-DE-TELEF-FIJA-POR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241309/accesos-de-telefonia-fija-por-provincia-hogares-comerciales-gobierno-y-otros/",
+                    "description": "Número de accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros) (trimestral)",
+                    "title": "Accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros)",
+                    "issued": "2018-02-09T20:25:52",
+                    "format": "XLS",
+                    "modified": "2018-02-09T23:25:55Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-DE-TELEF-FIJA-POR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241309/accesos-de-telefonia-fija-por-provincia-hogares-comerciales-gobierno-y-otros/",
+                    "description": "Número de accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros) (trimestral)",
+                    "title": "Accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros)",
+                    "issued": "2018-02-09T20:25:52",
+                    "format": "JSON",
+                    "modified": "2018-02-09T23:25:55Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-DE-TELEF-FIJA-POR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "ACCES-DE-TELEF-FIJA-POR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241309/accesos-de-telefonia-fija-por-provincia-hogares-comerciales-gobierno-y-otros/",
+            "description": "Número de accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros) (trimestral)"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "telefonia fija"
+            ],
+            "title": "Total nacional de accesos a telefonía fija",
+            "issued": "2017-07-26T16:42:13",
+            "modified": "2018-02-09T23:25:27Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-fija"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241314/total-nacional-de-accesos-a-telefonia-fija/",
+                    "description": "Número total de accesos al servicio de telefonía fija (hogares, comerciales, gobierno y otros) (trimestral)",
+                    "title": "Total nacional de accesos a telefonía fija",
+                    "issued": "2017-07-26T16:42:13",
+                    "format": "CSV",
+                    "modified": "2018-02-09T23:25:27Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-18734/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241314/total-nacional-de-accesos-a-telefonia-fija/",
+                    "description": "Número total de accesos al servicio de telefonía fija (hogares, comerciales, gobierno y otros) (trimestral)",
+                    "title": "Total nacional de accesos a telefonía fija",
+                    "issued": "2017-07-26T16:42:13",
+                    "format": "XLS",
+                    "modified": "2018-02-09T23:25:27Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-18734/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241314/total-nacional-de-accesos-a-telefonia-fija/",
+                    "description": "Número total de accesos al servicio de telefonía fija (hogares, comerciales, gobierno y otros) (trimestral)",
+                    "title": "Total nacional de accesos a telefonía fija",
+                    "issued": "2017-07-26T16:42:13",
+                    "format": "JSON",
+                    "modified": "2018-02-09T23:25:27Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-18734/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "TOTAL-NACIO-DE-ACCES-18734",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241314/total-nacional-de-accesos-a-telefonia-fija/",
+            "description": "Número total de accesos al servicio de telefonía fija (hogares, comerciales, gobierno y otros) (trimestral)"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "ingresos",
+                "telefonia fija"
+            ],
+            "title": "Ingresos trimestrales por la prestación del servicio de telefonía fija",
+            "issued": "2017-07-26T17:03:46",
+            "modified": "2018-02-09T23:25:26Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-fija"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241318/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-fija/",
+                    "description": "Ingresos trimestrales de los operadores por el servicio de telefonía fija (miles de $)",
+                    "title": "Ingresos trimestrales por la prestación del servicio de telefonía fija",
+                    "issued": "2017-07-26T17:03:46",
+                    "format": "CSV",
+                    "modified": "2018-02-09T23:25:26Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/INGRE-TRIME-POR-LA-96059/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241318/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-fija/",
+                    "description": "Ingresos trimestrales de los operadores por el servicio de telefonía fija (miles de $)",
+                    "title": "Ingresos trimestrales por la prestación del servicio de telefonía fija",
+                    "issued": "2017-07-26T17:03:46",
+                    "format": "XLS",
+                    "modified": "2018-02-09T23:25:26Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/INGRE-TRIME-POR-LA-96059/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241318/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-fija/",
+                    "description": "Ingresos trimestrales de los operadores por el servicio de telefonía fija (miles de $)",
+                    "title": "Ingresos trimestrales por la prestación del servicio de telefonía fija",
+                    "issued": "2017-07-26T17:03:46",
+                    "format": "JSON",
+                    "modified": "2018-02-09T23:25:26Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/INGRE-TRIME-POR-LA-96059/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "INGRE-TRIME-POR-LA-96059",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241318/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-fija/",
+            "description": "Ingresos trimestrales de los operadores por el servicio de telefonía fija (miles de $)"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "ingresos",
+                "telefonia fija",
+                "provincial",
+                "penetración"
+            ],
+            "title": "Penetración provincial de la telefonía fija",
+            "issued": "2017-07-26T16:53:47",
+            "modified": "2018-02-09T23:25:26Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-fija"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241315/penetracion-provincial-de-la-telefonia-fija/",
+                    "description": "Penetración por provincia del servicio de telefonía fija (métrica: hogares y habitantes)",
+                    "title": "Penetración provincial de la telefonía fija",
+                    "issued": "2017-07-26T16:53:47",
+                    "format": "CSV",
+                    "modified": "2018-02-09T23:25:26Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-PROVI-DE-LA-TELEF/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241315/penetracion-provincial-de-la-telefonia-fija/",
+                    "description": "Penetración por provincia del servicio de telefonía fija (métrica: hogares y habitantes)",
+                    "title": "Penetración provincial de la telefonía fija",
+                    "issued": "2017-07-26T16:53:47",
+                    "format": "XLS",
+                    "modified": "2018-02-09T23:25:26Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-PROVI-DE-LA-TELEF/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241315/penetracion-provincial-de-la-telefonia-fija/",
+                    "description": "Penetración por provincia del servicio de telefonía fija (métrica: hogares y habitantes)",
+                    "title": "Penetración provincial de la telefonía fija",
+                    "issued": "2017-07-26T16:53:47",
+                    "format": "JSON",
+                    "modified": "2018-02-09T23:25:26Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-PROVI-DE-LA-TELEF/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "PENET-PROVI-DE-LA-TELEF",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241315/penetracion-provincial-de-la-telefonia-fija/",
+            "description": "Penetración por provincia del servicio de telefonía fija (métrica: hogares y habitantes)"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "telefonia fija",
+                "penetración"
+            ],
+            "title": "Penetración total nacional de la telefonía fija por trimestre",
+            "issued": "2017-07-26T17:01:43",
+            "modified": "2018-02-09T23:25:26Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-fija"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241316/penetracion-total-nacional-de-la-telefonia-fija-por-trimestre/",
+                    "description": "Penetración total nacional de la telefonía fija por trimestre (métrica: hogares y habitantes)",
+                    "title": "Penetración total nacional de la telefonía fija por trimestre",
+                    "issued": "2017-07-26T17:01:43",
+                    "format": "CSV",
+                    "modified": "2018-02-09T23:25:26Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-TOTAL-NACIO-DE-LA/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241316/penetracion-total-nacional-de-la-telefonia-fija-por-trimestre/",
+                    "description": "Penetración total nacional de la telefonía fija por trimestre (métrica: hogares y habitantes)",
+                    "title": "Penetración total nacional de la telefonía fija por trimestre",
+                    "issued": "2017-07-26T17:01:43",
+                    "format": "XLS",
+                    "modified": "2018-02-09T23:25:26Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-TOTAL-NACIO-DE-LA/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241316/penetracion-total-nacional-de-la-telefonia-fija-por-trimestre/",
+                    "description": "Penetración total nacional de la telefonía fija por trimestre (métrica: hogares y habitantes)",
+                    "title": "Penetración total nacional de la telefonía fija por trimestre",
+                    "issued": "2017-07-26T17:01:43",
+                    "format": "JSON",
+                    "modified": "2018-02-09T23:25:26Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-TOTAL-NACIO-DE-LA/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "PENET-TOTAL-NACIO-DE-LA",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241316/penetracion-total-nacional-de-la-telefonia-fija-por-trimestre/",
+            "description": "Penetración total nacional de la telefonía fija por trimestre (métrica: hogares y habitantes)"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "telefonia movil",
+                "4g",
+                "provincial"
+            ],
+            "title": "Radiobases 4G desplegadas por trimestre y provincia",
+            "issued": "2018-02-09T20:21:59",
+            "modified": "2018-02-09T23:22:06Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-movil"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241305/radiobases-4g-desplegadas-por-trimestre-y-provincia/",
+                    "description": "Número de radiobases 4G desplegadas por los operadores",
+                    "title": "Radiobases 4G desplegadas por trimestre y provincia",
+                    "issued": "2018-02-09T20:21:59",
+                    "format": "CSV",
+                    "modified": "2018-02-09T23:22:06Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-4G-DESPL-POR-TRIME/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241305/radiobases-4g-desplegadas-por-trimestre-y-provincia/",
+                    "description": "Número de radiobases 4G desplegadas por los operadores",
+                    "title": "Radiobases 4G desplegadas por trimestre y provincia",
+                    "issued": "2018-02-09T20:21:59",
+                    "format": "XLS",
+                    "modified": "2018-02-09T23:22:06Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-4G-DESPL-POR-TRIME/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241305/radiobases-4g-desplegadas-por-trimestre-y-provincia/",
+                    "description": "Número de radiobases 4G desplegadas por los operadores",
+                    "title": "Radiobases 4G desplegadas por trimestre y provincia",
+                    "issued": "2018-02-09T20:21:59",
+                    "format": "JSON",
+                    "modified": "2018-02-09T23:22:06Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-4G-DESPL-POR-TRIME/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "RADIO-4G-DESPL-POR-TRIME",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241305/radiobases-4g-desplegadas-por-trimestre-y-provincia/",
+            "description": "Número de radiobases 4G desplegadas por los operadores"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "telefonia movil",
+                "4g",
+                "provincial"
+            ],
+            "title": "Número de radiobases 4G por provincia por cada 100 mil habitantes",
+            "issued": "2017-07-26T15:01:52",
+            "modified": "2018-02-09T23:21:06Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-movil"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241306/numero-de-radiobases-4g-por-provincia-por-cada-100-mil-habitantes/",
+                    "description": "Número de radiobases 4G por provincia por cada 100 mil habitantes.",
+                    "title": "Número de radiobases 4G por provincia por cada 100 mil habitantes",
+                    "issued": "2017-07-26T15:01:52",
+                    "format": "CSV",
+                    "modified": "2018-02-09T23:21:06Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-DE-RADIO-4G-POR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241306/numero-de-radiobases-4g-por-provincia-por-cada-100-mil-habitantes/",
+                    "description": "Número de radiobases 4G por provincia por cada 100 mil habitantes.",
+                    "title": "Número de radiobases 4G por provincia por cada 100 mil habitantes",
+                    "issued": "2017-07-26T15:01:52",
+                    "format": "XLS",
+                    "modified": "2018-02-09T23:21:06Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-DE-RADIO-4G-POR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241306/numero-de-radiobases-4g-por-provincia-por-cada-100-mil-habitantes/",
+                    "description": "Número de radiobases 4G por provincia por cada 100 mil habitantes.",
+                    "title": "Número de radiobases 4G por provincia por cada 100 mil habitantes",
+                    "issued": "2017-07-26T15:01:52",
+                    "format": "JSON",
+                    "modified": "2018-02-09T23:21:06Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-DE-RADIO-4G-POR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "NUMER-DE-RADIO-4G-POR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241306/numero-de-radiobases-4g-por-provincia-por-cada-100-mil-habitantes/",
+            "description": "Número de radiobases 4G por provincia por cada 100 mil habitantes."
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "telefonia movil",
+                "portabilidad"
+            ],
+            "title": "Portabilidad numérica móvil: altas mensuales por operador",
+            "issued": "2018-02-09T20:18:23",
+            "modified": "2018-02-09T23:18:26Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-movil"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
+                    "description": "Número de altas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: altas mensuales por operador",
+                    "issued": "2018-02-09T20:18:23",
+                    "format": "CSV",
+                    "modified": "2018-02-09T23:18:26Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-MENSU/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
+                    "description": "Número de altas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: altas mensuales por operador",
+                    "issued": "2018-02-09T20:18:23",
+                    "format": "XLS",
+                    "modified": "2018-02-09T23:18:26Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-MENSU/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
+                    "description": "Número de altas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: altas mensuales por operador",
+                    "issued": "2018-02-09T20:18:23",
+                    "format": "JSON",
+                    "modified": "2018-02-09T23:18:26Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-MENSU/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "PORTA-NUMER-MOVIL-ALTAS-MENSU",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
+            "description": "Número de altas mensuales de la portabilidad numérica móvil por operador"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "telefonia movil",
+                "portabilidad"
+            ],
+            "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
+            "issued": "2017-09-12T20:31:20",
+            "modified": "2018-02-09T23:17:46Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-movil"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
+                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
+                    "issued": "2017-09-12T20:31:20",
+                    "format": "CSV",
+                    "modified": "2018-02-09T23:17:46Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
+                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
+                    "issued": "2017-09-12T20:31:20",
+                    "format": "XLS",
+                    "modified": "2018-02-09T23:17:46Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
+                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
+                    "issued": "2017-09-12T20:31:20",
+                    "format": "JSON",
+                    "modified": "2018-02-09T23:17:46Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "PORTA-NUMER-MOVIL-ALTAS-Y",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
+            "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
                 "telefonia",
                 "numeracion"
             ],
             "title": "Numeración geográfica",
             "issued": "2016-09-20T20:59:01",
-            "modified": "2018-02-09T17:14:50Z",
+            "modified": "2018-02-09T19:27:01Z",
             "language": [
                 "spa"
             ],
@@ -89,7 +587,7 @@
                     "title": "Numeración geográfica",
                     "issued": "2016-09-20T20:59:01",
                     "format": "CSV",
-                    "modified": "2018-02-09T17:14:50Z",
+                    "modified": "2018-02-09T19:27:01Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
@@ -98,7 +596,7 @@
                     "title": "Numeración geográfica",
                     "issued": "2016-09-20T20:59:01",
                     "format": "XLS",
-                    "modified": "2018-02-09T17:14:50Z",
+                    "modified": "2018-02-09T19:27:01Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
@@ -107,7 +605,7 @@
                     "title": "Numeración geográfica",
                     "issued": "2016-09-20T20:59:01",
                     "format": "JSON",
-                    "modified": "2018-02-09T17:14:50Z",
+                    "modified": "2018-02-09T19:27:01Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 }
             ],
@@ -129,7 +627,7 @@
             ],
             "title": "Numeración no geográfica",
             "issued": "2016-09-20T20:56:16",
-            "modified": "2018-02-09T17:14:20Z",
+            "modified": "2018-02-09T19:26:58Z",
             "language": [
                 "spa"
             ],
@@ -144,7 +642,7 @@
                     "title": "Numeración no geográfica",
                     "issued": "2016-09-20T20:56:16",
                     "format": "CSV",
-                    "modified": "2018-02-09T17:14:20Z",
+                    "modified": "2018-02-09T19:26:58Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
@@ -153,7 +651,7 @@
                     "title": "Numeración no geográfica",
                     "issued": "2016-09-20T20:56:16",
                     "format": "XLS",
-                    "modified": "2018-02-09T17:14:20Z",
+                    "modified": "2018-02-09T19:26:58Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
@@ -162,7 +660,7 @@
                     "title": "Numeración no geográfica",
                     "issued": "2016-09-20T20:56:16",
                     "format": "JSON",
-                    "modified": "2018-02-09T17:14:20Z",
+                    "modified": "2018-02-09T19:26:58Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 }
             ],
@@ -1438,116 +1936,6 @@
                 "TECH"
             ],
             "keyword": [
-                "telefonia movil",
-                "portabilidad"
-            ],
-            "title": "Portabilidad numérica móvil: altas mensuales por operador",
-            "issued": "2017-09-28T14:49:28",
-            "modified": "2017-12-21T21:27:03Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "telefonia-movil"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
-                    "description": "Número de altas mensuales de la portabilidad numérica móvil por operador",
-                    "title": "Portabilidad numérica móvil: altas mensuales por operador",
-                    "issued": "2017-09-28T14:49:28",
-                    "format": "CSV",
-                    "modified": "2017-12-21T21:27:03Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-MENSU/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
-                    "description": "Número de altas mensuales de la portabilidad numérica móvil por operador",
-                    "title": "Portabilidad numérica móvil: altas mensuales por operador",
-                    "issued": "2017-09-28T14:49:28",
-                    "format": "XLS",
-                    "modified": "2017-12-21T21:27:03Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-MENSU/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
-                    "description": "Número de altas mensuales de la portabilidad numérica móvil por operador",
-                    "title": "Portabilidad numérica móvil: altas mensuales por operador",
-                    "issued": "2017-09-28T14:49:28",
-                    "format": "JSON",
-                    "modified": "2017-12-21T21:27:03Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-MENSU/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "PORTA-NUMER-MOVIL-ALTAS-MENSU",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
-            "description": "Número de altas mensuales de la portabilidad numérica móvil por operador"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "telefonia movil",
-                "portabilidad"
-            ],
-            "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
-            "issued": "2017-09-12T19:31:20",
-            "modified": "2017-12-21T21:27:03Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "telefonia-movil"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
-                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
-                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
-                    "issued": "2017-09-12T19:31:20",
-                    "format": "CSV",
-                    "modified": "2017-12-21T21:27:03Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
-                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
-                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
-                    "issued": "2017-09-12T19:31:20",
-                    "format": "XLS",
-                    "modified": "2017-12-21T21:27:03Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
-                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
-                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
-                    "issued": "2017-09-12T19:31:20",
-                    "format": "JSON",
-                    "modified": "2017-12-21T21:27:03Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "PORTA-NUMER-MOVIL-ALTAS-Y",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
-            "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
                 "internet",
                 "banda ancha",
                 "penetración"
@@ -2050,282 +2438,6 @@
                 "TECH"
             ],
             "keyword": [
-                "telefonia fija",
-                "provincial"
-            ],
-            "title": "Accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros)",
-            "issued": "2017-09-28T14:36:10",
-            "modified": "2017-12-18T22:54:48Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "telefonia-fija"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241309/accesos-de-telefonia-fija-por-provincia-hogares-comerciales-gobierno-y-otros/",
-                    "description": "Número de accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros) (trimestral)",
-                    "title": "Accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros)",
-                    "issued": "2017-09-28T14:36:10",
-                    "format": "CSV",
-                    "modified": "2017-12-18T22:54:48Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-DE-TELEF-FIJA-POR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241309/accesos-de-telefonia-fija-por-provincia-hogares-comerciales-gobierno-y-otros/",
-                    "description": "Número de accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros) (trimestral)",
-                    "title": "Accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros)",
-                    "issued": "2017-09-28T14:36:10",
-                    "format": "XLS",
-                    "modified": "2017-12-18T22:54:48Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-DE-TELEF-FIJA-POR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241309/accesos-de-telefonia-fija-por-provincia-hogares-comerciales-gobierno-y-otros/",
-                    "description": "Número de accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros) (trimestral)",
-                    "title": "Accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros)",
-                    "issued": "2017-09-28T14:36:10",
-                    "format": "JSON",
-                    "modified": "2017-12-18T22:54:48Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-DE-TELEF-FIJA-POR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "ACCES-DE-TELEF-FIJA-POR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241309/accesos-de-telefonia-fija-por-provincia-hogares-comerciales-gobierno-y-otros/",
-            "description": "Número de accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros) (trimestral)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "ingresos",
-                "telefonia fija"
-            ],
-            "title": "Ingresos trimestrales por la prestación del servicio de telefonía fija",
-            "issued": "2017-07-26T16:03:46",
-            "modified": "2017-12-18T22:54:48Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "telefonia-fija"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241318/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-fija/",
-                    "description": "Ingresos trimestrales de los operadores por el servicio de telefonía fija (miles de $)",
-                    "title": "Ingresos trimestrales por la prestación del servicio de telefonía fija",
-                    "issued": "2017-07-26T16:03:46",
-                    "format": "CSV",
-                    "modified": "2017-12-18T22:54:48Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/INGRE-TRIME-POR-LA-96059/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241318/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-fija/",
-                    "description": "Ingresos trimestrales de los operadores por el servicio de telefonía fija (miles de $)",
-                    "title": "Ingresos trimestrales por la prestación del servicio de telefonía fija",
-                    "issued": "2017-07-26T16:03:46",
-                    "format": "XLS",
-                    "modified": "2017-12-18T22:54:48Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/INGRE-TRIME-POR-LA-96059/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241318/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-fija/",
-                    "description": "Ingresos trimestrales de los operadores por el servicio de telefonía fija (miles de $)",
-                    "title": "Ingresos trimestrales por la prestación del servicio de telefonía fija",
-                    "issued": "2017-07-26T16:03:46",
-                    "format": "JSON",
-                    "modified": "2017-12-18T22:54:48Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/INGRE-TRIME-POR-LA-96059/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "INGRE-TRIME-POR-LA-96059",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241318/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-fija/",
-            "description": "Ingresos trimestrales de los operadores por el servicio de telefonía fija (miles de $)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "ingresos",
-                "telefonia fija",
-                "provincial",
-                "penetración"
-            ],
-            "title": "Penetración provincial de la telefonía fija",
-            "issued": "2017-07-26T15:53:47",
-            "modified": "2017-12-18T22:54:48Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "telefonia-fija"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241315/penetracion-provincial-de-la-telefonia-fija/",
-                    "description": "Penetración por provincia del servicio de telefonía fija (métrica: hogares y habitantes)",
-                    "title": "Penetración provincial de la telefonía fija",
-                    "issued": "2017-07-26T15:53:47",
-                    "format": "CSV",
-                    "modified": "2017-12-18T22:54:48Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-PROVI-DE-LA-TELEF/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241315/penetracion-provincial-de-la-telefonia-fija/",
-                    "description": "Penetración por provincia del servicio de telefonía fija (métrica: hogares y habitantes)",
-                    "title": "Penetración provincial de la telefonía fija",
-                    "issued": "2017-07-26T15:53:47",
-                    "format": "XLS",
-                    "modified": "2017-12-18T22:54:48Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-PROVI-DE-LA-TELEF/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241315/penetracion-provincial-de-la-telefonia-fija/",
-                    "description": "Penetración por provincia del servicio de telefonía fija (métrica: hogares y habitantes)",
-                    "title": "Penetración provincial de la telefonía fija",
-                    "issued": "2017-07-26T15:53:47",
-                    "format": "JSON",
-                    "modified": "2017-12-18T22:54:48Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-PROVI-DE-LA-TELEF/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "PENET-PROVI-DE-LA-TELEF",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241315/penetracion-provincial-de-la-telefonia-fija/",
-            "description": "Penetración por provincia del servicio de telefonía fija (métrica: hogares y habitantes)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "telefonia fija",
-                "penetración"
-            ],
-            "title": "Penetración total nacional de la telefonía fija por trimestre",
-            "issued": "2017-07-26T16:01:43",
-            "modified": "2017-12-18T22:54:48Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "telefonia-fija"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241316/penetracion-total-nacional-de-la-telefonia-fija-por-trimestre/",
-                    "description": "Penetración total nacional de la telefonía fija por trimestre (métrica: hogares y habitantes)",
-                    "title": "Penetración total nacional de la telefonía fija por trimestre",
-                    "issued": "2017-07-26T16:01:43",
-                    "format": "CSV",
-                    "modified": "2017-12-18T22:54:48Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-TOTAL-NACIO-DE-LA/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241316/penetracion-total-nacional-de-la-telefonia-fija-por-trimestre/",
-                    "description": "Penetración total nacional de la telefonía fija por trimestre (métrica: hogares y habitantes)",
-                    "title": "Penetración total nacional de la telefonía fija por trimestre",
-                    "issued": "2017-07-26T16:01:43",
-                    "format": "XLS",
-                    "modified": "2017-12-18T22:54:48Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-TOTAL-NACIO-DE-LA/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241316/penetracion-total-nacional-de-la-telefonia-fija-por-trimestre/",
-                    "description": "Penetración total nacional de la telefonía fija por trimestre (métrica: hogares y habitantes)",
-                    "title": "Penetración total nacional de la telefonía fija por trimestre",
-                    "issued": "2017-07-26T16:01:43",
-                    "format": "JSON",
-                    "modified": "2017-12-18T22:54:48Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-TOTAL-NACIO-DE-LA/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "PENET-TOTAL-NACIO-DE-LA",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241316/penetracion-total-nacional-de-la-telefonia-fija-por-trimestre/",
-            "description": "Penetración total nacional de la telefonía fija por trimestre (métrica: hogares y habitantes)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "telefonia fija"
-            ],
-            "title": "Total nacional de accesos a telefonía fija",
-            "issued": "2017-07-26T15:42:13",
-            "modified": "2017-12-18T22:54:48Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "telefonia-fija"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241314/total-nacional-de-accesos-a-telefonia-fija/",
-                    "description": "Número total de accesos al servicio de telefonía fija (hogares, comerciales, gobierno y otros) (trimestral)",
-                    "title": "Total nacional de accesos a telefonía fija",
-                    "issued": "2017-07-26T15:42:13",
-                    "format": "CSV",
-                    "modified": "2017-12-18T22:54:48Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-18734/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241314/total-nacional-de-accesos-a-telefonia-fija/",
-                    "description": "Número total de accesos al servicio de telefonía fija (hogares, comerciales, gobierno y otros) (trimestral)",
-                    "title": "Total nacional de accesos a telefonía fija",
-                    "issued": "2017-07-26T15:42:13",
-                    "format": "XLS",
-                    "modified": "2017-12-18T22:54:48Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-18734/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241314/total-nacional-de-accesos-a-telefonia-fija/",
-                    "description": "Número total de accesos al servicio de telefonía fija (hogares, comerciales, gobierno y otros) (trimestral)",
-                    "title": "Total nacional de accesos a telefonía fija",
-                    "issued": "2017-07-26T15:42:13",
-                    "format": "JSON",
-                    "modified": "2017-12-18T22:54:48Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-18734/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "TOTAL-NACIO-DE-ACCES-18734",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241314/total-nacional-de-accesos-a-telefonia-fija/",
-            "description": "Número total de accesos al servicio de telefonía fija (hogares, comerciales, gobierno y otros) (trimestral)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
                 "servicios postales"
             ],
             "title": "Unidades mensuales vendidas de servicios postales del correo oficial y privados",
@@ -2813,118 +2925,6 @@
             "identifier": "VENTA-TRIME-DE-SERVI-TELEG",
             "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241163/ventas-mensuales-de-servicios-telegraficos-del-correo-oficial-y-privados/",
             "description": "Ventas mensuales de servicios telegráficos del correo oficial y operadores privados (en $)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "telefonia movil",
-                "4g",
-                "provincial"
-            ],
-            "title": "Número de radiobases 4G por provincia por cada 100 mil habitantes",
-            "issued": "2017-07-26T14:01:52",
-            "modified": "2017-12-18T22:39:28Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "telefonia-movil"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241306/numero-de-radiobases-4g-por-provincia-por-cada-100-mil-habitantes/",
-                    "description": "Número de radiobases 4G por provincia por cada 100 mil habitantes.",
-                    "title": "Número de radiobases 4G por provincia por cada 100 mil habitantes",
-                    "issued": "2017-07-26T14:01:52",
-                    "format": "CSV",
-                    "modified": "2017-12-18T22:39:28Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-DE-RADIO-4G-POR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241306/numero-de-radiobases-4g-por-provincia-por-cada-100-mil-habitantes/",
-                    "description": "Número de radiobases 4G por provincia por cada 100 mil habitantes.",
-                    "title": "Número de radiobases 4G por provincia por cada 100 mil habitantes",
-                    "issued": "2017-07-26T14:01:52",
-                    "format": "XLS",
-                    "modified": "2017-12-18T22:39:28Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-DE-RADIO-4G-POR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241306/numero-de-radiobases-4g-por-provincia-por-cada-100-mil-habitantes/",
-                    "description": "Número de radiobases 4G por provincia por cada 100 mil habitantes.",
-                    "title": "Número de radiobases 4G por provincia por cada 100 mil habitantes",
-                    "issued": "2017-07-26T14:01:52",
-                    "format": "JSON",
-                    "modified": "2017-12-18T22:39:28Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-DE-RADIO-4G-POR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "NUMER-DE-RADIO-4G-POR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241306/numero-de-radiobases-4g-por-provincia-por-cada-100-mil-habitantes/",
-            "description": "Número de radiobases 4G por provincia por cada 100 mil habitantes."
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "telefonia movil",
-                "4g",
-                "provincial"
-            ],
-            "title": "Radiobases 4G desplegadas por trimestre y provincia",
-            "issued": "2017-09-28T14:57:50",
-            "modified": "2017-12-18T22:39:28Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "telefonia-movil"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241305/radiobases-4g-desplegadas-por-trimestre-y-provincia/",
-                    "description": "Número de radiobases 4G desplegadas por los operadores",
-                    "title": "Radiobases 4G desplegadas por trimestre y provincia",
-                    "issued": "2017-09-28T14:57:50",
-                    "format": "CSV",
-                    "modified": "2017-12-18T22:39:28Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-4G-DESPL-POR-TRIME/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241305/radiobases-4g-desplegadas-por-trimestre-y-provincia/",
-                    "description": "Número de radiobases 4G desplegadas por los operadores",
-                    "title": "Radiobases 4G desplegadas por trimestre y provincia",
-                    "issued": "2017-09-28T14:57:50",
-                    "format": "XLS",
-                    "modified": "2017-12-18T22:39:28Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-4G-DESPL-POR-TRIME/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241305/radiobases-4g-desplegadas-por-trimestre-y-provincia/",
-                    "description": "Número de radiobases 4G desplegadas por los operadores",
-                    "title": "Radiobases 4G desplegadas por trimestre y provincia",
-                    "issued": "2017-09-28T14:57:50",
-                    "format": "JSON",
-                    "modified": "2017-12-18T22:39:28Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-4G-DESPL-POR-TRIME/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "RADIO-4G-DESPL-POR-TRIME",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241305/radiobases-4g-desplegadas-por-trimestre-y-provincia/",
-            "description": "Número de radiobases 4G desplegadas por los operadores"
         },
         {
             "publisher": {
