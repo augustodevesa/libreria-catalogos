@@ -10,6 +10,149 @@
         {
             "publisher": {
                 "mbox": "",
+                "name": "Carolina Odonell"
+            },
+            "identifier": "15a87e38-7438-4bb6-9787-0480cf0b5357",
+            "description": "Registro oficial y federal de investigaciones en Salud",
+            "license": "Creative Commons Attribution",
+            "title": "Registro Nacional de Investigaciones en Salud (RENIS)",
+            "issued": "2018-01-10T17:40:34.574499",
+            "modified": "2018-01-10T17:41:47.024195",
+            "theme": [
+                "RENIS"
+            ],
+            "superTheme": [
+                "HEAL"
+            ],
+            "accrualPeriodicity": "eventual",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/15a87e38-7438-4bb6-9787-0480cf0b5357/archivo/2043c64b-9954-4749-a86b-3c52816cf121",
+                    "license": "cc-by",
+                    "title": "Registro Nacional de Investigaciones en Salud",
+                    "issued": "2018-01-10T17:41:46.731346",
+                    "format": "XLSX",
+                    "modified": "2018-01-10T17:41:46.703125",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/15a87e38-7438-4bb6-9787-0480cf0b5357/resource/2043c64b-9954-4749-a86b-3c52816cf121/download/renis.xlsx"
+                }
+            ],
+            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/registro-nacional-de-investigaciones-en-salud-renis"
+        },
+        {
+            "publisher": {
+                "mbox": "soporte@sisa.msal.gov.ar",
+                "name": "SISA"
+            },
+            "identifier": "41a6263e-8c84-41fc-90e0-32150e1d7620",
+            "description": "Registro de establecimientos sanitarios del país del sector público y privado, con y sin internación, que se encuentran funcionando en cada una de las jurisdicciones provinciales según la reglamentación vigente en ellas.",
+            "license": "Creative Commons Attribution",
+            "title": "Registro Federal de Establecimientos de Salud (REFES)",
+            "issued": "2017-06-30T15:36:24.001541",
+            "modified": "2018-01-09T18:19:26.305495",
+            "language": [
+                "abk",
+                "spa"
+            ],
+            "theme": [
+                "Sistema Integrado de Información Sanitaria Argentino (SISA)"
+            ],
+            "keyword": [
+                "Establecimientos",
+                "REFES"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "HEAL"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/41a6263e-8c84-41fc-90e0-32150e1d7620/archivo/37b058e9-057e-4843-8852-d9a31874b19c",
+                    "description": "Efectores de salud de todas las tipologias y dependencias del pais.",
+                    "license": "cc-by",
+                    "title": "Registro Federal de Establecimientos de Salud (REFES)",
+                    "issued": "2017-06-30T15:43:05.199211",
+                    "format": "CSV",
+                    "modified": "2017-06-30T15:43:05.153644",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/41a6263e-8c84-41fc-90e0-32150e1d7620/resource/37b058e9-057e-4843-8852-d9a31874b19c/download/refes.csv"
+                }
+            ],
+            "landingPage": "http://sisa.msal.gov.ar"
+        },
+        {
+            "publisher": {
+                "mbox": "pe.sumaruec@gmail.com",
+                "name": " Unidad Ejecutora Central (UEC) del Programa SUMAR."
+            },
+            "identifier": "59ae5ba1-9f2a-47a6-a936-04fe8c728b26",
+            "description": "Estadísticas de distribución de beneficiarios, transferencias y prestaciones. \r\n- Total beneficiarios inscriptos por jurisdicción y beneficiarios inscriptos con Cobertura Efectiva Básica* por tramo etario y jurisdicción a octubre de 2017.\r\n* Personas inscriptas que hayan recibido al menos una prestación de salud en los últimos 12 meses.\r\n- Cantidad total de prestaciones brindadas y facturadas durante el año 2017 (acumuladas a agosto), en unidades y en pesos, por tramo etario y jurisdicción.",
+            "license": "Creative Commons Attribution",
+            "title": "Estadísticas SUMAR",
+            "issued": "2017-12-27T17:54:01.922019",
+            "modified": "2018-01-04T12:48:29.917663",
+            "theme": [
+                "SUMAR"
+            ],
+            "superTheme": [
+                "HEAL"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/59ae5ba1-9f2a-47a6-a936-04fe8c728b26/archivo/0be3696e-5c3c-4657-9a72-b0d46aa7cf3f",
+                    "license": "cc-by",
+                    "title": "Beneficiarios programa SUMAR",
+                    "issued": "2017-12-27T17:54:58.121053",
+                    "format": "CSV",
+                    "modified": "2017-12-27T17:54:58.090921",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/59ae5ba1-9f2a-47a6-a936-04fe8c728b26/resource/0be3696e-5c3c-4657-9a72-b0d46aa7cf3f/download/beneficiarios-programa-sumar-201710.csv"
+                },
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/59ae5ba1-9f2a-47a6-a936-04fe8c728b26/archivo/6a1f99b6-363c-4cc6-bec1-78b06121917a",
+                    "license": "cc-by",
+                    "title": "Prestaciones programa SUMAR",
+                    "issued": "2017-12-27T17:55:34.845772",
+                    "format": "CSV",
+                    "modified": "2017-12-27T17:55:34.809629",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/59ae5ba1-9f2a-47a6-a936-04fe8c728b26/resource/6a1f99b6-363c-4cc6-bec1-78b06121917a/download/prestaciones-programa-sumar-201708.csv"
+                }
+            ],
+            "landingPage": "http://www.msal.gob.ar/sumar/"
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "CUS Medicamentos"
+            },
+            "identifier": "2b4ef8d5-38f1-4906-aa31-05db5f7c975b",
+            "description": "Serie histórica (sin nominalizar) de personas que recibieron medicamentos bajo prescripción del programa CUS MEDICAMENTOS por edad, sexo y provincia",
+            "license": "Creative Commons Attribution",
+            "title": "Beneficiarios CUS Medicamentos",
+            "issued": "2018-01-03T18:03:04.774633",
+            "modified": "2018-01-03T18:05:17.867721",
+            "theme": [
+                "MEDICAMENTOS"
+            ],
+            "superTheme": [
+                "HEAL"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/2b4ef8d5-38f1-4906-aa31-05db5f7c975b/archivo/074db4b1-6a58-4e2f-91cd-f37abe8b7de9",
+                    "description": "Serie histórica (sin nominalizar) de personas que recibieron medicamentos bajo prescripción del programa CUS MEDICAMENTOS por edad, sexo y provincia",
+                    "license": "cc-by",
+                    "title": "Beneficiarios CUS Medicamentos",
+                    "issued": "2018-01-03T18:04:32.536725",
+                    "format": "CSV",
+                    "modified": "2018-01-03T18:04:32.489921",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/2b4ef8d5-38f1-4906-aa31-05db5f7c975b/resource/074db4b1-6a58-4e2f-91cd-f37abe8b7de9/download/beneficiariosprogramamedicamentos.csv"
+                }
+            ],
+            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/beneficiarios-cus-medicamentos"
+        },
+        {
+            "publisher": {
+                "mbox": "",
                 "name": "CUS Medicamentos"
             },
             "identifier": "90e2ba45-fba6-4218-be94-d55a07f37c4c",
@@ -68,46 +211,6 @@
                 }
             ],
             "landingPage": "http://datos.sisa.msal.gov.ar/dataset/consultas-cus-medicamentos"
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Programa SUMAR"
-            },
-            "identifier": "59ae5ba1-9f2a-47a6-a936-04fe8c728b26",
-            "description": "Estadísticas de distribución de beneficiarios, transferencias y prestaciones",
-            "license": "Creative Commons Attribution",
-            "title": "Estadísticas SUMAR",
-            "issued": "2017-12-27T17:54:01.922019",
-            "modified": "2017-12-27T19:11:41.034004",
-            "theme": [
-                "SUMAR"
-            ],
-            "superTheme": [
-                "HEAL"
-            ],
-            "accrualPeriodicity": "R/P3M",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/59ae5ba1-9f2a-47a6-a936-04fe8c728b26/archivo/0be3696e-5c3c-4657-9a72-b0d46aa7cf3f",
-                    "license": "cc-by",
-                    "title": "Beneficiarios programa SUMAR",
-                    "issued": "2017-12-27T17:54:58.121053",
-                    "format": "CSV",
-                    "modified": "2017-12-27T17:54:58.090921",
-                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/59ae5ba1-9f2a-47a6-a936-04fe8c728b26/resource/0be3696e-5c3c-4657-9a72-b0d46aa7cf3f/download/beneficiarios-programa-sumar-201710.csv"
-                },
-                {
-                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/59ae5ba1-9f2a-47a6-a936-04fe8c728b26/archivo/6a1f99b6-363c-4cc6-bec1-78b06121917a",
-                    "license": "cc-by",
-                    "title": "Prestaciones programa SUMAR",
-                    "issued": "2017-12-27T17:55:34.845772",
-                    "format": "CSV",
-                    "modified": "2017-12-27T17:55:34.809629",
-                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/59ae5ba1-9f2a-47a6-a936-04fe8c728b26/resource/6a1f99b6-363c-4cc6-bec1-78b06121917a/download/prestaciones-programa-sumar-201708.csv"
-                }
-            ],
-            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/estadisticas-sumar"
         },
         {
             "publisher": {
@@ -948,46 +1051,6 @@
                 }
             ],
             "landingPage": "sisa.msal.gov.ar"
-        },
-        {
-            "publisher": {
-                "mbox": "soporte@sisa.msal.gov.ar",
-                "name": "SISA"
-            },
-            "identifier": "41a6263e-8c84-41fc-90e0-32150e1d7620",
-            "description": "Todos los establecimientos de salud de pais de cualquier tipologia y dependencia.",
-            "license": "Creative Commons Attribution",
-            "title": "Registro Federal de Establecimientos de Salud (REFES)",
-            "issued": "2017-06-30T15:36:24.001541",
-            "modified": "2017-06-30T15:43:06.476570",
-            "language": [
-                "abk",
-                "spa"
-            ],
-            "theme": [
-                "SISA"
-            ],
-            "keyword": [
-                "Establecimientos",
-                "REFES"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "superTheme": [
-                "HEAL"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/41a6263e-8c84-41fc-90e0-32150e1d7620/archivo/37b058e9-057e-4843-8852-d9a31874b19c",
-                    "description": "Efectores de salud de todas las tipologias y dependencias del pais.",
-                    "license": "cc-by",
-                    "title": "Registro Federal de Establecimientos de Salud (REFES)",
-                    "issued": "2017-06-30T15:43:05.199211",
-                    "format": "CSV",
-                    "modified": "2017-06-30T15:43:05.153644",
-                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/41a6263e-8c84-41fc-90e0-32150e1d7620/resource/37b058e9-057e-4843-8852-d9a31874b19c/download/refes.csv"
-                }
-            ],
-            "landingPage": "http://sisa.msal.gov.ar"
         }
     ],
     "themeTaxonomy": [
@@ -1025,6 +1088,11 @@
             "description": "",
             "id": "medicamentos",
             "label": "MEDICAMENTOS"
+        },
+        {
+            "description": "Registro Nacional de Investigaciones en Salud",
+            "id": "renis",
+            "label": "RENIS"
         },
         {
             "description": "Sistema Integrado de Informacion Sanitaria Argentino",
