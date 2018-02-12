@@ -69,6 +69,114 @@
                 "TECH"
             ],
             "keyword": [
+                "licencias"
+            ],
+            "title": "Licenciatarios TIC",
+            "issued": "2017-11-07T14:22:10",
+            "modified": "2018-02-12T11:31:14Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "licencias"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
+                    "description": "Listado de licencias de operadores de TIC",
+                    "title": "Licenciatarios TIC",
+                    "issued": "2017-11-07T14:22:10",
+                    "format": "CSV",
+                    "modified": "2018-02-12T11:31:14Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
+                    "description": "Listado de licencias de operadores de TIC",
+                    "title": "Licenciatarios TIC",
+                    "issued": "2017-11-07T14:22:10",
+                    "format": "XLS",
+                    "modified": "2018-02-12T11:31:14Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
+                    "description": "Listado de licencias de operadores de TIC",
+                    "title": "Licenciatarios TIC",
+                    "issued": "2017-11-07T14:22:10",
+                    "format": "JSON",
+                    "modified": "2018-02-12T11:31:14Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "LICEN-TIC-AUTOM",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
+            "description": "Listado de licencias de operadores de TIC"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "homologaciones"
+            ],
+            "title": "Empresas homologadas inscriptas",
+            "issued": "2017-11-07T15:51:03",
+            "modified": "2018-02-12T11:27:27Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "homologacion-de-equipos"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
+                    "description": "Empresas homologadas",
+                    "title": "Empresas homologadas inscriptas",
+                    "issued": "2017-11-07T15:51:03",
+                    "format": "CSV",
+                    "modified": "2018-02-12T11:27:27Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EMPRE-HOMOL-INSCR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
+                    "description": "Empresas homologadas",
+                    "title": "Empresas homologadas inscriptas",
+                    "issued": "2017-11-07T15:51:03",
+                    "format": "XLS",
+                    "modified": "2018-02-12T11:27:27Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EMPRE-HOMOL-INSCR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
+                    "description": "Empresas homologadas",
+                    "title": "Empresas homologadas inscriptas",
+                    "issued": "2017-11-07T15:51:03",
+                    "format": "JSON",
+                    "modified": "2018-02-12T11:27:27Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EMPRE-HOMOL-INSCR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "EMPRE-HOMOL-INSCR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
+            "description": "Empresas homologadas"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
                 "telefonia",
                 "numeracion"
             ],
@@ -224,114 +332,6 @@
             "identifier": "EQUIP-HOMOL-INSCR",
             "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
             "description": "Equipos homologados"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "homologaciones"
-            ],
-            "title": "Empresas homologadas inscriptas",
-            "issued": "2017-11-07T15:51:03",
-            "modified": "2018-02-11T17:24:37Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "homologacion-de-equipos"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
-                    "description": "Empresas homologadas",
-                    "title": "Empresas homologadas inscriptas",
-                    "issued": "2017-11-07T15:51:03",
-                    "format": "CSV",
-                    "modified": "2018-02-11T17:24:37Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EMPRE-HOMOL-INSCR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
-                    "description": "Empresas homologadas",
-                    "title": "Empresas homologadas inscriptas",
-                    "issued": "2017-11-07T15:51:03",
-                    "format": "XLS",
-                    "modified": "2018-02-11T17:24:37Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EMPRE-HOMOL-INSCR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
-                    "description": "Empresas homologadas",
-                    "title": "Empresas homologadas inscriptas",
-                    "issued": "2017-11-07T15:51:03",
-                    "format": "JSON",
-                    "modified": "2018-02-11T17:24:37Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EMPRE-HOMOL-INSCR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "EMPRE-HOMOL-INSCR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
-            "description": "Empresas homologadas"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "licencias"
-            ],
-            "title": "Licenciatarios TIC",
-            "issued": "2017-11-07T14:22:10",
-            "modified": "2018-02-11T16:40:07Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "licencias"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
-                    "description": "Listado de licencias de operadores de TIC",
-                    "title": "Licenciatarios TIC",
-                    "issued": "2017-11-07T14:22:10",
-                    "format": "CSV",
-                    "modified": "2018-02-11T16:40:07Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
-                    "description": "Listado de licencias de operadores de TIC",
-                    "title": "Licenciatarios TIC",
-                    "issued": "2017-11-07T14:22:10",
-                    "format": "XLS",
-                    "modified": "2018-02-11T16:40:07Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
-                    "description": "Listado de licencias de operadores de TIC",
-                    "title": "Licenciatarios TIC",
-                    "issued": "2017-11-07T14:22:10",
-                    "format": "JSON",
-                    "modified": "2018-02-11T16:40:07Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "LICEN-TIC-AUTOM",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
-            "description": "Listado de licencias de operadores de TIC"
         },
         {
             "publisher": {
