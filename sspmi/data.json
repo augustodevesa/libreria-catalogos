@@ -17,7 +17,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de la Minería Metalífera",
-            "temporal": "1995-01-01/2017-12-31",
+            "temporal": "1995-01-01/2018-01-01",
             "source": "MTEySS, COCHILCO",
             "theme": [
                 "mercado_laboral",
@@ -46,7 +46,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-01-31",
+            "modified": "2018-02-05",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -112,7 +112,7 @@
                     "title": "Indicadores de Minería Metalífera en valores anuales, trimestrales y mensuales",
                     "issued": "2017-10-02",
                     "format": "CSV",
-                    "modified": "2018-01-31",
+                    "modified": "2018-02-05",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/02-indicadores-mineria-metalifera-basecompleta.csv",
                     "identifier": "02.1"
                 }
@@ -156,7 +156,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-01-19",
+            "modified": "2018-02-06",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -258,7 +258,7 @@
                     "title": "Indicadores de azúcar en valores anuales, trimestrales y mensuales",
                     "issued": "2017-10-02",
                     "format": "CSV",
-                    "modified": "2018-01-19",
+                    "modified": "2018-02-06",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/03-indicadores-azucar-basecompleta.csv",
                     "identifier": "03.1"
                 }
@@ -272,7 +272,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales Automotriz",
-            "temporal": "1994-01-01/2017-12-31",
+            "temporal": "1994-01-01/2018-01-01",
             "source": "ADEFA, ACARA, MTEySS",
             "theme": [
                 "produccion_actividad",
@@ -300,7 +300,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-01-31",
+            "modified": "2018-02-06",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -408,7 +408,7 @@
                     "title": "Indicadores de Automotriz en valores anuales, trimestrales y mensuales",
                     "issued": "2017-10-02",
                     "format": "CSV",
-                    "modified": "2018-01-31",
+                    "modified": "2018-02-06",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/04-indicadores-automotriz-basecompleta.csv",
                     "identifier": "04.1"
                 }
@@ -422,7 +422,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Carne Aviar",
-            "temporal": "1997-01-01/2017-07-31",
+            "temporal": "1997-01-01/2017-12-31",
             "source": "MinAgro, INDEC, CAPIA",
             "theme": [
                 "produccion_actividad",
@@ -449,7 +449,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-01-19",
+            "modified": "2018-02-05",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -539,7 +539,7 @@
                     "title": "Indicadores de carne aviar en valores anuales, trimestrales y mensuales",
                     "issued": "2017-10-02",
                     "format": "CSV",
-                    "modified": "2018-01-19",
+                    "modified": "2018-02-05",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/05-indicadores-carne-aviar-basecompleta.csv",
                     "identifier": "05.1"
                 }
@@ -553,7 +553,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Hidrocarburos",
-            "temporal": "1994-01-01/2017-09-01",
+            "temporal": "1994-01-01/2017-12-31",
             "source": "MinEM",
             "theme": [
                 "produccion_actividad",
@@ -584,7 +584,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-01-19",
+            "modified": "2018-02-05",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -716,7 +716,7 @@
                     "title": "Indicadores de Hidrocarburos en valores anuales, trimestrales y mensuales",
                     "issued": "2017-10-02",
                     "format": "CSV",
-                    "modified": "2018-01-19",
+                    "modified": "2018-02-05",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/06-indicadores-hidrocarburos-basecompleta.csv",
                     "identifier": "06.1"
                 }
@@ -1316,12 +1316,13 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Vitivinicultura",
-            "temporal": "2005-01-01/2017-07-01",
-            "source": "INV, MTEySS, BCM",
+            "temporal": "1990-12-31/2018-01-01",
+            "source": "INV, MTEySS, BCM, OVA",
             "theme": [
                 "produccion_actividad",
                 "mercado laboral",
-                "precios"
+                "precios",
+                "comercio_exterior"
             ],
             "spatial": "ARG",
             "description": "Indicadores de la cadena de valor Vitivinicultura",
@@ -1347,7 +1348,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-01-19",
+            "modified": "2018-02-08",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -1369,18 +1370,6 @@
                             "type": "text"
                         },
                         {
-                            "description": "Despachos autorizados en el mercado interno",
-                            "title": "despacho_mint",
-                            "type": "number",
-                            "units": "hl (hectolítro)"
-                        },
-                        {
-                            "description": "Puestos de trabajo registrados en el sector privado  en el sector elaboración de vinos y otras bebidas fermentadas a base de frutas, en valores anuales",
-                            "title": "empleo_1552",
-                            "type": "number",
-                            "units": "Puestos de trabajo"
-                        },
-                        {
                             "description": "Identifica la frecuencia del dato con valores: anual, trimestral y mensual",
                             "title": "frec_temporal",
                             "type": "text"
@@ -1391,53 +1380,149 @@
                             "type": "date"
                         },
                         {
-                            "description": "Precio de traslado promedio Vino Malbec (sin certificar)",
-                            "title": "pre_vinomalbsc",
+                            "description": "Cantidad de viñedos",
+                            "title": "cantidad_vinedos",
                             "type": "number",
-                            "units": "($/hl contado sin IVA)"
+                            "units": "viñedos"
                         },
                         {
-                            "description": "Precio de traslado promedio Vinos tintos",
-                            "title": "pre_vinotintra",
+                            "description": "Superficie viñedos",
+                            "title": "superficie_vinedos",
                             "type": "number",
-                            "units": "($/hl contado sin IVA)"
+                            "units": "Hectáreas"
                         },
                         {
-                            "description": "Producción: elaboración de vino, total país, en unidades",
-                            "title": "prod_mostcon",
-                            "type": "number",
-                            "units": "Toneladas"
-                        },
-                        {
-                            "description": "Producción: elaboración de mosto, total país, en unidades",
-                            "title": "prod_mosto",
-                            "type": "number",
-                            "units": "hl (hectolítro)"
-                        },
-                        {
-                            "description": "Producción: uva ingresada a establecimientos para vinificar, total país, en unidades",
-                            "title": "prod_uvavinificar",
+                            "description": "Producción de uva para vinificar según provincia de origen",
+                            "title": "prod_uvavinificar_provorigen",
                             "type": "number",
                             "units": "en quintales métricos"
                         },
                         {
-                            "description": "Producción: elaboración de vino con certificación varietal, total país, en unidades",
+                            "description": "Producción de uva total según provincia de origen",
+                            "title": "prod_uvatotal_provorigen",
+                            "type": "number",
+                            "units": "en quintales métricos"
+                        },
+                        {
+                            "description": "Producción de uva para vinificar según ingreso a establecimientos",
+                            "title": "prod_uvavinificar_ingresta",
+                            "type": "number",
+                            "units": "en quintales métricos"
+                        },
+                        {
+                            "description": "Producción de uva total según ingreso a establecimientos",
+                            "title": "prod_uvatotal_ingresta",
+                            "type": "number",
+                            "units": "en quintales métricos"
+                        },
+                        {
+                            "description": "Producción de vino",
+                            "title": "prod_vino",
+                            "type": "number",
+                            "units": "hl (hectolítro)"
+                        },
+                        {
+                            "description": "Producción de vino con certificación varietal",
                             "title": "prod_vincer",
                             "type": "number",
                             "units": "hl (hectolítro)"
                         },
                         {
-                            "description": "Producción: elaboración de vino, total país, en unidades",
-                            "title": "prod_vino",
+                            "description": "Producción de mosto",
+                            "title": "prod_mosto",
                             "type": "number",
                             "units": "hl (hectolítro)"
+                        },
+                        {
+                            "description": "Producción de mosto concentrado",
+                            "title": "prod_mostcon",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Despachos autorizados en el mercado interno",
+                            "title": "despacho_mint",
+                            "type": "number",
+                            "units": "hl (hectolítro)"
+                        },
+                        {
+                            "description": "Existencias de vinos varietal, expresadas al último día del mes.  Los volúmenes no incluyen: vinos intervenidos, bloqueados o inmovilizados, así como tampoco incluyen vinos especiales, frizantes, gasificados ni espumantes.",
+                            "title": "exis_vinos_varietal",
+                            "type": "number",
+                            "units": "hl (hectolítro)"
+                        },
+                        {
+                            "description": "Existencias de vinos sin mención varietal, expresadas al último día del mes.  Los volúmenes no incluyen: vinos intervenidos, bloqueados o inmovilizados, así como tampoco incluyen vinos especiales, frizantes, gasificados ni espumantes.",
+                            "title": "exis_vinos_sinvarietal",
+                            "type": "number",
+                            "units": "hl (hectolítro)"
+                        },
+                        {
+                            "description": "Existencias de vinos varietal a certificar, expresadas al último día del mes.  Los volúmenes no incluyen: vinos intervenidos, bloqueados o inmovilizados, así como tampoco incluyen vinos especiales, frizantes, gasificados ni espumantes.",
+                            "title": "exis_vinos_varietal_acertificar",
+                            "type": "number",
+                            "units": "hl (hectolítro)"
+                        },
+                        {
+                            "description": "Existencias de vinos total, expresadas al último día del mes.  Los volúmenes no incluyen: vinos intervenidos, bloqueados o inmovilizados, así como tampoco incluyen vinos especiales, frizantes, gasificados ni espumantes.",
+                            "title": "exis_vinos_total",
+                            "type": "number",
+                            "units": "hl (hectolítro)"
+                        },
+                        {
+                            "description": "Exportaciones de vino en hectolitro",
+                            "title": "expo_vino_hl",
+                            "type": "number",
+                            "units": "hl (hectolítro)"
+                        },
+                        {
+                            "description": "Exportaciones de vino en miles de dólares",
+                            "title": "expo_vino_dol",
+                            "type": "number",
+                            "units": "Miles de dólares"
+                        },
+                        {
+                            "description": "Precio mercado de traslado -promedio ponderado, contado sin IVA- vino blanco escurrido",
+                            "title": "precio_vinoblescu",
+                            "type": "number",
+                            "units": "($/hl contado sin IVA)"
+                        },
+                        {
+                            "description": "Precio mercado de traslado -promedio ponderado, contado sin IVA- vinos tintos",
+                            "title": "precio_vinotintra",
+                            "type": "number",
+                            "units": "($/hl contado sin IVA)"
+                        },
+                        {
+                            "description": "Precio mercado de traslado -promedio ponderado, contado sin IVA- vino malbec (sin certificar)",
+                            "title": "precio_vinomalbsc",
+                            "type": "number",
+                            "units": "($/hl contado sin IVA)"
+                        },
+                        {
+                            "description": "Puestos de trabajo registrados en el sector privado  en el sector elaboración de vinos y otras bebidas fermentadas a base de frutas, en valores anuales",
+                            "title": "empleo_1552",
+                            "type": "number",
+                            "units": "Puestos de trabajo"
+                        },
+                        {
+                            "description": "Exportaciones de mosto concentrado en toneladas",
+                            "title": "expo_mosto_concetrado_hl",
+                            "type": "number",
+                            "units": "Toneladas"
+                        },
+                        {
+                            "description": "Exportaciones de mosto concentrado en miles de dólares",
+                            "title": "expo_mosto_concentrado_dol",
+                            "type": "number",
+                            "units": "Miles de dólares"
                         }
                     ],
                     "description": "Indicadores de la cadena de valor de vitivinicultura en valores anuales, trimestrales y mensuales",
-                    "title": "Indicadores de la cadena de valor de vitivinicultura en valores anuales y mensuales",
+                    "title": "Indicadores de la cadena de valor de vitivinicultura en valores anuales, trimestrales y mensuales",
                     "issued": "2017-10-02",
                     "format": "CSV",
-                    "modified": "2018-01-19",
+                    "modified": "2018-02-08",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/13-indicadores-vitivinicultura-basecompleta.csv",
                     "identifier": "13.1"
                 }
@@ -1826,7 +1911,7 @@
             ],
             "title": "Indicadores Sectoriales de Telecomunicaciones y Electrónica de Consumo",
             "temporal": "1993-12-31/2014-12-31",
-            "source": "INDEC, OEDE",
+            "source": "INDEC, CAFIN, MTEySS",
             "theme": [
                 "produccion_actividad",
                 "mercado_laboral",
@@ -1855,7 +1940,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2017-11-27",
+            "modified": "2018-02-06",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -1966,10 +2051,10 @@
                         }
                     ],
                     "description": "Indicadores de Telecomunicaciones y Electrónica de Consumo en valores anuales y trimestrales",
-                    "title": "Indicadores de Telecomunicaciones y Electrónica de Consumo en valores anuales y trimestrales",
+                    "title": "Indicadores de Telecomunicaciones y Electrónica de Consumo en valores anuales, mensuales y trimestrales",
                     "issued": "2017-11-27",
                     "format": "CSV",
-                    "modified": "2017-11-27",
+                    "modified": "2018-02-06",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/15-indicadores-teleco-basecompleta.csv",
                     "identifier": "15.1"
                 }
@@ -2334,7 +2419,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-01-19",
+            "modified": "2018-02-05",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -2418,7 +2503,7 @@
                     "title": "Indicadores de Yerba Mate en valores anuales, trimestrales y mensuales",
                     "issued": "2017-11-27",
                     "format": "CSV",
-                    "modified": "2018-01-19",
+                    "modified": "2018-02-05",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/17-indicadores-yerba-mate-basecompleta.csv",
                     "identifier": "17.1"
                 }
@@ -3054,7 +3139,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Pesca Marítima",
-            "temporal": "1992-01-01/2017-07-01",
+            "temporal": "1992-01-01/2017-12-31",
             "source": "INDEC, MinAgro, MTEySS",
             "theme": [
                 "produccion_actividad",
@@ -3084,7 +3169,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2017-10-02",
+            "modified": "2018-02-01",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -3106,43 +3191,43 @@
                             "type": "text"
                         },
                         {
-                            "description": "Capturas: calamar illex, total país, en toneladas",
+                            "description": "Capturas: calamar illex",
                             "title": "cap_cal",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Capturas: crustáceos, total país, en toneladas",
+                            "description": "Capturas: crustáceos",
                             "title": "cap_crust",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Capturas: langostinos, total país, en toneladas",
+                            "description": "Capturas: langostinos",
                             "title": "cap_langostino",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Capturas: merluza hubbsi, total país, en toneladas",
+                            "description": "Capturas: merluza hubbsi",
                             "title": "cap_merluzahb",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Capturas: moluscos, total país, en toneladas",
+                            "description": "Capturas: moluscos",
                             "title": "cap_mol",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Capturas: peces, total país, en toneladas",
+                            "description": "Capturas: peces",
                             "title": "cap_peces",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Capturas: volumen total. Apertura por total país y provincias de Buenos Aires, Chubut, Río Negro, Santa Cruz y Tierra del Fuego. En toneladas",
+                            "description": "Capturas: volumen total",
                             "title": "cap_tot",
                             "type": "number",
                             "units": "Toneladas"
@@ -3186,7 +3271,7 @@
                     "title": "Indicadores de Pesca Marítima en valores anuales, trimestrales y mensuales",
                     "issued": "2017-10-02",
                     "format": "CSV",
-                    "modified": "2017-10-02",
+                    "modified": "2018-02-01T00:00:00",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/27-indicadores-pesca-basecompleta.csv",
                     "identifier": "27.1"
                 }
@@ -3815,7 +3900,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Cárnica - Porcina",
-            "temporal": "1992-12-31/2017-09-01",
+            "temporal": "1992-12-31/2017-12-31",
             "source": "SENASA, MinAgro",
             "theme": [
                 "produccion_actividad",
@@ -3844,7 +3929,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-01-19",
+            "modified": "2018-02-09",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -3910,7 +3995,7 @@
                     "title": "Indicadores de Cárnica - Porcina en valores anuales, trimestrales y mensuales",
                     "issued": "2018-01-19",
                     "format": "CSV",
-                    "modified": "2018-01-19",
+                    "modified": "2018-02-09",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/09-indicadores-carnica-porcina-basecompleta.csv",
                     "identifier": "09.1"
                 }
@@ -4493,7 +4578,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Ovinos - Lana y Carne",
-            "temporal": "1990-12-31/2017-12-31",
+            "temporal": "1990-12-31/2018-12-31",
             "source": "SENASA, MinAgro, FLA, FAO",
             "theme": [
                 "produccion_actividad",
@@ -4519,7 +4604,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2017-12-22",
+            "modified": "2018-02-09",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -4630,10 +4715,10 @@
                         }
                     ],
                     "description": "Indicadores de Ovinos - Lana y Carne en valores anuales y mensuales",
-                    "title": "Indicadores de Ovinos - Lana y Carne en valores anuales y mensuales",
+                    "title": "Indicadores de Ovinos - Lana y Carne en valores anuales, trimestrales y mensuales",
                     "issued": "2017-12-22",
                     "format": "CSV",
-                    "modified": "2017-12-22",
+                    "modified": "2018-02-09",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/01-indicadores-ovinos-basecompleta.csv",
                     "identifier": "01.1"
                 }
@@ -5399,7 +5484,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-01-31",
+            "modified": "2018-02-06",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -5489,7 +5574,7 @@
                     "title": "Indicadores de Arroz en valores anuales, trimestrales y mensuales",
                     "issued": "2018-01-19",
                     "format": "CSV",
-                    "modified": "2018-01-31",
+                    "modified": "2018-02-06",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/33-indicadores-arroz-basecompleta.csv",
                     "identifier": "33.1"
                 }
@@ -5958,7 +6043,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-01-31",
+            "modified": "2018-02-06",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -6132,7 +6217,7 @@
                     "title": "Indicadores de Algodonera - textil en valores anuales, trimestrales  y mensuales",
                     "issued": "2018-01-19",
                     "format": "CSV",
-                    "modified": "2018-01-31",
+                    "modified": "2018-02-06",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/28-indicadores-algodonera-textil-basecompleta.csv",
                     "identifier": "28.1"
                 }
