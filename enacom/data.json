@@ -68,6 +68,113 @@
             "superTheme": [
                 "TECH"
             ],
+            "keyword": [],
+            "title": "Listado de estaciones repetidoras autorizadas",
+            "issued": "2017-11-07T14:58:55",
+            "modified": "2018-02-13T22:12:28Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "espectro-radioelectrico"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
+                    "description": "Estaciones repetidoras autorizadas",
+                    "title": "Listado de estaciones repetidoras autorizadas",
+                    "issued": "2017-11-07T14:58:55",
+                    "format": "CSV",
+                    "modified": "2018-02-13T22:12:28Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET-AUTOR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
+                    "description": "Estaciones repetidoras autorizadas",
+                    "title": "Listado de estaciones repetidoras autorizadas",
+                    "issued": "2017-11-07T14:58:55",
+                    "format": "XLS",
+                    "modified": "2018-02-13T22:12:28Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET-AUTOR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
+                    "description": "Estaciones repetidoras autorizadas",
+                    "title": "Listado de estaciones repetidoras autorizadas",
+                    "issued": "2017-11-07T14:58:55",
+                    "format": "JSON",
+                    "modified": "2018-02-13T22:12:28Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET-AUTOR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "LISTA-DE-ESTAC-REPET-AUTOR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
+            "description": "Estaciones repetidoras autorizadas"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "equipos de comunicacion",
+                "homologaciones"
+            ],
+            "title": "Equipos homologados inscriptos",
+            "issued": "2017-11-07T15:39:19",
+            "modified": "2018-02-13T21:02:56Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "homologacion-de-equipos"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
+                    "description": "Equipos homologados",
+                    "title": "Equipos homologados inscriptos",
+                    "issued": "2017-11-07T15:39:19",
+                    "format": "CSV",
+                    "modified": "2018-02-13T21:02:56Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
+                    "description": "Equipos homologados",
+                    "title": "Equipos homologados inscriptos",
+                    "issued": "2017-11-07T15:39:19",
+                    "format": "XLS",
+                    "modified": "2018-02-13T21:02:56Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
+                    "description": "Equipos homologados",
+                    "title": "Equipos homologados inscriptos",
+                    "issued": "2017-11-07T15:39:19",
+                    "format": "JSON",
+                    "modified": "2018-02-13T21:02:56Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "EQUIP-HOMOL-INSCR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
+            "description": "Equipos homologados"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
             "keyword": [
                 "telefonia",
                 "numeracion"
@@ -233,6 +340,60 @@
                 "TECH"
             ],
             "keyword": [
+                " radioclubes"
+            ],
+            "title": "Listado de radioclubes",
+            "issued": "2017-11-07T14:55:44",
+            "modified": "2018-02-13T13:02:56Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "espectro-radioelectrico"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243050/listado-de-radioclubes/",
+                    "description": "Listado de radioclubes.",
+                    "title": "Listado de radioclubes",
+                    "issued": "2017-11-07T14:55:44",
+                    "format": "CSV",
+                    "modified": "2018-02-13T13:02:56Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-20/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243050/listado-de-radioclubes/",
+                    "description": "Listado de radioclubes.",
+                    "title": "Listado de radioclubes",
+                    "issued": "2017-11-07T14:55:44",
+                    "format": "XLS",
+                    "modified": "2018-02-13T13:02:56Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-20/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243050/listado-de-radioclubes/",
+                    "description": "Listado de radioclubes.",
+                    "title": "Listado de radioclubes",
+                    "issued": "2017-11-07T14:55:44",
+                    "format": "JSON",
+                    "modified": "2018-02-13T13:02:56Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-20/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "RADIO-20",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243050/listado-de-radioclubes/",
+            "description": "Listado de radioclubes."
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
                 "homologaciones"
             ],
             "title": "Empresas homologadas inscriptas",
@@ -277,167 +438,6 @@
             "identifier": "EMPRE-HOMOL-INSCR",
             "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
             "description": "Empresas homologadas"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [],
-            "title": "Listado de estaciones repetidoras autorizadas",
-            "issued": "2017-11-07T14:58:55",
-            "modified": "2018-02-12T15:45:17Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "espectro-radioelectrico"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
-                    "description": "Estaciones repetidoras autorizadas",
-                    "title": "Listado de estaciones repetidoras autorizadas",
-                    "issued": "2017-11-07T14:58:55",
-                    "format": "CSV",
-                    "modified": "2018-02-12T15:45:17Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET-AUTOR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
-                    "description": "Estaciones repetidoras autorizadas",
-                    "title": "Listado de estaciones repetidoras autorizadas",
-                    "issued": "2017-11-07T14:58:55",
-                    "format": "XLS",
-                    "modified": "2018-02-12T15:45:17Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET-AUTOR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
-                    "description": "Estaciones repetidoras autorizadas",
-                    "title": "Listado de estaciones repetidoras autorizadas",
-                    "issued": "2017-11-07T14:58:55",
-                    "format": "JSON",
-                    "modified": "2018-02-12T15:45:17Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET-AUTOR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "LISTA-DE-ESTAC-REPET-AUTOR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
-            "description": "Estaciones repetidoras autorizadas"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                " radioclubes"
-            ],
-            "title": "Listado de radioclubes",
-            "issued": "2017-11-07T14:55:44",
-            "modified": "2018-02-12T15:45:17Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "espectro-radioelectrico"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243050/listado-de-radioclubes/",
-                    "description": "Listado de radioclubes.",
-                    "title": "Listado de radioclubes",
-                    "issued": "2017-11-07T14:55:44",
-                    "format": "CSV",
-                    "modified": "2018-02-12T15:45:17Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-20/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243050/listado-de-radioclubes/",
-                    "description": "Listado de radioclubes.",
-                    "title": "Listado de radioclubes",
-                    "issued": "2017-11-07T14:55:44",
-                    "format": "XLS",
-                    "modified": "2018-02-12T15:45:17Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-20/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243050/listado-de-radioclubes/",
-                    "description": "Listado de radioclubes.",
-                    "title": "Listado de radioclubes",
-                    "issued": "2017-11-07T14:55:44",
-                    "format": "JSON",
-                    "modified": "2018-02-12T15:45:17Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-20/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "RADIO-20",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243050/listado-de-radioclubes/",
-            "description": "Listado de radioclubes."
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "equipos de comunicacion",
-                "homologaciones"
-            ],
-            "title": "Equipos homologados inscriptos",
-            "issued": "2017-11-07T15:39:19",
-            "modified": "2018-02-11T18:44:25Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "homologacion-de-equipos"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
-                    "description": "Equipos homologados",
-                    "title": "Equipos homologados inscriptos",
-                    "issued": "2017-11-07T15:39:19",
-                    "format": "CSV",
-                    "modified": "2018-02-11T18:44:25Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
-                    "description": "Equipos homologados",
-                    "title": "Equipos homologados inscriptos",
-                    "issued": "2017-11-07T15:39:19",
-                    "format": "XLS",
-                    "modified": "2018-02-11T18:44:25Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
-                    "description": "Equipos homologados",
-                    "title": "Equipos homologados inscriptos",
-                    "issued": "2017-11-07T15:39:19",
-                    "format": "JSON",
-                    "modified": "2018-02-11T18:44:25Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "EQUIP-HOMOL-INSCR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
-            "description": "Equipos homologados"
         },
         {
             "publisher": {
