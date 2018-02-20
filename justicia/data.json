@@ -421,7 +421,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Base Infoleg de Normativa Nacional",
             "issued": "2016-09-05T18:25:21.249967",
-            "modified": "2018-02-07T14:55:48.528300",
+            "modified": "2018-02-20T14:38:14.727819",
             "theme": [
                 "informacion-juridica"
             ],
@@ -445,6 +445,18 @@
             "identifier": "d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23",
             "distribution": [
                 {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/87992303-a26e-4689-964d-86581b2bc8c6",
+                    "description": "Base de documentos digitales legislativos: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada.",
+                    "title": "Base Infoleg Normativa Nacional",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-02-07T11:14:44.680601",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/87992303-a26e-4689-964d-86581b2bc8c6/download/base-infoleg-normativa-nacional.csv",
+                    "issued": "2018-02-06T13:22:19.523793",
+                    "identifier": "87992303-a26e-4689-964d-86581b2bc8c6"
+                },
+                {
                     "accessURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/3a7e6165-f3f6-40ae-87b7-384992481595",
                     "description": "Base complementaria Infoleg con normas nacionales modificadas: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada",
                     "title": "Base Complementaria Infoleg de Normas Modificadas",
@@ -467,18 +479,6 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/4502698c-8abc-4d72-9c6f-fb35e89b31d7/download/base-complementaria-infoleg-normas-modificatorias.csv",
                     "issued": "2017-12-26T14:17:27.855942",
                     "identifier": "4502698c-8abc-4d72-9c6f-fb35e89b31d7"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/87992303-a26e-4689-964d-86581b2bc8c6",
-                    "description": "Base de documentos digitales legislativos: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada.",
-                    "title": "Base Infoleg Normativa Nacional",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2018-02-07T11:14:44.680601",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/87992303-a26e-4689-964d-86581b2bc8c6/download/base-infoleg-normativa-nacional.csv",
-                    "issued": "2018-02-06T13:22:19.523793",
-                    "identifier": "87992303-a26e-4689-964d-86581b2bc8c6"
                 }
             ]
         },
@@ -708,7 +708,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.",
             "issued": "2016-09-28T14:57:47.665668",
-            "modified": "2018-02-19T13:23:47.291083",
+            "modified": "2018-02-20T12:26:56.646619",
             "theme": [
                 "sistema-registral"
             ],
@@ -729,12 +729,12 @@
             "distribution": [
                 {
                     "accessURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/ba6f82b3-5714-4974-8c03-6b55ec9811b4",
-                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 19-02-2018. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
+                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 20-02-2018. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
                     "title": "Sistema de Consulta Nacional de Rebeldías y Capturas",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2018-02-19T10:23:43.793826",
+                    "modified": "2018-02-20T09:12:06.509483",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/ba6f82b3-5714-4974-8c03-6b55ec9811b4/download/rebeldias-y-capturas.csv",
                     "issued": "2017-11-23T09:23:43.569306",
                     "identifier": "ba6f82b3-5714-4974-8c03-6b55ec9811b4"
@@ -751,7 +751,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ-",
             "issued": "2017-06-23T14:53:43.430826",
-            "modified": "2018-02-14T19:01:39.065980",
+            "modified": "2018-02-20T14:25:00.996872",
             "theme": [
                 "acceso-a-justicia"
             ],
@@ -776,16 +776,16 @@
             "identifier": "bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c",
             "distribution": [
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/8a7d8ac2-7ba8-4e6e-924c-9fde49e22856",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/d239dbc4-4bc9-4f23-beba-79cb31ca65cb",
                     "description": "Consultas efectuadas en los Centros de Acceso a la Justicia que se encuentran informatizados",
-                    "title": "Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ- 2016 semestre 2",
+                    "title": "Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ- 2017 semestre 2",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2018-02-08T10:14:08.115894",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/8a7d8ac2-7ba8-4e6e-924c-9fde49e22856/download/consultas-centros-acceso-justicia-2016-semestre-2.csv",
-                    "issued": "2017-06-23T11:55:10.004110",
-                    "identifier": "8a7d8ac2-7ba8-4e6e-924c-9fde49e22856"
+                    "modified": "2018-02-08T11:22:06.042608",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/d239dbc4-4bc9-4f23-beba-79cb31ca65cb/download/consultas-centros-acceso-justicia-2017-semestre-2.csv",
+                    "issued": "2018-02-08T11:22:06.199194",
+                    "identifier": "d239dbc4-4bc9-4f23-beba-79cb31ca65cb"
                 },
                 {
                     "accessURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/e2ec4512-1f3a-4451-adef-514ac6f5ca95",
@@ -800,16 +800,16 @@
                     "identifier": "e2ec4512-1f3a-4451-adef-514ac6f5ca95"
                 },
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/d239dbc4-4bc9-4f23-beba-79cb31ca65cb",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/8a7d8ac2-7ba8-4e6e-924c-9fde49e22856",
                     "description": "Consultas efectuadas en los Centros de Acceso a la Justicia que se encuentran informatizados",
-                    "title": "Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ- 2017 semestre 2",
+                    "title": "Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ- 2016 semestre 2",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2018-02-08T11:22:06.042608",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/d239dbc4-4bc9-4f23-beba-79cb31ca65cb/download/consultas-centros-acceso-justicia-2017-semestre-2.csv",
-                    "issued": "2018-02-08T11:22:06.199194",
-                    "identifier": "d239dbc4-4bc9-4f23-beba-79cb31ca65cb"
+                    "modified": "2018-02-08T10:14:08.115894",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/8a7d8ac2-7ba8-4e6e-924c-9fde49e22856/download/consultas-centros-acceso-justicia-2016-semestre-2.csv",
+                    "issued": "2017-06-23T11:55:10.004110",
+                    "identifier": "8a7d8ac2-7ba8-4e6e-924c-9fde49e22856"
                 }
             ]
         },
@@ -3655,7 +3655,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Listado de mediadores",
             "issued": "2017-05-19T18:49:36.717681",
-            "modified": "2018-02-02T17:41:21.419413",
+            "modified": "2018-02-20T14:30:49.666793",
             "theme": [
                 "acceso-a-justicia"
             ],
