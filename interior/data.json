@@ -9,6 +9,45 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "",
+                "name": "Dirección de Fortalecimiento Institucional y Participación Ciudadana Subsecretaria de Reforma Institucional y Fortalecimiento de la Democracia Secretaría de Asuntos Políticos e Institucionales"
+            },
+            "accessLevel": "public",
+            "description": "Detalle de las solicitudes de acceso a la información pública recibidas por el Poder Ejecutivo Nacional al 29 de septiembre de 2017 enmarcadas en el Decreto 1172/2003 reglamento 7",
+            "license": "Creative Commons Attribution",
+            "title": "Solicitudes de Acceso a la Información Pública Año 2017",
+            "issued": "2018-02-20T18:49:41.082808",
+            "modified": "2018-02-20T18:52:45.932229",
+            "distribution": [
+                {
+                    "accessURL": "https://datos.mininterior.gob.ar/dataset/641842e6-28d2-46e1-86c8-ac680863ca8e/resource/1439442d-48d8-47ba-96c1-0f203cf180bb/download/matriz-2017-dataset-para-subir-.cvs.csv",
+                    "description": "Detalle de las solicitudes de acceso a la información pública recibidas por el Poder Ejecutivo Nacional al 29 de septiembre de 2017 enmarcadas en el Decreto 1172/2003 reglamento 7",
+                    "title": "Solicitudes de Acceso a la Información Pública Año 2017",
+                    "issued": "2018-02-20T18:51:42.481873",
+                    "format": "CSV",
+                    "modified": "2018-02-20T18:51:20.624186",
+                    "downloadURL": "https://datos.mininterior.gob.ar/dataset/641842e6-28d2-46e1-86c8-ac680863ca8e/resource/1439442d-48d8-47ba-96c1-0f203cf180bb/download/matriz-2017-dataset-para-subir-.cvs.csv"
+                }
+            ],
+            "keyword": [
+                "acceso",
+                "acceso a la información",
+                "decreto 1172",
+                "información pública",
+                "transparencia"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "GOVE"
+            ],
+            "landingPage": "https://datos.mininterior.gob.ar/dataset/https-datos-mininterior-gob-ar-dataset-solicitudes-de-acceso-a-la-informacion-publica",
+            "identifier": "641842e6-28d2-46e1-86c8-ac680863ca8e",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "ssreformainstitucional@mininterior.gob.ar   ",
                 "name": "Subsecretaría de Reforma Institucional y Fortalecimiento de la Democracia"
             },
