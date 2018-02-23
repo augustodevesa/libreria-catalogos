@@ -700,6 +700,58 @@
         },
         {
             "publisher": {
+                "mbox": "justiciaabierta@jus.gob.ar",
+                "name": "Ministerio de Justicia y Derechos Humanos. Programa de Justicia Abierta"
+            },
+            "landingPage": "",
+            "description": "Este conjunto de datos se detalla cada uno de los delitos enunciados en el Código Penal de la Nación y algunas leyes especiales, con la descripción de los mismos y con un código respectivo",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Codificación de delitos del Código Penal Argentino",
+            "issued": "2018-02-21T13:41:29.513972",
+            "modified": "2018-02-23T18:28:15.636692",
+            "theme": [
+                "informacion-juridica",
+                "politica-criminal"
+            ],
+            "keyword": [
+                "abusos sexuales",
+                "amenazas",
+                "cárceles",
+                "código penal",
+                "daños",
+                "delitos",
+                "homicidios",
+                "hurtos",
+                "legislación",
+                "leyes especiales",
+                "presos",
+                "robos"
+            ],
+            "superTheme": [
+                "JUST"
+            ],
+            "contactPoint": {
+                "hasEmail": "justiciaabierta@jus.gob.ar",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Programa de Justicia Abierta"
+            },
+            "identifier": "d4a7a48d-d5c5-48e3-b820-0bc308d57e3c",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/d4a7a48d-d5c5-48e3-b820-0bc308d57e3c/resource/b0482336-831a-4517-ae53-ea9466df45b9",
+                    "description": "Codificación de delitos del Código Penal Argentino y leyes especiales, actualizado al 2017-02-21",
+                    "title": "Codificación de delitos del Código Penal Argentino 2017-02-21",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-02-23T15:14:21.714324",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/d4a7a48d-d5c5-48e3-b820-0bc308d57e3c/resource/b0482336-831a-4517-ae53-ea9466df45b9/download/codificacion-delitos-codigo-penal-argentino-2017-02-21.csv",
+                    "issued": "2018-02-21T10:58:38.474606",
+                    "identifier": "b0482336-831a-4517-ae53-ea9466df45b9"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "fmichele@dnrec.jus.gov.ar",
                 "name": "Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Direccion Nacional Registro Nacional de Reincidencia"
             },
