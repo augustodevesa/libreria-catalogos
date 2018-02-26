@@ -69,11 +69,226 @@
                 "TECH"
             ],
             "keyword": [
+                "equipos de comunicacion",
+                "homologaciones"
+            ],
+            "title": "Equipos homologados inscriptos",
+            "issued": "2017-11-07T15:39:19",
+            "modified": "2018-02-26T01:16:32Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "homologacion-de-equipos"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
+                    "description": "Equipos homologados",
+                    "title": "Equipos homologados inscriptos",
+                    "issued": "2017-11-07T15:39:19",
+                    "format": "CSV",
+                    "modified": "2018-02-26T01:16:32Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
+                    "description": "Equipos homologados",
+                    "title": "Equipos homologados inscriptos",
+                    "issued": "2017-11-07T15:39:19",
+                    "format": "XLS",
+                    "modified": "2018-02-26T01:16:32Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
+                    "description": "Equipos homologados",
+                    "title": "Equipos homologados inscriptos",
+                    "issued": "2017-11-07T15:39:19",
+                    "format": "JSON",
+                    "modified": "2018-02-26T01:16:32Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "EQUIP-HOMOL-INSCR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
+            "description": "Equipos homologados"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "licencias"
+            ],
+            "title": "Registro de prestadores de servicios postales",
+            "issued": "2017-11-07T14:31:31",
+            "modified": "2018-02-25T21:00:09Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "servicios-postales"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243429/registro-de-prestadores-de-servicios-postales/",
+                    "description": "Prestadores de servicios postales",
+                    "title": "Registro de prestadores de servicios postales",
+                    "issued": "2017-11-07T14:31:31",
+                    "format": "CSV",
+                    "modified": "2018-02-25T21:00:09Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/REGIS-DE-PREST-DE-SERVI/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243429/registro-de-prestadores-de-servicios-postales/",
+                    "description": "Prestadores de servicios postales",
+                    "title": "Registro de prestadores de servicios postales",
+                    "issued": "2017-11-07T14:31:31",
+                    "format": "XLS",
+                    "modified": "2018-02-25T21:00:09Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/REGIS-DE-PREST-DE-SERVI/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243429/registro-de-prestadores-de-servicios-postales/",
+                    "description": "Prestadores de servicios postales",
+                    "title": "Registro de prestadores de servicios postales",
+                    "issued": "2017-11-07T14:31:31",
+                    "format": "JSON",
+                    "modified": "2018-02-25T21:00:09Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/REGIS-DE-PREST-DE-SERVI/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "REGIS-DE-PREST-DE-SERVI",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243429/registro-de-prestadores-de-servicios-postales/",
+            "description": "Prestadores de servicios postales"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [],
+            "title": "Listado de estaciones repetidoras autorizadas",
+            "issued": "2017-11-07T14:58:55",
+            "modified": "2018-02-25T11:32:30Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "espectro-radioelectrico"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
+                    "description": "Estaciones repetidoras autorizadas",
+                    "title": "Listado de estaciones repetidoras autorizadas",
+                    "issued": "2017-11-07T14:58:55",
+                    "format": "CSV",
+                    "modified": "2018-02-25T11:32:30Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET-AUTOR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
+                    "description": "Estaciones repetidoras autorizadas",
+                    "title": "Listado de estaciones repetidoras autorizadas",
+                    "issued": "2017-11-07T14:58:55",
+                    "format": "XLS",
+                    "modified": "2018-02-25T11:32:30Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET-AUTOR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
+                    "description": "Estaciones repetidoras autorizadas",
+                    "title": "Listado de estaciones repetidoras autorizadas",
+                    "issued": "2017-11-07T14:58:55",
+                    "format": "JSON",
+                    "modified": "2018-02-25T11:32:30Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET-AUTOR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "LISTA-DE-ESTAC-REPET-AUTOR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
+            "description": "Estaciones repetidoras autorizadas"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "homologaciones"
+            ],
+            "title": "Empresas homologadas inscriptas",
+            "issued": "2017-11-07T15:51:03",
+            "modified": "2018-02-25T08:56:11Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "homologacion-de-equipos"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
+                    "description": "Empresas homologadas",
+                    "title": "Empresas homologadas inscriptas",
+                    "issued": "2017-11-07T15:51:03",
+                    "format": "CSV",
+                    "modified": "2018-02-25T08:56:11Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EMPRE-HOMOL-INSCR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
+                    "description": "Empresas homologadas",
+                    "title": "Empresas homologadas inscriptas",
+                    "issued": "2017-11-07T15:51:03",
+                    "format": "XLS",
+                    "modified": "2018-02-25T08:56:11Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EMPRE-HOMOL-INSCR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
+                    "description": "Empresas homologadas",
+                    "title": "Empresas homologadas inscriptas",
+                    "issued": "2017-11-07T15:51:03",
+                    "format": "JSON",
+                    "modified": "2018-02-25T08:56:11Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EMPRE-HOMOL-INSCR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "EMPRE-HOMOL-INSCR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
+            "description": "Empresas homologadas"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
                 "licencias"
             ],
             "title": "Licenciatarios TIC",
             "issued": "2017-11-07T14:22:10",
-            "modified": "2018-02-23T19:34:43Z",
+            "modified": "2018-02-25T08:25:42Z",
             "language": [
                 "spa"
             ],
@@ -88,7 +303,7 @@
                     "title": "Licenciatarios TIC",
                     "issued": "2017-11-07T14:22:10",
                     "format": "CSV",
-                    "modified": "2018-02-23T19:34:43Z",
+                    "modified": "2018-02-25T08:25:42Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
@@ -97,7 +312,7 @@
                     "title": "Licenciatarios TIC",
                     "issued": "2017-11-07T14:22:10",
                     "format": "XLS",
-                    "modified": "2018-02-23T19:34:43Z",
+                    "modified": "2018-02-25T08:25:42Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
@@ -106,7 +321,7 @@
                     "title": "Licenciatarios TIC",
                     "issued": "2017-11-07T14:22:10",
                     "format": "JSON",
-                    "modified": "2018-02-23T19:34:43Z",
+                    "modified": "2018-02-25T08:25:42Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 }
             ],
@@ -126,64 +341,9 @@
                 "telefonia",
                 "numeracion"
             ],
-            "title": "Numeración no geográfica",
-            "issued": "2016-09-20T20:56:16",
-            "modified": "2018-02-23T17:52:18Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "servicios-postales"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
-                    "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país",
-                    "title": "Numeración no geográfica",
-                    "issued": "2016-09-20T20:56:16",
-                    "format": "CSV",
-                    "modified": "2018-02-23T17:52:18Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
-                    "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país",
-                    "title": "Numeración no geográfica",
-                    "issued": "2016-09-20T20:56:16",
-                    "format": "XLS",
-                    "modified": "2018-02-23T17:52:18Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
-                    "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país",
-                    "title": "Numeración no geográfica",
-                    "issued": "2016-09-20T20:56:16",
-                    "format": "JSON",
-                    "modified": "2018-02-23T17:52:18Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "NUMER-NO-GEOGR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
-            "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "telefonia",
-                "numeracion"
-            ],
             "title": "Numeración geográfica",
             "issued": "2016-09-20T20:59:01",
-            "modified": "2018-02-23T17:52:13Z",
+            "modified": "2018-02-24T10:45:53Z",
             "language": [
                 "spa"
             ],
@@ -198,7 +358,7 @@
                     "title": "Numeración geográfica",
                     "issued": "2016-09-20T20:59:01",
                     "format": "CSV",
-                    "modified": "2018-02-23T17:52:13Z",
+                    "modified": "2018-02-24T10:45:53Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
@@ -207,7 +367,7 @@
                     "title": "Numeración geográfica",
                     "issued": "2016-09-20T20:59:01",
                     "format": "XLS",
-                    "modified": "2018-02-23T17:52:13Z",
+                    "modified": "2018-02-24T10:45:53Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
@@ -216,7 +376,7 @@
                     "title": "Numeración geográfica",
                     "issued": "2016-09-20T20:59:01",
                     "format": "JSON",
-                    "modified": "2018-02-23T17:52:13Z",
+                    "modified": "2018-02-24T10:45:53Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 }
             ],
@@ -233,11 +393,12 @@
                 "TECH"
             ],
             "keyword": [
-                "licencias"
+                "telefonia",
+                "numeracion"
             ],
-            "title": "Registro de prestadores de servicios postales",
-            "issued": "2017-11-07T14:31:31",
-            "modified": "2018-02-23T14:13:27Z",
+            "title": "Numeración no geográfica",
+            "issued": "2016-09-20T20:56:16",
+            "modified": "2018-02-24T10:45:43Z",
             "language": [
                 "spa"
             ],
@@ -247,36 +408,36 @@
             "accrualPeriodicity": "R/P1Y",
             "distribution": [
                 {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243429/registro-de-prestadores-de-servicios-postales/",
-                    "description": "Prestadores de servicios postales",
-                    "title": "Registro de prestadores de servicios postales",
-                    "issued": "2017-11-07T14:31:31",
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
+                    "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país",
+                    "title": "Numeración no geográfica",
+                    "issued": "2016-09-20T20:56:16",
                     "format": "CSV",
-                    "modified": "2018-02-23T14:13:27Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/REGIS-DE-PREST-DE-SERVI/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                    "modified": "2018-02-24T10:45:43Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243429/registro-de-prestadores-de-servicios-postales/",
-                    "description": "Prestadores de servicios postales",
-                    "title": "Registro de prestadores de servicios postales",
-                    "issued": "2017-11-07T14:31:31",
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
+                    "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país",
+                    "title": "Numeración no geográfica",
+                    "issued": "2016-09-20T20:56:16",
                     "format": "XLS",
-                    "modified": "2018-02-23T14:13:27Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/REGIS-DE-PREST-DE-SERVI/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                    "modified": "2018-02-24T10:45:43Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243429/registro-de-prestadores-de-servicios-postales/",
-                    "description": "Prestadores de servicios postales",
-                    "title": "Registro de prestadores de servicios postales",
-                    "issued": "2017-11-07T14:31:31",
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
+                    "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país",
+                    "title": "Numeración no geográfica",
+                    "issued": "2016-09-20T20:56:16",
                     "format": "JSON",
-                    "modified": "2018-02-23T14:13:27Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/REGIS-DE-PREST-DE-SERVI/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                    "modified": "2018-02-24T10:45:43Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 }
             ],
-            "identifier": "REGIS-DE-PREST-DE-SERVI",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243429/registro-de-prestadores-de-servicios-postales/",
-            "description": "Prestadores de servicios postales"
+            "identifier": "NUMER-NO-GEOGR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
+            "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país"
         },
         {
             "publisher": {
@@ -291,7 +452,7 @@
             ],
             "title": "Subregistro de prestadores de servicios de mensajería",
             "issued": "2017-11-07T14:33:16",
-            "modified": "2018-02-23T14:13:27Z",
+            "modified": "2018-02-24T03:55:50Z",
             "language": [
                 "spa"
             ],
@@ -306,7 +467,7 @@
                     "title": "Subregistro de prestadores de servicios de mensajería",
                     "issued": "2017-11-07T14:33:16",
                     "format": "CSV",
-                    "modified": "2018-02-23T14:13:27Z",
+                    "modified": "2018-02-24T03:55:50Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/SUBRE-DE-PREST-DE-SERVI/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
@@ -315,7 +476,7 @@
                     "title": "Subregistro de prestadores de servicios de mensajería",
                     "issued": "2017-11-07T14:33:16",
                     "format": "XLS",
-                    "modified": "2018-02-23T14:13:27Z",
+                    "modified": "2018-02-24T03:55:50Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/SUBRE-DE-PREST-DE-SERVI/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
@@ -324,7 +485,7 @@
                     "title": "Subregistro de prestadores de servicios de mensajería",
                     "issued": "2017-11-07T14:33:16",
                     "format": "JSON",
-                    "modified": "2018-02-23T14:13:27Z",
+                    "modified": "2018-02-24T03:55:50Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/SUBRE-DE-PREST-DE-SERVI/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 }
             ],
@@ -340,64 +501,12 @@
             "superTheme": [
                 "TECH"
             ],
-            "keyword": [],
-            "title": "Listado de estaciones repetidoras autorizadas",
-            "issued": "2017-11-07T14:58:55",
-            "modified": "2018-02-23T13:49:52Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "espectro-radioelectrico"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
-                    "description": "Estaciones repetidoras autorizadas",
-                    "title": "Listado de estaciones repetidoras autorizadas",
-                    "issued": "2017-11-07T14:58:55",
-                    "format": "CSV",
-                    "modified": "2018-02-23T13:49:52Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET-AUTOR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
-                    "description": "Estaciones repetidoras autorizadas",
-                    "title": "Listado de estaciones repetidoras autorizadas",
-                    "issued": "2017-11-07T14:58:55",
-                    "format": "XLS",
-                    "modified": "2018-02-23T13:49:52Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET-AUTOR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
-                    "description": "Estaciones repetidoras autorizadas",
-                    "title": "Listado de estaciones repetidoras autorizadas",
-                    "issued": "2017-11-07T14:58:55",
-                    "format": "JSON",
-                    "modified": "2018-02-23T13:49:52Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET-AUTOR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "LISTA-DE-ESTAC-REPET-AUTOR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
-            "description": "Estaciones repetidoras autorizadas"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
             "keyword": [
                 " radioclubes"
             ],
             "title": "Listado de radioclubes",
             "issued": "2017-11-07T14:55:44",
-            "modified": "2018-02-23T13:49:52Z",
+            "modified": "2018-02-24T03:55:39Z",
             "language": [
                 "spa"
             ],
@@ -412,7 +521,7 @@
                     "title": "Listado de radioclubes",
                     "issued": "2017-11-07T14:55:44",
                     "format": "CSV",
-                    "modified": "2018-02-23T13:49:52Z",
+                    "modified": "2018-02-24T03:55:39Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-20/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
@@ -421,7 +530,7 @@
                     "title": "Listado de radioclubes",
                     "issued": "2017-11-07T14:55:44",
                     "format": "XLS",
-                    "modified": "2018-02-23T13:49:52Z",
+                    "modified": "2018-02-24T03:55:39Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-20/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
@@ -430,7 +539,7 @@
                     "title": "Listado de radioclubes",
                     "issued": "2017-11-07T14:55:44",
                     "format": "JSON",
-                    "modified": "2018-02-23T13:49:52Z",
+                    "modified": "2018-02-24T03:55:39Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-20/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 }
             ],
@@ -549,115 +658,6 @@
             "identifier": "LOCAL-BENEF-POR-EL-PROGR",
             "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/245169/localidades-beneficiadas-por-el-programa-de-aportes-no-reembolsables/",
             "description": "Lista de localidades beneficiadas por el programa de Aportes no reembolsables"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "equipos de comunicacion",
-                "homologaciones"
-            ],
-            "title": "Equipos homologados inscriptos",
-            "issued": "2017-11-07T15:39:19",
-            "modified": "2018-02-22T04:11:50Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "homologacion-de-equipos"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
-                    "description": "Equipos homologados",
-                    "title": "Equipos homologados inscriptos",
-                    "issued": "2017-11-07T15:39:19",
-                    "format": "CSV",
-                    "modified": "2018-02-22T04:11:50Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
-                    "description": "Equipos homologados",
-                    "title": "Equipos homologados inscriptos",
-                    "issued": "2017-11-07T15:39:19",
-                    "format": "XLS",
-                    "modified": "2018-02-22T04:11:50Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
-                    "description": "Equipos homologados",
-                    "title": "Equipos homologados inscriptos",
-                    "issued": "2017-11-07T15:39:19",
-                    "format": "JSON",
-                    "modified": "2018-02-22T04:11:50Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "EQUIP-HOMOL-INSCR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
-            "description": "Equipos homologados"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "homologaciones"
-            ],
-            "title": "Empresas homologadas inscriptas",
-            "issued": "2017-11-07T15:51:03",
-            "modified": "2018-02-22T04:04:26Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "homologacion-de-equipos"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
-                    "description": "Empresas homologadas",
-                    "title": "Empresas homologadas inscriptas",
-                    "issued": "2017-11-07T15:51:03",
-                    "format": "CSV",
-                    "modified": "2018-02-22T04:04:26Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EMPRE-HOMOL-INSCR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
-                    "description": "Empresas homologadas",
-                    "title": "Empresas homologadas inscriptas",
-                    "issued": "2017-11-07T15:51:03",
-                    "format": "XLS",
-                    "modified": "2018-02-22T04:04:26Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EMPRE-HOMOL-INSCR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
-                    "description": "Empresas homologadas",
-                    "title": "Empresas homologadas inscriptas",
-                    "issued": "2017-11-07T15:51:03",
-                    "format": "JSON",
-                    "modified": "2018-02-22T04:04:26Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EMPRE-HOMOL-INSCR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "EMPRE-HOMOL-INSCR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
-            "description": "Empresas homologadas"
         },
         {
             "publisher": {
