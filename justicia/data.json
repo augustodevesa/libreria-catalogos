@@ -1213,7 +1213,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Designaciones de magistrados de la Justicia Federal y de la Justicia Nacional",
             "issued": "2017-06-16T13:36:42.787601",
-            "modified": "2018-02-26T18:00:07.989237",
+            "modified": "2018-02-26T18:00:45.365257",
             "theme": [
                 "poder-judicial"
             ],
@@ -1227,7 +1227,7 @@
                 "jueces",
                 "justicia",
                 "magistrados",
-                "nacional"
+                "nacionales"
             ],
             "superTheme": [
                 "JUST"
@@ -1367,22 +1367,25 @@
                 "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia"
             },
             "landingPage": "",
-            "description": "Datos de Entidades, Domicilios, Balances, Autoridades y Asambleas de las Entidades constituidas en la Inspección General de Justicia - IGJ",
+            "description": "En este conjunto de datos se detallan los datos de las entidades constituidas en la Inspección General de Justicia -IGJ.\r\n\r\nLa IGJ, en ejercicio de su función fiscalizadora de personas jurídicas, registra, controla y publica la información relativa a sociedades accionarias y no accionarias, sociedades constituidas en el extranjero, asociaciones civiles y fundaciones con domicilio legal en CABA. Las funciones que ejerce la IGJ son indelegables y se complementan con las realizadas por los organismos registrales de las provincias. Por la importancia de las funciones registrales y de control a su cargo, tiene un rol trascendente en la vida económica y social del país.\r\n\r\nLa IGJ tiene competencia federal en las Sociedades de Capitalización y Ahorro, y en la implementación del Registro Nacional de Sociedades.",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Entidades constituidas en la Inspección General de Justicia",
             "issued": "2016-09-19T13:46:06.092494",
-            "modified": "2018-02-14T13:00:04.060095",
+            "modified": "2018-02-26T18:25:12.339665",
             "theme": [
                 "sistema-registral"
             ],
             "keyword": [
                 "IGJ",
+                "SRL",
                 "asambleas",
                 "asociaciones civiles",
                 "autoridades",
+                "entidades",
                 "fundaciones",
                 "personas jurídicas",
-                "sociedades"
+                "sociedades",
+                "sociedades anónimas"
             ],
             "superTheme": [
                 "JUST"
@@ -2606,21 +2609,21 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Estadística de trámites de maquinarias",
             "issued": "2017-06-28T18:19:55.932924",
-            "modified": "2018-02-02T15:13:47.692761",
+            "modified": "2018-02-26T18:48:11.807580",
             "theme": [
                 "sistema-registral"
             ],
             "keyword": [
                 "0km",
-                "agricola",
-                "industrial",
+                "agrícola",
+                "industriales",
                 "inscripciones",
                 "maquinarias",
                 "registración",
                 "registros seccionales",
                 "transferencias",
                 "trámites",
-                "vial"
+                "viales"
             ],
             "superTheme": [
                 "JUST"
@@ -2788,7 +2791,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Estadística de trámites de motovehículos",
             "issued": "2017-06-28T18:08:53.679300",
-            "modified": "2018-02-02T15:08:20.921761",
+            "modified": "2018-02-26T18:51:11.920257",
             "theme": [
                 "sistema-registral"
             ],
@@ -2968,13 +2971,13 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Estadística de mediaciones prejudiciales y judiciales",
             "issued": "2016-07-12T13:51:29.820576",
-            "modified": "2018-02-02T16:41:15.099781",
+            "modified": "2018-02-26T18:30:02.690063",
             "theme": [
                 "acceso-a-justicia"
             ],
             "keyword": [
-                "mediación",
-                "prejudicial",
+                "mediaciones",
+                "prejudiciales",
                 "resolución alternativa de conflictos"
             ],
             "superTheme": [
@@ -3107,20 +3110,21 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Internos del Servicio Penitenciario Federal - SPF",
             "issued": "2016-09-29T12:32:11.583547",
-            "modified": "2018-02-09T15:08:25.232032",
+            "modified": "2018-02-26T19:44:48.601714",
             "theme": [
                 "sistema-penitenciario"
             ],
             "keyword": [
                 "SPF",
                 "condenados",
-                "federal",
+                "federales",
                 "inimputables",
                 "penitenciario",
+                "penitenciarios",
                 "presos",
-                "prisión",
+                "prisiones",
                 "procesados",
-                "procesal"
+                "procesales"
             ],
             "superTheme": [
                 "JUST"
@@ -3674,7 +3678,7 @@
                 },
                 {
                     "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/bdac8753-3865-4f52-83c4-6119291c0761",
-                    "description": "Internos del SPF - Inimputables 2017-12",
+                    "description": "Este conjunto de datos registra los inimputables alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
                     "title": "Internos del SPF - Inimputables 2017-12",
                     "byteSize": null,
                     "format": "CSV",
@@ -3707,6 +3711,42 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/651804d8-0bad-407b-a40a-91f6d79a09d2/download/internos-spf-procesados-2017-12.csv",
                     "issued": "2018-01-17T10:55:14.797829",
                     "identifier": "651804d8-0bad-407b-a40a-91f6d79a09d2"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/e26c0a79-6e22-4f0d-92c6-1d9d5e04463a",
+                    "description": "Este conjunto de datos registra los condenados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
+                    "title": "Internos del SPF - Condenados 2018-01",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-02-26T16:39:23.384336",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/e26c0a79-6e22-4f0d-92c6-1d9d5e04463a/download/internos-spf-condenados-2018-01.csv",
+                    "issued": "2018-02-26T16:39:23.849328",
+                    "identifier": "e26c0a79-6e22-4f0d-92c6-1d9d5e04463a"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/6170c815-5d6f-486a-95f5-30f00b5487ab",
+                    "description": "Este conjunto de datos registra los procesados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
+                    "title": "Internos del SPF - Procesados 2018-01",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-02-26T16:43:24.002298",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/6170c815-5d6f-486a-95f5-30f00b5487ab/download/internos-spf-procesados-2018-01.csv",
+                    "issued": "2018-02-26T16:43:24.448053",
+                    "identifier": "6170c815-5d6f-486a-95f5-30f00b5487ab"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/93d3d05b-8f59-4215-8a6c-ae687f17a883",
+                    "description": "Este conjunto de datos registra los inimputables alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
+                    "title": "Internos del SPF - Inimputables 2018-01",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-02-26T16:44:39.496671",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/93d3d05b-8f59-4215-8a6c-ae687f17a883/download/internos-spf-inimputables-2018-01.csv",
+                    "issued": "2018-02-26T16:44:39.964225",
+                    "identifier": "93d3d05b-8f59-4215-8a6c-ae687f17a883"
                 }
             ]
         },
