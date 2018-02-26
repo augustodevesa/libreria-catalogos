@@ -533,27 +533,26 @@
                 "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional del Registro Nacional de Bienes Secuestrados y Decomisados durante el Proceso Penal"
             },
             "landingPage": "",
-            "description": "En este conjunto de datos se detallan los bienes secuestrados, decomisados o afectados a una medida cautelar, en el marco de un proceso penal.",
+            "description": "En este conjunto de datos se detallan los bienes secuestrados, decomisados y/ o afectados a una medida cautelar, durante la sustanciación de un proceso penal, que fueran informados al Registro de Bienes Secuestrados y Decomisados durante el Proceso Penal (RNBSD) por la autoridad interviniente en dicho proceso, cuya competencia es de carácter Nacional y/ o Federal.",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Bienes secuestrados y decomisados durante el proceso penal",
             "issued": "2017-06-22T13:42:13.273232",
-            "modified": "2018-01-19T14:03:18.589815",
+            "modified": "2018-02-26T16:09:30.133696",
             "theme": [
                 "sistema-registral"
             ],
             "keyword": [
-                "aeronave",
+                "aeronaves",
                 "armas",
                 "bienes",
                 "bienes decomisados",
                 "bienes secuestrados",
-                "buque",
+                "buques",
                 "dinero",
                 "estupefacientes",
                 "inmuebles",
-                "medida cautelar",
-                "proceso penal",
-                "vehículos"
+                "medidas cautelares",
+                "procesos penales"
             ],
             "superTheme": [
                 "JUST"
@@ -661,7 +660,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Centros de Acceso a la Justicia -CAJ-",
             "issued": "2016-09-08T15:01:56.463663",
-            "modified": "2018-01-22T19:10:36.494566",
+            "modified": "2018-02-26T16:16:21.601871",
             "theme": [
                 "acceso-a-justicia"
             ],
@@ -672,7 +671,7 @@
                 "asesoramiento jurídico",
                 "casas de justicia",
                 "justicia",
-                "vulnerable"
+                "vulnerables"
             ],
             "superTheme": [
                 "JUST"
@@ -760,13 +759,13 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.",
             "issued": "2016-09-28T14:57:47.665668",
-            "modified": "2018-02-26T12:06:30.210458",
+            "modified": "2018-02-26T15:31:20.904847",
             "theme": [
                 "sistema-registral"
             ],
             "keyword": [
                 "capturas",
-                "detención",
+                "detenciones",
                 "rebeldías"
             ],
             "superTheme": [
@@ -803,7 +802,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ-",
             "issued": "2017-06-23T14:53:43.430826",
-            "modified": "2018-02-20T14:25:00.996872",
+            "modified": "2018-02-26T16:21:48.579792",
             "theme": [
                 "acceso-a-justicia"
             ],
@@ -815,7 +814,7 @@
                 "casas de justicia",
                 "consultas",
                 "justicia",
-                "vulnerable"
+                "vulnerables"
             ],
             "superTheme": [
                 "JUST"
@@ -875,20 +874,22 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público",
             "issued": "2017-06-23T14:42:50.118542",
-            "modified": "2018-02-23T12:22:35.014460",
+            "modified": "2018-02-26T16:34:13.946787",
             "theme": [
                 "poder-judicial"
             ],
             "keyword": [
-                "concurso",
-                "defensor",
-                "fiscal",
-                "juez",
-                "justicia",
-                "magistrado",
+                "acceso a justicia",
+                "cargos",
+                "concursos",
+                "curriculum vitae",
+                "defensores",
+                "fiscales",
+                "jueces",
+                "magistrados",
                 "ministerio público",
                 "poder judicial",
-                "vacante"
+                "vacantes"
             ],
             "superTheme": [
                 "JUST"
@@ -1208,24 +1209,24 @@
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
             },
             "landingPage": "",
-            "description": "En este conjunto de datos se detalla las designaciones de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional de la República Argentina.",
+            "description": "En este conjunto de datos se detallan las designaciones de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional de la República Argentina.",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Designaciones de magistrados de la Justicia Federal y de la Justicia Nacional",
             "issued": "2017-06-16T13:36:42.787601",
-            "modified": "2017-12-27T17:07:09.149767",
+            "modified": "2018-02-26T18:00:07.989237",
             "theme": [
                 "poder-judicial"
             ],
             "keyword": [
-                "cargo",
-                "defensor",
+                "cargos",
+                "defensores",
                 "designaciones",
-                "federal",
-                "fiscal",
-                "judicial",
-                "juez",
+                "federales",
+                "fiscales",
+                "judiciales",
+                "jueces",
                 "justicia",
-                "magistrado",
+                "magistrados",
                 "nacional"
             ],
             "superTheme": [
@@ -4729,22 +4730,22 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Selección de magistrados del Poder Judicial y el Ministerio Público de la Nación",
             "issued": "2017-06-08T14:17:01.334940",
-            "modified": "2018-02-23T12:28:08.254967",
+            "modified": "2018-02-26T15:53:36.781018",
             "theme": [
                 "poder-judicial"
             ],
             "keyword": [
-                "cargo",
-                "concurso",
-                "curriculum",
-                "defensor",
-                "fiscal",
-                "juez",
+                "cargos",
+                "concursos",
+                "curriculum vitae",
+                "defensores",
+                "fiscales",
+                "jueces",
                 "justicia",
-                "magistrado",
-                "ministerio publico",
+                "magistrados",
+                "ministerio público",
                 "poder judicial",
-                "vacante"
+                "vacantes"
             ],
             "superTheme": [
                 "JUST"
