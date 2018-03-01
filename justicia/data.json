@@ -1384,7 +1384,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Entidades constituidas en la Inspección General de Justicia",
             "issued": "2016-09-19T13:46:06.092494",
-            "modified": "2018-02-26T18:25:12.339665",
+            "modified": "2018-03-01T17:50:54.516454",
             "theme": [
                 "sistema-registral"
             ],
@@ -2429,6 +2429,30 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/e513a012-848b-407a-bb1a-4aef073390f2/download/igj-asambleas-2018-01.csv",
                     "issued": "2018-02-09T11:32:08.194051",
                     "identifier": "e513a012-848b-407a-bb1a-4aef073390f2"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/7094bb0c-8a60-4c8a-9111-c2d5fb79a8dd",
+                    "description": "Domicilios de entidades constituidas en la IGJ.",
+                    "title": "IGJ. Domicilios de entidades constituidas en la IGJ 2018-02",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-03-01T14:38:28.553022",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/7094bb0c-8a60-4c8a-9111-c2d5fb79a8dd/download/igj-domicilios-2018-02.csv",
+                    "issued": "2018-03-01T14:38:29.046310",
+                    "identifier": "7094bb0c-8a60-4c8a-9111-c2d5fb79a8dd"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/07713846-a1fb-460f-a863-36d88d17b292",
+                    "description": "Entidades constituidas en la IGJ",
+                    "title": "IGJ. Entidades 2018-02",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-03-01T14:50:54.367483",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/07713846-a1fb-460f-a863-36d88d17b292/download/igj-entidades-2018-02.csv",
+                    "issued": "2018-03-01T14:50:54.919582",
+                    "identifier": "07713846-a1fb-460f-a863-36d88d17b292"
                 }
             ]
         },
@@ -2442,7 +2466,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Estadística de trámites de automotores",
             "issued": "2017-06-28T17:28:28.132200",
-            "modified": "2018-02-26T14:21:00.084282",
+            "modified": "2018-03-01T15:16:15.963700",
             "theme": [
                 "sistema-registral"
             ],
@@ -2609,6 +2633,30 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/e2d0606f-c959-4394-a8fe-07bd1cffd830/download/estadistica-transferencias-automotores-2018-01.csv",
                     "issued": "2018-02-02T11:58:19.506961",
                     "identifier": "e2d0606f-c959-4394-a8fe-07bd1cffd830"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/1b3313ab-2d40-461a-8569-2a42360f3166",
+                    "description": "Estadística de inscripciones iniciales de automotores por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.",
+                    "title": "Estadística de inscripciones iniciales de automotores 2018-02",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-03-01T12:14:48.333290",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/1b3313ab-2d40-461a-8569-2a42360f3166/download/estadistica-inscripciones-iniciales-automotores-2018-02.csv",
+                    "issued": "2018-03-01T12:14:48.578242",
+                    "identifier": "1b3313ab-2d40-461a-8569-2a42360f3166"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/f898dbe2-77cd-4e50-9384-926ec745a706",
+                    "description": "Estadística de transferencias de automotores por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.",
+                    "title": "Estadística de transferencias de automotores 2018-02",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-03-01T12:16:05.643778",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/f898dbe2-77cd-4e50-9384-926ec745a706/download/estadistica-transferencias-automotores-2018-02.csv",
+                    "issued": "2018-03-01T12:16:05.906410",
+                    "identifier": "f898dbe2-77cd-4e50-9384-926ec745a706"
                 }
             ]
         },
@@ -2622,7 +2670,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Estadística de trámites de maquinarias",
             "issued": "2017-06-28T18:19:55.932924",
-            "modified": "2018-02-26T18:48:11.807580",
+            "modified": "2018-03-01T15:39:47.521945",
             "theme": [
                 "sistema-registral"
             ],
@@ -2791,6 +2839,30 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/bafcd6d7-7416-45dd-97dd-fe0e27c8a584/download/estadistica-transferencias-maquinarias-2018-01.csv",
                     "issued": "2018-02-02T12:13:39.477606",
                     "identifier": "bafcd6d7-7416-45dd-97dd-fe0e27c8a584"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/5f4cfa2f-41da-4932-8d38-80f9ad46204c",
+                    "description": "Estadística de inscripciones iniciales de maquinarias agrícolas, viales e industriales,  por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.",
+                    "title": "Estadística de inscripciones iniciales de maquinarias 2018-02",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-03-01T12:37:51.170411",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/5f4cfa2f-41da-4932-8d38-80f9ad46204c/download/estadistica-inscripciones-iniciales-maquinarias-2018-02.csv",
+                    "issued": "2018-03-01T12:37:51.408714",
+                    "identifier": "5f4cfa2f-41da-4932-8d38-80f9ad46204c"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/e6dfb9dd-0205-43e9-8163-21eb7a6c2856",
+                    "description": "Estadística de transferencias de maquinarias agrícolas, viales e industriales  por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.",
+                    "title": "Estadística de transferencias de maquinarias 2018-02",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-03-01T12:39:39.109444",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/e6dfb9dd-0205-43e9-8163-21eb7a6c2856/download/estadistica-transferencias-maquinarias-2018-02.csv",
+                    "issued": "2018-03-01T12:39:39.342829",
+                    "identifier": "e6dfb9dd-0205-43e9-8163-21eb7a6c2856"
                 }
             ]
         },
@@ -2804,7 +2876,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Estadística de trámites de motovehículos",
             "issued": "2017-06-28T18:08:53.679300",
-            "modified": "2018-02-26T18:51:11.920257",
+            "modified": "2018-03-01T15:31:55.937209",
             "theme": [
                 "sistema-registral"
             ],
@@ -2971,6 +3043,30 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/c3e13b6b-1e83-4108-afb5-53e34c54e50b/download/estadistica-transferencias-motovehiculos-2018-01.csv",
                     "issued": "2018-02-02T12:08:13.566408",
                     "identifier": "c3e13b6b-1e83-4108-afb5-53e34c54e50b"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/aea8a7bb-40b2-44cd-9787-e05da0fd0d99",
+                    "description": "Estadística de inscripciones iniciales de motovehículos por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.",
+                    "title": "Estadística de inscripciones iniciales de motovehículos 2018-02",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-03-01T12:23:49.713270",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/aea8a7bb-40b2-44cd-9787-e05da0fd0d99/download/estadistica-inscripciones-iniciales-motovehiculos-2018-02.csv",
+                    "issued": "2018-03-01T12:23:49.927665",
+                    "identifier": "aea8a7bb-40b2-44cd-9787-e05da0fd0d99"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/c430c1f0-2c6c-4b8e-9c1a-d3a13d6e41ba",
+                    "description": "Transferencias de motovehículos por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.",
+                    "title": "Estadística de transferencias de motovehículos 2018-02",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-03-01T12:31:18.036342",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/c430c1f0-2c6c-4b8e-9c1a-d3a13d6e41ba/download/estadistica-transferencias-motovehiculos-2018-02.csv",
+                    "issued": "2018-03-01T12:27:23.618797",
+                    "identifier": "c430c1f0-2c6c-4b8e-9c1a-d3a13d6e41ba"
                 }
             ]
         },
@@ -3935,7 +4031,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Listado de Registros Seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios",
             "issued": "2016-07-11T17:42:30.442323",
-            "modified": "2018-02-02T18:21:16.097409",
+            "modified": "2018-03-01T16:18:13.653725",
             "theme": [
                 "sistema-registral"
             ],
@@ -4076,6 +4172,18 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/bbdac295-c88e-4e2d-8f74-a845a2e93a61/resource/1dcbb50b-238a-41a6-a4aa-6b75c8f71bd6/download/listado-registros-seccionales-2018-01.csv",
                     "issued": "2018-02-02T15:21:05.602459",
                     "identifier": "1dcbb50b-238a-41a6-a4aa-6b75c8f71bd6"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/bbdac295-c88e-4e2d-8f74-a845a2e93a61/resource/56174510-4487-4586-9d47-ef1cd81b2a37",
+                    "description": "Listado de Registros Seccionales de todo el país con competencia en automotores, motovehículos, maquinaria agrícola, vial e industrial y créditos prendarios.",
+                    "title": "Listado de Registros Seccionales de todo el país - 2018-02",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-03-01T13:18:04.504991",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/bbdac295-c88e-4e2d-8f74-a845a2e93a61/resource/56174510-4487-4586-9d47-ef1cd81b2a37/download/listado-registros-seccionales-2018-02.csv",
+                    "issued": "2018-03-01T13:18:04.721327",
+                    "identifier": "56174510-4487-4586-9d47-ef1cd81b2a37"
                 }
             ]
         },
