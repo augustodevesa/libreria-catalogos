@@ -13,10 +13,10 @@
 
 ## Estado de los metadatos y cantidad de recursos
 
-- **Estado metadatos globales**: ERROR
+- **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
 - **Cantidad Total de Datasets**: 2
-- **Cantidad Total de Distribuciones**: 0
+- **Cantidad Total de Distribuciones**: 2
 
 - **Cantidad de Datasets Federados**: 0
 - **Cantidad de Datasets NO Federados**: 2
