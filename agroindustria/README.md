@@ -16,36 +16,47 @@
 - **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
 - **Cantidad Total de Datasets**: 57
-- **Cantidad Total de Distribuciones**: 115
+- **Cantidad Total de Distribuciones**: 119
 
-- **Cantidad de Datasets Federados**: 49
-- **Cantidad de Datasets NO Federados**: 8
-- **Porcentaje de Datasets NO Federados**: 14.04%
+- **Cantidad de Datasets Federados**: 51
+- **Cantidad de Datasets NO Federados**: 6
+- **Porcentaje de Datasets NO Federados**: 10.53%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
-- [Precio promedio diario internacional de azúcar](http://datos.agroindustria.gob.ar/dataset/precio-promedio-diario-de-azucar)
+
 
 ## Datasets no federados
 
-- [Precio diario internacional de azúcar](https://datos.agroindustria.gob.ar/dataset/precio-diario-de-azucar)
+- [Producción leche cruda a nivel nacional y provincial, expresada en porcentaje de sólidos](https://datos.agroindustria.gob.ar/dataset/produccion-leche-cruda-a-nivel-nacional-y-provincial-expresada-en-porcentaje-de-solidos)
 - [Estimación de la variación interanual e intermensual de la producción de leche cruda](https://datos.agroindustria.gob.ar/dataset/estimacion-de-la-variacion-interanual-e-intermensual-de-la-produccion-de-leche-cruda)
 - [Datos del Censo Nacional Agropecuario 1988 - 2002](https://www.indec.gob.ar/nivel4_default.asp?id_tema_1=3&id_tema_2=8&id_tema_3=87)
 - [Aranceles de comercio exterior vigentes](http://www.afip.gov.ar)
 - [Datos agricolo-ganaderos y de alimentos de los países pertenecientes a las Naciones Unidas](http://www.fao.org/faostat/es/#data)
-- [Calidad higiénico sanitaria de la producción de leche cruda a nivel nacional y provincial](https://datos.agroindustria.gob.ar/dataset/calidad-higienico-sanitaria-de-la-produccion-de-leche-cruda-a-nivel-nacional-y-provincial)
-- [Producción leche cruda a nivel nacional y provincial, expresada en porcentaje de sólidos](https://datos.agroindustria.gob.ar/dataset/produccion-leche-cruda-a-nivel-nacional-y-provincial-expresada-en-porcentaje-de-solidos)
 - [Datos de comercio exterior](https://comex.indec.gov.ar/dataset/datos-de-comercio-exterior)
 
 ## Datasets federados
 
+- [Precio diario internacional de azúcar](https://datos.agroindustria.gob.ar/dataset/precio-diario-de-azucar)
+- [Estimaciones agrícolas](https://datos.agroindustria.gob.ar/dataset/estimaciones-agricolas)
+- [Superficie nacional fiscalizada por especie y ubicación registrada en el INASE](https://datos.agroindustria.gob.ar/dataset/superficie-nacional-fiscalizada-por-especie-y-ubicacion-registrada-en-el-inase)
+- [Producción nacional fiscalizada por especies y ubicación registrada en el INASE](https://datos.agroindustria.gob.ar/dataset/produccion-nacional-fiscalizada-por-especies-y-ubicacion-registrada-en-el-inase)
+- [Producción nacional fiscalizada por especies registrada en el INASE](https://datos.agroindustria.gob.ar/dataset/produccion-nacional-fiscalizada-por-especies-registrada-en-el-inase)
+- [Superficie nacional fiscalizada por especies](https://datos.agroindustria.gob.ar/dataset/superficie-nacional-fiscalizada-por-especies)
+- [Precio promedio del litro de leche pagado al productor](https://datos.agroindustria.gob.ar/dataset/precio-promedio-del-litro-de-leche-pagado-al-productor)
+- [Destino de producción de la leche](https://datos.agroindustria.gob.ar/dataset/destino-de-produccion-de-la-leche)
+- [Existencias lácteas en litros equivalentes](https://datos.agroindustria.gob.ar/dataset/existencias-lacteas-en-litros-equivalentes)
+- [Producción de leche a nivel nacional](https://datos.agroindustria.gob.ar/dataset/produccion-de-leche-a-nivel-nacional)
+- [Elaboración de productos lácteos](https://datos.agroindustria.gob.ar/dataset/elaboracion-de-productos-lacteos)
+- [Existencias lácteas del período comprendido entre los años 1998  y  2008](https://datos.agroindustria.gob.ar/dataset/existencias-lacteas-del-periodo-comprendido-entre-los-anos-1998-y-2008)
+- [Estimación del consumo de productos lácteos](https://datos.agroindustria.gob.ar/dataset/estimacion-del-consumo-de-productos-lacteos)
+- [Precio promedio por kg de sólidos útiles pagados al productor](https://datos.agroindustria.gob.ar/dataset/precio-promedio-por-kg-de-solidos-utiles)
 - [Inventario nacional de plantaciones forestales por volumen](https://datos.agroindustria.gob.ar/dataset/inventario-nacional-de-plantaciones-forestales-por-volumen)
 - [Establecimientos a nivel departamental vinculados a la actividad vitivinícola de acuerdo al INV](https://datos.agroindustria.gob.ar/dataset/establecimientos-vitivinicolas)
 - [Empresas vigentes inscriptas en el RNCyF de Semillas](https://datos.agroindustria.gob.ar/dataset/empresas-vigentes)
 - [Catálogo nacional de cultivares registrados en el RNC y RNPC](https://datos.agroindustria.gob.ar/dataset/catalogo-nacional-de-cultivares)
 - [Establecimientos vigentes inscriptos en el RNCyF de Semillas](https://datos.agroindustria.gob.ar/dataset/establecimientos-vigentes-inscriptos-en-el-rncyf-de-semillas)
 - [Indicadores mensuales del sector bovino](https://datos.agroindustria.gob.ar/dataset/indicadores-mensuales-del-sector-bovino)
-- [Estimaciones agrícolas](https://datos.agroindustria.gob.ar/dataset/estimaciones-agricolas)
 - [Siembra directa según el Censo Nacional Agropecuario 2002](https://datos.agroindustria.gob.ar/dataset/siembra-directa)
 - [Reservas de agua en el suelo por cultivo](https://datos.agroindustria.gob.ar/dataset/reservas-de-agua-en-el-suelo-por-cultivo)
 - [Probabilidad de déficit hídrico](https://datos.agroindustria.gob.ar/dataset/probabilidad-deficit-hidrico)
@@ -53,10 +64,9 @@
 - [Importaciones de azúcar](https://datos.agroindustria.gob.ar/dataset/importaciones-de-azucar)
 - [Exportaciones de azúcar](https://datos.agroindustria.gob.ar/dataset/exportaciones-de-azucar)
 - [Inventario nacional de plantaciones forestales por superficie](https://datos.agroindustria.gob.ar/dataset/inventario-nacional-de-plantaciones-forestales-por-superficie)
+- [Calidad higiénico sanitaria de la producción de leche cruda a nivel nacional y provincial](https://datos.agroindustria.gob.ar/dataset/calidad-higienico-sanitaria-de-la-produccion-de-leche-cruda-a-nivel-nacional-y-provincial)
 - [Diccionario Panamericano OIMA - Región Cono Sur](https://datos.agroindustria.gob.ar/dataset/diccionario-panamericano-region-cono-sur)
 - [Tasa de ruralidad por radio censal](https://datos.agroindustria.gob.ar/dataset/tasa-de-ruralidad-por-radio-censal)
-- [Producción nacional fiscalizada por especies registrada en el INASE](http://datos.agroindustria.gob.ar/dataset/produccion-nacional-fiscalizada-por-especies-registrada-en-el-inase)
-- [Superficie nacional fiscalizada por especie y ubicación registrada en el INASE](http://datos.agroindustria.gob.ar/dataset/superficie-nacional-fiscalizada-por-especie-y-ubicacion-registrada-en-el-inase)
 - [Series de precios de productos forestales](http://datos.agroindustria.gob.ar/dataset/series-de-precios-de-productos-forestales)
 - [Padrón de operadores orgánicos certificados](http://datos.agroindustria.gob.ar/dataset/padron-de-operadores-organicos-certificados)
 - [Molienda de granos](https://datos.agroindustria.gob.ar/dataset/molienda-de-granos)
@@ -70,24 +80,14 @@
 - [Métodos de labranza según Censo Nacional Agropecuario 2002](http://datos.agroindustria.gob.ar/dataset/metodos-de-labranza)
 - [Explotaciones agropecuarias según el Censo Nacional Agropecuario de los años 1988, 2002 y 2008](http://datos.agroindustria.gob.ar/dataset/explotaciones-agropecuarias-cna)
 - [Uso de suelo según Censo Nacional Agropecuario 2002](http://datos.agroindustria.gob.ar/dataset/uso-de-suelos)
-- [Producción nacional fiscalizada por especies y ubicación registrada en el INASE](http://datos.agroindustria.gob.ar/dataset/produccion-nacional-fiscalizada-por-especies-y-ubicacion-registrada-en-el-inase)
 - [Industrias forestales](http://datos.agroindustria.gob.ar/dataset/industrias-forestales)
 - [Series de precios de productos forestales discontinuado](http://datos.agroindustria.gob.ar/dataset/series-de-precios-de-productos-forestales-discontinuado)
 - [Existencia de ciervo colorado](http://datos.agroindustria.gob.ar/dataset/existencia-de-ciervo-colorado)
 - [Indicadores anuales del sector bovino](http://datos.agroindustria.gob.ar/dataset/indicadores-anuales-del-sector-bovino)
 - [Extracciones forestales](http://datos.agroindustria.gob.ar/dataset/extracciones-forestales)
 - [Ley 25.080, superficie forestal promocionada](http://datos.agroindustria.gob.ar/dataset/ley-25080-superficie-promocionada)
-- [Precio promedio por kg de sólidos útiles pagados al productor](http://datos.agroindustria.gob.ar/dataset/precio-promedio-por-kg-de-solidos-utiles)
 - [Centros de acopio de granos](https://datos.agroindustria.gob.ar/dataset/centros-de-acopio-de-granos)
-- [Estimación del consumo de productos lácteos](http://datos.agroindustria.gob.ar/dataset/estimacion-del-consumo-de-productos-lacteos)
 - [Montos pagados por la Ley 25.080 / 26.432 para la actividad plantación](http://datos.agroindustria.gob.ar/dataset/montos-pagados-por-la-ley-25080-264-32-para-la-actividad-plantacion)
-- [Existencias lácteas del período comprendido entre los años 1998  y  2008](http://datos.agroindustria.gob.ar/dataset/existencias-lacteas-del-periodo-comprendido-entre-los-anos-1998-y-2008)
-- [Elaboración de productos lácteos](http://datos.agroindustria.gob.ar/dataset/elaboracion-de-productos-lacteos)
-- [Producción de leche a nivel nacional](http://datos.agroindustria.gob.ar/dataset/produccion-de-leche-a-nivel-nacional)
-- [Existencias lácteas en litros equivalentes](http://datos.agroindustria.gob.ar/dataset/existencias-lacteas-en-litros-equivalentes)
-- [Destino de producción de la leche](http://datos.agroindustria.gob.ar/dataset/destino-de-produccion-de-la-leche)
-- [Superficie nacional fiscalizada por especies](http://datos.agroindustria.gob.ar/dataset/superficie-nacional-fiscalizada-por-especies)
-- [Precio promedio del litro de leche pagado al productor](http://datos.agroindustria.gob.ar/dataset/precio-promedio-del-litro-de-leche-pagado-al-productor)
 
 ## Reporte
 
