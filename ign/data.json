@@ -82,6 +82,11 @@
                     "accessURL": "http://www.ign.gob.ar/sig",
                     "field": [
                         {
+                            "description": "Código ISO ISO 3166-1 alfa 3",
+                            "title": "pais_iso_3166_1",
+                            "type": "text"
+                        },
+                        {
                             "description": "Nombre geográfico (FNA) o nombre largo del país.",
                             "title": "fna",
                             "type": "text"
@@ -158,13 +163,8 @@
                     "accessURL": "http://www.ign.gob.ar/sig",
                     "field": [
                         {
-                            "description": "Nombre geográfico (FNA) o nombre largo de la provincia.",
-                            "title": "provincia_nombre_largo",
-                            "type": "text"
-                        },
-                        {
-                            "description": "Término genérico (GNA) o tipo de jurisdicción de la división político-territorial.",
-                            "title": "jurisdiccion_tipo",
+                            "description": "Código identificador de la provincia (IN1) del Censo Nacional de Población, Hogares y Viviendas 2010 de INDEC.",
+                            "title": "provincia_id",
                             "type": "text"
                         },
                         {
@@ -173,13 +173,18 @@
                             "type": "text"
                         },
                         {
+                            "description": "Término genérico (GNA) o tipo de jurisdicción de la división político-territorial.",
+                            "title": "jurisdiccion_tipo",
+                            "type": "text"
+                        },
+                        {
                             "description": "Autoridad de fuente (SAG) responsable de la administración del dato de estas entidades.",
                             "title": "autoridad_fuente",
                             "type": "text"
                         },
                         {
-                            "description": "Código identificador de la provincia (IN1) del Censo Nacional de Población, Hogares y Viviendas 2010 de INDEC.",
-                            "title": "provincia_id",
+                            "description": "Nombre geográfico (FNA) o nombre largo de la provincia.",
+                            "title": "provincia_nombre_largo",
                             "type": "text"
                         }
                     ],
@@ -196,13 +201,13 @@
                     "accessURL": "http://www.ign.gob.ar/sig",
                     "field": [
                         {
-                            "description": "Abreviatura de las provincias argentinas",
-                            "title": "provincia_abreviatura",
+                            "description": "Código ISO 3166-2:AR de las provincias argentinas",
+                            "title": "provincia_codigo_iso",
                             "type": "text"
                         },
                         {
-                            "description": "Código ISO 3166-2:AR de las provincias argentinas",
-                            "title": "provincia_codigo_iso",
+                            "description": "Abreviatura de las provincias argentinas",
+                            "title": "provincia_abreviatura",
                             "type": "text"
                         },
                         {
