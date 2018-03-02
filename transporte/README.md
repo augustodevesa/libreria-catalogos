@@ -18,9 +18,9 @@
 - **Cantidad Total de Datasets**: 13
 - **Cantidad Total de Distribuciones**: 30
 
-- **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 13
-- **Porcentaje de Datasets NO Federados**: 100.0%
+- **Cantidad de Datasets Federados**: 11
+- **Cantidad de Datasets NO Federados**: 2
+- **Porcentaje de Datasets NO Federados**: 15.38%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -28,10 +28,14 @@
 
 ## Datasets no federados
 
+- [Operaciones de SUBE por año en RMBA](None)
+- [Trenes - Transporte de pasajeros](None)
+
+## Datasets federados
+
 - [Lista de Aeropuertos](None)
 - [Subsidios al transporte público de pasajeros](None)
 - [Operaciones de SUBE por mes en RMBA](None)
-- [Operaciones de SUBE por año en RMBA](None)
 - [Empresas de transporte de RMBA](None)
 - [Líneas de transporte de RMBA](None)
 - [Entrada y salida de buques del Puerto de Buenos Aires (AGP)](None)
@@ -39,12 +43,7 @@
 - [Red de Carga de RMBA](None)
 - [S.I.S.T.A.U.](None)
 - [Estaciones del sistema de Trenes Argentinos](None)
-- [Trenes - Transporte de pasajeros](None)
 - [Aterrizajes y despegues registrados por EANA](None)
-
-## Datasets federados
-
-
 
 ## Reporte
 
