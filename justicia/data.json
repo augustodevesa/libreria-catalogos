@@ -433,7 +433,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Base Infoleg de Normativa Nacional",
             "issued": "2016-09-05T18:25:21.249967",
-            "modified": "2018-02-20T14:38:14.727819",
+            "modified": "2018-03-02T20:19:10.631313",
             "theme": [
                 "informacion-juridica"
             ],
@@ -463,7 +463,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2018-02-07T11:14:44.680601",
+                    "modified": "2018-03-02T17:16:59.203597",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/87992303-a26e-4689-964d-86581b2bc8c6/download/base-infoleg-normativa-nacional.csv",
                     "issued": "2018-02-06T13:22:19.523793",
                     "identifier": "87992303-a26e-4689-964d-86581b2bc8c6"
@@ -887,7 +887,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público",
             "issued": "2017-06-23T14:42:50.118542",
-            "modified": "2018-02-26T16:34:13.946787",
+            "modified": "2018-03-02T18:18:28.617459",
             "theme": [
                 "poder-judicial"
             ],
@@ -1057,6 +1057,18 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/d97870ed-aecb-4146-bf58-8e0dd040191a/download/cv-magistrados-poder-judicial-ministerio-publico-2018-01-15.csv",
                     "issued": "2018-02-23T09:22:20.350612",
                     "identifier": "d97870ed-aecb-4146-bf58-8e0dd040191a"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/ace64e01-c984-4825-a150-b0050ba7f02c",
+                    "description": "Curriculums vitae de los magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso.",
+                    "title": "Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público - 2018-02-23",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-03-02T15:15:32.719053",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/ace64e01-c984-4825-a150-b0050ba7f02c/download/cv-magistrados-poder-judicial-ministerio-publico-2018-02-23.csv",
+                    "issued": "2018-03-02T15:15:33.023425",
+                    "identifier": "ace64e01-c984-4825-a150-b0050ba7f02c"
                 }
             ]
         },
@@ -1384,7 +1396,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Entidades constituidas en la Inspección General de Justicia",
             "issued": "2016-09-19T13:46:06.092494",
-            "modified": "2018-03-02T16:59:59.069497",
+            "modified": "2018-03-02T19:16:41.526338",
             "theme": [
                 "sistema-registral"
             ],
@@ -2465,6 +2477,30 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/f06d68ac-3a2f-4dce-8e92-25368f70e864/download/igj-autoridades-2018-02.csv",
                     "issued": "2018-03-02T13:59:25.904566",
                     "identifier": "f06d68ac-3a2f-4dce-8e92-25368f70e864"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/8358af37-10b2-4f2d-a310-5184895183ca",
+                    "description": "Balances presentados por entidades constituidas en la IGJ.",
+                    "title": "IGJ. Balances presentados por entidades constituidas en la IGJ 2018-02",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-03-02T15:24:50.217660",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/8358af37-10b2-4f2d-a310-5184895183ca/download/igj-balances-2018-02.csv",
+                    "issued": "2018-03-02T15:24:50.742764",
+                    "identifier": "8358af37-10b2-4f2d-a310-5184895183ca"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/a601b16f-966a-4791-89f5-fd42398cf2b2",
+                    "description": "Asambleas de entidades constituidas en la IGJ.",
+                    "title": "IGJ. Asambleas de entidades constituidas en la IGJ 2018-02",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-03-02T16:16:25.158445",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/a601b16f-966a-4791-89f5-fd42398cf2b2/download/igj-asambleas-2018-02.csv",
+                    "issued": "2018-03-02T16:16:25.651481",
+                    "identifier": "a601b16f-966a-4791-89f5-fd42398cf2b2"
                 }
             ]
         },
@@ -4939,7 +4975,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Selección de magistrados del Poder Judicial y el Ministerio Público de la Nación",
             "issued": "2017-06-08T14:17:01.334940",
-            "modified": "2018-02-26T15:53:36.781018",
+            "modified": "2018-03-02T18:17:47.925194",
             "theme": [
                 "poder-judicial"
             ],
@@ -5121,6 +5157,18 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/a6eb5ab3-5c4c-40cb-b901-839f60a148e4/resource/cc891305-9a36-49c4-81f2-40d072072c60/download/ternas-seleccion-magistrados-poder-judicial-ministerio-publico-2018-01-15.csv",
                     "issued": "2018-02-23T09:27:45.122939",
                     "identifier": "cc891305-9a36-49c4-81f2-40d072072c60"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/a6eb5ab3-5c4c-40cb-b901-839f60a148e4/resource/6a63dc44-6ae8-4562-9dd9-1ce3a1f5bb12",
+                    "description": "Datos de las ternas para los concursos abiertos para la selección de magistrados. Contiene información sobre la integración de las respectivas ternas y los puntajes obtenidos por los profesionales propuestos en las etapas de evaluación cumplidas.",
+                    "title": "Ternas para la selección de magistrados en el Poder Judicial y el Ministerio Público de la Nación - 2018-02-23",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-03-02T15:17:16.827391",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/a6eb5ab3-5c4c-40cb-b901-839f60a148e4/resource/6a63dc44-6ae8-4562-9dd9-1ce3a1f5bb12/download/ternas-seleccion-magistrados-poder-judicial-ministerio-publico-2018-02-23.csv",
+                    "issued": "2018-03-02T15:17:17.117627",
+                    "identifier": "6a63dc44-6ae8-4562-9dd9-1ce3a1f5bb12"
                 }
             ]
         },
