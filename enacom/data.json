@@ -69,6 +69,60 @@
                 "TECH"
             ],
             "keyword": [
+                "licencias"
+            ],
+            "title": "Licenciatarios TIC",
+            "issued": "2017-11-07T14:22:10",
+            "modified": "2018-03-05T05:56:53Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "licencias"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
+                    "description": "Listado de licencias de operadores de TIC",
+                    "title": "Licenciatarios TIC",
+                    "issued": "2017-11-07T14:22:10",
+                    "format": "CSV",
+                    "modified": "2018-03-05T05:56:53Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
+                    "description": "Listado de licencias de operadores de TIC",
+                    "title": "Licenciatarios TIC",
+                    "issued": "2017-11-07T14:22:10",
+                    "format": "XLS",
+                    "modified": "2018-03-05T05:56:53Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
+                    "description": "Listado de licencias de operadores de TIC",
+                    "title": "Licenciatarios TIC",
+                    "issued": "2017-11-07T14:22:10",
+                    "format": "JSON",
+                    "modified": "2018-03-05T05:56:53Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "LICEN-TIC-AUTOM",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
+            "description": "Listado de licencias de operadores de TIC"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
                 "equipos de comunicacion",
                 "homologaciones"
             ],
@@ -384,60 +438,6 @@
             "identifier": "NUMER-GEOGR",
             "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231697/numeracion-geografica/",
             "description": "Es la numeración asociada a una zona geográfica en particular.Tiene la siguiente estructura: Indicativo Interurbano + Numero de Abonado"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "licencias"
-            ],
-            "title": "Licenciatarios TIC",
-            "issued": "2017-11-07T14:22:10",
-            "modified": "2018-03-04T09:34:48Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "licencias"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
-                    "description": "Listado de licencias de operadores de TIC",
-                    "title": "Licenciatarios TIC",
-                    "issued": "2017-11-07T14:22:10",
-                    "format": "CSV",
-                    "modified": "2018-03-04T09:34:48Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
-                    "description": "Listado de licencias de operadores de TIC",
-                    "title": "Licenciatarios TIC",
-                    "issued": "2017-11-07T14:22:10",
-                    "format": "XLS",
-                    "modified": "2018-03-04T09:34:48Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
-                    "description": "Listado de licencias de operadores de TIC",
-                    "title": "Licenciatarios TIC",
-                    "issued": "2017-11-07T14:22:10",
-                    "format": "JSON",
-                    "modified": "2018-03-04T09:34:48Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "LICEN-TIC-AUTOM",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
-            "description": "Listado de licencias de operadores de TIC"
         },
         {
             "publisher": {
