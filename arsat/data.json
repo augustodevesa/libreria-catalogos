@@ -54,7 +54,7 @@
             ],
             "title": "Registro de Visitas",
             "issued": "2017-06-26T21:51:38",
-            "modified": "2018-03-06T12:19:47.247Z",
+            "modified": "2018-03-06T15:19:45.734Z",
             "language": [
                 "spa"
             ],
@@ -69,7 +69,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "CSV",
-                    "modified": "2018-03-06T12:19:47.247Z",
+                    "modified": "2018-03-06T15:19:45.734Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -78,7 +78,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "XLS",
-                    "modified": "2018-03-06T12:19:47.247Z",
+                    "modified": "2018-03-06T15:19:45.735Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -87,7 +87,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "JSON",
-                    "modified": "2018-03-06T12:19:47.247Z",
+                    "modified": "2018-03-06T15:19:45.735Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -104,13 +104,124 @@
                 "TECH"
             ],
             "keyword": [
+                "arsat",
+                "vsat",
+                "servicios satelitales"
+            ],
+            "title": "Escuelas Conectadas con Tecnología Gilat",
+            "issued": "2018-03-06T14:02:20",
+            "modified": "2018-03-06T17:02:56Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "servicios-satelitales"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gilat/",
+                    "description": "Escuelas Conectadas con equipos satelitales de Tecnología Gilat",
+                    "title": "Escuelas Conectadas con Tecnología Gilat",
+                    "issued": "2018-03-06T14:02:20",
+                    "format": "CSV",
+                    "modified": "2018-03-06T17:02:56Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCUE-CONEC-CON-TECNO-GILLA/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gilat/",
+                    "description": "Escuelas Conectadas con equipos satelitales de Tecnología Gilat",
+                    "title": "Escuelas Conectadas con Tecnología Gilat",
+                    "issued": "2018-03-06T14:02:20",
+                    "format": "XLS",
+                    "modified": "2018-03-06T17:02:56Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCUE-CONEC-CON-TECNO-GILLA/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gilat/",
+                    "description": "Escuelas Conectadas con equipos satelitales de Tecnología Gilat",
+                    "title": "Escuelas Conectadas con Tecnología Gilat",
+                    "issued": "2018-03-06T14:02:20",
+                    "format": "JSON",
+                    "modified": "2018-03-06T17:02:56Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCUE-CONEC-CON-TECNO-GILLA/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "ESCUE-CONEC-CON-TECNO-GILLA",
+            "homepage": "http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gilat/",
+            "description": "Escuelas Conectadas con equipos satelitales de Tecnología Gilat"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "arsat",
+                "refefo"
+            ],
+            "title": "Tráfico de Internet entrante y saliente",
+            "issued": "2018-03-06T13:17:44",
+            "modified": "2018-03-06T16:21:30Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
+                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
+                    "title": "Tráfico de Internet entrante y saliente",
+                    "issued": "2018-03-06T13:17:44",
+                    "format": "CSV",
+                    "modified": "2018-03-06T16:21:30Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
+                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
+                    "title": "Tráfico de Internet entrante y saliente",
+                    "issued": "2018-03-06T13:17:44",
+                    "format": "XLS",
+                    "modified": "2018-03-06T16:21:30Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
+                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
+                    "title": "Tráfico de Internet entrante y saliente",
+                    "issued": "2018-03-06T13:17:44",
+                    "format": "JSON",
+                    "modified": "2018-03-06T16:21:30Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "TRAFI-DE-INTER",
+            "homepage": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
+            "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
                 "transparencia",
                 "audiencias",
                 "arsat"
             ],
             "title": "Registro de Audiencias",
             "issued": "2017-06-26T17:14:16",
-            "modified": "2018-03-06T12:12:01Z",
+            "modified": "2018-03-06T14:06:13Z",
             "language": [
                 "spa"
             ],
@@ -125,7 +236,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T17:14:16",
                     "format": "CSV",
-                    "modified": "2018-03-06T12:12:01Z",
+                    "modified": "2018-03-06T14:06:13Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -134,7 +245,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T17:14:16",
                     "format": "XLS",
-                    "modified": "2018-03-06T12:12:01Z",
+                    "modified": "2018-03-06T14:06:13Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -143,7 +254,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T17:14:16",
                     "format": "JSON",
-                    "modified": "2018-03-06T12:12:01Z",
+                    "modified": "2018-03-06T14:06:13Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -371,61 +482,6 @@
             "identifier": "ODEON-ESTAD-DE-USO",
             "homepage": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
             "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "arsat",
-                "refefo"
-            ],
-            "title": "Tráfico de Internet entrante y saliente",
-            "issued": "2018-02-26T14:45:24",
-            "modified": "2018-02-26T17:47:13Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
-                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
-                    "title": "Tráfico de Internet entrante y saliente",
-                    "issued": "2018-02-26T14:45:24",
-                    "format": "CSV",
-                    "modified": "2018-02-26T17:47:13Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
-                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
-                    "title": "Tráfico de Internet entrante y saliente",
-                    "issued": "2018-02-26T14:45:24",
-                    "format": "XLS",
-                    "modified": "2018-02-26T17:47:13Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
-                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
-                    "title": "Tráfico de Internet entrante y saliente",
-                    "issued": "2018-02-26T14:45:24",
-                    "format": "JSON",
-                    "modified": "2018-02-26T17:47:13Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "TRAFI-DE-INTER",
-            "homepage": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
-            "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s."
         },
         {
             "publisher": {
@@ -1747,62 +1803,6 @@
             "identifier": "PUNTO-DE-CONEX-AL-PFI",
             "homepage": "http://datos.arsat.com.ar/dataviews/241777/puntos-de-conexion-al-plan-federal-de-internet-por-provincia/",
             "description": "La tabla muestra la cantidad de puntos de acceso al Plan Federal de Internet que se encuentran en servicio por provincia."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "arsat",
-                "vsat",
-                "servicios satelitales"
-            ],
-            "title": "Escuelas Conectadas con Tecnología Gilat",
-            "issued": "2017-12-05T17:35:57",
-            "modified": "2017-12-05T20:36:05Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "servicios-satelitales"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gilat/",
-                    "description": "Escuelas Conectadas con equipos satelitales de Tecnología Gilat",
-                    "title": "Escuelas Conectadas con Tecnología Gilat",
-                    "issued": "2017-12-05T17:35:57",
-                    "format": "CSV",
-                    "modified": "2017-12-05T20:36:05Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCUE-CONEC-CON-TECNO-GILLA/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gilat/",
-                    "description": "Escuelas Conectadas con equipos satelitales de Tecnología Gilat",
-                    "title": "Escuelas Conectadas con Tecnología Gilat",
-                    "issued": "2017-12-05T17:35:57",
-                    "format": "XLS",
-                    "modified": "2017-12-05T20:36:05Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCUE-CONEC-CON-TECNO-GILLA/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gilat/",
-                    "description": "Escuelas Conectadas con equipos satelitales de Tecnología Gilat",
-                    "title": "Escuelas Conectadas con Tecnología Gilat",
-                    "issued": "2017-12-05T17:35:57",
-                    "format": "JSON",
-                    "modified": "2017-12-05T20:36:05Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCUE-CONEC-CON-TECNO-GILLA/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "ESCUE-CONEC-CON-TECNO-GILLA",
-            "homepage": "http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gilat/",
-            "description": "Escuelas Conectadas con equipos satelitales de Tecnología Gilat"
         },
         {
             "publisher": {
