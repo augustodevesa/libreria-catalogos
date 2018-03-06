@@ -20,7 +20,7 @@
                 "@type": "vcard:Contact"
             },
             "issued": "2017-09-05T15:15:05.722528",
-            "modified": "2018-03-06T15:13:11.701665",
+            "modified": "2018-03-06T15:35:22.077029",
             "theme": [
                 "Calidad de vida",
                 "Eje Social",
@@ -135,22 +135,12 @@
                     "@type": "dcat:Distribution"
                 },
                 {
-                    "accessURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/bad60aa0-4b46-4e05-9f71-e00dadc6f63d/download/icv-metodologia-de-calculo.pdf",
-                    "description": "Documento que indica la metodología de cálculo del ICV. Glosario de términos.",
-                    "title": "Metodología de Cálculo del Índice de Calidad de Vida",
-                    "issued": "2017-12-15T17:52:54.140369",
-                    "format": "PDF",
-                    "modified": "2017-12-15T17:52:54.085574",
-                    "downloadURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/bad60aa0-4b46-4e05-9f71-e00dadc6f63d/download/icv-metodologia-de-calculo.pdf",
-                    "@type": "dcat:Distribution"
-                },
-                {
                     "accessURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/c0a97adf-e430-408a-b4f6-c066bdc85a76/download/indice-vivienda.csv",
                     "description": "Detalle de las distintas dimensiones que componen el Índice de Vivienda.",
                     "title": "Índice de Vivienda de la cuenca Matanza Riachuelo",
                     "issued": "2017-12-15T17:58:00.614625",
                     "format": "CSV",
-                    "modified": "2017-12-28T16:58:38.128454",
+                    "modified": "2018-03-06T15:33:44.461391",
                     "downloadURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/c0a97adf-e430-408a-b4f6-c066bdc85a76/download/indice-vivienda.csv",
                     "field": [
                         {
@@ -217,7 +207,7 @@
                     "title": "Índice Salud Pública de la cuenca Matanza Riachuelo",
                     "issued": "2017-12-15T17:59:24.121009",
                     "format": "CSV",
-                    "modified": "2017-12-28T17:26:02.144591",
+                    "modified": "2018-03-06T15:34:10.272533",
                     "downloadURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/575aea71-451b-4e16-97d8-4424b555b384/download/indice-salud.csv",
                     "field": [
                         {
@@ -269,13 +259,13 @@
                     "@type": "dcat:Distribution"
                 },
                 {
-                    "accessURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/5e296bb2-a779-46ec-92ff-d2ca87b8f821/download/indice-educacion.xlsx",
+                    "accessURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/5e296bb2-a779-46ec-92ff-d2ca87b8f821/download/indice-educacion.csv",
                     "description": "Detalle de las dimensiones que componen el Índice de Educación.",
                     "title": "Índice Educación de la cuenca Matanza Riachuelo",
                     "issued": "2017-12-15T18:01:26.029787",
                     "format": "CSV",
-                    "modified": "2017-12-28T18:58:27.877773",
-                    "downloadURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/5e296bb2-a779-46ec-92ff-d2ca87b8f821/download/indice-educacion.xlsx",
+                    "modified": "2018-03-06T15:34:37.497839",
+                    "downloadURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/5e296bb2-a779-46ec-92ff-d2ca87b8f821/download/indice-educacion.csv",
                     "field": [
                         {
                             "type": "string",
@@ -341,7 +331,7 @@
                     "title": "Índice Entorno de la cuenca Matanza Riachuelo",
                     "issued": "2017-12-15T18:02:21.361902",
                     "format": "CSV",
-                    "modified": "2017-12-29T14:24:07.628058",
+                    "modified": "2018-03-06T15:34:56.804447",
                     "downloadURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/c0db8302-d87e-438d-95d1-d8968bebb195/download/indice-entorno.csv",
                     "field": [
                         {
@@ -400,6 +390,16 @@
                             "title": "ind_inunda"
                         }
                     ],
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/bad60aa0-4b46-4e05-9f71-e00dadc6f63d/download/icv-metodologia-de-calculo.pdf",
+                    "description": "Documento que indica la metodología de cálculo del ICV. Glosario de términos.",
+                    "title": "Metodología de Cálculo del Índice de Calidad de Vida",
+                    "issued": "2017-12-15T17:52:54.140369",
+                    "format": "PDF",
+                    "modified": "2017-12-15T17:52:54.085574",
+                    "downloadURL": "http://172.17.0.4/dataset/ceba000d-184f-4f36-9bc4-611f22ed2faf/resource/bad60aa0-4b46-4e05-9f71-e00dadc6f63d/download/icv-metodologia-de-calculo.pdf",
                     "@type": "dcat:Distribution"
                 }
             ],
