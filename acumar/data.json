@@ -10,6 +10,695 @@
         {
             "publisher": {
                 "mbox": "",
+                "name": "Centro de Atención al Ciudadano ACUMAR"
+            },
+            "accessLevel": "public",
+            "description": "Datos correspondientes a las denuncias sobre basurales y establecimientos recibidas por el Centro de Atención al Ciudadano de ACUMAR de 2011 a 2017.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Denuncias recibidas por el Centro de Atención de ACUMAR 2011-2017",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            },
+            "issued": "2017-05-16T13:08:42.941391",
+            "temporal": "2011-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
+            "modified": "2018-03-07T15:16:41.842873",
+            "theme": [
+                "Control",
+                "Denuncias",
+                "Eje Ambiental",
+                "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
+                "Transparencia",
+                "Control",
+                "Eje Ambiental",
+                "Transparencia",
+                "Eje Ambiental",
+                "Residuos",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Control",
+                "Eje Ambiental",
+                "Control",
+                "Eje Ambiental",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Control",
+                "Eje Ambiental",
+                "Transparencia",
+                "Eje Ambiental",
+                "Monitoreo",
+                "Control",
+                "Eje Ambiental",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia",
+                "Transparencia"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/07301aaf-6790-437f-8089-17780ad27c2d/download/denuncias-2017.csv",
+                    "description": "Detalle de las denuncias recibidas por el Centro de Atención al Ciudadano de ACUMAR durante el primer semestre de 2017.",
+                    "title": "Denuncias recibidas - 2017",
+                    "issued": "2017-11-08T16:20:15.757099",
+                    "format": "CSV",
+                    "modified": "2018-03-06T14:40:34.742943",
+                    "downloadURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/07301aaf-6790-437f-8089-17780ad27c2d/download/denuncias-2017.csv",
+                    "field": [
+                        {
+                            "type": "date",
+                            "description": "Fecha de realización de la denuncia.\n",
+                            "title": "denuncia_fecha"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de realización de la denuncia\n",
+                            "title": "denuncia_hora"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Canal mediante el cual se realizó la denuncia: telefónico o correo electrónico.\n",
+                            "title": "denuncia_canal"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de denuncia realizada: Basural o Establecimiento.\n",
+                            "title": "denuncia_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Presunta desviación ambiental por la cual se realizó la denuncia\n",
+                            "title": "denuncia_motivo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Partido en el cual se ubica el establecimiento/sitio denunciado.\n",
+                            "title": "denuncia_localidad"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Estado en el que se encuentra la denuncia: abierto o cerrado\n",
+                            "title": "denuncia_estado"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de cierre de la denuncia\n",
+                            "title": "denuncia_fecha_de_cierre"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de cierre de la denuncia\n",
+                            "title": "denuncia_hora_de_cierre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Motivo por el cual se le dio cierre a la denuncia: respuesta del área, información insuficiente, fuera de cuenca, competencia. \n",
+                            "title": "Denuncia_motivo_cierre"
+                        }
+                    ],
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/5bee8e0e-442c-49c6-80ed-41a6acc370a0/download/denuncias-2015.csv",
+                    "description": "Detalle de las denuncias recibidas por el Centro de Atención al Ciudadano de ACUMAR durante el 2015",
+                    "title": "Denuncias recibidas - 2015",
+                    "issued": "2017-05-16T16:28:30.608637",
+                    "format": "CSV",
+                    "modified": "2018-03-06T14:42:09.264411",
+                    "downloadURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/5bee8e0e-442c-49c6-80ed-41a6acc370a0/download/denuncias-2015.csv",
+                    "field": [
+                        {
+                            "type": "date",
+                            "description": "Fecha de realización de la denuncia.\n",
+                            "title": "denuncia_fecha"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de realización de la denuncia\n",
+                            "title": "denuncia_hora"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Canal mediante el cual se realizó la denuncia: telefónico o correo electrónico.",
+                            "title": "denuncia_canal"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de denuncia realizada: Basural o Establecimiento.\n",
+                            "title": "denuncia_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Presunta desviación ambiental por la cual se realizó la denuncia\n",
+                            "title": "denuncia_motivo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Partido en el cual se ubica el establecimiento/sitio denunciado.\n",
+                            "title": "denuncia_localidad"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Estado en el que se encuentra la denuncia: abierto o cerrado\n",
+                            "title": "denuncia_estado"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de cierre de la denuncia\n",
+                            "title": "denuncia_fecha_de _cierre"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de cierre de la denuncia\n",
+                            "title": "denuncia_hora_de_cierre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Motivo por el cual se le dio cierre a la denuncia: respuesta del área, información insuficiente, fuera de cuenca, competencia.\n",
+                            "title": "Denuncia_motivo_cierre"
+                        }
+                    ],
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/a30f19c7-148a-4d78-8990-8b58151fe2c7/download/denuncias-2016.csv",
+                    "description": "Detalle de las denuncias recibidas por el Centro de Atención al Ciudadano de ACUMAR durante el 2016.",
+                    "title": "Denuncias recibidas - 2016",
+                    "issued": "2017-05-16T13:10:39.573928",
+                    "format": "CSV",
+                    "modified": "2018-03-06T14:41:42.966149",
+                    "downloadURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/a30f19c7-148a-4d78-8990-8b58151fe2c7/download/denuncias-2016.csv",
+                    "field": [
+                        {
+                            "type": "date",
+                            "description": "Fecha de realización de la denuncia.\n",
+                            "title": "denuncia_fecha"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de realización de la denuncia\n",
+                            "title": "denuncia_hora"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Canal mediante el cual se realizó la denuncia: telefónico o correo electrónico.\n",
+                            "title": "denuncia_canal"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de denuncia realizada: Basural o Establecimiento.\n",
+                            "title": "denuncia_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Presunta desviación ambiental por la cual se realizó la denuncia\n",
+                            "title": "denuncia_motivo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Partido en el cual se ubica el establecimiento/sitio denunciado.\n",
+                            "title": "denuncia_localidad"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Estado en el que se encuentra la denuncia: abierto o cerrado\n",
+                            "title": "denuncia_estado"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de cierre de la denuncia\n",
+                            "title": "denuncia_fecha_de _cierre"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de cierre de la denuncia\n",
+                            "title": "denuncia_hora_de_cierre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Motivo por el cual se le dio cierre a la denuncia: respuesta del área, información insuficiente, fuera de cuenca, competencia.\n",
+                            "title": "Denuncia_motivo_cierre"
+                        }
+                    ],
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/6fd1c610-d28d-443a-a832-ebcd36b040cb/download/denuncias-2014.csv",
+                    "description": "Detalle de las denuncias recibidas por el Centro de Atención al Ciudadano de ACUMAR durante el 2014",
+                    "title": "Denuncias recibidas - 2014",
+                    "issued": "2017-05-23T20:09:09.118895",
+                    "format": "CSV",
+                    "modified": "2018-03-06T14:42:30.947325",
+                    "downloadURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/6fd1c610-d28d-443a-a832-ebcd36b040cb/download/denuncias-2014.csv",
+                    "field": [
+                        {
+                            "type": "date",
+                            "description": "Fecha de realización de la denuncia.\n",
+                            "title": "denuncia_fecha"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de realización de la denuncia\n",
+                            "title": "denuncia_hora"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Canal mediante el cual se realizó la denuncia: telefónico o correo electrónico.\n",
+                            "title": "denuncia_canal"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de denuncia realizada: Basural o Establecimiento.\n",
+                            "title": "denuncia_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Presunta desviación ambiental por la cual se realizó la denuncia\n",
+                            "title": "denuncia_motivo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Partido en el cual se ubica el establecimiento/sitio denunciado.\n",
+                            "title": "denuncia_localidad"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Estado en el que se encuentra la denuncia: abierto o cerrado\n",
+                            "title": "denuncia_estado"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de cierre de la denuncia\n",
+                            "title": "denuncia_fecha_de_cierre"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de cierre de la denuncia\n",
+                            "title": "denuncia_hora_de_cierre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Motivo por el cual se le dio cierre a la denuncia: respuesta del área, información insuficiente, fuera de cuenca, competencia.\n",
+                            "title": "Denuncia_motivo_cierre"
+                        }
+                    ],
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/b8ad84bd-25d7-49be-b2df-742519107ef4/download/denuncias-2013.csv",
+                    "description": "Detalle de las denuncias recibidas por el Centro de Atención al Ciudadano de ACUMAR durante el 2013",
+                    "title": "Denuncias recibidas - 2013",
+                    "issued": "2017-05-19T19:43:34.779461",
+                    "format": "CSV",
+                    "modified": "2018-03-07T15:12:37.929645",
+                    "downloadURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/b8ad84bd-25d7-49be-b2df-742519107ef4/download/denuncias-2013.csv",
+                    "field": [
+                        {
+                            "type": "date",
+                            "description": "Fecha de realización de la denuncia.\n",
+                            "title": "denuncia_fecha"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de realización de la denuncia\n",
+                            "title": "denuncia_hora"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Canal mediante el cual se realizó la denuncia: telefónico o correo electrónico.\n",
+                            "title": "denuncia_canal"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de denuncia realizada: Basural o Establecimiento.\n",
+                            "title": "denuncia_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Presunta desviación ambiental por la cual se realizó la denuncia\n",
+                            "title": "denuncia_motivo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Partido en el cual se ubica el establecimiento/sitio denunciado.\n",
+                            "title": "denuncia_localidad"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Estado en el que se encuentra la denuncia: abierto o cerrado\n",
+                            "title": "denuncia_estado"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de cierre de la denuncia\n",
+                            "title": "denuncia_fecha_de_cierre"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de cierre de la denuncia\n",
+                            "title": "denuncia_hora_de_cierre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Motivo por el cual se le dio cierre a la denuncia: respuesta del área, información insuficiente, fuera de cuenca, competencia. \n",
+                            "title": "Denuncia_motivo_cierre"
+                        }
+                    ],
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/832895a4-ecb9-457b-b9e3-c37809a88b04/download/denuncias-2012.csv",
+                    "description": "Detalle de las denuncias recibidas por el Centro de Atención al Ciudadano de ACUMAR durante el 2012",
+                    "title": "Denuncias recibidas - 2012",
+                    "issued": "2017-09-19T17:08:45.646638",
+                    "format": "CSV",
+                    "modified": "2018-03-06T14:43:35.008416",
+                    "downloadURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/832895a4-ecb9-457b-b9e3-c37809a88b04/download/denuncias-2012.csv",
+                    "field": [
+                        {
+                            "type": "date",
+                            "description": "Fecha de realización de la denuncia.\n",
+                            "title": "denuncia_fecha"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de realización de la denuncia\n",
+                            "title": "denuncia_hora"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Canal mediante el cual se realizó la denuncia: telefónico o correo electrónico.\n",
+                            "title": "denuncia_canal"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de denuncia realizada: Basural o Establecimiento.\n",
+                            "title": "denuncia_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Presunta desviación ambiental por la cual se realizó la denuncia\n",
+                            "title": "denuncia_motivo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Partido en el cual se ubica el establecimiento/sitio denunciado.\n",
+                            "title": "denuncia_localidad"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Estado en el que se encuentra la denuncia: abierto o cerrado\n",
+                            "title": "denuncia_estado"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de cierre de la denuncia\n",
+                            "title": "denuncia_fecha_de_cierre"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de cierre de la denuncia\n",
+                            "title": "denuncia_hora_de_cierre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Motivo por el cual se le dio cierre a la denuncia: respuesta del área, información insuficiente, fuera de cuenca, competencia. \n",
+                            "title": "Denuncia_motivo_cierre"
+                        }
+                    ],
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/16e3a718-c34c-4eb2-bda2-89a658b5c066/download/denuncias-2011.csv",
+                    "description": "Detalle de las denuncias recibidas por el Centro de Atención al Ciudadano de ACUMAR durante el 2011.",
+                    "title": "Denuncias recibidas - 2011",
+                    "issued": "2017-05-23T20:15:41.813310",
+                    "format": "CSV",
+                    "modified": "2018-03-06T14:40:08.466331",
+                    "downloadURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/16e3a718-c34c-4eb2-bda2-89a658b5c066/download/denuncias-2011.csv",
+                    "field": [
+                        {
+                            "type": "date",
+                            "description": "Fecha de realización de la denuncia.\n",
+                            "title": "denuncia_fecha"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de realización de la denuncia\n",
+                            "title": "denuncia_hora"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Canal mediante el cual se realizó la denuncia: telefónico o correo electrónico.\n",
+                            "title": "denuncia_canal"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de denuncia realizada: Basural o Establecimiento.\n",
+                            "title": "denuncia_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Presunta desviación ambiental por la cual se realizó la denuncia\n",
+                            "title": "denuncia_motivo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Partido en el cual se ubica el establecimiento/sitio denunciado.\n",
+                            "title": "denuncia_localidad"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Estado en el que se encuentra la denuncia: abierto o cerrado\n",
+                            "title": "denuncia_estado"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de cierre de la denuncia\n",
+                            "title": "denuncia_fecha_de_cierre"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de cierre de la denuncia\n",
+                            "title": "denuncia_hora_de_cierre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Motivo por el cual se le dio cierre a la denuncia: respuesta del área, información insuficiente, fuera de cuenca, competencia. \n",
+                            "title": "Denuncia_motivo_cierre"
+                        }
+                    ],
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/34918cea-587d-452a-bb9c-b0d7d6fef80b/download/denuncias-20112017.csv",
+                    "description": "Detalle de las denuncias recibidas por el Centro de Atención al Ciudadano de ACUMAR en el período 2011- 2017.",
+                    "title": "Denuncias Recibidas 2011-2017",
+                    "issued": "2018-03-06T14:47:24.157527",
+                    "format": "CSV",
+                    "modified": "2018-03-07T15:16:39.402725",
+                    "downloadURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/34918cea-587d-452a-bb9c-b0d7d6fef80b/download/denuncias-20112017.csv",
+                    "field": [
+                        {
+                            "type": "date",
+                            "description": "Fecha de realización de la denuncia.\n",
+                            "title": "denuncia_fecha"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de realización de la denuncia\n",
+                            "title": "denuncia_hora"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Canal mediante el cual se realizó la denuncia: telefónico o correo electrónico.\n",
+                            "title": "denuncia_canal"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de denuncia realizada: Basural o Establecimiento.\n",
+                            "title": "denuncia_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Presunta desviación ambiental por la cual se realizó la denuncia\n",
+                            "title": "denuncia_motivo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Partido en el cual se ubica el establecimiento/sitio denunciado.\n",
+                            "title": "denuncia_localidad"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Estado en el que se encuentra la denuncia: abierto o cerrado\n",
+                            "title": "denuncia_estado"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de cierre de la denuncia\n",
+                            "title": "denuncia_fecha_de_cierre"
+                        },
+                        {
+                            "type": "time",
+                            "description": "Hora de cierre de la denuncia\n",
+                            "title": "denuncia_hora_de_cierre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Motivo por el cual se le dio cierre a la denuncia: respuesta del área, información insuficiente, fuera de cuenca, competencia. \n",
+                            "title": "Denuncia_motivo_cierre"
+                        }
+                    ],
+                    "@type": "dcat:Distribution"
+                }
+            ],
+            "keyword": [
+                "control",
+                "denuncias",
+                "establecimientos",
+                "fiscalización",
+                "industrias",
+                "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
+                "adecuación",
+                "agentes contaminantes",
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "GIRSU",
+                "basurales",
+                "gestión de residuos sólidos",
+                "línea de base",
+                "macrobasurales",
+                "microbasurales",
+                "puntos de arrojo",
+                "residuos",
+                "tipologías",
+                "acceso a la información",
+                "información pública",
+                "requerimientos",
+                "solicitudes",
+                "información pública",
+                "solicitudes",
+                "transparencia",
+                "información pública",
+                "rendición de cuentas",
+                "respuestas",
+                "transparencia",
+                "actas",
+                "consejo municipal",
+                "municipios",
+                "transparencia",
+                "adecuación",
+                "control",
+                "establecimientos",
+                "fiscalizaciones",
+                "reconvertidos",
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
+                "seguimiento particular",
+                "boletín oficial",
+                "digesto normativo",
+                "infoleg",
+                "normativa",
+                "resoluciones",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "cuenca hídrica",
+                "empadronadas",
+                "empadronamiento",
+                "industrias",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "agua subterránea",
+                "agua superficial",
+                "calidad ambiental",
+                "control",
+                "estaciones",
+                "medición",
+                "red de monitoreo",
+                "control",
+                "establecimientos",
+                "fiscalización",
+                "relevancia ambiental",
+                "seguimiento particular",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejos directivo",
+                "convenios",
+                "transparencia",
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia"
+            ],
+            "accrualPeriodicity": "R/PT1S",
+            "superTheme": [
+                "ENVI",
+                "GOVE"
+            ],
+            "landingPage": "http://172.17.0.4/dataset/denuncias-recibidas-2011-2016",
+            "identifier": "fdb8f13c-0d27-467c-b894-e1340286ac4c",
+            "@type": "dcat:Dataset"
+        },
+        {
+            "publisher": {
+                "mbox": "",
                 "name": "Coordinación de Gestión y Planificación"
             },
             "accessLevel": "public",
@@ -22,14 +711,14 @@
             "issued": "2017-09-05T15:15:05.722528",
             "modified": "2018-03-06T15:35:22.077029",
             "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
                 "Control",
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
                 "Transparencia",
                 "Control",
                 "Eje Ambiental",
@@ -404,18 +1093,18 @@
                 }
             ],
             "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "control",
                 "denuncias",
                 "establecimientos",
                 "fiscalización",
                 "industrias",
                 "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "adecuación",
                 "agentes contaminantes",
                 "control",
@@ -543,695 +1232,6 @@
         },
         {
             "publisher": {
-                "mbox": "",
-                "name": "Centro de Atención al Ciudadano ACUMAR"
-            },
-            "accessLevel": "public",
-            "description": "Datos correspondientes a las denuncias sobre basurales y establecimientos recibidas por el Centro de Atención al Ciudadano de ACUMAR de 2011 a 2017.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Denuncias recibidas por el Centro de Atención de ACUMAR 2011-2017",
-            "contactPoint": {
-                "@type": "vcard:Contact"
-            },
-            "issued": "2017-05-16T13:08:42.941391",
-            "temporal": "2011-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
-            "modified": "2018-03-06T15:12:37.561774",
-            "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
-                "Control",
-                "Denuncias",
-                "Eje Ambiental",
-                "Residuos",
-                "Transparencia",
-                "Control",
-                "Eje Ambiental",
-                "Transparencia",
-                "Eje Ambiental",
-                "Residuos",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Control",
-                "Eje Ambiental",
-                "Control",
-                "Eje Ambiental",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Control",
-                "Eje Ambiental",
-                "Transparencia",
-                "Eje Ambiental",
-                "Monitoreo",
-                "Control",
-                "Eje Ambiental",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia",
-                "Transparencia"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/07301aaf-6790-437f-8089-17780ad27c2d/download/denuncias-2017.csv",
-                    "description": "Detalle de las denuncias recibidas por el Centro de Atención al Ciudadano de ACUMAR durante el primer semestre de 2017.",
-                    "title": "Denuncias recibidas - 2017",
-                    "issued": "2017-11-08T16:20:15.757099",
-                    "format": "CSV",
-                    "modified": "2018-03-06T14:40:34.742943",
-                    "downloadURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/07301aaf-6790-437f-8089-17780ad27c2d/download/denuncias-2017.csv",
-                    "field": [
-                        {
-                            "type": "date",
-                            "description": "Fecha de realización de la denuncia.\n",
-                            "title": "denuncia_fecha"
-                        },
-                        {
-                            "type": "time",
-                            "description": "Hora de realización de la denuncia\n",
-                            "title": "denuncia_hora"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Canal mediante el cual se realizó la denuncia: telefónico o correo electrónico.\n",
-                            "title": "denuncia_canal"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tipo de denuncia realizada: Basural o Establecimiento.\n",
-                            "title": "denuncia_tipo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Presunta desviación ambiental por la cual se realizó la denuncia\n",
-                            "title": "denuncia_motivo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Partido en el cual se ubica el establecimiento/sitio denunciado.\n",
-                            "title": "denuncia_localidad"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Estado en el que se encuentra la denuncia: abierto o cerrado\n",
-                            "title": "denuncia_estado"
-                        },
-                        {
-                            "type": "date",
-                            "description": "Fecha de cierre de la denuncia\n",
-                            "title": "denuncia_fecha_de_cierre"
-                        },
-                        {
-                            "type": "time",
-                            "description": "Hora de cierre de la denuncia\n",
-                            "title": "denuncia_hora_de_cierre"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Motivo por el cual se le dio cierre a la denuncia: respuesta del área, información insuficiente, fuera de cuenca, competencia. \n",
-                            "title": "Denuncia_motivo_cierre"
-                        }
-                    ],
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/5bee8e0e-442c-49c6-80ed-41a6acc370a0/download/denuncias-2015.csv",
-                    "description": "Detalle de las denuncias recibidas por el Centro de Atención al Ciudadano de ACUMAR durante el 2015",
-                    "title": "Denuncias recibidas - 2015",
-                    "issued": "2017-05-16T16:28:30.608637",
-                    "format": "CSV",
-                    "modified": "2018-03-06T14:42:09.264411",
-                    "downloadURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/5bee8e0e-442c-49c6-80ed-41a6acc370a0/download/denuncias-2015.csv",
-                    "field": [
-                        {
-                            "type": "date",
-                            "description": "Fecha de realización de la denuncia.\n",
-                            "title": "denuncia_fecha"
-                        },
-                        {
-                            "type": "time",
-                            "description": "Hora de realización de la denuncia\n",
-                            "title": "denuncia_hora"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Canal mediante el cual se realizó la denuncia: telefónico o correo electrónico.",
-                            "title": "denuncia_canal"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tipo de denuncia realizada: Basural o Establecimiento.\n",
-                            "title": "denuncia_tipo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Presunta desviación ambiental por la cual se realizó la denuncia\n",
-                            "title": "denuncia_motivo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Partido en el cual se ubica el establecimiento/sitio denunciado.\n",
-                            "title": "denuncia_localidad"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Estado en el que se encuentra la denuncia: abierto o cerrado\n",
-                            "title": "denuncia_estado"
-                        },
-                        {
-                            "type": "date",
-                            "description": "Fecha de cierre de la denuncia\n",
-                            "title": "denuncia_fecha_de _cierre"
-                        },
-                        {
-                            "type": "time",
-                            "description": "Hora de cierre de la denuncia\n",
-                            "title": "denuncia_hora_de_cierre"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Motivo por el cual se le dio cierre a la denuncia: respuesta del área, información insuficiente, fuera de cuenca, competencia.\n",
-                            "title": "Denuncia_motivo_cierre"
-                        }
-                    ],
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/a30f19c7-148a-4d78-8990-8b58151fe2c7/download/denuncias-2016.csv",
-                    "description": "Detalle de las denuncias recibidas por el Centro de Atención al Ciudadano de ACUMAR durante el 2016.",
-                    "title": "Denuncias recibidas - 2016",
-                    "issued": "2017-05-16T13:10:39.573928",
-                    "format": "CSV",
-                    "modified": "2018-03-06T14:41:42.966149",
-                    "downloadURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/a30f19c7-148a-4d78-8990-8b58151fe2c7/download/denuncias-2016.csv",
-                    "field": [
-                        {
-                            "type": "date",
-                            "description": "Fecha de realización de la denuncia.\n",
-                            "title": "denuncia_fecha"
-                        },
-                        {
-                            "type": "time",
-                            "description": "Hora de realización de la denuncia\n",
-                            "title": "denuncia_hora"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Canal mediante el cual se realizó la denuncia: telefónico o correo electrónico.\n",
-                            "title": "denuncia_canal"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tipo de denuncia realizada: Basural o Establecimiento.\n",
-                            "title": "denuncia_tipo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Presunta desviación ambiental por la cual se realizó la denuncia\n",
-                            "title": "denuncia_motivo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Partido en el cual se ubica el establecimiento/sitio denunciado.\n",
-                            "title": "denuncia_localidad"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Estado en el que se encuentra la denuncia: abierto o cerrado\n",
-                            "title": "denuncia_estado"
-                        },
-                        {
-                            "type": "date",
-                            "description": "Fecha de cierre de la denuncia\n",
-                            "title": "denuncia_fecha_de _cierre"
-                        },
-                        {
-                            "type": "time",
-                            "description": "Hora de cierre de la denuncia\n",
-                            "title": "denuncia_hora_de_cierre"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Motivo por el cual se le dio cierre a la denuncia: respuesta del área, información insuficiente, fuera de cuenca, competencia.\n",
-                            "title": "Denuncia_motivo_cierre"
-                        }
-                    ],
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/6fd1c610-d28d-443a-a832-ebcd36b040cb/download/denuncias-2014.csv",
-                    "description": "Detalle de las denuncias recibidas por el Centro de Atención al Ciudadano de ACUMAR durante el 2014",
-                    "title": "Denuncias recibidas - 2014",
-                    "issued": "2017-05-23T20:09:09.118895",
-                    "format": "CSV",
-                    "modified": "2018-03-06T14:42:30.947325",
-                    "downloadURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/6fd1c610-d28d-443a-a832-ebcd36b040cb/download/denuncias-2014.csv",
-                    "field": [
-                        {
-                            "type": "date",
-                            "description": "Fecha de realización de la denuncia.\n",
-                            "title": "denuncia_fecha"
-                        },
-                        {
-                            "type": "time",
-                            "description": "Hora de realización de la denuncia\n",
-                            "title": "denuncia_hora"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Canal mediante el cual se realizó la denuncia: telefónico o correo electrónico.\n",
-                            "title": "denuncia_canal"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tipo de denuncia realizada: Basural o Establecimiento.\n",
-                            "title": "denuncia_tipo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Presunta desviación ambiental por la cual se realizó la denuncia\n",
-                            "title": "denuncia_motivo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Partido en el cual se ubica el establecimiento/sitio denunciado.\n",
-                            "title": "denuncia_localidad"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Estado en el que se encuentra la denuncia: abierto o cerrado\n",
-                            "title": "denuncia_estado"
-                        },
-                        {
-                            "type": "date",
-                            "description": "Fecha de cierre de la denuncia\n",
-                            "title": "denuncia_fecha_de_cierre"
-                        },
-                        {
-                            "type": "time",
-                            "description": "Hora de cierre de la denuncia\n",
-                            "title": "denuncia_hora_de_cierre"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Motivo por el cual se le dio cierre a la denuncia: respuesta del área, información insuficiente, fuera de cuenca, competencia.\n",
-                            "title": "Denuncia_motivo_cierre"
-                        }
-                    ],
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/b8ad84bd-25d7-49be-b2df-742519107ef4/download/denuncias-2013.csv",
-                    "description": "Detalle de las denuncias recibidas por el Centro de Atención al Ciudadano de ACUMAR durante el 2013",
-                    "title": "Denuncias recibidas - 2013",
-                    "issued": "2017-05-19T19:43:34.779461",
-                    "format": "CSV",
-                    "modified": "2018-03-06T14:43:05.064540",
-                    "downloadURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/b8ad84bd-25d7-49be-b2df-742519107ef4/download/denuncias-2013.csv",
-                    "field": [
-                        {
-                            "type": "date",
-                            "description": "Fecha de realización de la denuncia.\n",
-                            "title": "denuncia_fecha"
-                        },
-                        {
-                            "type": "time",
-                            "description": "Hora de realización de la denuncia\n",
-                            "title": "denuncia_hora"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Canal mediante el cual se realizó la denuncia: telefónico o correo electrónico.\n",
-                            "title": "denuncia_canal"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tipo de denuncia realizada: Basural o Establecimiento.\n",
-                            "title": "denuncia_tipo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Presunta desviación ambiental por la cual se realizó la denuncia\n",
-                            "title": "denuncia_motivo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Partido en el cual se ubica el establecimiento/sitio denunciado.\n",
-                            "title": "denuncia_localidad"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Estado en el que se encuentra la denuncia: abierto o cerrado\n",
-                            "title": "denuncia_estado"
-                        },
-                        {
-                            "type": "date",
-                            "description": "Fecha de cierre de la denuncia\n",
-                            "title": "denuncia_fecha_de_cierre"
-                        },
-                        {
-                            "type": "time",
-                            "description": "Hora de cierre de la denuncia\n",
-                            "title": "denuncia_hora_de_cierre"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Motivo por el cual se le dio cierre a la denuncia: respuesta del área, información insuficiente, fuera de cuenca, competencia. \n",
-                            "title": "Denuncia_motivo_cierre"
-                        }
-                    ],
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/832895a4-ecb9-457b-b9e3-c37809a88b04/download/denuncias-2012.csv",
-                    "description": "Detalle de las denuncias recibidas por el Centro de Atención al Ciudadano de ACUMAR durante el 2012",
-                    "title": "Denuncias recibidas - 2012",
-                    "issued": "2017-09-19T17:08:45.646638",
-                    "format": "CSV",
-                    "modified": "2018-03-06T14:43:35.008416",
-                    "downloadURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/832895a4-ecb9-457b-b9e3-c37809a88b04/download/denuncias-2012.csv",
-                    "field": [
-                        {
-                            "type": "date",
-                            "description": "Fecha de realización de la denuncia.\n",
-                            "title": "denuncia_fecha"
-                        },
-                        {
-                            "type": "time",
-                            "description": "Hora de realización de la denuncia\n",
-                            "title": "denuncia_hora"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Canal mediante el cual se realizó la denuncia: telefónico o correo electrónico.\n",
-                            "title": "denuncia_canal"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tipo de denuncia realizada: Basural o Establecimiento.\n",
-                            "title": "denuncia_tipo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Presunta desviación ambiental por la cual se realizó la denuncia\n",
-                            "title": "denuncia_motivo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Partido en el cual se ubica el establecimiento/sitio denunciado.\n",
-                            "title": "denuncia_localidad"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Estado en el que se encuentra la denuncia: abierto o cerrado\n",
-                            "title": "denuncia_estado"
-                        },
-                        {
-                            "type": "date",
-                            "description": "Fecha de cierre de la denuncia\n",
-                            "title": "denuncia_fecha_de_cierre"
-                        },
-                        {
-                            "type": "time",
-                            "description": "Hora de cierre de la denuncia\n",
-                            "title": "denuncia_hora_de_cierre"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Motivo por el cual se le dio cierre a la denuncia: respuesta del área, información insuficiente, fuera de cuenca, competencia. \n",
-                            "title": "Denuncia_motivo_cierre"
-                        }
-                    ],
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/16e3a718-c34c-4eb2-bda2-89a658b5c066/download/denuncias-2011.csv",
-                    "description": "Detalle de las denuncias recibidas por el Centro de Atención al Ciudadano de ACUMAR durante el 2011.",
-                    "title": "Denuncias recibidas - 2011",
-                    "issued": "2017-05-23T20:15:41.813310",
-                    "format": "CSV",
-                    "modified": "2018-03-06T14:40:08.466331",
-                    "downloadURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/16e3a718-c34c-4eb2-bda2-89a658b5c066/download/denuncias-2011.csv",
-                    "field": [
-                        {
-                            "type": "date",
-                            "description": "Fecha de realización de la denuncia.\n",
-                            "title": "denuncia_fecha"
-                        },
-                        {
-                            "type": "time",
-                            "description": "Hora de realización de la denuncia\n",
-                            "title": "denuncia_hora"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Canal mediante el cual se realizó la denuncia: telefónico o correo electrónico.\n",
-                            "title": "denuncia_canal"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tipo de denuncia realizada: Basural o Establecimiento.\n",
-                            "title": "denuncia_tipo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Presunta desviación ambiental por la cual se realizó la denuncia\n",
-                            "title": "denuncia_motivo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Partido en el cual se ubica el establecimiento/sitio denunciado.\n",
-                            "title": "denuncia_localidad"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Estado en el que se encuentra la denuncia: abierto o cerrado\n",
-                            "title": "denuncia_estado"
-                        },
-                        {
-                            "type": "date",
-                            "description": "Fecha de cierre de la denuncia\n",
-                            "title": "denuncia_fecha_de_cierre"
-                        },
-                        {
-                            "type": "time",
-                            "description": "Hora de cierre de la denuncia\n",
-                            "title": "denuncia_hora_de_cierre"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Motivo por el cual se le dio cierre a la denuncia: respuesta del área, información insuficiente, fuera de cuenca, competencia. \n",
-                            "title": "Denuncia_motivo_cierre"
-                        }
-                    ],
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/34918cea-587d-452a-bb9c-b0d7d6fef80b/download/denuncias-20112017.csv",
-                    "description": "Detalle de las denuncias recibidas por el Centro de Atención al Ciudadano de ACUMAR en el período 2011- 2017.",
-                    "title": "Denuncias Recibidas 2011-2017",
-                    "issued": "2018-03-06T14:47:24.157527",
-                    "format": "CSV",
-                    "modified": "2018-03-06T14:47:24.075914",
-                    "downloadURL": "http://172.17.0.4/dataset/fdb8f13c-0d27-467c-b894-e1340286ac4c/resource/34918cea-587d-452a-bb9c-b0d7d6fef80b/download/denuncias-20112017.csv",
-                    "field": [
-                        {
-                            "type": "date",
-                            "description": "Fecha de realización de la denuncia.\n",
-                            "title": "denuncia_fecha"
-                        },
-                        {
-                            "type": "time",
-                            "description": "Hora de realización de la denuncia\n",
-                            "title": "denuncia_hora"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Canal mediante el cual se realizó la denuncia: telefónico o correo electrónico.\n",
-                            "title": "denuncia_canal"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tipo de denuncia realizada: Basural o Establecimiento.\n",
-                            "title": "denuncia_tipo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Presunta desviación ambiental por la cual se realizó la denuncia\n",
-                            "title": "denuncia_motivo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Partido en el cual se ubica el establecimiento/sitio denunciado.\n",
-                            "title": "denuncia_localidad"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Estado en el que se encuentra la denuncia: abierto o cerrado\n",
-                            "title": "denuncia_estado"
-                        },
-                        {
-                            "type": "date",
-                            "description": "Fecha de cierre de la denuncia\n",
-                            "title": "denuncia_fecha_de_cierre"
-                        },
-                        {
-                            "type": "time",
-                            "description": "Hora de cierre de la denuncia\n",
-                            "title": "denuncia_hora_de_cierre"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Motivo por el cual se le dio cierre a la denuncia: respuesta del área, información insuficiente, fuera de cuenca, competencia. \n",
-                            "title": "Denuncia_motivo_cierre"
-                        }
-                    ],
-                    "@type": "dcat:Distribution"
-                }
-            ],
-            "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
-                "control",
-                "denuncias",
-                "establecimientos",
-                "fiscalización",
-                "industrias",
-                "residuos",
-                "adecuación",
-                "agentes contaminantes",
-                "control",
-                "establecimientos",
-                "fiscalización",
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia",
-                "GIRSU",
-                "basurales",
-                "gestión de residuos sólidos",
-                "línea de base",
-                "macrobasurales",
-                "microbasurales",
-                "puntos de arrojo",
-                "residuos",
-                "tipologías",
-                "acceso a la información",
-                "información pública",
-                "requerimientos",
-                "solicitudes",
-                "información pública",
-                "solicitudes",
-                "transparencia",
-                "información pública",
-                "rendición de cuentas",
-                "respuestas",
-                "transparencia",
-                "actas",
-                "consejo municipal",
-                "municipios",
-                "transparencia",
-                "adecuación",
-                "control",
-                "establecimientos",
-                "fiscalizaciones",
-                "reconvertidos",
-                "control",
-                "establecimientos",
-                "fiscalización",
-                "relevancia ambiental",
-                "seguimiento particular",
-                "boletín oficial",
-                "digesto normativo",
-                "infoleg",
-                "normativa",
-                "resoluciones",
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia",
-                "cuenca hídrica",
-                "empadronadas",
-                "empadronamiento",
-                "industrias",
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia",
-                "agua subterránea",
-                "agua superficial",
-                "calidad ambiental",
-                "control",
-                "estaciones",
-                "medición",
-                "red de monitoreo",
-                "control",
-                "establecimientos",
-                "fiscalización",
-                "relevancia ambiental",
-                "seguimiento particular",
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia",
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia",
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia",
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia",
-                "actas",
-                "autoridades",
-                "consejos directivo",
-                "convenios",
-                "transparencia",
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia"
-            ],
-            "accrualPeriodicity": "R/PT1S",
-            "superTheme": [
-                "ENVI",
-                "GOVE"
-            ],
-            "landingPage": "http://172.17.0.4/dataset/denuncias-recibidas-2011-2016",
-            "identifier": "fdb8f13c-0d27-467c-b894-e1340286ac4c",
-            "@type": "dcat:Dataset"
-        },
-        {
-            "publisher": {
                 "mbox": "agarcia@acumar.gov.ar",
                 "name": "Dirección de Fiscalización y Adecuación Ambiental"
             },
@@ -1247,14 +1247,14 @@
             "issued": "2018-02-05T14:28:23.963995",
             "modified": "2018-03-06T14:05:05.796768",
             "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
                 "Control",
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
                 "Transparencia",
                 "Control",
                 "Eje Ambiental",
@@ -1351,18 +1351,18 @@
                 }
             ],
             "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "control",
                 "denuncias",
                 "establecimientos",
                 "fiscalización",
                 "industrias",
                 "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "adecuación",
                 "agentes contaminantes",
                 "control",
@@ -1500,14 +1500,14 @@
             "issued": "2017-10-27T13:34:21.824063",
             "modified": "2018-03-01T17:54:50.802560",
             "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
                 "Control",
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
                 "Transparencia",
                 "Control",
                 "Eje Ambiental",
@@ -1869,18 +1869,18 @@
                 }
             ],
             "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "control",
                 "denuncias",
                 "establecimientos",
                 "fiscalización",
                 "industrias",
                 "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "adecuación",
                 "agentes contaminantes",
                 "control",
@@ -2019,14 +2019,14 @@
             "issued": "2017-10-19T19:02:10.531778",
             "modified": "2018-02-28T16:48:43.036096",
             "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
                 "Control",
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
                 "Transparencia",
                 "Control",
                 "Eje Ambiental",
@@ -2155,18 +2155,18 @@
                 }
             ],
             "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "control",
                 "denuncias",
                 "establecimientos",
                 "fiscalización",
                 "industrias",
                 "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "adecuación",
                 "agentes contaminantes",
                 "control",
@@ -2305,14 +2305,14 @@
             "temporal": "2011-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
             "modified": "2018-02-27T19:03:31.951781",
             "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
                 "Control",
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
                 "Transparencia",
                 "Control",
                 "Eje Ambiental",
@@ -2676,18 +2676,18 @@
                 }
             ],
             "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "control",
                 "denuncias",
                 "establecimientos",
                 "fiscalización",
                 "industrias",
                 "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "adecuación",
                 "agentes contaminantes",
                 "control",
@@ -2825,14 +2825,14 @@
             "issued": "2017-11-17T18:01:22.675860",
             "modified": "2018-02-27T18:54:02.015656",
             "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
                 "Control",
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
                 "Transparencia",
                 "Control",
                 "Eje Ambiental",
@@ -3574,18 +3574,18 @@
                 }
             ],
             "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "control",
                 "denuncias",
                 "establecimientos",
                 "fiscalización",
                 "industrias",
                 "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "adecuación",
                 "agentes contaminantes",
                 "control",
@@ -3725,14 +3725,14 @@
             "issued": "2017-11-23T18:39:47.899758",
             "modified": "2018-02-27T18:40:07.090058",
             "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
                 "Control",
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
                 "Transparencia",
                 "Control",
                 "Eje Ambiental",
@@ -4464,18 +4464,18 @@
                 }
             ],
             "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "control",
                 "denuncias",
                 "establecimientos",
                 "fiscalización",
                 "industrias",
                 "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "adecuación",
                 "agentes contaminantes",
                 "control",
@@ -4614,14 +4614,14 @@
             "issued": "2017-11-13T15:19:16.593985",
             "modified": "2018-02-22T17:30:22.064090",
             "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
                 "Control",
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
                 "Transparencia",
                 "Control",
                 "Eje Ambiental",
@@ -4863,18 +4863,18 @@
                 }
             ],
             "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "control",
                 "denuncias",
                 "establecimientos",
                 "fiscalización",
                 "industrias",
                 "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "adecuación",
                 "agentes contaminantes",
                 "control",
@@ -5015,14 +5015,14 @@
             "issued": "2018-02-05T14:53:35.012060",
             "modified": "2018-02-22T14:41:19.935002",
             "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
                 "Control",
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
                 "Transparencia",
                 "Control",
                 "Eje Ambiental",
@@ -5114,18 +5114,18 @@
                 }
             ],
             "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "control",
                 "denuncias",
                 "establecimientos",
                 "fiscalización",
                 "industrias",
                 "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "adecuación",
                 "agentes contaminantes",
                 "control",
@@ -5265,14 +5265,14 @@
             "issued": "2018-02-22T14:27:38.001223",
             "modified": "2018-02-22T14:34:21.529398",
             "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
                 "Control",
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
                 "Transparencia",
                 "Control",
                 "Eje Ambiental",
@@ -5369,18 +5369,18 @@
                 }
             ],
             "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "control",
                 "denuncias",
                 "establecimientos",
                 "fiscalización",
                 "industrias",
                 "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "adecuación",
                 "agentes contaminantes",
                 "control",
@@ -5518,14 +5518,14 @@
             "issued": "2017-10-26T19:40:25.310333",
             "modified": "2018-02-19T17:41:15.805929",
             "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
                 "Control",
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
                 "Transparencia",
                 "Control",
                 "Eje Ambiental",
@@ -5627,18 +5627,18 @@
                 }
             ],
             "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "control",
                 "denuncias",
                 "establecimientos",
                 "fiscalización",
                 "industrias",
                 "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "adecuación",
                 "agentes contaminantes",
                 "control",
@@ -5780,14 +5780,14 @@
             "issued": "2018-02-16T15:32:22.945505",
             "modified": "2018-02-16T15:40:10.926774",
             "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
                 "Control",
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
                 "Transparencia",
                 "Control",
                 "Eje Ambiental",
@@ -5879,18 +5879,18 @@
                 }
             ],
             "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "control",
                 "denuncias",
                 "establecimientos",
                 "fiscalización",
                 "industrias",
                 "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "adecuación",
                 "agentes contaminantes",
                 "control",
@@ -6031,14 +6031,14 @@
             "issued": "2018-02-05T14:09:16.735928",
             "modified": "2018-02-14T17:14:31.537665",
             "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
                 "Control",
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
                 "Transparencia",
                 "Control",
                 "Eje Ambiental",
@@ -6095,18 +6095,18 @@
                 }
             ],
             "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "control",
                 "denuncias",
                 "establecimientos",
                 "fiscalización",
                 "industrias",
                 "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "adecuación",
                 "agentes contaminantes",
                 "control",
@@ -6244,14 +6244,14 @@
             "issued": "2017-10-24T13:28:48.738444",
             "modified": "2018-02-09T19:54:11.226367",
             "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
                 "Control",
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
                 "Transparencia",
                 "Control",
                 "Eje Ambiental",
@@ -6473,18 +6473,18 @@
                 }
             ],
             "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "control",
                 "denuncias",
                 "establecimientos",
                 "fiscalización",
                 "industrias",
                 "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "adecuación",
                 "agentes contaminantes",
                 "control",
@@ -6623,14 +6623,14 @@
             "issued": "2017-06-22T14:29:23.322705",
             "modified": "2017-12-29T15:41:47.498742",
             "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
                 "Control",
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
                 "Transparencia",
                 "Control",
                 "Eje Ambiental",
@@ -6766,18 +6766,18 @@
                 }
             ],
             "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "control",
                 "denuncias",
                 "establecimientos",
                 "fiscalización",
                 "industrias",
                 "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "adecuación",
                 "agentes contaminantes",
                 "control",
@@ -6915,14 +6915,14 @@
             "issued": "2017-06-05T14:09:44.893176",
             "modified": "2017-12-28T13:19:01.378233",
             "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
                 "Control",
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
                 "Transparencia",
                 "Control",
                 "Eje Ambiental",
@@ -6999,18 +6999,18 @@
                 }
             ],
             "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "control",
                 "denuncias",
                 "establecimientos",
                 "fiscalización",
                 "industrias",
                 "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "adecuación",
                 "agentes contaminantes",
                 "control",
@@ -7148,14 +7148,14 @@
             "issued": "2017-11-03T17:39:09.031405",
             "modified": "2017-12-26T15:52:54.099866",
             "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
                 "Control",
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
                 "Transparencia",
                 "Control",
                 "Eje Ambiental",
@@ -7377,18 +7377,18 @@
                 }
             ],
             "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "control",
                 "denuncias",
                 "establecimientos",
                 "fiscalización",
                 "industrias",
                 "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "adecuación",
                 "agentes contaminantes",
                 "control",
@@ -7527,14 +7527,14 @@
             "issued": "2017-11-06T18:35:12.191766",
             "modified": "2017-12-26T15:51:34.021492",
             "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
                 "Control",
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
                 "Transparencia",
                 "Control",
                 "Eje Ambiental",
@@ -7756,18 +7756,18 @@
                 }
             ],
             "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "control",
                 "denuncias",
                 "establecimientos",
                 "fiscalización",
                 "industrias",
                 "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "adecuación",
                 "agentes contaminantes",
                 "control",
@@ -7906,14 +7906,14 @@
             "issued": "2017-11-06T20:17:17.024430",
             "modified": "2017-12-26T15:28:15.713114",
             "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
                 "Control",
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
                 "Transparencia",
                 "Control",
                 "Eje Ambiental",
@@ -8185,18 +8185,18 @@
                 }
             ],
             "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "control",
                 "denuncias",
                 "establecimientos",
                 "fiscalización",
                 "industrias",
                 "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "adecuación",
                 "agentes contaminantes",
                 "control",
@@ -8335,14 +8335,14 @@
             "issued": "2017-11-07T17:38:45.834288",
             "modified": "2017-12-26T15:26:24.847029",
             "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
                 "Control",
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
                 "Transparencia",
                 "Control",
                 "Eje Ambiental",
@@ -8574,18 +8574,18 @@
                 }
             ],
             "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "control",
                 "denuncias",
                 "establecimientos",
                 "fiscalización",
                 "industrias",
                 "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "adecuación",
                 "agentes contaminantes",
                 "control",
@@ -8724,14 +8724,14 @@
             "issued": "2017-11-07T17:51:37.677611",
             "modified": "2017-12-26T15:25:01.181300",
             "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
                 "Control",
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
                 "Transparencia",
                 "Control",
                 "Eje Ambiental",
@@ -9013,18 +9013,18 @@
                 }
             ],
             "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "control",
                 "denuncias",
                 "establecimientos",
                 "fiscalización",
                 "industrias",
                 "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "adecuación",
                 "agentes contaminantes",
                 "control",
@@ -9163,14 +9163,14 @@
             "issued": "2017-11-08T14:41:13.144019",
             "modified": "2017-12-26T15:18:32.118502",
             "theme": [
-                "Calidad de vida",
-                "Eje Social",
-                "Indicadores",
-                "Transparencia",
                 "Control",
                 "Denuncias",
                 "Eje Ambiental",
                 "Residuos",
+                "Transparencia",
+                "Calidad de vida",
+                "Eje Social",
+                "Indicadores",
                 "Transparencia",
                 "Control",
                 "Eje Ambiental",
@@ -9492,18 +9492,18 @@
                 }
             ],
             "keyword": [
-                "entorno",
-                "icv",
-                "indicadores",
-                "población",
-                "salud",
-                "índice de calidad de vida",
                 "control",
                 "denuncias",
                 "establecimientos",
                 "fiscalización",
                 "industrias",
                 "residuos",
+                "entorno",
+                "icv",
+                "indicadores",
+                "población",
+                "salud",
+                "índice de calidad de vida",
                 "adecuación",
                 "agentes contaminantes",
                 "control",
