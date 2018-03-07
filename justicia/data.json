@@ -4286,6 +4286,55 @@
         },
         {
             "publisher": {
+                "mbox": "justiciaabierta@jus.gob.ar",
+                "name": "Programa Nacional de Rescate y Acompañamiento a las Personas Damnificadas por el Delito de Trata"
+            },
+            "landingPage": "",
+            "description": "Este conjunto de datos contiene las llamadas atendidas por personal técnico del Programa Nacional de Rescate y Acompañamiento a las Personas Damnificadas por el Delito de Trata, de la Línea 145, con licenciaturas en Psicología o Trabajo Social, especializado en la escucha y la recepción. Se trata de un número de llamada gratuita, de alcance nacional, en el cual la atención está garantizada las 24hs. los 365 días del año, y que está facultado para recibir denuncias, relacionadas con el delito de Trata de Personas. Las mismas pueden realizarse en forma anónima a los fines de preservar la identidad de los denunciantes.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Lucha contra la trata de personas - Llamados línea 145",
+            "issued": "2018-03-07T17:28:52.068322",
+            "modified": "2018-03-07T17:58:23.579377",
+            "theme": [
+                "acceso-a-justicia",
+                "genero"
+            ],
+            "keyword": [
+                "capacitaciones",
+                "desapariciones",
+                "explotación",
+                "grooming",
+                "género",
+                "oferta sexual",
+                "trata",
+                "víctimas"
+            ],
+            "superTheme": [
+                "JUST"
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "contactPoint": {
+                "hasEmail": "justiciaabierta@jus.gob.ar",
+                "fn": "Programa Nacional de Rescate y Acompañamiento a las Personas Damnificadas por el Delito de Trata"
+            },
+            "identifier": "1326870f-4eb7-42df-882e-8a022cf953b5",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/1326870f-4eb7-42df-882e-8a022cf953b5/resource/168f7e40-2195-418c-b899-c746ad0bb1c5",
+                    "description": "Contiene los llamados atendidos en la línea 145 del Programa Nacional de Rescate y Acompañamiento a las Personas Damnificadas por el Delito de Trata entre enero y diciembre de 2017",
+                    "title": "Lucha contra la trata de personas llamados línea 145 - 2017-12",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-03-07T14:38:27.597368",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/1326870f-4eb7-42df-882e-8a022cf953b5/resource/168f7e40-2195-418c-b899-c746ad0bb1c5/download/luchacontralatratadepersonasllamadoslinea145201712.csv",
+                    "issued": "2018-03-07T14:38:27.664001",
+                    "identifier": "168f7e40-2195-418c-b899-c746ad0bb1c5"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "oficinadecretos@jus.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
             },
