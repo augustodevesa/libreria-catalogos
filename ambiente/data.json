@@ -12,13 +12,74 @@
                 "mbox": "jgoldschtein@ambiente.gob.ar",
                 "name": "Dirección de Educación Ambiental"
             },
+            "identifier": "3bde7244-fffa-4357-b7b1-2c6277098455",
+            "description": "Son los eventos de educación ambiental destinados a niños, jóvenes y público en general con el fin de  enseñar contenidos y educar en hábitos y valores en relación al ambiente",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Grandes eventos de educación ambiental",
+            "issued": "2017-09-06T19:19:01.217453",
+            "temporal": "2016-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
+            "modified": "2018-03-09T19:02:49.824903",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "Educación"
+            ],
+            "keyword": [
+                "Educación ambiental"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "ENVI"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/3bde7244-fffa-4357-b7b1-2c6277098455/archivo/f338e1ca-70bd-42c1-a577-1db5390172f2",
+                    "description": "Son los eventos de Educación Ambiental destinados a niños, jóvenes y público en general con el fin de  que enseñar contenidos y educar en hábitos y valores en relación al ambiente",
+                    "license": "odc-odbl",
+                    "title": "Eventos de educación ambiental",
+                    "issued": "2017-09-07T12:39:12.146587",
+                    "format": "CSV",
+                    "modified": "2017-09-07T12:39:12.112544",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/3bde7244-fffa-4357-b7b1-2c6277098455/resource/f338e1ca-70bd-42c1-a577-1db5390172f2/download/grandes-eventos-de-educacion-ambiental.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año en el cual se realiza el evento",
+                            "title": "evento_anio"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de evento realizado",
+                            "title": "evento_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Destinatarios del evento",
+                            "title": "evento_destinatario"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de visitantes al evento",
+                            "title": "evento_visitantes_numero"
+                        }
+                    ]
+                }
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/grandes-eventos-de-educacion-ambiental"
+        },
+        {
+            "publisher": {
+                "mbox": "jgoldschtein@ambiente.gob.ar",
+                "name": "Dirección de Educación Ambiental"
+            },
             "identifier": "62dccae6-041a-4b72-aa05-5325b39bbd36",
-            "description": "Son materiales didácticos y de comunicación en distintos formatos, de Educación Ambiental, desarrollados en el marco de la Estrategia de Educación Ambiental, para desarrollar acciones de educación ambiental, a través  de cuadernillos para el educador ambiental , secuencias didácticas, ilustraciones e infografías y para promover la interpretación de datos e información ambiental",
+            "description": "Son materiales didácticos y de comunicación en distintos formatos, desarrollados en el marco de la Estrategia de Educación Ambiental.",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Material didáctico y de comunicación de Educación Ambiental",
             "issued": "2017-09-06T17:47:04.386688",
             "temporal": "2016-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
-            "modified": "2018-03-09T18:20:12.422024",
+            "modified": "2018-03-09T19:00:00.157440",
             "language": [
                 "spa"
             ],
@@ -39,7 +100,7 @@
             "distribution": [
                 {
                     "accessURL": "http://datos.ambiente.gob.ar/dataset/62dccae6-041a-4b72-aa05-5325b39bbd36/archivo/3fe4e8c6-d832-4e49-bdc4-e7bb369a1651",
-                    "description": "Son  materiales didácticos de Educación Ambiental, desarrollados en el marco de la Estrategia de Educación Ambiental, para desarrollar acciones de educación ambiental",
+                    "description": "Son  materiales didácticos desarrollados en el marco de la Estrategia de Educación Ambiental.",
                     "license": "odc-odbl",
                     "title": "Materiales de educación ambiental",
                     "issued": "2017-09-06T17:51:32.202025",
@@ -103,6 +164,114 @@
                 }
             ],
             "landingPage": "http://datos.ambiente.gob.ar/dataset/material-didactico-y-de-comunicacion-de-educacion-ambiental"
+        },
+        {
+            "publisher": {
+                "mbox": "jgoldschtein@ambiente.gob.ar",
+                "name": "Dirección de Educación Ambiental"
+            },
+            "identifier": "9a4a51ef-26e4-416c-b97d-7ea48dac04df",
+            "description": "Son los encuentros, capacitaciones y cursos que contribuyen con los procesos de enseñanza y aprendizaje basados en la integración de contenidos ambientales, vinculados con la vida cotidiana y comunitaria, el mundo del trabajo, la participación democrática y  los valores éticos de solidaridad y responsabilidad, realizados en el marco de la Estrategia Nacional de Educación Ambiental.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Encuentros y jornadas de educación ambiental",
+            "issued": "2017-09-06T16:58:20.032556",
+            "temporal": "2016-03-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
+            "modified": "2018-03-09T18:43:52.962104",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "Educación"
+            ],
+            "keyword": [
+                "Agroecología",
+                "Educación ambiental",
+                "Estrategia Nacional",
+                "Ser Sustentable",
+                "encuentros",
+                "jornadas"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "ENVI"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/9a4a51ef-26e4-416c-b97d-7ea48dac04df/archivo/0db23dc2-a196-42bd-a1b3-8a1036beffea",
+                    "description": "Son los encuentros de educación ambiental realizados con el propósito de generar compromisos de acciones educativas articuladas  con diversos organismos estatales, instituciones y sectores sociales.",
+                    "license": "odc-odbl",
+                    "title": "Encuentros de educación ambiental",
+                    "issued": "2017-09-06T17:07:49.317701",
+                    "format": "CSV",
+                    "modified": "2017-09-06T17:07:49.271370",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/9a4a51ef-26e4-416c-b97d-7ea48dac04df/resource/0db23dc2-a196-42bd-a1b3-8a1036beffea/download/encuentro-educacion-ambiental.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año en el cual se realiza el encuentro de Educación Ambiental",
+                            "title": "encuentro_anio"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de encuentros de temática ambiental en el año dado",
+                            "title": "encuentro_numero"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de participantes en el encuentro de Educación Ambiental",
+                            "title": "encuentro_participantes"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de encuentro de Educación Ambiental",
+                            "title": "encuentro_tematica"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Destinatarios del encuentro de Educación Ambiental",
+                            "title": "encuentro_destinatarios"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/9a4a51ef-26e4-416c-b97d-7ea48dac04df/archivo/88702f60-1007-4182-b73d-c6b01dcb457f",
+                    "description": "Son las capacitaciones de Educación Ambiental que contribuyen con los procesos de enseñanza y aprendizaje basados en la integración de contenidos ambientales.",
+                    "license": "odc-odbl",
+                    "title": "Capacitaciones de educación ambiental",
+                    "issued": "2017-09-06T17:41:31.629104",
+                    "format": "CSV",
+                    "modified": "2017-09-06T17:41:31.575364",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/9a4a51ef-26e4-416c-b97d-7ea48dac04df/resource/88702f60-1007-4182-b73d-c6b01dcb457f/download/capacitaciones-educacion-ambiental.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año en el cual se realiza el curso o capacitación de educación ambiental",
+                            "title": "capacitacion_anio"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de cursos o capacitaciones en la temática ambiental en el año dado",
+                            "title": "capacitacion_numero"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de participantes en los cursos o capacitaciones en la temática ambiental",
+                            "title": "capacitacion_participantes_numero"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de curso o capacitación de Educación Ambiental ",
+                            "title": "capacitación_tematica"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Destinatarios del curso o capacitación de Educación Ambiental",
+                            "title": "capacitación_destinatarios"
+                        }
+                    ]
+                }
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/encuentros-y-jornadas-de-educacion-ambiental"
         },
         {
             "publisher": {
@@ -975,175 +1144,6 @@
                 }
             ],
             "landingPage": "https://inventariogei.ambiente.gob.ar/"
-        },
-        {
-            "publisher": {
-                "mbox": "jgoldschtein@ambiente.gob.ar",
-                "name": "Dirección de Educación Ambiental"
-            },
-            "identifier": "3bde7244-fffa-4357-b7b1-2c6277098455",
-            "description": "Son los eventos de educación ambiental destinados a niños, jóvenes y público en general con el fin de  que enseñar contenidos y educar en hábitos y valores en relación al ambiente",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Grandes eventos de educación ambiental",
-            "issued": "2017-09-06T19:19:01.217453",
-            "temporal": "2016-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
-            "modified": "2017-09-07T12:41:48.806912",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "Educación"
-            ],
-            "keyword": [
-                "Educación ambiental"
-            ],
-            "accrualPeriodicity": "eventual",
-            "superTheme": [
-                "ENVI"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/3bde7244-fffa-4357-b7b1-2c6277098455/archivo/f338e1ca-70bd-42c1-a577-1db5390172f2",
-                    "description": "Son los eventos de Educación Ambiental destinados a niños, jóvenes y público en general con el fin de  que enseñar contenidos y educar en hábitos y valores en relación al ambiente",
-                    "license": "odc-odbl",
-                    "title": "Eventos de educación ambiental",
-                    "issued": "2017-09-07T12:39:12.146587",
-                    "format": "CSV",
-                    "modified": "2017-09-07T12:39:12.112544",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/3bde7244-fffa-4357-b7b1-2c6277098455/resource/f338e1ca-70bd-42c1-a577-1db5390172f2/download/grandes-eventos-de-educacion-ambiental.csv",
-                    "field": [
-                        {
-                            "type": "integer",
-                            "description": "Año en el cual se realiza el evento",
-                            "title": "evento_anio"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tipo de evento realizado",
-                            "title": "evento_tipo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Destinatarios del evento",
-                            "title": "evento_destinatario"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Cantidad de visitantes al evento",
-                            "title": "evento_visitantes_numero"
-                        }
-                    ]
-                }
-            ],
-            "landingPage": "http://datos.ambiente.gob.ar/dataset/grandes-eventos-de-educacion-ambiental"
-        },
-        {
-            "publisher": {
-                "mbox": "jgoldschtein@ambiente.gob.ar",
-                "name": "Dirección de Educación Ambiental"
-            },
-            "identifier": "9a4a51ef-26e4-416c-b97d-7ea48dac04df",
-            "description": "Las capacitaciones y cursos de Educación Ambiental contribuyen con los procesos de enseñanza y aprendizaje basados en la integración de contenidos ambientales y los encuentros de Educación Ambiental son realizados con el propósito de generar compromisos de acciones educativas articuladas  con diversos organismos estatales, instituciones y sectores sociales en el marco de la Estrategia Nacional de Educación Ambiental.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Encuentros y jornadas de educación ambiental",
-            "issued": "2017-09-06T16:58:20.032556",
-            "temporal": "2016-03-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
-            "modified": "2017-09-06T17:41:31.592852",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "Educación"
-            ],
-            "keyword": [
-                "Agroecología",
-                "Educación ambiental",
-                "Estrategia Nacional",
-                "Ser Sustentable",
-                "encuentros",
-                "jornadas"
-            ],
-            "accrualPeriodicity": "eventual",
-            "superTheme": [
-                "ENVI"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/9a4a51ef-26e4-416c-b97d-7ea48dac04df/archivo/0db23dc2-a196-42bd-a1b3-8a1036beffea",
-                    "description": "Son los encuentros de educación ambiental realizados con el propósito de generar compromisos de acciones educativas articuladas  con diversos organismos estatales, instituciones y sectores sociales.",
-                    "license": "odc-odbl",
-                    "title": "Encuentros de educación ambiental",
-                    "issued": "2017-09-06T17:07:49.317701",
-                    "format": "CSV",
-                    "modified": "2017-09-06T17:07:49.271370",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/9a4a51ef-26e4-416c-b97d-7ea48dac04df/resource/0db23dc2-a196-42bd-a1b3-8a1036beffea/download/encuentro-educacion-ambiental.csv",
-                    "field": [
-                        {
-                            "type": "integer",
-                            "description": "Año en el cual se realiza el encuentro de Educación Ambiental",
-                            "title": "encuentro_anio"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Cantidad de encuentros de temática ambiental en el año dado",
-                            "title": "encuentro_numero"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Cantidad de participantes en el encuentro de Educación Ambiental",
-                            "title": "encuentro_participantes"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tipo de encuentro de Educación Ambiental",
-                            "title": "encuentro_tematica"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Destinatarios del encuentro de Educación Ambiental",
-                            "title": "encuentro_destinatarios"
-                        }
-                    ]
-                },
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/9a4a51ef-26e4-416c-b97d-7ea48dac04df/archivo/88702f60-1007-4182-b73d-c6b01dcb457f",
-                    "description": "Son las capacitaciones de Educación Ambiental que contribuyen con los procesos de enseñanza y aprendizaje basados en la integración de contenidos ambientales.",
-                    "license": "odc-odbl",
-                    "title": "Capacitaciones de educación ambiental",
-                    "issued": "2017-09-06T17:41:31.629104",
-                    "format": "CSV",
-                    "modified": "2017-09-06T17:41:31.575364",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/9a4a51ef-26e4-416c-b97d-7ea48dac04df/resource/88702f60-1007-4182-b73d-c6b01dcb457f/download/capacitaciones-educacion-ambiental.csv",
-                    "field": [
-                        {
-                            "type": "integer",
-                            "description": "Año en el cual se realiza el curso o capacitación de educación ambiental",
-                            "title": "capacitacion_anio"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Cantidad de cursos o capacitaciones en la temática ambiental en el año dado",
-                            "title": "capacitacion_numero"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Cantidad de participantes en los cursos o capacitaciones en la temática ambiental",
-                            "title": "capacitacion_participantes_numero"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tipo de curso o capacitación de Educación Ambiental ",
-                            "title": "capacitación_tematica"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Destinatarios del curso o capacitación de Educación Ambiental",
-                            "title": "capacitación_destinatarios"
-                        }
-                    ]
-                }
-            ],
-            "landingPage": "http://datos.ambiente.gob.ar/dataset/encuentros-y-jornadas-de-educacion-ambiental"
         },
         {
             "publisher": {
