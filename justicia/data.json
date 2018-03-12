@@ -549,7 +549,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Bienes secuestrados y decomisados durante el proceso penal",
             "issued": "2017-06-22T13:42:13.273232",
-            "modified": "2018-03-09T18:05:13.931412",
+            "modified": "2018-03-12T12:51:22.395949",
             "theme": [
                 "sistema-registral"
             ],
@@ -731,7 +731,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Codificación de delitos del Código Penal Argentino",
             "issued": "2018-02-21T13:41:29.513972",
-            "modified": "2018-02-28T15:26:35.947804",
+            "modified": "2018-03-12T13:49:37.786316",
             "theme": [
                 "informacion-juridica",
                 "politica-criminal"
@@ -762,13 +762,13 @@
             "distribution": [
                 {
                     "accessURL": "http://datos.jus.gob.ar/dataset/d4a7a48d-d5c5-48e3-b820-0bc308d57e3c/resource/b0482336-831a-4517-ae53-ea9466df45b9",
-                    "description": "Codificación de delitos del Código Penal Argentino y leyes especiales, actualizado al 2017-02-21",
-                    "title": "Codificación de delitos del Código Penal Argentino 2017-02-21",
+                    "description": "Codificación de delitos del Código Penal Argentino y leyes especiales, actualizado al 2018-02-21",
+                    "title": "Codificación de delitos del Código Penal Argentino 2018-02-21",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2018-02-23T15:14:21.714324",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/d4a7a48d-d5c5-48e3-b820-0bc308d57e3c/resource/b0482336-831a-4517-ae53-ea9466df45b9/download/codificacion-delitos-codigo-penal-argentino-2017-02-21.csv",
+                    "modified": "2018-03-12T10:49:30.554232",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/d4a7a48d-d5c5-48e3-b820-0bc308d57e3c/resource/b0482336-831a-4517-ae53-ea9466df45b9/download/codificacion-delitos-codigo-penal-argentino-2018-02-21.csv",
                     "issued": "2018-02-21T10:58:38.474606",
                     "identifier": "b0482336-831a-4517-ae53-ea9466df45b9"
                 }
@@ -784,7 +784,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.",
             "issued": "2016-09-28T14:57:47.665668",
-            "modified": "2018-03-09T13:53:30.022596",
+            "modified": "2018-03-12T14:52:47.303857",
             "theme": [
                 "sistema-registral"
             ],
@@ -804,16 +804,16 @@
             "identifier": "e042c362-ff39-476f-9328-056a9de753f0",
             "distribution": [
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/ba6f82b3-5714-4974-8c03-6b55ec9811b4",
-                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 09-03-2018. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/13b318f0-028f-4401-b106-dc7113f7b0ee",
+                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 12-03-2018. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
                     "title": "Sistema de Consulta Nacional de Rebeldías y Capturas",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2018-03-09T10:44:35.915777",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/ba6f82b3-5714-4974-8c03-6b55ec9811b4/download/rebeldias-y-capturas.csv",
-                    "issued": "2017-11-23T09:23:43.569306",
-                    "identifier": "ba6f82b3-5714-4974-8c03-6b55ec9811b4"
+                    "modified": "2018-03-12T11:52:43.493092",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/13b318f0-028f-4401-b106-dc7113f7b0ee/download/rebeldias-y-capturas.csv",
+                    "issued": "2018-03-12T11:48:41.746778",
+                    "identifier": "13b318f0-028f-4401-b106-dc7113f7b0ee"
                 }
             ]
         },
@@ -2779,7 +2779,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Estadística de trámites de maquinarias",
             "issued": "2017-06-28T18:19:55.932924",
-            "modified": "2018-03-09T14:51:13.994725",
+            "modified": "2018-03-12T14:42:20.291426",
             "theme": [
                 "sistema-registral"
             ],
@@ -3982,6 +3982,65 @@
         },
         {
             "publisher": {
+                "mbox": "08002221717@jus.gov.ar ",
+                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Programa Las Víctimas Contra Las Violencias"
+            },
+            "landingPage": "",
+            "description": "Este conjunto de datos contiene las llamadas atendidas por las profesionales de la Línea Nacional 0800-222-1717, las 24 hs. todos los días del año, sobre casos de abuso sexual contra niñas, niños y adolescentes; y datos sobre las víctimas detectadas en esos llamados. Se cuenta con información desde noviembre de 2016, año en que se lanzó la Campaña Nacional \"Abuso Sexual Infantil: Hablar es empezar a prevenir\".",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Línea Nacional 0800-222-1717 contra el abuso sexual infantil",
+            "issued": "2018-02-07T16:33:24.436199",
+            "modified": "2018-03-12T13:24:47.404554",
+            "theme": [
+                "acceso-a-justicia"
+            ],
+            "keyword": [
+                "0800-222-1717",
+                "abuso sexual infantil",
+                "abusos",
+                "adolescentes",
+                "línea 0800",
+                "niñas",
+                "niños",
+                "víctimas"
+            ],
+            "superTheme": [
+                "JUST"
+            ],
+            "contactPoint": {
+                "hasEmail": "08002221717@jus.gov.ar ",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Programa Las Víctimas Contra Las Violencias"
+            },
+            "identifier": "52a3843b-7072-4405-affb-22504ce771eb",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/52a3843b-7072-4405-affb-22504ce771eb/resource/700f6885-634c-4fd7-a304-c78b01904b02",
+                    "description": "Detalle de los llamados atendidos por las  profesionales de la Línea Nacional 0800-222-1717 sobre casos de abuso sexual infantil",
+                    "title": "Llamados atendidos sobre abuso sexual infantil - 2017-12",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-02-07T13:35:02.128784",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/52a3843b-7072-4405-affb-22504ce771eb/resource/700f6885-634c-4fd7-a304-c78b01904b02/download/llamados-atendidos-abuso-sexual-infantil-2017-12.csv",
+                    "issued": "2018-02-07T13:35:02.265465",
+                    "identifier": "700f6885-634c-4fd7-a304-c78b01904b02"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/52a3843b-7072-4405-affb-22504ce771eb/resource/1e17160a-3ae8-40c3-8b9d-d40631b140f0",
+                    "description": "Datos sobre las víctimas detectadas por los profesionales de la línea Nacional 0800-222-1717 sobre casos de abuso infantil",
+                    "title": "Víctimas detectadas de casos de abuso sexual infantil - 2017-12",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-02-07T13:43:25.432064",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/52a3843b-7072-4405-affb-22504ce771eb/resource/1e17160a-3ae8-40c3-8b9d-d40631b140f0/download/victimas-detectadas-abuso-sexual-infantil-2017-12.csv",
+                    "issued": "2018-02-07T13:43:25.574030",
+                    "identifier": "1e17160a-3ae8-40c3-8b9d-d40631b140f0"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "allamosa@jus.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos"
             },
@@ -4293,6 +4352,55 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/bbdac295-c88e-4e2d-8f74-a845a2e93a61/resource/56174510-4487-4586-9d47-ef1cd81b2a37/download/listado-registros-seccionales-2018-02.csv",
                     "issued": "2018-03-01T13:18:04.721327",
                     "identifier": "56174510-4487-4586-9d47-ef1cd81b2a37"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "programarescate@jus.gov.ar",
+                "name": "Programa Nacional de Rescate y Acompañamiento a las Personas Damnificadas por el Delito de Trata"
+            },
+            "landingPage": "",
+            "description": "Este conjunto de datos contiene las llamadas atendidas por personal técnico del Programa Nacional de Rescate y Acompañamiento a las Personas Damnificadas por el Delito de Trata, de la Línea 145, con licenciaturas en Psicología o Trabajo Social, especializado en la escucha y la recepción. Se trata de un número de llamada gratuita, de alcance nacional, en el cual la atención está garantizada las 24hs. los 365 días del año, y que está facultado para recibir denuncias, relacionadas con el delito de Trata de Personas. Las mismas pueden realizarse en forma anónima a los fines de preservar la identidad de los denunciantes.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Lucha contra la trata de personas - Llamados línea 145",
+            "issued": "2018-03-07T17:28:52.068322",
+            "modified": "2018-03-12T13:24:27.111478",
+            "theme": [
+                "acceso-a-justicia",
+                "genero"
+            ],
+            "keyword": [
+                "capacitaciones",
+                "desapariciones",
+                "explotación",
+                "grooming",
+                "género",
+                "oferta sexual",
+                "trata",
+                "víctimas"
+            ],
+            "superTheme": [
+                "JUST"
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "contactPoint": {
+                "hasEmail": "programarescate@jus.gov.ar",
+                "fn": "Programa Nacional de Rescate y Acompañamiento a las Personas Damnificadas por el Delito de Trata"
+            },
+            "identifier": "1326870f-4eb7-42df-882e-8a022cf953b5",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/1326870f-4eb7-42df-882e-8a022cf953b5/resource/82c8d291-0f3b-4255-bc65-f767cbc1d323",
+                    "description": "Contiene los llamados atendidos en la línea 145 del Programa Nacional de Rescate y Acompañamiento a las Personas Damnificadas por el Delito de Trata entre enero y diciembre de 2017",
+                    "title": "Lucha contra la trata de personas llamados línea 145 - 2017-12",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-03-08T11:31:41.311304",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/1326870f-4eb7-42df-882e-8a022cf953b5/resource/82c8d291-0f3b-4255-bc65-f767cbc1d323/download/lucha-contra-la-trata-de-personas-llamados-linea-145-2017-12.csv",
+                    "issued": "2018-03-08T11:00:38.709187",
+                    "identifier": "82c8d291-0f3b-4255-bc65-f767cbc1d323"
                 }
             ]
         },
@@ -4694,7 +4802,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Registro, sistematización y seguimiento de femicidios y homicidios agravados por el género",
             "issued": "2016-09-14T14:04:25.296524",
-            "modified": "2018-03-08T14:33:50.962945",
+            "modified": "2018-03-12T14:48:19.778947",
             "theme": [
                 "derechos-humanos",
                 "genero"
@@ -4810,6 +4918,18 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/27bb9b2c-521b-406c-bdf9-98110ef73f34/resource/9a06c428-8552-42fe-86e1-487bca9b712c/download/registro-de-femicidios-2017-08-29.csv",
                     "issued": "2016-09-14T11:08:54.939192",
                     "identifier": "9a06c428-8552-42fe-86e1-487bca9b712c"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/27bb9b2c-521b-406c-bdf9-98110ef73f34/resource/60d7bf37-2efe-4e34-9b5f-eada9a79882b",
+                    "description": "Esta base registra los femicidios y homicidios agravados por el género desde el año 2012 a la fecha.",
+                    "title": "Registro, sistematización y seguimiento de  femicidios y homicidios agravados por el género - 2018-03-12",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-03-12T11:47:47.390523",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/27bb9b2c-521b-406c-bdf9-98110ef73f34/resource/60d7bf37-2efe-4e34-9b5f-eada9a79882b/download/registro-de-femicidios-2018-03-12.csv",
+                    "issued": "2018-03-12T11:41:17.606372",
+                    "identifier": "60d7bf37-2efe-4e34-9b5f-eada9a79882b"
                 }
             ]
         },
@@ -6111,6 +6231,54 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/c64b3899-65df-4024-afe8-bdf971f30dd8/resource/846004df-a634-40df-8e7c-e02878de4001/download/violencia-institucional-2018-01.csv",
                     "issued": "2018-02-02T10:15:42.576830",
                     "identifier": "846004df-a634-40df-8e7c-e02878de4001"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "KWierzbinsky@jus.gob.ar",
+                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Programa Las Víctimas Contra Las Violencias"
+            },
+            "landingPage": "",
+            "description": "Este conjunto de datos contiene las llamadas atendidas por las profesionales del Programa las Víctimas contra las Violencias, de la Línea 137, sobre casos de Violencia Familiar y Sexual.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Victimas contra las violencias llamados línea 137",
+            "issued": "2018-02-14T18:09:24.013996",
+            "modified": "2018-03-12T13:24:02.808225",
+            "theme": [
+                "acceso-a-justicia",
+                "genero"
+            ],
+            "keyword": [
+                "brigada móvil",
+                "género",
+                "línea 137",
+                "violencia familiar",
+                "violencia sexual",
+                "violencias",
+                "víctimas"
+            ],
+            "superTheme": [
+                "JUST"
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "contactPoint": {
+                "hasEmail": "KWierzbinsky@jus.gob.ar",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Programa Las Víctimas Contra Las Violencias"
+            },
+            "identifier": "42720e56-2274-4ad5-820d-c366d784bc8c",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/42720e56-2274-4ad5-820d-c366d784bc8c/resource/4c640f89-f06e-499b-804f-6183db9eec71",
+                    "description": "Llamados atendidos por las profesionales de la Línea 137 sobre casos de Violencia Familiar o Sexual",
+                    "title": "Victimas-contra-las-violencias-llamados-linea-137",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-02-14T15:13:04.222591",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/42720e56-2274-4ad5-820d-c366d784bc8c/resource/4c640f89-f06e-499b-804f-6183db9eec71/download/victimas-contra-las-violencias-llamados-linea-137-2017-12.csv",
+                    "issued": "2018-02-14T15:13:04.348768",
+                    "identifier": "4c640f89-f06e-499b-804f-6183db9eec71"
                 }
             ]
         }
