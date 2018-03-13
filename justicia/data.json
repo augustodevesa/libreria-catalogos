@@ -2526,7 +2526,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Estadística de magistrados de la Justicia Federal y de la Justicia Nacional por género",
             "issued": "2018-02-19T14:31:19.514269",
-            "modified": "2018-03-07T13:54:29.666531",
+            "modified": "2018-03-12T20:15:26.800572",
             "theme": [
                 "genero",
                 "poder-judicial"
@@ -3990,7 +3990,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Línea Nacional 0800-222-1717 contra el abuso sexual infantil",
             "issued": "2018-02-07T16:33:24.436199",
-            "modified": "2018-03-12T13:24:47.404554",
+            "modified": "2018-03-12T20:10:54.011908",
             "theme": [
                 "acceso-a-justicia"
             ],
@@ -4007,6 +4007,7 @@
             "superTheme": [
                 "JUST"
             ],
+            "accrualPeriodicity": "R/P6M",
             "contactPoint": {
                 "hasEmail": "08002221717@jus.gov.ar ",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Programa Las Víctimas Contra Las Violencias"
@@ -6034,7 +6035,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Solicitudes de acceso a la información pública en el Ministerio de Justicia y Derechos Humanos",
             "issued": "2017-07-04T15:14:39.142937",
-            "modified": "2018-03-12T17:26:33.616449",
+            "modified": "2018-03-12T18:16:58.272456",
             "theme": [
                 "anticorrupcion"
             ],
@@ -6068,18 +6069,6 @@
                     "identifier": "ff4cdc0c-c794-44dd-9e0e-911d0c0c0d8d"
                 },
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/d9cc3b88-7f3a-482f-87c6-f0a306566522",
-                    "description": "Solicitudes de acceso a la información pública.",
-                    "title": "Solicitudes de acceso a la información pública - actualizado al 2017-12-05",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2018-01-19T10:41:50.908279",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/d9cc3b88-7f3a-482f-87c6-f0a306566522/download/solicitudes-acceso-informacion-publica-2017-12-05.csv",
-                    "issued": "2017-12-06T14:34:11.708357",
-                    "identifier": "d9cc3b88-7f3a-482f-87c6-f0a306566522"
-                },
-                {
                     "accessURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/ec214450-8eae-4257-8916-e3cbb131b641",
                     "description": "Solicitudes de acceso a la información pública.",
                     "title": "Solicitudes de acceso a la información pública - actualizado al 2017-12-30",
@@ -6090,6 +6079,18 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/ec214450-8eae-4257-8916-e3cbb131b641/download/solicitudes-acceso-informacion-publica-2017-12-30.csv",
                     "issued": "2018-01-16T12:19:30.052982",
                     "identifier": "ec214450-8eae-4257-8916-e3cbb131b641"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/d9cc3b88-7f3a-482f-87c6-f0a306566522",
+                    "description": "Solicitudes de acceso a la información pública.",
+                    "title": "Solicitudes de acceso a la información pública - actualizado al 2017-12-05",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-01-19T10:41:50.908279",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/d9cc3b88-7f3a-482f-87c6-f0a306566522/download/solicitudes-acceso-informacion-publica-2017-12-05.csv",
+                    "issued": "2017-12-06T14:34:11.708357",
+                    "identifier": "d9cc3b88-7f3a-482f-87c6-f0a306566522"
                 },
                 {
                     "accessURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/17c414ce-5098-4006-9c0d-4ff4da183aec",
