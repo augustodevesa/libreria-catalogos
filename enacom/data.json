@@ -69,6 +69,118 @@
                 "TECH"
             ],
             "keyword": [
+                "telefonia movil",
+                "4g",
+                "provincial"
+            ],
+            "title": "Número de radiobases 4G por provincia por cada 100 mil habitantes",
+            "issued": "2017-07-26T15:01:52",
+            "modified": "2018-03-15T18:13:46Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-movil"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241306/numero-de-radiobases-4g-por-provincia-por-cada-100-mil-habitantes/",
+                    "description": "Número de radiobases 4G por provincia por cada 100 mil habitantes.",
+                    "title": "Número de radiobases 4G por provincia por cada 100 mil habitantes",
+                    "issued": "2017-07-26T15:01:52",
+                    "format": "CSV",
+                    "modified": "2018-03-15T18:13:46Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-DE-RADIO-4G-POR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241306/numero-de-radiobases-4g-por-provincia-por-cada-100-mil-habitantes/",
+                    "description": "Número de radiobases 4G por provincia por cada 100 mil habitantes.",
+                    "title": "Número de radiobases 4G por provincia por cada 100 mil habitantes",
+                    "issued": "2017-07-26T15:01:52",
+                    "format": "XLS",
+                    "modified": "2018-03-15T18:13:46Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-DE-RADIO-4G-POR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241306/numero-de-radiobases-4g-por-provincia-por-cada-100-mil-habitantes/",
+                    "description": "Número de radiobases 4G por provincia por cada 100 mil habitantes.",
+                    "title": "Número de radiobases 4G por provincia por cada 100 mil habitantes",
+                    "issued": "2017-07-26T15:01:52",
+                    "format": "JSON",
+                    "modified": "2018-03-15T18:13:46Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-DE-RADIO-4G-POR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "NUMER-DE-RADIO-4G-POR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241306/numero-de-radiobases-4g-por-provincia-por-cada-100-mil-habitantes/",
+            "description": "Número de radiobases 4G por provincia por cada 100 mil habitantes."
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "telefonia movil",
+                "4g",
+                "provincial"
+            ],
+            "title": "Radiobases 4G desplegadas por trimestre y provincia",
+            "issued": "2018-02-09T20:21:59",
+            "modified": "2018-03-15T18:13:46Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-movil"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241305/radiobases-4g-desplegadas-por-trimestre-y-provincia/",
+                    "description": "Número de radiobases 4G desplegadas por los operadores",
+                    "title": "Radiobases 4G desplegadas por trimestre y provincia",
+                    "issued": "2018-02-09T20:21:59",
+                    "format": "CSV",
+                    "modified": "2018-03-15T18:13:46Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-4G-DESPL-POR-TRIME/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241305/radiobases-4g-desplegadas-por-trimestre-y-provincia/",
+                    "description": "Número de radiobases 4G desplegadas por los operadores",
+                    "title": "Radiobases 4G desplegadas por trimestre y provincia",
+                    "issued": "2018-02-09T20:21:59",
+                    "format": "XLS",
+                    "modified": "2018-03-15T18:13:46Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-4G-DESPL-POR-TRIME/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241305/radiobases-4g-desplegadas-por-trimestre-y-provincia/",
+                    "description": "Número de radiobases 4G desplegadas por los operadores",
+                    "title": "Radiobases 4G desplegadas por trimestre y provincia",
+                    "issued": "2018-02-09T20:21:59",
+                    "format": "JSON",
+                    "modified": "2018-03-15T18:13:46Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-4G-DESPL-POR-TRIME/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "RADIO-4G-DESPL-POR-TRIME",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241305/radiobases-4g-desplegadas-por-trimestre-y-provincia/",
+            "description": "Número de radiobases 4G desplegadas por los operadores"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
                 "equipos de comunicacion",
                 "homologaciones"
             ],
@@ -1866,118 +1978,6 @@
             "identifier": "PENET-TOTAL-NACIO-DE-LA",
             "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241316/penetracion-total-nacional-de-la-telefonia-fija-por-trimestre/",
             "description": "Penetración total nacional de la telefonía fija por trimestre (métrica: hogares y habitantes)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "telefonia movil",
-                "4g",
-                "provincial"
-            ],
-            "title": "Radiobases 4G desplegadas por trimestre y provincia",
-            "issued": "2018-02-09T20:21:59",
-            "modified": "2018-02-09T23:22:06Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "telefonia-movil"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241305/radiobases-4g-desplegadas-por-trimestre-y-provincia/",
-                    "description": "Número de radiobases 4G desplegadas por los operadores",
-                    "title": "Radiobases 4G desplegadas por trimestre y provincia",
-                    "issued": "2018-02-09T20:21:59",
-                    "format": "CSV",
-                    "modified": "2018-02-09T23:22:06Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-4G-DESPL-POR-TRIME/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241305/radiobases-4g-desplegadas-por-trimestre-y-provincia/",
-                    "description": "Número de radiobases 4G desplegadas por los operadores",
-                    "title": "Radiobases 4G desplegadas por trimestre y provincia",
-                    "issued": "2018-02-09T20:21:59",
-                    "format": "XLS",
-                    "modified": "2018-02-09T23:22:06Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-4G-DESPL-POR-TRIME/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241305/radiobases-4g-desplegadas-por-trimestre-y-provincia/",
-                    "description": "Número de radiobases 4G desplegadas por los operadores",
-                    "title": "Radiobases 4G desplegadas por trimestre y provincia",
-                    "issued": "2018-02-09T20:21:59",
-                    "format": "JSON",
-                    "modified": "2018-02-09T23:22:06Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-4G-DESPL-POR-TRIME/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "RADIO-4G-DESPL-POR-TRIME",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241305/radiobases-4g-desplegadas-por-trimestre-y-provincia/",
-            "description": "Número de radiobases 4G desplegadas por los operadores"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "telefonia movil",
-                "4g",
-                "provincial"
-            ],
-            "title": "Número de radiobases 4G por provincia por cada 100 mil habitantes",
-            "issued": "2017-07-26T15:01:52",
-            "modified": "2018-02-09T23:21:06Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "telefonia-movil"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241306/numero-de-radiobases-4g-por-provincia-por-cada-100-mil-habitantes/",
-                    "description": "Número de radiobases 4G por provincia por cada 100 mil habitantes.",
-                    "title": "Número de radiobases 4G por provincia por cada 100 mil habitantes",
-                    "issued": "2017-07-26T15:01:52",
-                    "format": "CSV",
-                    "modified": "2018-02-09T23:21:06Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-DE-RADIO-4G-POR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241306/numero-de-radiobases-4g-por-provincia-por-cada-100-mil-habitantes/",
-                    "description": "Número de radiobases 4G por provincia por cada 100 mil habitantes.",
-                    "title": "Número de radiobases 4G por provincia por cada 100 mil habitantes",
-                    "issued": "2017-07-26T15:01:52",
-                    "format": "XLS",
-                    "modified": "2018-02-09T23:21:06Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-DE-RADIO-4G-POR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241306/numero-de-radiobases-4g-por-provincia-por-cada-100-mil-habitantes/",
-                    "description": "Número de radiobases 4G por provincia por cada 100 mil habitantes.",
-                    "title": "Número de radiobases 4G por provincia por cada 100 mil habitantes",
-                    "issued": "2017-07-26T15:01:52",
-                    "format": "JSON",
-                    "modified": "2018-02-09T23:21:06Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-DE-RADIO-4G-POR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "NUMER-DE-RADIO-4G-POR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241306/numero-de-radiobases-4g-por-provincia-por-cada-100-mil-habitantes/",
-            "description": "Número de radiobases 4G por provincia por cada 100 mil habitantes."
         },
         {
             "publisher": {
