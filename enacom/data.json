@@ -69,6 +69,169 @@
                 "TECH"
             ],
             "keyword": [
+                "fomeca",
+                "servicio universal"
+            ],
+            "title": "Pagos anuales de las líneas de FOMECA (pesos corrientes)",
+            "issued": "2018-03-14T14:45:42",
+            "modified": "2018-03-16T10:08:07Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "fomeca"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245460/pagos-anuales-de-las-lineas-de-fomeca-pesos-corrientes/",
+                    "description": "Pagos anuales de las líneas de Fomeca en pesos corrientes",
+                    "title": "Pagos anuales de las líneas de FOMECA (pesos corrientes)",
+                    "issued": "2018-03-14T14:45:42",
+                    "format": "CSV",
+                    "modified": "2018-03-16T10:08:07Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PAGOS-ANUAL-DE-LAS-LINEA/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245460/pagos-anuales-de-las-lineas-de-fomeca-pesos-corrientes/",
+                    "description": "Pagos anuales de las líneas de Fomeca en pesos corrientes",
+                    "title": "Pagos anuales de las líneas de FOMECA (pesos corrientes)",
+                    "issued": "2018-03-14T14:45:42",
+                    "format": "XLS",
+                    "modified": "2018-03-16T10:08:07Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PAGOS-ANUAL-DE-LAS-LINEA/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245460/pagos-anuales-de-las-lineas-de-fomeca-pesos-corrientes/",
+                    "description": "Pagos anuales de las líneas de Fomeca en pesos corrientes",
+                    "title": "Pagos anuales de las líneas de FOMECA (pesos corrientes)",
+                    "issued": "2018-03-14T14:45:42",
+                    "format": "JSON",
+                    "modified": "2018-03-16T10:08:07Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PAGOS-ANUAL-DE-LAS-LINEA/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "PAGOS-ANUAL-DE-LAS-LINEA",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/245460/pagos-anuales-de-las-lineas-de-fomeca-pesos-corrientes/",
+            "description": "Pagos anuales de las líneas de Fomeca en pesos corrientes"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "licencias"
+            ],
+            "title": "Licenciatarios TIC",
+            "issued": "2017-11-07T14:22:10",
+            "modified": "2018-03-16T03:18:44Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "licencias"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
+                    "description": "Listado de licencias de operadores de TIC",
+                    "title": "Licenciatarios TIC",
+                    "issued": "2017-11-07T14:22:10",
+                    "format": "CSV",
+                    "modified": "2018-03-16T03:18:44Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
+                    "description": "Listado de licencias de operadores de TIC",
+                    "title": "Licenciatarios TIC",
+                    "issued": "2017-11-07T14:22:10",
+                    "format": "XLS",
+                    "modified": "2018-03-16T03:18:44Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
+                    "description": "Listado de licencias de operadores de TIC",
+                    "title": "Licenciatarios TIC",
+                    "issued": "2017-11-07T14:22:10",
+                    "format": "JSON",
+                    "modified": "2018-03-16T03:18:44Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "LICEN-TIC-AUTOM",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
+            "description": "Listado de licencias de operadores de TIC"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "licencias"
+            ],
+            "title": "Subregistro de prestadores de servicios de mensajería",
+            "issued": "2017-11-07T14:33:16",
+            "modified": "2018-03-16T03:18:32Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "servicios-postales"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243430/subregistro-de-prestadores-de-servicios-de-mensajeria/",
+                    "description": "Prestadores de servicios de mensajería",
+                    "title": "Subregistro de prestadores de servicios de mensajería",
+                    "issued": "2017-11-07T14:33:16",
+                    "format": "CSV",
+                    "modified": "2018-03-16T03:18:32Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/SUBRE-DE-PREST-DE-SERVI/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243430/subregistro-de-prestadores-de-servicios-de-mensajeria/",
+                    "description": "Prestadores de servicios de mensajería",
+                    "title": "Subregistro de prestadores de servicios de mensajería",
+                    "issued": "2017-11-07T14:33:16",
+                    "format": "XLS",
+                    "modified": "2018-03-16T03:18:32Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/SUBRE-DE-PREST-DE-SERVI/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243430/subregistro-de-prestadores-de-servicios-de-mensajeria/",
+                    "description": "Prestadores de servicios de mensajería",
+                    "title": "Subregistro de prestadores de servicios de mensajería",
+                    "issued": "2017-11-07T14:33:16",
+                    "format": "JSON",
+                    "modified": "2018-03-16T03:18:32Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/SUBRE-DE-PREST-DE-SERVI/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "SUBRE-DE-PREST-DE-SERVI",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243430/subregistro-de-prestadores-de-servicios-de-mensajeria/",
+            "description": "Prestadores de servicios de mensajería"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
                 "telefonia movil",
                 "4g",
                 "provincial"
@@ -335,169 +498,6 @@
             "identifier": "EQUIP-HOMOL-INSCR",
             "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
             "description": "Equipos homologados"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "fomeca",
-                "servicio universal"
-            ],
-            "title": "Pagos anuales de las líneas de FOMECA (pesos corrientes)",
-            "issued": "2018-03-14T14:45:42",
-            "modified": "2018-03-15T04:52:00Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "fomeca"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245460/pagos-anuales-de-las-lineas-de-fomeca-pesos-corrientes/",
-                    "description": "Pagos anuales de las líneas de Fomeca en pesos corrientes",
-                    "title": "Pagos anuales de las líneas de FOMECA (pesos corrientes)",
-                    "issued": "2018-03-14T14:45:42",
-                    "format": "CSV",
-                    "modified": "2018-03-15T04:52:00Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PAGOS-ANUAL-DE-LAS-LINEA/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245460/pagos-anuales-de-las-lineas-de-fomeca-pesos-corrientes/",
-                    "description": "Pagos anuales de las líneas de Fomeca en pesos corrientes",
-                    "title": "Pagos anuales de las líneas de FOMECA (pesos corrientes)",
-                    "issued": "2018-03-14T14:45:42",
-                    "format": "XLS",
-                    "modified": "2018-03-15T04:52:00Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PAGOS-ANUAL-DE-LAS-LINEA/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245460/pagos-anuales-de-las-lineas-de-fomeca-pesos-corrientes/",
-                    "description": "Pagos anuales de las líneas de Fomeca en pesos corrientes",
-                    "title": "Pagos anuales de las líneas de FOMECA (pesos corrientes)",
-                    "issued": "2018-03-14T14:45:42",
-                    "format": "JSON",
-                    "modified": "2018-03-15T04:52:00Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PAGOS-ANUAL-DE-LAS-LINEA/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "PAGOS-ANUAL-DE-LAS-LINEA",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/245460/pagos-anuales-de-las-lineas-de-fomeca-pesos-corrientes/",
-            "description": "Pagos anuales de las líneas de Fomeca en pesos corrientes"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "licencias"
-            ],
-            "title": "Licenciatarios TIC",
-            "issued": "2017-11-07T14:22:10",
-            "modified": "2018-03-15T03:49:13Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "licencias"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
-                    "description": "Listado de licencias de operadores de TIC",
-                    "title": "Licenciatarios TIC",
-                    "issued": "2017-11-07T14:22:10",
-                    "format": "CSV",
-                    "modified": "2018-03-15T03:49:13Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
-                    "description": "Listado de licencias de operadores de TIC",
-                    "title": "Licenciatarios TIC",
-                    "issued": "2017-11-07T14:22:10",
-                    "format": "XLS",
-                    "modified": "2018-03-15T03:49:13Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
-                    "description": "Listado de licencias de operadores de TIC",
-                    "title": "Licenciatarios TIC",
-                    "issued": "2017-11-07T14:22:10",
-                    "format": "JSON",
-                    "modified": "2018-03-15T03:49:13Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "LICEN-TIC-AUTOM",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
-            "description": "Listado de licencias de operadores de TIC"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "licencias"
-            ],
-            "title": "Subregistro de prestadores de servicios de mensajería",
-            "issued": "2017-11-07T14:33:16",
-            "modified": "2018-03-15T03:48:59Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "servicios-postales"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243430/subregistro-de-prestadores-de-servicios-de-mensajeria/",
-                    "description": "Prestadores de servicios de mensajería",
-                    "title": "Subregistro de prestadores de servicios de mensajería",
-                    "issued": "2017-11-07T14:33:16",
-                    "format": "CSV",
-                    "modified": "2018-03-15T03:48:59Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/SUBRE-DE-PREST-DE-SERVI/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243430/subregistro-de-prestadores-de-servicios-de-mensajeria/",
-                    "description": "Prestadores de servicios de mensajería",
-                    "title": "Subregistro de prestadores de servicios de mensajería",
-                    "issued": "2017-11-07T14:33:16",
-                    "format": "XLS",
-                    "modified": "2018-03-15T03:48:59Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/SUBRE-DE-PREST-DE-SERVI/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243430/subregistro-de-prestadores-de-servicios-de-mensajeria/",
-                    "description": "Prestadores de servicios de mensajería",
-                    "title": "Subregistro de prestadores de servicios de mensajería",
-                    "issued": "2017-11-07T14:33:16",
-                    "format": "JSON",
-                    "modified": "2018-03-15T03:48:59Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/SUBRE-DE-PREST-DE-SERVI/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "SUBRE-DE-PREST-DE-SERVI",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243430/subregistro-de-prestadores-de-servicios-de-mensajeria/",
-            "description": "Prestadores de servicios de mensajería"
         },
         {
             "publisher": {
