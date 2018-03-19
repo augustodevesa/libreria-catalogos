@@ -69,6 +69,119 @@
                 "TECH"
             ],
             "keyword": [
+                "internet",
+                "telefonia movil",
+                "banda ancha",
+                "provincial"
+            ],
+            "title": "Conectividad al servicio de Internet",
+            "issued": "2017-07-24T15:04:59",
+            "modified": "2018-03-19T23:00:56Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "acceso-a-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241175/conectividad-al-servicio-de-internet/",
+                    "description": "Consulta las tecnologías disponibles en tu localidad para acceder al servicio de Internet fijo y móvil",
+                    "title": "Conectividad al servicio de Internet",
+                    "issued": "2017-07-24T15:04:59",
+                    "format": "CSV",
+                    "modified": "2018-03-19T23:00:56Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/CONEC-AL-SERVI-DE-INTER/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241175/conectividad-al-servicio-de-internet/",
+                    "description": "Consulta las tecnologías disponibles en tu localidad para acceder al servicio de Internet fijo y móvil",
+                    "title": "Conectividad al servicio de Internet",
+                    "issued": "2017-07-24T15:04:59",
+                    "format": "XLS",
+                    "modified": "2018-03-19T23:00:56Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/CONEC-AL-SERVI-DE-INTER/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241175/conectividad-al-servicio-de-internet/",
+                    "description": "Consulta las tecnologías disponibles en tu localidad para acceder al servicio de Internet fijo y móvil",
+                    "title": "Conectividad al servicio de Internet",
+                    "issued": "2017-07-24T15:04:59",
+                    "format": "JSON",
+                    "modified": "2018-03-19T23:00:56Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/CONEC-AL-SERVI-DE-INTER/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "CONEC-AL-SERVI-DE-INTER",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241175/conectividad-al-servicio-de-internet/",
+            "description": "Consulta las tecnologías disponibles en tu localidad para acceder al servicio de Internet fijo y móvil"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "telefonia fija",
+                "provincial",
+                "penetración"
+            ],
+            "title": "Penetración trimestral de la telefonía fija por provincia",
+            "issued": "2018-03-19T19:15:35",
+            "modified": "2018-03-19T22:19:37Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-fija"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245519/penetracion-trimestral-de-la-telefonia-fija-por-provincia/",
+                    "description": "Número de accesos de telefonía fija por hogar y habitante de cada provincia",
+                    "title": "Penetración trimestral de la telefonía fija por provincia",
+                    "issued": "2018-03-19T19:15:35",
+                    "format": "CSV",
+                    "modified": "2018-03-19T22:19:37Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TELEF-FIJA/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245519/penetracion-trimestral-de-la-telefonia-fija-por-provincia/",
+                    "description": "Número de accesos de telefonía fija por hogar y habitante de cada provincia",
+                    "title": "Penetración trimestral de la telefonía fija por provincia",
+                    "issued": "2018-03-19T19:15:35",
+                    "format": "XLS",
+                    "modified": "2018-03-19T22:19:37Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TELEF-FIJA/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245519/penetracion-trimestral-de-la-telefonia-fija-por-provincia/",
+                    "description": "Número de accesos de telefonía fija por hogar y habitante de cada provincia",
+                    "title": "Penetración trimestral de la telefonía fija por provincia",
+                    "issued": "2018-03-19T19:15:35",
+                    "format": "JSON",
+                    "modified": "2018-03-19T22:19:37Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TELEF-FIJA/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "TELEF-FIJA",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/245519/penetracion-trimestral-de-la-telefonia-fija-por-provincia/",
+            "description": "Número de accesos de telefonía fija por hogar y habitante de cada provincia"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
                 "telefonia",
                 "numeracion"
             ],
@@ -3750,63 +3863,6 @@
             "identifier": "LISTA-DE-SENAL-DISTI-ESPEC",
             "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243052/listado-de-senales-distintivas-especiales/",
             "description": "Señales distintivas especiales"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "internet",
-                "telefonia movil",
-                "banda ancha",
-                "provincial"
-            ],
-            "title": "Conectividad al servicio de Internet",
-            "issued": "2017-07-24T14:04:59",
-            "modified": "2017-08-01T19:55:32Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "acceso-a-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241175/conectividad-al-servicio-de-internet/",
-                    "description": "Consulta las tecnologías disponibles en tu localidad para acceder al servicio de Internet fijo y móvil",
-                    "title": "Conectividad al servicio de Internet",
-                    "issued": "2017-07-24T14:04:59",
-                    "format": "CSV",
-                    "modified": "2017-08-01T19:55:32Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/CONEC-AL-SERVI-DE-INTER/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241175/conectividad-al-servicio-de-internet/",
-                    "description": "Consulta las tecnologías disponibles en tu localidad para acceder al servicio de Internet fijo y móvil",
-                    "title": "Conectividad al servicio de Internet",
-                    "issued": "2017-07-24T14:04:59",
-                    "format": "XLS",
-                    "modified": "2017-08-01T19:55:32Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/CONEC-AL-SERVI-DE-INTER/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241175/conectividad-al-servicio-de-internet/",
-                    "description": "Consulta las tecnologías disponibles en tu localidad para acceder al servicio de Internet fijo y móvil",
-                    "title": "Conectividad al servicio de Internet",
-                    "issued": "2017-07-24T14:04:59",
-                    "format": "JSON",
-                    "modified": "2017-08-01T19:55:32Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/CONEC-AL-SERVI-DE-INTER/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "CONEC-AL-SERVI-DE-INTER",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241175/conectividad-al-servicio-de-internet/",
-            "description": "Consulta las tecnologías disponibles en tu localidad para acceder al servicio de Internet fijo y móvil"
         },
         {
             "publisher": {
