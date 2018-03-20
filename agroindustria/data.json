@@ -2403,56 +2403,6 @@
         },
         {
             "publisher": {
-                "mbox": "rncyfs@inase.gov.ar",
-                "name": "Dirección de Certificación y Control - INASE"
-            },
-            "identifier": "e21dfda4-d28a-4141-ab8e-67112f2ef24a",
-            "description": "Datos de las variedades inscriptas en el Registro Nacional de Cultivares  y Registro Nacional de la Propiedad de Cultivares, dependiente del Instituto Nacional de Semillas.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Catálogo nacional de cultivares registrados en el RNC y RNPC",
-            "issued": "2017-09-07T22:19:40.594988",
-            "modified": "2017-12-13T20:07:20.569085",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "Registros, censos y encuestas"
-            ],
-            "keyword": [
-                "INASE",
-                "cultivar",
-                "especie"
-            ],
-            "accrualPeriodicity": "R/P2M",
-            "superTheme": [
-                "AGRI"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/e21dfda4-d28a-4141-ab8e-67112f2ef24a/archivo/38735bc0-c807-41d3-9834-0d6f6555225d",
-                    "description": "Datos de las variedades inscriptas en el Registro Nacional de Cultivares  y Registro Nacional de la Propiedad de Cultivares al mes de diciembre de 2017.",
-                    "license": "odc-odbl",
-                    "title": "Catálogo nacional de cultivares (diciembre 2017)",
-                    "issued": "2017-09-07T22:22:16.592335",
-                    "format": "CSV",
-                    "modified": "2017-12-13T20:07:20.521289",
-                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/e21dfda4-d28a-4141-ab8e-67112f2ef24a/resource/38735bc0-c807-41d3-9834-0d6f6555225d/download/catalogonacionalrncyrnpcdiciembre17.csv"
-                },
-                {
-                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/e21dfda4-d28a-4141-ab8e-67112f2ef24a/archivo/87d31129-11c4-4231-8668-81ee2049dec3",
-                    "description": "Detalle de cada una de las columnas que integran el recurso.",
-                    "license": "odc-odbl",
-                    "title": "Referencias de catálogo nacional de cultivares",
-                    "issued": "2017-09-07T22:27:31.042569",
-                    "format": "CSV",
-                    "modified": "2017-09-07T22:27:30.989168",
-                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/e21dfda4-d28a-4141-ab8e-67112f2ef24a/resource/87d31129-11c4-4231-8668-81ee2049dec3/download/catalogo-nacional-de-cultivares---referencias.csv"
-                }
-            ],
-            "landingPage": "https://datos.agroindustria.gob.ar/dataset/catalogo-nacional-de-cultivares"
-        },
-        {
-            "publisher": {
                 "mbox": "productos_pecuarios@magyp.gob.ar",
                 "name": "Subsecretaría de Ganadería"
             },
