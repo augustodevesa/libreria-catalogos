@@ -17,7 +17,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Solicitudes de Autorización de Portación de Armas de Fuego",
             "issued": "2017-08-22T18:33:16.495717",
-            "modified": "2018-03-28T17:53:07.709342",
+            "modified": "2018-03-28T18:52:45.640516",
             "theme": [
                 "sistema-registral"
             ],
@@ -3400,7 +3400,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Internos del Servicio Penitenciario Federal - SPF",
             "issued": "2016-09-29T12:32:11.583547",
-            "modified": "2018-03-23T12:12:06.796426",
+            "modified": "2018-03-28T19:34:14.819364",
             "theme": [
                 "sistema-penitenciario"
             ],
@@ -5678,7 +5678,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego",
             "issued": "2016-09-02T18:14:39.283242",
-            "modified": "2018-03-28T17:59:22.317643",
+            "modified": "2018-03-28T18:15:44.323464",
             "theme": [
                 "sistema-registral"
             ],
@@ -5712,52 +5712,28 @@
                     "identifier": "023440e6-2baf-47db-a470-d6df1c7693be"
                 },
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/518b5db9-3dd6-4a29-a17f-3c1e2b972dd3",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2018-02 quincena 2",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/7f7eb833-67df-40b9-b771-f69841c9ec9f",
+                    "description": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2018 Este recurso contiene las solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\" correspondientes al año 2016, organizadas en archivos quincenales.",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2018",
                     "byteSize": null,
-                    "format": "CSV",
+                    "format": "ZIP",
                     "mediaType": null,
-                    "modified": "2018-03-01T09:30:38.523036",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/518b5db9-3dd6-4a29-a17f-3c1e2b972dd3/download/solicitudes-condicion-legitimo-usuario-armas-fuego-2018-02-quincena-2.csv",
-                    "issued": "2018-03-01T09:30:38.938054",
-                    "identifier": "518b5db9-3dd6-4a29-a17f-3c1e2b972dd3"
+                    "modified": "2018-03-28T15:12:05.680441",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/7f7eb833-67df-40b9-b771-f69841c9ec9f/download/solicitudes-condicion-legitimo-usuario-armas-fuego-2018.zip",
+                    "issued": "2018-03-28T15:12:05.949769",
+                    "identifier": "7f7eb833-67df-40b9-b771-f69841c9ec9f"
                 },
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/0bfceb86-c41f-4a45-9121-88b7279807fe",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2018-02 quincena 1",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/8fc55c73-a403-4b4b-9437-581cd8f63497",
+                    "description": "Este recurso contiene las solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\" correspondientes al año 2016, organizadas en archivos quincenales.",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017",
                     "byteSize": null,
-                    "format": "CSV",
+                    "format": "ZIP",
                     "mediaType": null,
-                    "modified": "2018-02-16T15:41:07.994581",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/0bfceb86-c41f-4a45-9121-88b7279807fe/download/solicitudes-condicion-legitimo-usuario-armas-fuego-2018-02-quincena-1.csv",
-                    "issued": "2018-02-16T15:41:08.359666",
-                    "identifier": "0bfceb86-c41f-4a45-9121-88b7279807fe"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/ac217142-046d-4609-8fe9-4e520fd1fd91",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2018-01 quincena 2",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2018-02-05T11:56:00.111677",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/ac217142-046d-4609-8fe9-4e520fd1fd91/download/solicitudes-condicion-legitimo-usuario-armas-fuego-2018-01-quincena-2.csv",
-                    "issued": "2018-02-05T11:56:00.478537",
-                    "identifier": "ac217142-046d-4609-8fe9-4e520fd1fd91"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/44f37d84-af08-4605-b982-e956a0460c51",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2018-01 quincena 1",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2018-01-19T11:34:50.066741",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/44f37d84-af08-4605-b982-e956a0460c51/download/solicitudes-condicion-legitimo-usuario-armas-fuego-2018-01-quincena-1.csv",
-                    "issued": "2018-01-16T10:20:53.220373",
-                    "identifier": "44f37d84-af08-4605-b982-e956a0460c51"
+                    "modified": "2018-03-28T13:50:37.348180",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/8fc55c73-a403-4b4b-9437-581cd8f63497/download/solicitudes-condicion-legitimo-usuario-armas-fuego-2017.zip",
+                    "issued": "2018-03-28T13:50:37.801418",
+                    "identifier": "8fc55c73-a403-4b4b-9437-581cd8f63497"
                 },
                 {
                     "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/d79bc3fd-559a-4f03-9059-408cb774105f",
@@ -5770,18 +5746,6 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/d79bc3fd-559a-4f03-9059-408cb774105f/download/solicitudes-condicion-legitimo-usuario-armas-fuego-2016.zip",
                     "issued": "2018-03-28T13:49:11.219961",
                     "identifier": "d79bc3fd-559a-4f03-9059-408cb774105f"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/8fc55c73-a403-4b4b-9437-581cd8f63497",
-                    "description": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2016\r\nEste recurso contiene las solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\" correspondientes al año 2016, organizadas en archivos quincenales.",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017",
-                    "byteSize": null,
-                    "format": "ZIP",
-                    "mediaType": null,
-                    "modified": "2018-03-28T13:50:37.348180",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/8fc55c73-a403-4b4b-9437-581cd8f63497/download/solicitudes-condicion-legitimo-usuario-armas-fuego-2017.zip",
-                    "issued": "2018-03-28T13:50:37.801418",
-                    "identifier": "8fc55c73-a403-4b4b-9437-581cd8f63497"
                 }
             ]
         },
