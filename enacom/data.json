@@ -69,6 +69,171 @@
                 "TECH"
             ],
             "keyword": [
+                "telefonia",
+                "numeracion"
+            ],
+            "title": "Numeración geográfica",
+            "issued": "2016-09-20T20:59:01",
+            "modified": "2018-04-03T20:09:29Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "servicios-postales"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231697/numeracion-geografica/",
+                    "description": "Es la numeración asociada a una zona geográfica en particular.Tiene la siguiente estructura: Indicativo Interurbano + Numero de Abonado",
+                    "title": "Numeración geográfica",
+                    "issued": "2016-09-20T20:59:01",
+                    "format": "CSV",
+                    "modified": "2018-04-03T20:09:29Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231697/numeracion-geografica/",
+                    "description": "Es la numeración asociada a una zona geográfica en particular.Tiene la siguiente estructura: Indicativo Interurbano + Numero de Abonado",
+                    "title": "Numeración geográfica",
+                    "issued": "2016-09-20T20:59:01",
+                    "format": "XLS",
+                    "modified": "2018-04-03T20:09:29Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231697/numeracion-geografica/",
+                    "description": "Es la numeración asociada a una zona geográfica en particular.Tiene la siguiente estructura: Indicativo Interurbano + Numero de Abonado",
+                    "title": "Numeración geográfica",
+                    "issued": "2016-09-20T20:59:01",
+                    "format": "JSON",
+                    "modified": "2018-04-03T20:09:29Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "NUMER-GEOGR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231697/numeracion-geografica/",
+            "description": "Es la numeración asociada a una zona geográfica en particular.Tiene la siguiente estructura: Indicativo Interurbano + Numero de Abonado"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "telefonia",
+                "numeracion"
+            ],
+            "title": "Numeración no geográfica",
+            "issued": "2016-09-20T20:56:16",
+            "modified": "2018-04-03T20:09:25Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "servicios-postales"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
+                    "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país",
+                    "title": "Numeración no geográfica",
+                    "issued": "2016-09-20T20:56:16",
+                    "format": "CSV",
+                    "modified": "2018-04-03T20:09:25Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
+                    "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país",
+                    "title": "Numeración no geográfica",
+                    "issued": "2016-09-20T20:56:16",
+                    "format": "XLS",
+                    "modified": "2018-04-03T20:09:25Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
+                    "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país",
+                    "title": "Numeración no geográfica",
+                    "issued": "2016-09-20T20:56:16",
+                    "format": "JSON",
+                    "modified": "2018-04-03T20:09:25Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "NUMER-NO-GEOGR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
+            "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "radioaficionados",
+                " radioclubes"
+            ],
+            "title": "Listado de radioaficionados",
+            "issued": "2017-10-23T13:16:32",
+            "modified": "2018-04-03T19:47:20Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "espectro-radioelectrico"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
+                    "description": "Radioaficionados",
+                    "title": "Listado de radioaficionados",
+                    "issued": "2017-10-23T13:16:32",
+                    "format": "CSV",
+                    "modified": "2018-04-03T19:47:20Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-RADIO-94584/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
+                    "description": "Radioaficionados",
+                    "title": "Listado de radioaficionados",
+                    "issued": "2017-10-23T13:16:32",
+                    "format": "XLS",
+                    "modified": "2018-04-03T19:47:20Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-RADIO-94584/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
+                    "description": "Radioaficionados",
+                    "title": "Listado de radioaficionados",
+                    "issued": "2017-10-23T13:16:32",
+                    "format": "JSON",
+                    "modified": "2018-04-03T19:47:20Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-RADIO-94584/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "LISTA-DE-RADIO-94584",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
+            "description": "Radioaficionados"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
                 "internet",
                 "banda ancha",
                 "servicio universal"
@@ -181,106 +346,51 @@
                 "TECH"
             ],
             "keyword": [
-                "telefonia",
-                "numeracion"
+                "equipos de comunicacion",
+                "homologaciones"
             ],
-            "title": "Numeración no geográfica",
-            "issued": "2016-09-20T20:56:16",
-            "modified": "2018-04-03T11:33:41Z",
+            "title": "Equipos homologados inscriptos",
+            "issued": "2017-11-07T15:39:19",
+            "modified": "2018-04-03T15:21:52Z",
             "language": [
                 "spa"
             ],
             "theme": [
-                "servicios-postales"
+                "homologacion-de-equipos"
             ],
             "accrualPeriodicity": "R/P1Y",
             "distribution": [
                 {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
-                    "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país",
-                    "title": "Numeración no geográfica",
-                    "issued": "2016-09-20T20:56:16",
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
+                    "description": "Equipos homologados",
+                    "title": "Equipos homologados inscriptos",
+                    "issued": "2017-11-07T15:39:19",
                     "format": "CSV",
-                    "modified": "2018-04-03T11:33:41Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                    "modified": "2018-04-03T15:21:52Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
-                    "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país",
-                    "title": "Numeración no geográfica",
-                    "issued": "2016-09-20T20:56:16",
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
+                    "description": "Equipos homologados",
+                    "title": "Equipos homologados inscriptos",
+                    "issued": "2017-11-07T15:39:19",
                     "format": "XLS",
-                    "modified": "2018-04-03T11:33:41Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                    "modified": "2018-04-03T15:21:52Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
-                    "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país",
-                    "title": "Numeración no geográfica",
-                    "issued": "2016-09-20T20:56:16",
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
+                    "description": "Equipos homologados",
+                    "title": "Equipos homologados inscriptos",
+                    "issued": "2017-11-07T15:39:19",
                     "format": "JSON",
-                    "modified": "2018-04-03T11:33:41Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                    "modified": "2018-04-03T15:21:52Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 }
             ],
-            "identifier": "NUMER-NO-GEOGR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
-            "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "telefonia",
-                "numeracion"
-            ],
-            "title": "Numeración geográfica",
-            "issued": "2016-09-20T20:59:01",
-            "modified": "2018-04-03T09:50:56Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "servicios-postales"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231697/numeracion-geografica/",
-                    "description": "Es la numeración asociada a una zona geográfica en particular.Tiene la siguiente estructura: Indicativo Interurbano + Numero de Abonado",
-                    "title": "Numeración geográfica",
-                    "issued": "2016-09-20T20:59:01",
-                    "format": "CSV",
-                    "modified": "2018-04-03T09:50:56Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231697/numeracion-geografica/",
-                    "description": "Es la numeración asociada a una zona geográfica en particular.Tiene la siguiente estructura: Indicativo Interurbano + Numero de Abonado",
-                    "title": "Numeración geográfica",
-                    "issued": "2016-09-20T20:59:01",
-                    "format": "XLS",
-                    "modified": "2018-04-03T09:50:56Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231697/numeracion-geografica/",
-                    "description": "Es la numeración asociada a una zona geográfica en particular.Tiene la siguiente estructura: Indicativo Interurbano + Numero de Abonado",
-                    "title": "Numeración geográfica",
-                    "issued": "2016-09-20T20:59:01",
-                    "format": "JSON",
-                    "modified": "2018-04-03T09:50:56Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "NUMER-GEOGR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231697/numeracion-geografica/",
-            "description": "Es la numeración asociada a una zona geográfica en particular.Tiene la siguiente estructura: Indicativo Interurbano + Numero de Abonado"
+            "identifier": "EQUIP-HOMOL-INSCR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
+            "description": "Equipos homologados"
         },
         {
             "publisher": {
@@ -713,61 +823,6 @@
             "identifier": "PAGOS-ANUAL-DE-LAS-LINEA",
             "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/245460/pagos-anuales-de-las-lineas-de-fomeca-pesos-corrientes/",
             "description": "Pagos anuales de las líneas de Fomeca en pesos corrientes"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "equipos de comunicacion",
-                "homologaciones"
-            ],
-            "title": "Equipos homologados inscriptos",
-            "issued": "2017-11-07T15:39:19",
-            "modified": "2018-04-02T03:34:47Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "homologacion-de-equipos"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
-                    "description": "Equipos homologados",
-                    "title": "Equipos homologados inscriptos",
-                    "issued": "2017-11-07T15:39:19",
-                    "format": "CSV",
-                    "modified": "2018-04-02T03:34:47Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
-                    "description": "Equipos homologados",
-                    "title": "Equipos homologados inscriptos",
-                    "issued": "2017-11-07T15:39:19",
-                    "format": "XLS",
-                    "modified": "2018-04-02T03:34:47Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
-                    "description": "Equipos homologados",
-                    "title": "Equipos homologados inscriptos",
-                    "issued": "2017-11-07T15:39:19",
-                    "format": "JSON",
-                    "modified": "2018-04-02T03:34:47Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "EQUIP-HOMOL-INSCR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
-            "description": "Equipos homologados"
         },
         {
             "publisher": {
@@ -3921,61 +3976,6 @@
             "identifier": "VENTA-TRIME-DE-SERVI-TELEG",
             "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241163/ventas-mensuales-de-servicios-telegraficos-del-correo-oficial-y-privados/",
             "description": "Ventas mensuales de servicios telegráficos del correo oficial y operadores privados (en $)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "radioaficionados",
-                " radioclubes"
-            ],
-            "title": "Listado de radioaficionados",
-            "issued": "2017-10-23T13:16:32",
-            "modified": "2017-11-08T18:10:09Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "espectro-radioelectrico"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
-                    "description": "Radioaficionados",
-                    "title": "Listado de radioaficionados",
-                    "issued": "2017-10-23T13:16:32",
-                    "format": "CSV",
-                    "modified": "2017-11-08T18:10:09Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-RADIO-94584/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
-                    "description": "Radioaficionados",
-                    "title": "Listado de radioaficionados",
-                    "issued": "2017-10-23T13:16:32",
-                    "format": "XLS",
-                    "modified": "2017-11-08T18:10:09Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-RADIO-94584/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
-                    "description": "Radioaficionados",
-                    "title": "Listado de radioaficionados",
-                    "issued": "2017-10-23T13:16:32",
-                    "format": "JSON",
-                    "modified": "2017-11-08T18:10:09Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-RADIO-94584/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "LISTA-DE-RADIO-94584",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
-            "description": "Radioaficionados"
         },
         {
             "publisher": {
