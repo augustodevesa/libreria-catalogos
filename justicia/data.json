@@ -431,7 +431,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ-",
             "issued": "2017-06-23T14:53:43.430826",
-            "modified": "2018-02-26T16:21:48.579792",
+            "modified": "2018-04-03T17:43:39.188405",
             "theme": [
                 "acceso-a-justicia"
             ],
@@ -468,28 +468,28 @@
                     "identifier": "d239dbc4-4bc9-4f23-beba-79cb31ca65cb"
                 },
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/e2ec4512-1f3a-4451-adef-514ac6f5ca95",
-                    "description": "Consultas efectuadas en los Centros de Acceso a la Justicia que se encuentran informatizados",
-                    "title": "Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ- 2017 semestre 1",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/01e1f3f8-feb8-4bcc-9877-b6fbc28df7dc",
+                    "description": "Consultas efectuadas en los Centros de Acceso a la Justicia en el año 2017",
+                    "title": "Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ- 2017",
                     "byteSize": null,
-                    "format": "CSV",
+                    "format": "ZIP",
                     "mediaType": null,
-                    "modified": "2018-02-08T10:57:18.630777",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/e2ec4512-1f3a-4451-adef-514ac6f5ca95/download/consultas-centros-acceso-justicia-2017-semestre-1.csv",
-                    "issued": "2018-02-08T10:57:18.750795",
-                    "identifier": "e2ec4512-1f3a-4451-adef-514ac6f5ca95"
+                    "modified": "2018-04-03T14:42:28.258063",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/01e1f3f8-feb8-4bcc-9877-b6fbc28df7dc/download/consultas-centros-acceso-justicia-2017.zip",
+                    "issued": "2018-04-03T14:42:28.419492",
+                    "identifier": "01e1f3f8-feb8-4bcc-9877-b6fbc28df7dc"
                 },
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/8a7d8ac2-7ba8-4e6e-924c-9fde49e22856",
-                    "description": "Consultas efectuadas en los Centros de Acceso a la Justicia que se encuentran informatizados",
-                    "title": "Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ- 2016 semestre 2",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/b4ec8d7d-8c89-4797-8722-d96b287cc2e2",
+                    "description": "Consultas efectuadas en los Centros de Acceso a la Justicia en el segundo semestre de 2016",
+                    "title": "Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ- 2016",
                     "byteSize": null,
-                    "format": "CSV",
+                    "format": "ZIP",
                     "mediaType": null,
-                    "modified": "2018-02-08T10:14:08.115894",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/8a7d8ac2-7ba8-4e6e-924c-9fde49e22856/download/consultas-centros-acceso-justicia-2016-semestre-2.csv",
-                    "issued": "2017-06-23T11:55:10.004110",
-                    "identifier": "8a7d8ac2-7ba8-4e6e-924c-9fde49e22856"
+                    "modified": "2018-04-03T14:41:46.783518",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/b4ec8d7d-8c89-4797-8722-d96b287cc2e2/download/consultas-centros-acceso-justicia-2016.zip",
+                    "issued": "2018-04-03T14:41:46.954470",
+                    "identifier": "b4ec8d7d-8c89-4797-8722-d96b287cc2e2"
                 }
             ]
         },
@@ -503,7 +503,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público",
             "issued": "2017-06-23T14:42:50.118542",
-            "modified": "2018-03-19T18:39:00.801068",
+            "modified": "2018-04-03T17:51:52.063603",
             "theme": [
                 "poder-judicial"
             ],
@@ -531,162 +531,6 @@
             "identifier": "2892f2ad-e1f0-47ba-98bf-14ca693f3750",
             "distribution": [
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/896ba245-17ee-49d9-bf28-8cc0d8144663",
-                    "description": "Curriculums vitae de los magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso",
-                    "title": "Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público - 2017-07-07",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2018-01-22T11:49:40.727905",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/896ba245-17ee-49d9-bf28-8cc0d8144663/download/cv-magistrados-poder-judicial-ministerio-publico-2017-07-27.csv",
-                    "issued": "2017-07-13T15:20:21.428372",
-                    "identifier": "896ba245-17ee-49d9-bf28-8cc0d8144663"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/cfd5623c-0fbd-41a5-8766-0c972b43f51e",
-                    "description": "Curriculums vitae de los magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso",
-                    "title": "Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público - 2017-06-30",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2018-01-22T11:48:49.869742",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/cfd5623c-0fbd-41a5-8766-0c972b43f51e/download/cv-magistrados-poder-judicial-ministerio-publico-2017-06-30.csv",
-                    "issued": "2017-06-30T16:05:15.350889",
-                    "identifier": "cfd5623c-0fbd-41a5-8766-0c972b43f51e"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/2b2dc188-3770-4772-b3eb-089f38329e42",
-                    "description": "Curriculums vitae de los magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso",
-                    "title": "Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público - 2017-06-26",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2018-01-22T11:51:03.493267",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/2b2dc188-3770-4772-b3eb-089f38329e42/download/cv-magistrados-poder-judicial-ministerio-publico-2017-06-26.csv",
-                    "issued": "2017-06-29T16:40:20.536213",
-                    "identifier": "2b2dc188-3770-4772-b3eb-089f38329e42"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/26fa7403-3457-4d68-afb2-10ee2851b823",
-                    "description": "Curriculums vitae de los magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso",
-                    "title": "Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público - 2017-05-26",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2018-01-22T11:46:37.056495",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/26fa7403-3457-4d68-afb2-10ee2851b823/download/cv-magistrados-poder-judicial-ministerio-publico-2017-05-26.csv",
-                    "issued": "2017-06-23T11:45:59.322520",
-                    "identifier": "26fa7403-3457-4d68-afb2-10ee2851b823"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/48a4599b-80c5-4592-90b3-4e1c24c1409a",
-                    "description": "Curriculums vitae de los magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso.\r\n",
-                    "title": "Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público - 2017-07-27",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2018-01-22T11:43:39.799053",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/48a4599b-80c5-4592-90b3-4e1c24c1409a/download/ternas-seleccion-magistrados-poder-judicial-ministerio-publico-2017-07-27.csv",
-                    "issued": "2017-08-04T15:56:49.054908",
-                    "identifier": "48a4599b-80c5-4592-90b3-4e1c24c1409a"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/1cb5585e-43d6-4558-aa5c-7e214b4c6c53",
-                    "description": "Curriculums vitae de los magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso",
-                    "title": "Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público - 2017-09-07",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-09-08T10:42:21.569524",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/1cb5585e-43d6-4558-aa5c-7e214b4c6c53/download/cv-magistrados-poder-judicial-ministerio-publico-2017-09-07.csv",
-                    "issued": "2017-09-07T11:21:20.951158",
-                    "identifier": "1cb5585e-43d6-4558-aa5c-7e214b4c6c53"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/b44d49e6-3c9c-483f-9c9f-afaf5909fccf",
-                    "description": "Curriculums vitae de los magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso.",
-                    "title": "Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público - 2017-09-13",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-09-13T16:29:49.285716",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/b44d49e6-3c9c-483f-9c9f-afaf5909fccf/download/cv-magistrados-poder-judicial-ministerio-publico-2017-09-13.csv",
-                    "issued": "2017-09-13T16:29:49.484508",
-                    "identifier": "b44d49e6-3c9c-483f-9c9f-afaf5909fccf"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/d413b684-f5b5-48db-a689-4377d6f494a8",
-                    "description": "Curriculums vitae de los magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso.",
-                    "title": "Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público - 2017-09-22",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-10-06T16:11:40.197334",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/d413b684-f5b5-48db-a689-4377d6f494a8/download/cv-magistrados-poder-judicial-ministerio-publico-2017-09-22.csv",
-                    "issued": "2017-10-06T16:11:40.424018",
-                    "identifier": "d413b684-f5b5-48db-a689-4377d6f494a8"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/8af4b723-e258-41de-8661-1592360e1b81",
-                    "description": "Curriculums vitae de los magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso.",
-                    "title": "Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público - 2017-11-14",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-11-29T10:14:27.570462",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/8af4b723-e258-41de-8661-1592360e1b81/download/cv-magistrados-poder-judicial-ministerio-publico-2017-11-14.csv",
-                    "issued": "2017-11-28T16:17:35.669204",
-                    "identifier": "8af4b723-e258-41de-8661-1592360e1b81"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/258f4abf-f814-4db2-b0a6-40f7431d1e61",
-                    "description": "Curriculums vitae de los magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso.",
-                    "title": "Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público - 2018-01-05",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2018-01-11T10:16:03.166011",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/258f4abf-f814-4db2-b0a6-40f7431d1e61/download/cv-magistrados-poder-judicial-ministerio-publico-2018-01-05.csv",
-                    "issued": "2018-01-11T10:16:03.379047",
-                    "identifier": "258f4abf-f814-4db2-b0a6-40f7431d1e61"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/3c814fb8-f593-4cd3-9b64-ab3228bed086",
-                    "description": "Curriculums vitae de los magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso.",
-                    "title": "Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público - 2018-01-29",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2018-02-06T11:11:20.425452",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/3c814fb8-f593-4cd3-9b64-ab3228bed086/download/cv-magistrados-poder-judicial-ministerio-publico-2018-01-29.csv",
-                    "issued": "2018-02-06T11:11:20.639300",
-                    "identifier": "3c814fb8-f593-4cd3-9b64-ab3228bed086"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/d97870ed-aecb-4146-bf58-8e0dd040191a",
-                    "description": "Curriculums vitae de los magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso.",
-                    "title": "Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público - 2018-01-15",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2018-02-23T09:22:19.855247",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/d97870ed-aecb-4146-bf58-8e0dd040191a/download/cv-magistrados-poder-judicial-ministerio-publico-2018-01-15.csv",
-                    "issued": "2018-02-23T09:22:20.350612",
-                    "identifier": "d97870ed-aecb-4146-bf58-8e0dd040191a"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/ace64e01-c984-4825-a150-b0050ba7f02c",
-                    "description": "Curriculums vitae de los magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso.",
-                    "title": "Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público - 2018-02-23",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2018-03-02T15:15:32.719053",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/ace64e01-c984-4825-a150-b0050ba7f02c/download/cv-magistrados-poder-judicial-ministerio-publico-2018-02-23.csv",
-                    "issued": "2018-03-02T15:15:33.023425",
-                    "identifier": "ace64e01-c984-4825-a150-b0050ba7f02c"
-                },
-                {
                     "accessURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/4b62b5bf-fb9e-4b6f-b206-1cc203bd8771",
                     "description": "Curriculums vitae de los magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso.",
                     "title": "Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público - 2018-03-12",
@@ -697,6 +541,30 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/4b62b5bf-fb9e-4b6f-b206-1cc203bd8771/download/cv-magistrados-poder-judicial-ministerio-publico-2018-03-12.csv",
                     "issued": "2018-03-19T15:38:50.022951",
                     "identifier": "4b62b5bf-fb9e-4b6f-b206-1cc203bd8771"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/2715c7cf-dffb-4c8e-abbc-cf2d78fd0012",
+                    "description": "Este recurso contiene los curriculums vitae de los magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso. Año 2018",
+                    "title": "Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público - 2018",
+                    "byteSize": null,
+                    "format": "ZIP",
+                    "mediaType": null,
+                    "modified": "2018-04-03T14:45:13.807577",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/2715c7cf-dffb-4c8e-abbc-cf2d78fd0012/download/cv-magistrados-poder-judicial-ministerio-publico-2018.zip",
+                    "issued": "2018-04-03T14:45:14.062203",
+                    "identifier": "2715c7cf-dffb-4c8e-abbc-cf2d78fd0012"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/bcbf47dd-817f-46a6-a6d8-37eeef71e3ec",
+                    "description": "Curriculums vitae de los magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso. Año 2017",
+                    "title": "Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público - 2017",
+                    "byteSize": null,
+                    "format": "ZIP",
+                    "mediaType": null,
+                    "modified": "2018-04-03T14:44:06.269501",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/bcbf47dd-817f-46a6-a6d8-37eeef71e3ec/download/cv-magistrados-poder-judicial-ministerio-publico-2017.zip",
+                    "issued": "2018-04-03T14:44:06.529073",
+                    "identifier": "bcbf47dd-817f-46a6-a6d8-37eeef71e3ec"
                 }
             ]
         },
@@ -2287,7 +2155,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Estadística de trámites de automotores",
             "issued": "2017-06-28T17:28:28.132200",
-            "modified": "2018-03-01T15:16:15.963700",
+            "modified": "2018-04-03T17:56:45.499375",
             "theme": [
                 "sistema-registral"
             ],
@@ -2478,6 +2346,54 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/f898dbe2-77cd-4e50-9384-926ec745a706/download/estadistica-transferencias-automotores-2018-02.csv",
                     "issued": "2018-03-01T12:16:05.906410",
                     "identifier": "f898dbe2-77cd-4e50-9384-926ec745a706"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/f6997f20-db35-4540-b02f-388fe37eafd2",
+                    "description": "Estadísticas de inscripciones iniciales de automotores publicadas en 2017",
+                    "title": "Estadística de inscripciones iniciales de automotores - 2017",
+                    "byteSize": null,
+                    "format": "ZIP",
+                    "mediaType": null,
+                    "modified": "2018-04-03T14:49:44.280948",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/f6997f20-db35-4540-b02f-388fe37eafd2/download/estadistica-inscripciones-iniciales-automotores-2017.zip",
+                    "issued": "2018-04-03T14:49:44.980926",
+                    "identifier": "f6997f20-db35-4540-b02f-388fe37eafd2"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/79b4c3ce-ba39-4d7c-902b-43562d5496dd",
+                    "description": "Estadísticas de inscripciones iniciales de automotores publicadas en 2018",
+                    "title": "Estadística de inscripciones iniciales de automotores - 2018",
+                    "byteSize": null,
+                    "format": "ZIP",
+                    "mediaType": null,
+                    "modified": "2018-04-03T14:51:22.848860",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/79b4c3ce-ba39-4d7c-902b-43562d5496dd/download/estadistica-inscripciones-iniciales-automotores-2018.zip",
+                    "issued": "2018-04-03T14:51:23.105058",
+                    "identifier": "79b4c3ce-ba39-4d7c-902b-43562d5496dd"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/9e853cc4-a91a-4385-9948-695a49fce1f2",
+                    "description": "Estadística de transferencias de automotores informadas en 2018",
+                    "title": "Estadística de transferencias de automotores - 2017",
+                    "byteSize": null,
+                    "format": "ZIP",
+                    "mediaType": null,
+                    "modified": "2018-04-03T14:53:37.940683",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/9e853cc4-a91a-4385-9948-695a49fce1f2/download/estadistica-transferencia-automotores-2017.zip",
+                    "issued": "2018-04-03T14:53:38.279991",
+                    "identifier": "9e853cc4-a91a-4385-9948-695a49fce1f2"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/f41b6799-b35a-452b-b0ab-f00dd3c3de8d",
+                    "description": "Estadística de transferencias de automotores informadas en 2018",
+                    "title": "Estadística de transferencias de automotores - 2018",
+                    "byteSize": null,
+                    "format": "ZIP",
+                    "mediaType": null,
+                    "modified": "2018-04-03T14:54:44.838199",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/f41b6799-b35a-452b-b0ab-f00dd3c3de8d/download/estadistica-transferencias-automotores-2018.zip",
+                    "issued": "2018-04-03T14:54:45.146456",
+                    "identifier": "f41b6799-b35a-452b-b0ab-f00dd3c3de8d"
                 }
             ]
         },
@@ -3052,7 +2968,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Internos del Servicio Penitenciario Federal - SPF",
             "issued": "2016-09-29T12:32:11.583547",
-            "modified": "2018-04-03T13:58:26.796410",
+            "modified": "2018-04-03T17:29:05.988763",
             "theme": [
                 "sistema-penitenciario"
             ],
@@ -4954,7 +4870,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Selección de magistrados del Poder Judicial y el Ministerio Público de la Nación",
             "issued": "2017-06-08T14:17:01.334940",
-            "modified": "2018-03-19T18:42:56.075183",
+            "modified": "2018-04-03T17:54:33.474110",
             "theme": [
                 "poder-judicial"
             ],
@@ -4992,18 +4908,6 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/a6eb5ab3-5c4c-40cb-b901-839f60a148e4/resource/48c08e57-9df0-4ba4-9222-7af5ba24bc64/download/ternas-seleccion-magistrados-poder-judicial-ministerio-publico-2017-06-30.csv",
                     "issued": "2017-06-30T16:03:41.559159",
                     "identifier": "48c08e57-9df0-4ba4-9222-7af5ba24bc64"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/a6eb5ab3-5c4c-40cb-b901-839f60a148e4/resource/dc4ec317-813f-4007-a636-2e3b6f0ce28d",
-                    "description": "Datos de las ternas para los concursos abiertos para la selección de magistrados. Contiene información sobre la integración de las respectivas ternas y los puntajes obtenidos por los profesionales propuestos en las etapas de evaluación cumplidas.",
-                    "title": "Ternas para la selección de magistrados en el Poder Judicial y el Ministerio Público de la Nación - 2017-06-26",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2018-01-22T11:10:06.446079",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/a6eb5ab3-5c4c-40cb-b901-839f60a148e4/resource/dc4ec317-813f-4007-a636-2e3b6f0ce28d/download/ternas-seleccion-magistrados-poder-judicial-ministerio-publico-2017-06-26.csv",
-                    "issued": "2017-06-29T16:45:20.886210",
-                    "identifier": "dc4ec317-813f-4007-a636-2e3b6f0ce28d"
                 },
                 {
                     "accessURL": "http://datos.jus.gob.ar/dataset/a6eb5ab3-5c4c-40cb-b901-839f60a148e4/resource/b8b16e29-8e3d-4f58-9043-f7d8d8b5f707",
@@ -5160,6 +5064,30 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/a6eb5ab3-5c4c-40cb-b901-839f60a148e4/resource/513bb29c-b90b-4129-b452-25b049c7dd81/download/ternas-seleccion-magistrados-poder-judicial-ministerio-publico-2018-03-12.csv",
                     "issued": "2018-03-19T15:42:18.030033",
                     "identifier": "513bb29c-b90b-4129-b452-25b049c7dd81"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/a6eb5ab3-5c4c-40cb-b901-839f60a148e4/resource/06f5d3d6-2dcb-44ad-b4cf-3dfbb7a557c3",
+                    "description": "Datos de las ternas para los concursos abiertos para la selección de magistrados. Contiene información sobre la integración de las respectivas ternas y los puntajes obtenidos por los profesionales propuestos en las etapas de evaluación cumplidas. Año 2017",
+                    "title": "Ternas para la selección de magistrados en el Poder Judicial y el Ministerio Público de la Nación - 2017",
+                    "byteSize": null,
+                    "format": "ZIP",
+                    "mediaType": null,
+                    "modified": "2018-04-03T14:22:41.298162",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/a6eb5ab3-5c4c-40cb-b901-839f60a148e4/resource/06f5d3d6-2dcb-44ad-b4cf-3dfbb7a557c3/download/ternas-seleccion-magistrados-poder-judicial-ministerio-publico-2017.zip",
+                    "issued": "2018-04-03T14:22:41.582530",
+                    "identifier": "06f5d3d6-2dcb-44ad-b4cf-3dfbb7a557c3"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/a6eb5ab3-5c4c-40cb-b901-839f60a148e4/resource/3b9ae6ed-ef65-4540-9b03-75702443024f",
+                    "description": "Datos de las ternas para los concursos abiertos para la selección de magistrados. Contiene información sobre la integración de las respectivas ternas y los puntajes obtenidos por los profesionales propuestos en las etapas de evaluación cumplidas. Año 2018",
+                    "title": "Ternas para la selección de magistrados en el Poder Judicial y el Ministerio Público de la Nación - 2018",
+                    "byteSize": null,
+                    "format": "ZIP",
+                    "mediaType": null,
+                    "modified": "2018-04-03T14:23:45.659408",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/a6eb5ab3-5c4c-40cb-b901-839f60a148e4/resource/3b9ae6ed-ef65-4540-9b03-75702443024f/download/ternas-seleccion-magistrados-poder-judicial-ministerio-publico-2018.zip",
+                    "issued": "2018-04-03T14:23:46.279868",
+                    "identifier": "3b9ae6ed-ef65-4540-9b03-75702443024f"
                 }
             ]
         },
@@ -5471,7 +5399,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Solicitudes de acceso a la información pública en el Ministerio de Justicia y Derechos Humanos",
             "issued": "2017-07-04T15:14:39.142937",
-            "modified": "2018-03-12T18:16:58.272456",
+            "modified": "2018-04-03T17:24:48.270123",
             "theme": [
                 "anticorrupcion"
             ],
@@ -5493,54 +5421,6 @@
             "identifier": "4442f10e-4822-43d1-bddc-d82dd5c43db6",
             "distribution": [
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/ff4cdc0c-c794-44dd-9e0e-911d0c0c0d8d",
-                    "description": "Solicitudes de acceso a la información pública.",
-                    "title": "Solicitudes de acceso a la información pública - actualizado al 2017-10-24",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2018-01-29T12:20:53.732511",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/ff4cdc0c-c794-44dd-9e0e-911d0c0c0d8d/download/solicitudes-acceso-informacion-publica-2017-10-24.csv",
-                    "issued": "2017-10-24T14:15:34.399071",
-                    "identifier": "ff4cdc0c-c794-44dd-9e0e-911d0c0c0d8d"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/ec214450-8eae-4257-8916-e3cbb131b641",
-                    "description": "Solicitudes de acceso a la información pública.",
-                    "title": "Solicitudes de acceso a la información pública - actualizado al 2017-12-30",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2018-01-16T12:19:29.899680",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/ec214450-8eae-4257-8916-e3cbb131b641/download/solicitudes-acceso-informacion-publica-2017-12-30.csv",
-                    "issued": "2018-01-16T12:19:30.052982",
-                    "identifier": "ec214450-8eae-4257-8916-e3cbb131b641"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/d9cc3b88-7f3a-482f-87c6-f0a306566522",
-                    "description": "Solicitudes de acceso a la información pública.",
-                    "title": "Solicitudes de acceso a la información pública - actualizado al 2017-12-05",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2018-01-19T10:41:50.908279",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/d9cc3b88-7f3a-482f-87c6-f0a306566522/download/solicitudes-acceso-informacion-publica-2017-12-05.csv",
-                    "issued": "2017-12-06T14:34:11.708357",
-                    "identifier": "d9cc3b88-7f3a-482f-87c6-f0a306566522"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/17c414ce-5098-4006-9c0d-4ff4da183aec",
-                    "description": "Solicitudes de acceso a la información pública.",
-                    "title": "Solicitudes de acceso a la información pública - actualizado al 2018-02-02",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2018-02-14T12:04:45.492075",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/17c414ce-5098-4006-9c0d-4ff4da183aec/download/solicitudes-acceso-informacion-publica-2018-02-02.csv",
-                    "issued": "2018-02-14T12:04:45.724046",
-                    "identifier": "17c414ce-5098-4006-9c0d-4ff4da183aec"
-                },
-                {
                     "accessURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/911b074c-e955-4353-bd04-4dcdacb81d63",
                     "description": "Solicitudes de acceso a la información pública.",
                     "title": "Solicitudes de acceso a la información pública - actualizado al 2018-03-08",
@@ -5551,6 +5431,30 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/911b074c-e955-4353-bd04-4dcdacb81d63/download/solicitudes-acceso-informacion-publica-2018-03-08.csv",
                     "issued": "2018-03-09T11:59:58.536220",
                     "identifier": "911b074c-e955-4353-bd04-4dcdacb81d63"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/6c42448f-6bce-40c5-969d-a165b8972a6a",
+                    "description": "Solicitudes de acceso a la información pública informados en el año 2018",
+                    "title": "Solicitudes de acceso a la información pública 2018",
+                    "byteSize": null,
+                    "format": "ZIP",
+                    "mediaType": null,
+                    "modified": "2018-04-03T14:22:32.726094",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/6c42448f-6bce-40c5-969d-a165b8972a6a/download/solicitudes-acceso-informacion-publica-2018.zip",
+                    "issued": "2018-04-03T14:22:32.912377",
+                    "identifier": "6c42448f-6bce-40c5-969d-a165b8972a6a"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/4540ada8-ba4d-436b-812a-8d90f19faef4",
+                    "description": "Solicitudes de acceso a la información pública informados en el año 2017",
+                    "title": "Solicitudes de acceso a la información pública 2017",
+                    "byteSize": null,
+                    "format": "ZIP",
+                    "mediaType": null,
+                    "modified": "2018-04-03T14:21:50.686688",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/4442f10e-4822-43d1-bddc-d82dd5c43db6/resource/4540ada8-ba4d-436b-812a-8d90f19faef4/download/solicitudes-acceso-informacion-publica-2017.zip",
+                    "issued": "2018-04-03T14:21:50.915998",
+                    "identifier": "4540ada8-ba4d-436b-812a-8d90f19faef4"
                 }
             ]
         },
