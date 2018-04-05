@@ -16,7 +16,8 @@ import yaml
 import sh
 import urllib3
 
-from pydatajson.readers import read_catalog, read_ckan_catalog
+from pydatajson.readers import read_catalog
+from pydatajson.ckan_reader import read_ckan_catalog
 from pydatajson.writers import write_json_catalog
 from pydatajson import DataJson
 
