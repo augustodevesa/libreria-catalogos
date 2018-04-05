@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 279
-- **Cantidad Total de Distribuciones**: 635
+- **Cantidad Total de Datasets**: 280
+- **Cantidad Total de Distribuciones**: 636
 
 - **Cantidad de Datasets Federados**: 240
-- **Cantidad de Datasets NO Federados**: 39
-- **Porcentaje de Datasets NO Federados**: 13.98%
+- **Cantidad de Datasets NO Federados**: 40
+- **Porcentaje de Datasets NO Federados**: 14.29%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -130,6 +130,7 @@
 - [Cuentas Nacionales 1935-1962](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Producto Interno Bruto Sectorial 1980-1990](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Producto Interno Bruto Sectorial 1970-1980](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Precios de paquetes de cigarrillos vendidos equivalentes a veinte unidades](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 
 ## Datasets federados
 
