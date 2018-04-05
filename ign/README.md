@@ -18,9 +18,9 @@
 - **Cantidad Total de Datasets**: 1
 - **Cantidad Total de Distribuciones**: 12
 
-- **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 1
-- **Porcentaje de Datasets NO Federados**: 100.0%
+- **Cantidad de Datasets Federados**: 1
+- **Cantidad de Datasets NO Federados**: 0
+- **Porcentaje de Datasets NO Federados**: 0.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -28,11 +28,11 @@
 
 ## Datasets no federados
 
-- [Unidades Territoriales](http://www.ign.gob.ar/sig)
+
 
 ## Datasets federados
 
-
+- [Unidades Territoriales](http://www.ign.gob.ar/sig)
 
 ## Reporte
 
