@@ -71,12 +71,12 @@
 
 - [Numeración geográfica](None)
 - [Numeración no geográfica](None)
+- [Licenciatarios TIC](None)
 - [Listado de radioclubes](None)
 - [Listado de estaciones repetidoras autorizadas](None)
 - [Empresas homologadas inscriptas](None)
 - [Listado de radioaficionados](None)
 - [Subregistro de prestadores de servicios de mensajería](None)
-- [Licenciatarios TIC](None)
 - [Conectividad al servicio de Internet](None)
 - [Portabilidad numérica móvil: portaciones netas mensuales por operador](None)
 - [Fomeca: montos aprobados y pagados por entidad beneficiada](None)
