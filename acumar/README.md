@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 23
-- **Cantidad Total de Distribuciones**: 348
+- **Cantidad Total de Datasets**: 22
+- **Cantidad Total de Distribuciones**: 349
 
 - **Cantidad de Datasets Federados**: 4
-- **Cantidad de Datasets NO Federados**: 19
-- **Porcentaje de Datasets NO Federados**: 82.61%
+- **Cantidad de Datasets NO Federados**: 18
+- **Porcentaje de Datasets NO Federados**: 81.82%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -28,19 +28,18 @@
 
 ## Datasets no federados
 
-- [Actas del Consejo Directivo de ACUMAR - 2016](http://172.17.0.4/dataset/actas-del-consejo-directivo-2016)
+- [Establecimientos Reconvertidos en la Cuenca Matanza Riachuelo](http://172.17.0.4/dataset/establecimientos-reconvertidos-en-la-cuenca-matanza-riachuelo)
 - [Línea de Base de Basurales 2017 en la cuenca Matanza Riachuelo](http://172.17.0.4/dataset/linea-de-base-de-basurales-2017)
+- [Establecimientos de Seguimiento Particular en la Cuenca Matanza Riachuelo](http://172.17.0.4/dataset/establecimientos-de-seguimiento-particular-en-la-cuenca-matanza-riachuelo)
+- [Agentes Contaminantes de la Cuenca Matanza Riachuelo](http://172.17.0.4/dataset/agentes-contaminantes-de-la-cuenca-matanza-riachuelo-agosto-2017)
+- [Actas del Consejo Directivo de ACUMAR - 2016](http://172.17.0.4/dataset/actas-del-consejo-directivo-2016)
 - [Solicitudes de Información Pública - ACUMAR](http://172.17.0.4/dataset/solicitudes-de-informacion-publica-2011-2016)
 - [Solicitudes de Información Pública Recibidas 2017 - ACUMAR](http://172.17.0.4/dataset/solicitudes-de-informacion-publica-recibidas)
 - [Respuestas a las Solicitudes de Información Pública 2017 - ACUMAR](http://172.17.0.4/dataset/respuestas-a-las-solicitudes-de-informacion-publica)
 - [Actas del Consejo Municipal - ACUMAR](http://172.17.0.4/dataset/actas-del-consejo-municipal)
-- [Establecimientos Reconvertidos en la Cuenca Matanza Riachuelo](http://172.17.0.4/dataset/establecimientos-reconvertidos-en-la-cuenca-matanza-riachuelo)
-- [Establecimientos de Seguimiento Particular en la Cuenca Matanza Riachuelo](http://172.17.0.4/dataset/establecimientos-de-seguimiento-particular-en-la-cuenca-matanza-riachuelo)
-- [Agentes Contaminantes de la Cuenca Matanza Riachuelo](http://172.17.0.4/dataset/agentes-contaminantes-de-la-cuenca-matanza-riachuelo-agosto-2017)
 - [Actas del Consejo Directivo de ACUMAR - 2018](http://172.17.0.4/dataset/actas-del-consejo-directivo-de-acumar-2018)
 - [Establecimientos Empadronados en la cuenca Matanza Riachuelo](http://172.17.0.4/dataset/establecimientos-empadronados-en-la-cuenca-matanza-riachuelo-diciembre-2017)
 - [Actas del Consejo Directivo de ACUMAR - 2017](http://172.17.0.4/dataset/actas-del-consejo-directivo-2017)
-- [Establecimientos de Seguimiento Particular de la cuenca Matanza Riachuelo](http://andino.acumar.gov.ar/dataset/establecimientos-de-seguimiento-particular)
 - [Actas del Consejo Directivo de ACUMAR - 2015](http://andino.acumar.gov.ar/dataset/actas-del-consejo-directivo-2015)
 - [Actas del Consejo Directivo de ACUMAR - 2014](http://andino.acumar.gov.ar/dataset/actas-del-consejo-directivo-2014)
 - [Actas del Consejo Directivo de ACUMAR - 2013](http://andino.acumar.gov.ar/dataset/actas-del-consejo-directivo-2013)
@@ -50,10 +49,10 @@
 
 ## Datasets federados
 
-- [Normativa ACUMAR](http://172.17.0.4/dataset/resoluciones-acumar)
+- [Estaciones de Medición de la cuenca Matanza Riachuelo](http://www.bdh.acumar.gov.ar/bdh3/index_contenido.php?xgap_historial=reset)
+- [Denuncias recibidas por el Centro de Atención de ACUMAR 2011-2017](http://172.17.0.4/dataset/denuncias-recibidas-2011-2016)
 - [Índice de Calidad de Vida (ICV) de la cuenca Matanza Riachuelo](http://www.acumar.gob.ar/indicadores/3619/indice-de-calidad-de-vida-icv)
-- [Estaciones de Medición de la cuenca Matanza Riachuelo](http://andino.acumar.gov.ar/dataset/estaciones-de-medicion)
-- [Denuncias recibidas por el Centro de Atención de ACUMAR 2011-2017](http://andino.acumar.gov.ar/dataset/denuncias-recibidas-2011-2016)
+- [Normativa ACUMAR](http://172.17.0.4/dataset/resoluciones-acumar)
 
 ## Reporte
 
