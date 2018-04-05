@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 623
-- **Cantidad Total de Distribuciones**: 1800
+- **Cantidad Total de Datasets**: 626
+- **Cantidad Total de Distribuciones**: 1523
 
-- **Cantidad de Datasets Federados**: 623
-- **Cantidad de Datasets NO Federados**: 0
-- **Porcentaje de Datasets NO Federados**: 0.0%
+- **Cantidad de Datasets Federados**: 624
+- **Cantidad de Datasets NO Federados**: 2
+- **Porcentaje de Datasets NO Federados**: 0.32%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -28,7 +28,8 @@
 
 ## Datasets no federados
 
-
+- [Estadísticas criminales en la República Argentina para los años 2014, 2015 y 2016](https://estadisticascriminales.minseg.gob.ar/)
+- [Estadísticas criminales en la República Argentina por Provincias para los años 2014, 2015 y 2016](https://estadisticascriminales.minseg.gob.ar/)
 
 ## Datasets federados
 
@@ -71,7 +72,7 @@
 - [Captura pesquera](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Catálogo nacional de cultivares registrados en el RNC y RNPC](https://datos.agroindustria.gob.ar/dataset/catalogo-nacional-de-cultivares)
 - [Categorías y escalas salariales](None)
-- [Censo de aserraderos](http://datos.agroindustria.gob.ar/dataset/censo-de-aserraderos)
+- [Censo de aserraderos](https://datos.agroindustria.gob.ar/dataset/censo-de-aserraderos)
 - [Centros de Acceso a la Justicia -CAJ-](http://www.jus.gob.ar/accesoalajusticia.aspx)
 - [Centros de acopio de granos](https://datos.agroindustria.gob.ar/dataset/centros-de-acopio-de-granos)
 - [Centros de Compras. Base 2008](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -116,7 +117,7 @@
 - [Decomisos por comercio ilegal de especies](http://datos.ambiente.gob.ar/dataset/decomisos-por-comercio-ilegal-de-especies)
 - [Demanda de electricidad](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Denuncias mensuales recibidas](None)
-- [Denuncias recibidas por el Centro de Atención de ACUMAR 2011-2017](http://andino.acumar.gov.ar/dataset/denuncias-recibidas-2011-2016)
+- [Denuncias recibidas por el Centro de Atención de ACUMAR 2011-2017](http://172.17.0.4/dataset/denuncias-recibidas-2011-2016)
 - [Desempleo de principales economías](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Designaciones de magistrados de la Justicia Federal y de la Justicia Nacional]()
 - [Destino de producción de la leche](https://datos.agroindustria.gob.ar/dataset/destino-de-produccion-de-la-leche)
@@ -134,7 +135,7 @@
 - [Distribución del Ingreso Neto Nacional. Millones de pesos corrientes](None)
 - [Distribución de petróleo]()
 - [Ejecuciones Presupuestarias 2016](None)
-- [Ejecución Presupuestaria de la Administración Pública Nacional](http://sitiodelciudadano.mecon.gov.ar )
+- [Ejecución Presupuestaria de la Administración Pública Nacional](https://www.presupuestoabierto.gob.ar/sici/datos-abiertos)
 - [Elaboración de combustibles]()
 - [Elaboración de productos lácteos](https://datos.agroindustria.gob.ar/dataset/elaboracion-de-productos-lacteos)
 - [Embarques de Oleaginosas y Cereales](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -163,7 +164,7 @@
 - [Escuelas de próxima conexión](None)
 - [Establecimientos a nivel departamental vinculados a la actividad vitivinícola de acuerdo al INV](https://datos.agroindustria.gob.ar/dataset/establecimientos-vitivinicolas)
 - [Establecimientos vigentes inscriptos en el RNCyF de Semillas](https://datos.agroindustria.gob.ar/dataset/establecimientos-vigentes-inscriptos-en-el-rncyf-de-semillas)
-- [Estaciones de Medición de la cuenca Matanza Riachuelo](http://andino.acumar.gov.ar/dataset/estaciones-de-medicion)
+- [Estaciones de Medición de la cuenca Matanza Riachuelo](http://www.bdh.acumar.gov.ar/bdh3/index_contenido.php?xgap_historial=reset)
 - [Estaciones del sistema de Trenes Argentinos](None)
 - [Estadística de mediaciones prejudiciales y judiciales]()
 - [Estadísticas de biodiesel y bioetanol]()
@@ -187,7 +188,7 @@
 - [Existencias lácteas en litros equivalentes](https://datos.agroindustria.gob.ar/dataset/existencias-lacteas-en-litros-equivalentes)
 - [Existencias lácteas del período comprendido entre los años 1998  y  2008](https://datos.agroindustria.gob.ar/dataset/existencias-lacteas-del-periodo-comprendido-entre-los-anos-1998-y-2008)
 - [Exploración Hidrocarburos Cuencas Sedimentarias]()
-- [Explotaciones agropecuarias según el Censo Nacional Agropecuario de los años 1988, 2002 y 2008](http://datos.agroindustria.gob.ar/dataset/explotaciones-agropecuarias-cna)
+- [Explotaciones agropecuarias según el Censo Nacional Agropecuario de los años 1988, 2002 y 2008](https://datos.agroindustria.gob.ar/dataset/explotaciones-agropecuarias-cna)
 - [Exportaciones de azúcar](https://datos.agroindustria.gob.ar/dataset/exportaciones-de-azucar)
 - [Exportaciones e importaciones por Intensidad tecnológica](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Exportaciones FOB por país y region](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -385,7 +386,7 @@
 - [ISAC- Indicador sintético de la actividad de la construcción. Variaciones interanuales. Base 2004](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Kilómetros de fibra óptica previstos y localidades contempladas por provincia](None)
 - [Lebac mercado secundario](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Ley 25.080, superficie forestal promocionada](http://datos.agroindustria.gob.ar/dataset/ley-25080-superficie-promocionada)
+- [Ley 25.080, superficie forestal promocionada](https://datos.agroindustria.gob.ar/dataset/ley-25080-superficie-promocionada)
 - [Licenciatarios TIC](None)
 - [Licitaciones](None)
 - [Línea de Base de Basurales 2017 la cuenca Matanza Riachuelo](http://andino.acumar.gov.ar/dataset/linea-de-base-de-basurales-2017)
@@ -400,10 +401,10 @@
 - [Listado de radioaficionados](None)
 - [Listado de radioclubes](None)
 - [Magistrados de la Justicia Federal y de la Justicia Nacional]()
-- [Métodos de labranza según Censo Nacional Agropecuario 2002](http://datos.agroindustria.gob.ar/dataset/metodos-de-labranza)
-- [Métodos de riego según el Censo Nacional Agropecuario 2002](http://datos.agroindustria.gob.ar/dataset/metodos-de-riego)
+- [Métodos de labranza según Censo Nacional Agropecuario 2002](https://datos.agroindustria.gob.ar/dataset/metodos-de-labranza)
+- [Métodos de riego según el Censo Nacional Agropecuario 2002](https://datos.agroindustria.gob.ar/dataset/metodos-de-riego)
 - [Molienda de granos](https://datos.agroindustria.gob.ar/dataset/molienda-de-granos)
-- [Montos pagados por la Ley 25.080 / 26.432 para la actividad plantación](http://datos.agroindustria.gob.ar/dataset/montos-pagados-por-la-ley-25080-264-32-para-la-actividad-plantacion)
+- [Montos pagados por la Ley 25.080 / 26.432 para la actividad plantación](https://datos.agroindustria.gob.ar/dataset/montos-pagados-por-la-ley-25080-264-32-para-la-actividad-plantacion)
 - [Nombres de personas físicas]()
 - [Normativa ACUMAR](http://172.17.0.4/dataset/resoluciones-acumar)
 - [Normativa ambiental](http://datos.ambiente.gob.ar/dataset/normativa-ambiental)
@@ -428,7 +429,7 @@
 - [Operaciones de SUBE por mes en RMBA](None)
 - [Padrón de medidores de petróleo y gas]()
 - [Padrón de operadores autorizados para la venta de combustibles líquidos]()
-- [Padrón de operadores orgánicos certificados](http://datos.agroindustria.gob.ar/dataset/padron-de-operadores-organicos-certificados)
+- [Padrón de operadores orgánicos certificados](https://datos.agroindustria.gob.ar/dataset/padron-de-operadores-organicos-certificados)
 - [Padrón según Resolución 1104/2004]()
 - [Participación de importaciones mineras por rubro]()
 - [Participación de los principales socios comerciales en el comercio argentino](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -554,14 +555,14 @@
 - [Refinación de hidrocarburos -  Petroquímicas]()
 - [Refinación de hidrocarburos - Refinerías]()
 - [Refinerías de Aceite Vegetal]()
-- [Regímenes de tenencia de tierra según el Censo Nacional Agropecuario 2002](http://datos.agroindustria.gob.ar/dataset/regimenes-de-tenencia-de-tierra)
+- [Regímenes de tenencia de tierra según el Censo Nacional Agropecuario 2002](https://datos.agroindustria.gob.ar/dataset/regimenes-de-tenencia-de-tierra)
 - [Registro de Audiencias](None)
 - [Registro Central de Personas Contratadas](http://www.sgp.gob.ar/sitio/empleo/regimenes/contratados/listadocontratados/todos_los_contratos_mensuales/index_main_rcpc.html)
 - [Registro de empresas e instalaciones con tanques aéreos de hidrocarburos líquidos]()
 - [Registro de empresas e instalaciones de GLP]()
 - [Registro de empresas de hidrocarburos del upstream]()
 - [Registro de empresas de transporte de hidrocarburos por ductos]()
-- [Registro Nacional de Productores Apícolas](http://datos.agroindustria.gob.ar/dataset/registro-nacional-de-productores-apicolas)
+- [Registro Nacional de Productores Apícolas](https://datos.agroindustria.gob.ar/dataset/registro-nacional-de-productores-apicolas)
 - [Registro de obsequios a funcionarios públicos](https://www.argentina.gob.ar/consultar-sobre-regimen-de-obsequios-funcionarios-publicos)
 - [Registro de Proveedores Postales](None)
 - [Registro, sistematización y seguimiento de femicidios y homicidios agravados por el género]()
@@ -611,7 +612,7 @@
 - [Stock de Inversión Extranjera Directa por sector - BCRA](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Subregistro de prestadores de servicios de mensajería](None)
 - [Subsidios al transporte público de pasajeros](None)
-- [Superficie afectada por incendios forestales en el país](http://datos.agroindustria.gob.ar/dataset/superficie-afectada-por-incendios-forestales-en-el-pais)
+- [Superficie afectada por incendios forestales en el país](https://datos.agroindustria.gob.ar/dataset/superficie-afectada-por-incendios-forestales-en-el-pais)
 - [Superficie nacional fiscalizada por especies](https://datos.agroindustria.gob.ar/dataset/superficie-nacional-fiscalizada-por-especies)
 - [Superficie nacional fiscalizada por especie y ubicación registrada en el INASE](https://datos.agroindustria.gob.ar/dataset/superficie-nacional-fiscalizada-por-especie-y-ubicacion-registrada-en-el-inase)
 - [Tasa de Actividad por aglomerado 1974-2003](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -642,7 +643,8 @@
 - [Transporte Hidrocarburos - Ductos Troncales - Oleoductos]()
 - [Transporte Hidrocarburos - Ductos Troncales - Poliductos]()
 - [Transporte de hidrocarburos  - Ductos Troncales - Propanoductos]()
-- [Uso de suelo según Censo Nacional Agropecuario 2002](http://datos.agroindustria.gob.ar/dataset/uso-de-suelos)
+- [Unidades Territoriales](http://www.ign.gob.ar/sig)
+- [Uso de suelo según Censo Nacional Agropecuario 2002](https://datos.agroindustria.gob.ar/dataset/uso-de-suelos)
 - [Utilización de la capacidad instalada en la industria. En porcentaje. Base 2004](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Utilización de la capacidad instalada en la industria. En porcentaje. Base 2006](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Utilización de la capacidad instalada en la industria. En porcentaje. Base 2012](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
