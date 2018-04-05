@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 31
-- **Cantidad Total de Distribuciones**: 327
+- **Cantidad Total de Datasets**: 37
+- **Cantidad Total de Distribuciones**: 110
 
 - **Cantidad de Datasets Federados**: 29
-- **Cantidad de Datasets NO Federados**: 2
-- **Porcentaje de Datasets NO Federados**: 6.45%
+- **Cantidad de Datasets NO Federados**: 8
+- **Porcentaje de Datasets NO Federados**: 21.62%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -28,8 +28,14 @@
 
 ## Datasets no federados
 
+- [Codificación de delitos del Código Penal Argentino]()
+- [Estadística de magistrados de la Justicia Federal y de la Justicia Nacional por género]()
+- [IGJ. Autoridades genero]()
+- [Línea Nacional 0800-222-1717 contra el abuso sexual infantil]()
 - [Listado de Registros Seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios](http://www.dnrpa.gov.ar)
+- [Lucha contra la trata de personas - Llamados línea 145]()
 - [Solicitudes de acceso a la información pública en el Ministerio de Justicia y Derechos Humanos]()
+- [Victimas contra las violencias llamados línea 137]()
 
 ## Datasets federados
 
@@ -53,7 +59,7 @@
 - [Magistrados de la Justicia Federal y de la Justicia Nacional]()
 - [Listado de mediaciones prejudiciales y judiciales. Ley 26.589]()
 - [Registro de obsequios a funcionarios públicos](https://www.argentina.gob.ar/consultar-sobre-regimen-de-obsequios-funcionarios-publicos)
-- [Registro de viajes fincianciados por terceros](https://www.argentina.gob.ar/consultar-sobre-regimen-de-obsequios-funcionarios-publicos)
+- [Registro de viajes financiados por terceros](https://www.argentina.gob.ar/consultar-sobre-regimen-de-obsequios-funcionarios-publicos)
 - [Registro, sistematización y seguimiento de femicidios y homicidios agravados por el género]()
 - [Registro Unificado de Víctimas del Terrorismo de Estado -RUVTE-](http://www.jus.gob.ar/derechoshumanos/areas-tematicas/ruvte.aspx)
 - [Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional]()
