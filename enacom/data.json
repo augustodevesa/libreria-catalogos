@@ -74,7 +74,7 @@
             ],
             "title": "Numeración geográfica",
             "issued": "2016-09-20T20:59:01",
-            "modified": "2018-04-06T17:43:51Z",
+            "modified": "2018-04-06T21:03:57Z",
             "language": [
                 "spa"
             ],
@@ -89,7 +89,7 @@
                     "title": "Numeración geográfica",
                     "issued": "2016-09-20T20:59:01",
                     "format": "CSV",
-                    "modified": "2018-04-06T17:43:51Z",
+                    "modified": "2018-04-06T21:03:57Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
@@ -98,7 +98,7 @@
                     "title": "Numeración geográfica",
                     "issued": "2016-09-20T20:59:01",
                     "format": "XLS",
-                    "modified": "2018-04-06T17:43:51Z",
+                    "modified": "2018-04-06T21:03:57Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
@@ -107,7 +107,7 @@
                     "title": "Numeración geográfica",
                     "issued": "2016-09-20T20:59:01",
                     "format": "JSON",
-                    "modified": "2018-04-06T17:43:51Z",
+                    "modified": "2018-04-06T21:03:57Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 }
             ],
@@ -129,7 +129,7 @@
             ],
             "title": "Numeración no geográfica",
             "issued": "2016-09-20T20:56:16",
-            "modified": "2018-04-06T17:43:45Z",
+            "modified": "2018-04-06T21:03:55Z",
             "language": [
                 "spa"
             ],
@@ -144,7 +144,7 @@
                     "title": "Numeración no geográfica",
                     "issued": "2016-09-20T20:56:16",
                     "format": "CSV",
-                    "modified": "2018-04-06T17:43:45Z",
+                    "modified": "2018-04-06T21:03:55Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
@@ -153,7 +153,7 @@
                     "title": "Numeración no geográfica",
                     "issued": "2016-09-20T20:56:16",
                     "format": "XLS",
-                    "modified": "2018-04-06T17:43:45Z",
+                    "modified": "2018-04-06T21:03:55Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
@@ -162,7 +162,7 @@
                     "title": "Numeración no geográfica",
                     "issued": "2016-09-20T20:56:16",
                     "format": "JSON",
-                    "modified": "2018-04-06T17:43:45Z",
+                    "modified": "2018-04-06T21:03:55Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 }
             ],
@@ -331,6 +331,61 @@
             ],
             "identifier": "EQUIP-HOMOL-INSCR-40320",
             "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/242165/equipos-homologados-inscriptos/",
+            "description": "Equipos homologados"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "equipos de comunicacion",
+                "homologaciones"
+            ],
+            "title": "Equipos homologados inscriptos",
+            "issued": "2017-11-07T15:39:19",
+            "modified": "2018-04-06T07:46:40Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "homologacion-de-equipos"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
+                    "description": "Equipos homologados",
+                    "title": "Equipos homologados inscriptos",
+                    "issued": "2017-11-07T15:39:19",
+                    "format": "CSV",
+                    "modified": "2018-04-06T07:46:40Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
+                    "description": "Equipos homologados",
+                    "title": "Equipos homologados inscriptos",
+                    "issued": "2017-11-07T15:39:19",
+                    "format": "XLS",
+                    "modified": "2018-04-06T07:46:40Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
+                    "description": "Equipos homologados",
+                    "title": "Equipos homologados inscriptos",
+                    "issued": "2017-11-07T15:39:19",
+                    "format": "JSON",
+                    "modified": "2018-04-06T07:46:40Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "EQUIP-HOMOL-INSCR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
             "description": "Equipos homologados"
         },
         {
@@ -601,61 +656,6 @@
             "identifier": "EMPRE-HOMOL-INSCR",
             "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
             "description": "Empresas homologadas"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "equipos de comunicacion",
-                "homologaciones"
-            ],
-            "title": "Equipos homologados inscriptos",
-            "issued": "2017-11-07T15:39:19",
-            "modified": "2018-04-05T10:16:04Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "homologacion-de-equipos"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
-                    "description": "Equipos homologados",
-                    "title": "Equipos homologados inscriptos",
-                    "issued": "2017-11-07T15:39:19",
-                    "format": "CSV",
-                    "modified": "2018-04-05T10:16:04Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
-                    "description": "Equipos homologados",
-                    "title": "Equipos homologados inscriptos",
-                    "issued": "2017-11-07T15:39:19",
-                    "format": "XLS",
-                    "modified": "2018-04-05T10:16:04Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
-                    "description": "Equipos homologados",
-                    "title": "Equipos homologados inscriptos",
-                    "issued": "2017-11-07T15:39:19",
-                    "format": "JSON",
-                    "modified": "2018-04-05T10:16:04Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "EQUIP-HOMOL-INSCR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
-            "description": "Equipos homologados"
         },
         {
             "publisher": {
