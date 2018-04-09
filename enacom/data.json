@@ -69,12 +69,67 @@
                 "TECH"
             ],
             "keyword": [
+                "radioaficionados",
+                " radioclubes"
+            ],
+            "title": "Listado de radioaficionados",
+            "issued": "2017-10-23T13:16:32",
+            "modified": "2018-04-09T04:12:06Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "espectro-radioelectrico"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
+                    "description": "Radioaficionados",
+                    "title": "Listado de radioaficionados",
+                    "issued": "2017-10-23T13:16:32",
+                    "format": "CSV",
+                    "modified": "2018-04-09T04:12:06Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-RADIO-94584/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
+                    "description": "Radioaficionados",
+                    "title": "Listado de radioaficionados",
+                    "issued": "2017-10-23T13:16:32",
+                    "format": "XLS",
+                    "modified": "2018-04-09T04:12:06Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-RADIO-94584/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
+                    "description": "Radioaficionados",
+                    "title": "Listado de radioaficionados",
+                    "issued": "2017-10-23T13:16:32",
+                    "format": "JSON",
+                    "modified": "2018-04-09T04:12:06Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-RADIO-94584/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "LISTA-DE-RADIO-94584",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
+            "description": "Radioaficionados"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
                 "telefonia",
                 "numeracion"
             ],
             "title": "Numeración geográfica",
             "issued": "2016-09-20T20:59:01",
-            "modified": "2018-04-09T00:48:00Z",
+            "modified": "2018-04-09T03:25:42Z",
             "language": [
                 "spa"
             ],
@@ -89,7 +144,7 @@
                     "title": "Numeración geográfica",
                     "issued": "2016-09-20T20:59:01",
                     "format": "CSV",
-                    "modified": "2018-04-09T00:48:00Z",
+                    "modified": "2018-04-09T03:25:42Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
@@ -98,7 +153,7 @@
                     "title": "Numeración geográfica",
                     "issued": "2016-09-20T20:59:01",
                     "format": "XLS",
-                    "modified": "2018-04-09T00:48:00Z",
+                    "modified": "2018-04-09T03:25:42Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
@@ -107,7 +162,7 @@
                     "title": "Numeración geográfica",
                     "issued": "2016-09-20T20:59:01",
                     "format": "JSON",
-                    "modified": "2018-04-09T00:48:00Z",
+                    "modified": "2018-04-09T03:25:42Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 }
             ],
@@ -129,7 +184,7 @@
             ],
             "title": "Numeración no geográfica",
             "issued": "2016-09-20T20:56:16",
-            "modified": "2018-04-08T11:27:30Z",
+            "modified": "2018-04-09T03:25:39Z",
             "language": [
                 "spa"
             ],
@@ -144,7 +199,7 @@
                     "title": "Numeración no geográfica",
                     "issued": "2016-09-20T20:56:16",
                     "format": "CSV",
-                    "modified": "2018-04-08T11:27:30Z",
+                    "modified": "2018-04-09T03:25:39Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
@@ -153,7 +208,7 @@
                     "title": "Numeración no geográfica",
                     "issued": "2016-09-20T20:56:16",
                     "format": "XLS",
-                    "modified": "2018-04-08T11:27:30Z",
+                    "modified": "2018-04-09T03:25:39Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
@@ -162,7 +217,7 @@
                     "title": "Numeración no geográfica",
                     "issued": "2016-09-20T20:56:16",
                     "format": "JSON",
-                    "modified": "2018-04-08T11:27:30Z",
+                    "modified": "2018-04-09T03:25:39Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 }
             ],
@@ -332,61 +387,6 @@
             "identifier": "EQUIP-HOMOL-INSCR-40320",
             "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/242165/equipos-homologados-inscriptos/",
             "description": "Equipos homologados"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "radioaficionados",
-                " radioclubes"
-            ],
-            "title": "Listado de radioaficionados",
-            "issued": "2017-10-23T13:16:32",
-            "modified": "2018-04-08T10:41:59Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "espectro-radioelectrico"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
-                    "description": "Radioaficionados",
-                    "title": "Listado de radioaficionados",
-                    "issued": "2017-10-23T13:16:32",
-                    "format": "CSV",
-                    "modified": "2018-04-08T10:41:59Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-RADIO-94584/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
-                    "description": "Radioaficionados",
-                    "title": "Listado de radioaficionados",
-                    "issued": "2017-10-23T13:16:32",
-                    "format": "XLS",
-                    "modified": "2018-04-08T10:41:59Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-RADIO-94584/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
-                    "description": "Radioaficionados",
-                    "title": "Listado de radioaficionados",
-                    "issued": "2017-10-23T13:16:32",
-                    "format": "JSON",
-                    "modified": "2018-04-08T10:41:59Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-RADIO-94584/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "LISTA-DE-RADIO-94584",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
-            "description": "Radioaficionados"
         },
         {
             "publisher": {
