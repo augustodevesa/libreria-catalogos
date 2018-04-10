@@ -26,20 +26,20 @@
             "id": "arsat",
             "url_json": "http://datos.arsat.com.ar/data.json",
             "url_xlsx": "",
-            "url_datosgobar": "http://datos.gob.ar/dataset?organization=empresa-argentina-de-soluciones-satelitales-s-a-ar-sat"
-        }
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=arsat"
+        },
         {
             "id": "enacom",
             "url_json": "http://datosabiertos.enacom.gob.ar/data.json",
             "url_xlsx": "",
             "url_datosgobar": "http://datos.gob.ar/dataset?organization=enacom"
-        }
+        },
         {
             "id": "modernizacion",
             "url_json": "http://infra.datos.gob.ar/catalog/modernizacion/data.json",
             "url_xlsx": "https://docs.google.com/spreadsheets/d/1gsDvRqLCCCIMPAB1NsIx978qrBmo24_6lzdYo0_Qijg/export?format=xlsx",
             "url_datosgobar": ""
-        }
+        },
         {
             "id": "otros",
             "url_json": "http://infra.datos.gob.ar/catalog/otros/data.json",
@@ -65,7 +65,7 @@
             "id": "justicia",
             "url_json": "https://raw.githubusercontent.com/datosgobar/libreria-catalogs/master/justicia/data.json",
             "url_xlsx": "",
-            "url_datosgobar": "http://datos.gob.ar/dataset?organization=ministerio-de-justicia-y-derechos-humanos"
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=justicia"
         }]
     },
     {
@@ -87,7 +87,7 @@
             "id": "ign",
             "url_json": "https://raw.githubusercontent.com/datosgobar/libreria-catalogs/master/ign/data.json",
             "url_xlsx": "http://www.ign.gob.ar/descargas/geodatos/catalog.xlsx",
-            "url_datosgobar": "http://datos.gob.ar/dataset?organization=instituto-geografico-nacional"
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=ign"
         }]
     },
     {
@@ -103,7 +103,7 @@
             "id": "agroindustria",
             "url_json": "https://datos.agroindustria.gob.ar/data.json",
             "url_xlsx": "https://datos.agroindustria.gob.ar/catalog.xlsx",
-            "url_datosgobar": "http://datos.gob.ar/dataset?organization=ministerio-de-agroindustria"
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=agroindustria"
         }]
     },
     {
@@ -119,7 +119,7 @@
             "id": "transporte",
             "url_json": "https://servicios.transporte.gob.ar/gobierno_abierto/data.json",
             "url_xlsx": "",
-            "url_datosgobar": "http://datos.gob.ar/dataset?organization=ministerio-de-transporte"
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=transporte"
         },
         {
             "id": "anac",
@@ -136,7 +136,7 @@
             "id": "energia",
             "url_json": "https://raw.githubusercontent.com/datosgobar/libreria-catalogs/master/energia/data.json",
             "url_xlsx": "",
-            "url_datosgobar": "http://datos.gob.ar/dataset?organization=ministerio-de-energia-y-mineria"
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=energia"
         }]
     },
     {
@@ -152,7 +152,7 @@
             "id": "mincyt",
             "url_json": "http://datos.mincyt.gob.ar/datasets/data.json",
             "url_xlsx": "",
-            "url_datosgobar": "http://datos.gob.ar/dataset?organization=ministerio-de-ciencia-y-tecnologia"
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=mincyt"
         }]
     },
     {
@@ -184,13 +184,13 @@
             "id": "ambiente",
             "url_json": "http://datos.ambiente.gob.ar/data.json",
             "url_xlsx": "http://datos.ambiente.gob.ar/catalog.xlsx",
-            "url_datosgobar": "http://datos.gob.ar/dataset?organization=ministerio-de-ambiente-y-desarrollo-sustentable"
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=ambiente"
         },
         {
             "id": "acumar",
             "url_json": "http://andino.acumar.gov.ar/data.json",
             "url_xlsx": "http://andino.acumar.gov.ar/catalog.xlsx",
-            "url_datosgobar": "http://datos.gob.ar/dataset?organization=autoridad-cuenca-matanza-riachuelo"
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=acumar"
         }]
     },
     {
@@ -206,13 +206,13 @@
             "id": "sspm",
             "url_json": "http://infra.datos.gob.ar/catalog/sspm/data.json",
             "url_xlsx": "",
-            "url_datosgobar": "http://datos.gob.ar/dataset?organization=subsecretaria-de-programacion-macroeconomica"
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=sspm"
         },
         {
             "id": "sspmi",
             "url_json": "https://raw.githubusercontent.com/datosgobar/libreria-catalogs/master/sspmi/data.json",
             "url_xlsx": "http://minhacienda.gob.ar/catalogo-sspmi/catalog.xlsx",
-            "url_datosgobar": "http://datos.gob.ar/dataset?organization=subsecretaria-de-programacion-microeconomica"
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=sspmi"
         }]
     },
     {
