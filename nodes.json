@@ -1,0 +1,223 @@
+{
+    "meta":
+    {
+        "title": "Red de Nodos de Datos Abiertos de la Administración Pública Nacional",
+        "description": "Lista de nodos de datos abiertos pertenecientes a jurisdicciones de la Administración Pública Nacional de la República Argentina.",
+        "version": "1.0",
+        "spatial": ["ARG"],
+        "language": ["SPA"],
+        "homepage": "http://www.datos.gob.ar",
+        "publisher":
+        {
+            "name": "Ministerio de Modernización",
+            "mbox": "datos@modernizacion.gob.ar"
+        },
+        "issued": "2018-04-15",
+        "modified": "2018-04-15",
+        "jurisdiction_count": 20,
+        "catalog_count": 17
+    },
+    "jurisdictions": [
+    {
+        "id": 3,
+        "title": "Ministerio de Modernización",
+        "catalogs": [
+        {
+            "id": "arsat",
+            "url_json": "http://datos.arsat.com.ar/data.json",
+            "url_xlsx": "",
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=empresa-argentina-de-soluciones-satelitales-s-a-ar-sat"
+        }
+        {
+            "id": "enacom",
+            "url_json": "http://datosabiertos.enacom.gob.ar/data.json",
+            "url_xlsx": "",
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=enacom"
+        }
+        {
+            "id": "modernizacion",
+            "url_json": "http://infra.datos.gob.ar/catalog/modernizacion/data.json",
+            "url_xlsx": "https://docs.google.com/spreadsheets/d/1gsDvRqLCCCIMPAB1NsIx978qrBmo24_6lzdYo0_Qijg/export?format=xlsx",
+            "url_datosgobar": ""
+        }
+        {
+            "id": "otros",
+            "url_json": "http://infra.datos.gob.ar/catalog/otros/data.json",
+            "url_xlsx": "https://docs.google.com/spreadsheets/d/1A7tLUUTvi9WR8ib9DOggA3cgG71LaTJv1kwu1EZqxGI/export?format=xlsx",
+            "url_datosgobar": ""
+        }]
+    },
+    {
+        "id": 11887,
+        "title": "Ministerio del Interior",
+        "catalogs": []
+    },
+    {
+        "id": 2499,
+        "title": "Ministerio de Relaciones Exteriores y Culto",
+        "catalogs": []
+    },
+    {
+        "id": 2562,
+        "title": "Ministerio de Justicia y Derechos Humanos",
+        "catalogs": [
+        {
+            "id": "justicia",
+            "url_json": "https://raw.githubusercontent.com/datosgobar/libreria-catalogs/master/justicia/data.json",
+            "url_xlsx": "",
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=ministerio-de-justicia-y-derechos-humanos"
+        }]
+    },
+    {
+        "id": 26548,
+        "title": "Ministerio de Seguridad",
+        "catalogs": [
+        {
+            "id": "seguridad",
+            "url_json": "https://raw.githubusercontent.com/datosgobar/libreria-catalogs/master/seguridad/data.json",
+            "url_xlsx": "https://estadisticascriminales.minseg.gob.ar/datos/catalog.xlsx",
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=seguridad"
+        }]
+    },
+    {
+        "id": 39792,
+        "title": "Ministerio de Defensa",
+        "catalogs": [
+        {
+            "id": "ign",
+            "url_json": "https://raw.githubusercontent.com/datosgobar/libreria-catalogs/master/ign/data.json",
+            "url_xlsx": "http://www.ign.gob.ar/descargas/geodatos/catalog.xlsx",
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=instituto-geografico-nacional"
+        }]
+    },
+    {
+        "id": 3267,
+        "title": "Ministerio de Producción",
+        "catalogs": []
+    },
+    {
+        "id": 2397,
+        "title": "Ministerio de Agroindustria",
+        "catalogs": [
+        {
+            "id": "agroindustria",
+            "url_json": "https://datos.agroindustria.gob.ar/data.json",
+            "url_xlsx": "https://datos.agroindustria.gob.ar/catalog.xlsx",
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=ministerio-de-agroindustria"
+        }]
+    },
+    {
+        "id": 2348,
+        "title": "Ministerio de Turismo",
+        "catalogs": []
+    },
+    {
+        "id": 2333,
+        "title": "Ministerio de Transporte",
+        "catalogs": [
+        {
+            "id": "transporte",
+            "url_json": "https://servicios.transporte.gob.ar/gobierno_abierto/data.json",
+            "url_xlsx": "",
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=ministerio-de-transporte"
+        },
+        {
+            "id": "anac",
+            "url_json": "https://datos.anac.gob.ar/ckan/data.json",
+            "url_xlsx": "",
+            "url_datosgobar": ""
+        }]
+    },
+    {
+        "id": 11603,
+        "title": "Ministerio de Energía y Minería",
+        "catalogs": [
+        {
+            "id": "energia",
+            "url_json": "https://raw.githubusercontent.com/datosgobar/libreria-catalogs/master/energia/data.json",
+            "url_xlsx": "",
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=ministerio-de-energia-y-mineria"
+        }]
+    },
+    {
+        "id": 2074,
+        "title": "Ministerio de Educación y Deportes",
+        "catalogs": []
+    },
+    {
+        "id": 40050,
+        "title": "Ministerio de Ciencia, Tecnología e Innovación Productiva",
+        "catalogs": [
+        {
+            "id": "mincyt",
+            "url_json": "http://datos.mincyt.gob.ar/datasets/data.json",
+            "url_xlsx": "",
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=ministerio-de-ciencia-y-tecnologia"
+        }]
+    },
+    {
+        "id": 2559,
+        "title": "Ministerio de Cultura",
+        "catalogs": []
+    },
+    {
+        "id": 3679,
+        "title": "Ministerio de Trabajo",
+        "catalogs": []
+    },
+    {
+        "id": 9063,
+        "title": "Ministerio de Salud",
+        "catalogs": [
+        {
+            "id": "pami",
+            "url_json": "https://raw.githubusercontent.com/datosgobar/libreria-catalogs/master/pami/data.json",
+            "url_xlsx": "",
+            "url_datosgobar": ""
+        }]
+    },
+    {
+        "id": 2186,
+        "title": "Ministerio de Ambiente y Desarrollo Sustentable",
+        "catalogs": [
+        {
+            "id": "ambiente",
+            "url_json": "http://datos.ambiente.gob.ar/data.json",
+            "url_xlsx": "http://datos.ambiente.gob.ar/catalog.xlsx",
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=ministerio-de-ambiente-y-desarrollo-sustentable"
+        },
+        {
+            "id": "acumar",
+            "url_json": "http://andino.acumar.gov.ar/data.json",
+            "url_xlsx": "http://andino.acumar.gov.ar/catalog.xlsx",
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=autoridad-cuenca-matanza-riachuelo"
+        }]
+    },
+    {
+        "id": 2396,
+        "title": "Ministerio de Desarrollo Social",
+        "catalogs": []
+    },
+    {
+        "id": 50691,
+        "title": "Ministerio de Hacienda",
+        "catalogs": [
+        {
+            "id": "sspm",
+            "url_json": "http://infra.datos.gob.ar/catalog/sspm/data.json",
+            "url_xlsx": "",
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=subsecretaria-de-programacion-macroeconomica"
+        },
+        {
+            "id": "sspmi",
+            "url_json": "https://raw.githubusercontent.com/datosgobar/libreria-catalogs/master/sspmi/data.json",
+            "url_xlsx": "http://minhacienda.gob.ar/catalogo-sspmi/catalog.xlsx",
+            "url_datosgobar": "http://datos.gob.ar/dataset?organization=subsecretaria-de-programacion-microeconomica"
+        }]
+    },
+    {
+        "id": 7864,
+        "title": "Ministerio de Finanzas",
+        "catalogs": []
+    }]
+}
