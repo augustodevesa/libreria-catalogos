@@ -1404,6 +1404,81 @@
         },
         {
             "publisher": {
+                "mbox": "accesobd@dnrpa.gov.ar",
+                "name": "Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios"
+            },
+            "landingPage": "http://www.dnrpa.gov.ar",
+            "description": "En este cuerpo de datos se detallan los datos de vehículos y primer titular de las inscripciones iniciales de automotores. El trámite de inscripción inicial del automotor se realiza en los Registros Seccionales de la Propiedad del Automotor y Créditos Prendarios dependientes de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios. Mayormente corresponde a autos cero kilómetro, pero también pueden inscribirse autos clásicos y subastados entre otros. Se consideran automotores: automóviles, camiones, inclusive los llamados tractores para semirremolque, camionetas, rurales, jeeps, furgones de reparto, ómnibus, microómnibus y colectivos, sus respectivos remolques y acoplados, todos ellos aun cuando no estuvieran carrozados.\r\n",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Inscripciones iniciales de autos",
+            "issued": "2018-03-23T13:53:25.532647",
+            "modified": "2018-04-10T19:20:48.089596",
+            "theme": [
+                "sistema-registral"
+            ],
+            "keyword": [
+                "0km",
+                "automtores",
+                "autos",
+                "dnrpa",
+                "fabricación",
+                "importación",
+                "inscripciones iniciales",
+                "registración",
+                "registros seccionales",
+                "titulares",
+                "trámites"
+            ],
+            "superTheme": [
+                "JUST"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "contactPoint": {
+                "hasEmail": "accesobd@dnrpa.gov.ar",
+                "fn": "Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios"
+            },
+            "identifier": "37c9ad39-f092-44be-9b7f-1201b3c4b7a8",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/37c9ad39-f092-44be-9b7f-1201b3c4b7a8/resource/1ea0933a-89c3-4659-87a6-cfacef16b51b",
+                    "description": "Este recurso contiene las inscripciones iniciales de autos registradas en los Registros Seccionales de la Propiedad del Automotor y datos de su primer titular",
+                    "title": "DNRPA. Inscripciones iniciales de autos 2018-02",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-04-10T15:54:30.506630",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/37c9ad39-f092-44be-9b7f-1201b3c4b7a8/resource/1ea0933a-89c3-4659-87a6-cfacef16b51b/download/dnrpa-inscripciones-iniciales-autos-2018-02.csv",
+                    "issued": "2018-03-26T12:11:45.727390",
+                    "identifier": "1ea0933a-89c3-4659-87a6-cfacef16b51b"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/37c9ad39-f092-44be-9b7f-1201b3c4b7a8/resource/cf27ca47-3207-4d9f-994c-2b38d7cdc81c",
+                    "description": "Este recurso contiene las inscripciones iniciales de autos registradas en los Registros Seccionales de la Propiedad del Automotor y datos de su primer titular",
+                    "title": "DNRPA. Inscripciones iniciales de autos 2018-01",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-04-10T15:36:49.989274",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/37c9ad39-f092-44be-9b7f-1201b3c4b7a8/resource/cf27ca47-3207-4d9f-994c-2b38d7cdc81c/download/dnrpa-inscripciones-iniciales-autos-2018-01.csv",
+                    "issued": "2018-03-26T11:55:59.550934",
+                    "identifier": "cf27ca47-3207-4d9f-994c-2b38d7cdc81c"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/37c9ad39-f092-44be-9b7f-1201b3c4b7a8/resource/0631bd8b-798f-4f19-a776-5a7ede88947d",
+                    "description": "Este recurso contiene las inscripciones iniciales de autos registradas en los Registros Seccionales de la Propiedad del Automotor y datos de su primer titular",
+                    "title": "DNRPA. Inscripciones iniciales de autos 2018-03",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-04-10T16:20:29.710622",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/37c9ad39-f092-44be-9b7f-1201b3c4b7a8/resource/0631bd8b-798f-4f19-a776-5a7ede88947d/download/dnrpa-inscripciones-iniciales-autos-2018-03.csv",
+                    "issued": "2018-04-10T16:20:30.003997",
+                    "identifier": "0631bd8b-798f-4f19-a776-5a7ede88947d"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal"
             },
@@ -1522,7 +1597,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Línea Nacional 0800-222-1717 contra el abuso sexual infantil",
             "issued": "2018-02-07T16:33:24.436199",
-            "modified": "2018-03-12T20:10:54.011908",
+            "modified": "2018-04-10T19:42:15.094016",
             "theme": [
                 "acceso-a-justicia"
             ],
@@ -2403,7 +2478,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Solicitudes de acceso a la información pública en el Ministerio de Justicia y Derechos Humanos",
             "issued": "2017-07-04T15:14:39.142937",
-            "modified": "2018-04-10T16:23:53.720093",
+            "modified": "2018-04-10T19:56:29.961916",
             "theme": [
                 "anticorrupcion"
             ],
@@ -2508,6 +2583,91 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/e41e8224-f868-4688-9fae-94d320f8ee5e/resource/0a823ec3-4609-41b6-8af8-93afd23aaf9c/download/tesauro-saij.rdf",
                     "issued": "2016-11-24T12:42:33.865637",
                     "identifier": "0a823ec3-4609-41b6-8af8-93afd23aaf9c"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "accesobd@dnrpa.gov.ar",
+                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
+            },
+            "landingPage": "http://www.dnrpa.gov.ar",
+            "description": "En este cuerpo de datos se detallan los datos de vehículos y primer titular de transferencias de automotores. El trámite de transferencia del automotor se realiza en los Registros Seccionales de la Propiedad del Automotor y Créditos Prendarios dependientes de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios. Se consideran automotores: automóviles, camiones, inclusive los llamados tractores para semirremolque, camionetas, rurales, jeeps, furgones de reparto, ómnibus, microómnibus y colectivos, sus respectivos remolques y acoplados, todos ellos aun cuando no estuvieran carrozados.\r\n",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Transferencias de autos",
+            "issued": "2018-03-23T13:53:52.380036",
+            "modified": "2018-04-10T18:55:43.459440",
+            "theme": [
+                "sistema-registral"
+            ],
+            "keyword": [
+                "automotores",
+                "autos",
+                "dnrpa",
+                "registración",
+                "registros seccionales",
+                "titulares",
+                "transferencias",
+                "trámites",
+                "vehículos"
+            ],
+            "superTheme": [
+                "JUST"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "contactPoint": {
+                "hasEmail": "accesobd@dnrpa.gov.ar",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
+            },
+            "identifier": "f6932e82-a039-4462-968d-7dcda77d1a3e",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/f6932e82-a039-4462-968d-7dcda77d1a3e/resource/96e33cc5-0445-4321-be4a-512361919396",
+                    "description": "Este recurso contiene las transferencias de autos registradas en los Registros Seccionales de la Propiedad del Automotor y su titulares primer titular",
+                    "title": "DNRPA. Transferencias de autos 2018-03",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-04-03T15:41:10.003064",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/f6932e82-a039-4462-968d-7dcda77d1a3e/resource/96e33cc5-0445-4321-be4a-512361919396/download/dnrpa-transferencias-autos-2018-03.csv",
+                    "issued": "2018-04-03T15:41:10.199026",
+                    "identifier": "96e33cc5-0445-4321-be4a-512361919396"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/f6932e82-a039-4462-968d-7dcda77d1a3e/resource/1b1b2214-d2ce-401b-9bdd-a7be868728f4",
+                    "description": "Este recurso contiene las transferencias de autos registradas en los Registros Seccionales de la Propiedad del Automotor y su titulares primer titular",
+                    "title": "DNRPA. Transferencias de autos 2018-02",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-04-10T15:55:30.601633",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/f6932e82-a039-4462-968d-7dcda77d1a3e/resource/1b1b2214-d2ce-401b-9bdd-a7be868728f4/download/dnrpa-transferencias-autos-2018-02.csv",
+                    "issued": "2018-03-28T14:46:10.193210",
+                    "identifier": "1b1b2214-d2ce-401b-9bdd-a7be868728f4"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/f6932e82-a039-4462-968d-7dcda77d1a3e/resource/c0fe5dcc-33e8-433f-9015-ea5b83f2edae",
+                    "description": "Este recurso contiene las transferencias de autos registradas en los Registros Seccionales de la Propiedad del Automotor y su titulares primer titular",
+                    "title": "DNRPA. Transferencias de autos 2018-01",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-04-10T15:30:58.256450",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/f6932e82-a039-4462-968d-7dcda77d1a3e/resource/c0fe5dcc-33e8-433f-9015-ea5b83f2edae/download/dnrpa-transferencias-autos-2018-01.csv",
+                    "issued": "2018-03-28T14:44:55.484682",
+                    "identifier": "c0fe5dcc-33e8-433f-9015-ea5b83f2edae"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/f6932e82-a039-4462-968d-7dcda77d1a3e/resource/fe229c3c-2762-4940-a228-363d153bc5f2",
+                    "description": "Este recurso contiene las transferencias de autos registradas en los Registros Seccionales de la Propiedad del Automotor y su titulares primer titular del año 2018",
+                    "title": "DNRPA. Transferencias de autos - 2018",
+                    "byteSize": null,
+                    "format": "ZIP",
+                    "mediaType": null,
+                    "modified": "2018-04-10T15:53:20.009119",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/f6932e82-a039-4462-968d-7dcda77d1a3e/resource/fe229c3c-2762-4940-a228-363d153bc5f2/download/dnrpa-transferencias-autos-2008.zip",
+                    "issued": "2018-04-10T15:53:20.171828",
+                    "identifier": "fe229c3c-2762-4940-a228-363d153bc5f2"
                 }
             ]
         },
