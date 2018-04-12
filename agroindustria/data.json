@@ -12,12 +12,121 @@
                 "mbox": "productos_pecuarios@magyp.gob.ar",
                 "name": "Subsecretaría de Ganadería"
             },
+            "identifier": "6c17e5cd-bccd-4536-a08c-ff01d4e0f0e7",
+            "description": "Resumen de los principales indicadores de la actividad del sector bovino nacional. \r\nEsta información se presenta en forma anual.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Indicadores anuales del sector bovino",
+            "issued": "2017-09-07T18:29:19.690432",
+            "modified": "2018-04-12T12:24:32.464273",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "Intercambio Comercial Interno y Externo",
+                "Producción Agroindustrial"
+            ],
+            "keyword": [
+                "consumo",
+                "exportaciones",
+                "faena",
+                "hembras",
+                "indicadores",
+                "invernada",
+                "kilos",
+                "mercados",
+                "novillos",
+                "pesos",
+                "produccion",
+                "res",
+                "transformacion",
+                "volumenes"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "AGRI",
+                "ECON"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/6c17e5cd-bccd-4536-a08c-ff01d4e0f0e7/archivo/848a6d41-44be-42a5-b3b3-01a5ba496994",
+                    "description": "Principales indicadores de la actividad del sector bovino nacional. Información anual. Para los años 1990 y 1991, el precio de \"Novillos en el Mercado de Liniers\" se expresa en \"australes\".",
+                    "license": "odc-odbl",
+                    "title": "Indicadores anuales del sector bovino",
+                    "issued": "2017-09-07T18:30:33.213733",
+                    "format": "CSV",
+                    "modified": "2018-04-12T12:24:32.447823",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/6c17e5cd-bccd-4536-a08c-ff01d4e0f0e7/resource/848a6d41-44be-42a5-b3b3-01a5ba496994/download/indicadores-ganaderos-anuales.csv"
+                }
+            ],
+            "landingPage": "https://datos.agroindustria.gob.ar/dataset/indicadores-anuales-del-sector-bovino"
+        },
+        {
+            "publisher": {
+                "mbox": "azucar@magyp.gob.ar",
+                "name": "Subsecretaría de Alimentos y Bebidas "
+            },
+            "identifier": "85337517-8ec6-415b-937a-40b91f88fce8",
+            "description": "Evolución de los precios futuros de los distintos tipos de azúcares. Promedio de las dos posiciones en el caso del Contrato de Londres (Unidad: Dólares por Tonelada) y promedio de las tres posiciones para el Contrato de New York.(Unidad: Centavos de Dólar por Libra)",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Precio diario internacional de azúcar",
+            "issued": "2017-08-02T15:05:21.745929",
+            "temporal": "2011-01-04T03:00:00.000Z/2017-03-03T03:00:00.000Z",
+            "modified": "2018-04-12T12:05:30.835635",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "Intercambio Comercial Interno y Externo"
+            ],
+            "keyword": [
+                "Bolsa",
+                "Londres",
+                "New York",
+                "azucar",
+                "dolares",
+                "libra",
+                "precio",
+                "tonelada"
+            ],
+            "accrualPeriodicity": "R/P1D",
+            "superTheme": [
+                "AGRI"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/85337517-8ec6-415b-937a-40b91f88fce8/archivo/a650e0e6-7e68-4a09-82ce-bc3bb8a405b3",
+                    "description": "Evolución de los precios futuros de los distintos tipos de azúcares. Promedio de las dos posiciones en el caso del Contrato de Londres (Unidad : Dolares por Tonelada)",
+                    "license": "odc-odbl",
+                    "title": "Precio diario en el mercado de Londres - Contrato N°5",
+                    "issued": "2017-08-02T15:20:52.975191",
+                    "format": "CSV",
+                    "modified": "2018-04-12T12:05:16.677409",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/85337517-8ec6-415b-937a-40b91f88fce8/resource/a650e0e6-7e68-4a09-82ce-bc3bb8a405b3/download/preciobolsadelondres.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/85337517-8ec6-415b-937a-40b91f88fce8/archivo/cf9ae133-0923-40c2-b903-70a5bc17268b",
+                    "description": "Evolución de los precios futuros de los distintos tipos de azúcares. Promedio de las tres posiciones para el Contrato de New York (Unidad: Centavos de Dólar por Libra)",
+                    "license": "odc-odbl",
+                    "title": "Precio diario en el mercado de New York - Contrato N° 11",
+                    "issued": "2017-08-02T15:22:17.372773",
+                    "format": "CSV",
+                    "modified": "2018-04-12T12:05:30.819034",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/85337517-8ec6-415b-937a-40b91f88fce8/resource/cf9ae133-0923-40c2-b903-70a5bc17268b/download/preciobolsadenewyork.csv"
+                }
+            ],
+            "landingPage": "https://datos.agroindustria.gob.ar/dataset/precio-diario-de-azucar"
+        },
+        {
+            "publisher": {
+                "mbox": "productos_pecuarios@magyp.gob.ar",
+                "name": "Subsecretaría de Ganadería"
+            },
             "identifier": "672fe228-086e-4c00-bbe0-3500f8cfd62e",
             "description": "Resumen de los principales indicadores de la actividad del sector bovino nacional. \r\nEsta información se presenta en forma mensual a partir del año 2006.",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Indicadores mensuales del sector bovino",
             "issued": "2017-09-07T18:48:37.429060",
-            "modified": "2018-04-11T20:44:34.265087",
+            "modified": "2018-04-12T11:58:45.997730",
             "language": [
                 "spa"
             ],
@@ -48,67 +157,11 @@
                     "title": "Indicadores mensuales del sector bovino",
                     "issued": "2017-09-07T18:49:52.305764",
                     "format": "CSV",
-                    "modified": "2018-04-11T20:44:34.248002",
+                    "modified": "2018-04-12T11:58:45.981430",
                     "downloadURL": "https://datos.agroindustria.gob.ar/dataset/672fe228-086e-4c00-bbe0-3500f8cfd62e/resource/46c21636-2a4d-44a4-a0c6-052836d51a3f/download/indicadores-ganaderos-mensuales-.csv"
                 }
             ],
             "landingPage": "https://datos.agroindustria.gob.ar/dataset/indicadores-mensuales-del-sector-bovino"
-        },
-        {
-            "publisher": {
-                "mbox": "azucar@magyp.gob.ar",
-                "name": "Subsecretaría de Alimentos y Bebidas "
-            },
-            "identifier": "85337517-8ec6-415b-937a-40b91f88fce8",
-            "description": "Evolución de los precios futuros de los distintos tipos de azúcares. Promedio de las dos posiciones en el caso del Contrato de Londres (Unidad: Dólares por Tonelada) y promedio de las tres posiciones para el Contrato de New York.(Unidad: Centavos de Dólar por Libra)",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Precio diario internacional de azúcar",
-            "issued": "2017-08-02T15:05:21.745929",
-            "temporal": "2011-01-04T03:00:00.000Z/2017-03-03T03:00:00.000Z",
-            "modified": "2018-04-10T21:38:18.087954",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "Intercambio Comercial Interno y Externo"
-            ],
-            "keyword": [
-                "Bolsa",
-                "Londres",
-                "New York",
-                "azucar",
-                "dolares",
-                "libra",
-                "precio",
-                "tonelada"
-            ],
-            "accrualPeriodicity": "R/P1D",
-            "superTheme": [
-                "AGRI"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/85337517-8ec6-415b-937a-40b91f88fce8/archivo/a650e0e6-7e68-4a09-82ce-bc3bb8a405b3",
-                    "description": "Evolución de los precios futuros de los distintos tipos de azúcares. Promedio de las dos posiciones en el caso del Contrato de Londres (Unidad : Dolares por Tonelada)",
-                    "license": "odc-odbl",
-                    "title": "Precio diario en el mercado de Londres - Contrato N°5",
-                    "issued": "2017-08-02T15:20:52.975191",
-                    "format": "CSV",
-                    "modified": "2018-04-10T21:38:18.070857",
-                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/85337517-8ec6-415b-937a-40b91f88fce8/resource/a650e0e6-7e68-4a09-82ce-bc3bb8a405b3/download/preciobolsadelondres.csv"
-                },
-                {
-                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/85337517-8ec6-415b-937a-40b91f88fce8/archivo/cf9ae133-0923-40c2-b903-70a5bc17268b",
-                    "description": "Evolución de los precios futuros de los distintos tipos de azúcares. Promedio de las tres posiciones para el Contrato de New York (Unidad: Centavos de Dólar por Libra)",
-                    "license": "odc-odbl",
-                    "title": "Precio diario en el mercado de New York - Contrato N° 11",
-                    "issued": "2017-08-02T15:22:17.372773",
-                    "format": "CSV",
-                    "modified": "2018-04-10T21:34:36.955952",
-                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/85337517-8ec6-415b-937a-40b91f88fce8/resource/cf9ae133-0923-40c2-b903-70a5bc17268b/download/preciobolsadenewyork.csv"
-                }
-            ],
-            "landingPage": "https://datos.agroindustria.gob.ar/dataset/precio-diario-de-azucar"
         },
         {
             "publisher": {
@@ -3713,59 +3766,6 @@
                 }
             ],
             "landingPage": "http://datos.agroindustria.gob.ar/dataset/existencia-de-ciervo-colorado"
-        },
-        {
-            "publisher": {
-                "mbox": "productos_pecuarios@magyp.gob.ar",
-                "name": "Subsecretaría de Ganadería"
-            },
-            "identifier": "6c17e5cd-bccd-4536-a08c-ff01d4e0f0e7",
-            "description": "Resumen de los principales indicadores de la actividad del sector bovino nacional. \r\nEsta información se presenta en forma anual.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Indicadores anuales del sector bovino",
-            "issued": "2017-09-07T18:29:19.690432",
-            "modified": "2017-10-02T14:27:07.600028",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "Intercambio Comercial Interno y Externo",
-                "Producción Agroindustrial"
-            ],
-            "keyword": [
-                "consumo",
-                "exportaciones",
-                "faena",
-                "hembras",
-                "indicadores",
-                "invernada",
-                "kilos",
-                "mercados",
-                "novillos",
-                "pesos",
-                "produccion",
-                "res",
-                "transformacion",
-                "volumenes"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "superTheme": [
-                "AGRI",
-                "ECON"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.agroindustria.gob.ar/dataset/6c17e5cd-bccd-4536-a08c-ff01d4e0f0e7/archivo/848a6d41-44be-42a5-b3b3-01a5ba496994",
-                    "description": "Principales indicadores de la actividad del sector bovino nacional. Información anual. Para los años 1990 y 1991, el precio de \"Novillos en el Mercado de Liniers\" se expresa en \"australes\".",
-                    "license": "odc-odbl",
-                    "title": "Indicadores anuales del sector bovino",
-                    "issued": "2017-09-07T18:30:33.213733",
-                    "format": "CSV",
-                    "modified": "2017-09-07T18:38:30.718743",
-                    "downloadURL": "http://datos.agroindustria.gob.ar/dataset/6c17e5cd-bccd-4536-a08c-ff01d4e0f0e7/resource/848a6d41-44be-42a5-b3b3-01a5ba496994/download/indicadores-ganaderos-anuales.csv"
-                }
-            ],
-            "landingPage": "http://datos.agroindustria.gob.ar/dataset/indicadores-anuales-del-sector-bovino"
         },
         {
             "publisher": {
