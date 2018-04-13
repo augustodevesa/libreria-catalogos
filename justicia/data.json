@@ -388,7 +388,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.",
             "issued": "2016-09-28T14:57:47.665668",
-            "modified": "2018-04-12T12:25:26.672994",
+            "modified": "2018-04-13T11:50:08.598956",
             "theme": [
                 "sistema-registral"
             ],
@@ -409,12 +409,12 @@
             "distribution": [
                 {
                     "accessURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/de90c0e5-3477-415d-abe7-2e2d527931b7",
-                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 12-04-2018. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
+                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 13-04-2018. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
                     "title": "Sistema de Consulta Nacional de Rebeldías y Capturas",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2018-04-12T08:53:59.621674",
+                    "modified": "2018-04-13T08:50:04.511536",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/de90c0e5-3477-415d-abe7-2e2d527931b7/download/rebeldias-y-capturas.csv",
                     "issued": "2018-03-12T12:32:38.600634",
                     "identifier": "de90c0e5-3477-415d-abe7-2e2d527931b7"
@@ -1412,7 +1412,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Inscripciones iniciales de autos",
             "issued": "2018-03-23T13:53:25.532647",
-            "modified": "2018-04-10T19:20:48.089596",
+            "modified": "2018-04-13T10:49:20.216186",
             "theme": [
                 "sistema-registral"
             ],
@@ -1440,6 +1440,18 @@
             "identifier": "37c9ad39-f092-44be-9b7f-1201b3c4b7a8",
             "distribution": [
                 {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/37c9ad39-f092-44be-9b7f-1201b3c4b7a8/resource/0631bd8b-798f-4f19-a776-5a7ede88947d",
+                    "description": "Este recurso contiene las inscripciones iniciales de autos registradas en los Registros Seccionales de la Propiedad del Automotor y datos de su primer titular",
+                    "title": "DNRPA. Inscripciones iniciales de autos 2018-03",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-04-10T16:20:29.710622",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/37c9ad39-f092-44be-9b7f-1201b3c4b7a8/resource/0631bd8b-798f-4f19-a776-5a7ede88947d/download/dnrpa-inscripciones-iniciales-autos-2018-03.csv",
+                    "issued": "2018-04-10T16:20:30.003997",
+                    "identifier": "0631bd8b-798f-4f19-a776-5a7ede88947d"
+                },
+                {
                     "accessURL": "http://datos.jus.gob.ar/dataset/37c9ad39-f092-44be-9b7f-1201b3c4b7a8/resource/1ea0933a-89c3-4659-87a6-cfacef16b51b",
                     "description": "Este recurso contiene las inscripciones iniciales de autos registradas en los Registros Seccionales de la Propiedad del Automotor y datos de su primer titular",
                     "title": "DNRPA. Inscripciones iniciales de autos 2018-02",
@@ -1464,16 +1476,16 @@
                     "identifier": "cf27ca47-3207-4d9f-994c-2b38d7cdc81c"
                 },
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/37c9ad39-f092-44be-9b7f-1201b3c4b7a8/resource/0631bd8b-798f-4f19-a776-5a7ede88947d",
-                    "description": "Este recurso contiene las inscripciones iniciales de autos registradas en los Registros Seccionales de la Propiedad del Automotor y datos de su primer titular",
-                    "title": "DNRPA. Inscripciones iniciales de autos 2018-03",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/37c9ad39-f092-44be-9b7f-1201b3c4b7a8/resource/c486ed3d-4fe7-4501-8790-fa80fbbc9fa7",
+                    "description": "Este recurso contiene las inscripciones iniciales de autos registradas en los Registros Seccionales de la Propiedad del Automotor y su titulares primer titular del año 2018",
+                    "title": "DNRPA. Inscripciones iniciales de autos - 2018",
                     "byteSize": null,
-                    "format": "CSV",
+                    "format": "ZIP",
                     "mediaType": null,
-                    "modified": "2018-04-10T16:20:29.710622",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/37c9ad39-f092-44be-9b7f-1201b3c4b7a8/resource/0631bd8b-798f-4f19-a776-5a7ede88947d/download/dnrpa-inscripciones-iniciales-autos-2018-03.csv",
-                    "issued": "2018-04-10T16:20:30.003997",
-                    "identifier": "0631bd8b-798f-4f19-a776-5a7ede88947d"
+                    "modified": "2018-04-13T07:49:20.144973",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/37c9ad39-f092-44be-9b7f-1201b3c4b7a8/resource/c486ed3d-4fe7-4501-8790-fa80fbbc9fa7/download/dnrpa-inscripciones-iniciales-autos-2008.zip",
+                    "issued": "2018-04-13T07:49:20.380845",
+                    "identifier": "c486ed3d-4fe7-4501-8790-fa80fbbc9fa7"
                 }
             ]
         },
@@ -2596,7 +2608,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Transferencias de autos",
             "issued": "2018-03-23T13:53:52.380036",
-            "modified": "2018-04-10T18:55:43.459440",
+            "modified": "2018-04-13T10:50:30.430471",
             "theme": [
                 "sistema-registral"
             ],
