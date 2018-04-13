@@ -76,8 +76,8 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 74,Exportaciones FOB por rubro,75,OK,0,3
 75,Importaciones CIF por Uso Económico,76,OK,0,3
 76,Exportaciones FOB por país y region,77,OK,0,3
-77,Importaciones CIF por region y país,78,OK,0,3
-78,Saldo Comercial por Países y Regiones (FOB-CIF),79,OK,0,3
+77,Importaciones CIF por region y país,78,OK,0,2
+78,Saldo Comercial por Países y Regiones (FOB-CIF),79,OK,0,1
 79,"Índices de valor, precio y cantidad de las exportaciones de bienes",80,OK,0,2
 80,"Índices de valor, precio y cantidad de las importaciones de bienes",81,OK,0,2
 81,Índice de términos del intercambio. Base 2004,82,OK,0,2
@@ -111,7 +111,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 109,Índice de precios implícitos del Valor Agregado Bruto a precios de mercado. Base 2004,112,OK,0,2
 110,Índice de precios implícitos de la Oferta y Demanda Globales por componente. Base 2004,113,OK,0,2
 111,Índice de Tipo de Cambio Real Multilateral Base Diciembre de 2001 = 100,115,OK,0,3
-112,Índice de Tipo de Cambio Real Multilateral Base 17 de Diciembre de 2015 = 100,116,OK,0,4
+112,Índice de Tipo de Cambio Real Multilateral Base 17 de Diciembre de 2015 = 100,116,OK,0,2
 113,Poder de compra de las exportaciones de bienes y ganancia del intercambio,120,OK,0,1
 114,Índices de precios internacionales de productos básicos,121,OK,0,3
 115,"Índice de precios al consumidor GBA, por principales aperturas",122,OK,0,2
@@ -119,163 +119,141 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 117,"Índice de Precios al Consumidor Nacional Urbano, por principales aperturas",124,OK,0,2
 118,Índice de Precios Internos Básicos al por Mayor (IPIB) hasta cuatro dígitos,125,OK,0,2
 119,Índice de Precios Internos al por Mayor (IPIM) hasta cuatro dígitos,126,OK,0,2
-120,Crecimiento del Producto Interno Bruto de principales economías,128,OK,0,1
-121,Desempleo de principales economías,129,OK,0,2
-122,Resultado de cuenta corriente de las principales economías,130,OK,0,2
-123,Principales Tasas de Interés de Referencia,131,OK,0,1
-124,Rendimiento de los bonos de Estados Unidos,132,OK,0,1
-125,Cotizaciones de divisas internacionales,133,OK,0,4
-126,Emerging Markets Bonds Index (EMBI),134,OK,0,4
-127,Bolsas mundiales,135,OK,0,4
-128,Índices Morgan Stanley Capital Investment (MSCI),136,OK,0,4
-129,Tipo de cambio nominal,138,OK,0,3
-130,"Índices de precios al consumidor, por país",139,OK,0,3
-131,Participación de los principales socios comerciales en el comercio argentino,140,OK,0,1
-132,Recursos tributarios totales y por tributo,142,OK,0,3
-133,Estimador Mensual de Actividad Económica (EMAE),143,OK,0,3
-134,Posición de Inversión Internacional neta,144,OK,0,4
-135,Índice de Precios al Consumidor. Nivel General. Base diciembre 2016.,145,OK,0,2
-136,Índice de Precios al Consumidor. Por capítulos. Base diciembre 2016.,146,OK,0,2
-137,Índice de Precios al Consumidor. Bienes y Servicios. Base diciembre 2016.,147,OK,0,2
-138,Índice de Precios al Consumidor. Por categorías. Base diciembre de 2016.,148,OK,0,2
-139,Índice de salarios. Base Octubre 2016,149,OK,0,1
-140,Valores de la Canasta Básica de Alimentos  y Canasta Básica Total.,150,OK,0,1
-141,Trabajadores registrados según modalidad ocupacional principal. Base 2012,151,OK,0,1
-142,"Asalariados registrados del sector privado, por rama de actividad de la ocupación principal.",152,OK,0,1
-143,Remuneración bruta de los asalariados registrados del sector privado,153,OK,0,1
-144,Balance de Pagos (MBP6),160,OK,0,2
-145,"Asalariados registrados del sector privado, por provincia.",154,OK,0,2
-146,"Empleo registrado del sector privado, por sector de actividad.",155,OK,0,2
-147,"Empleo registrado del sector privado, por rama de actividad",156,OK,0,1
-148,Remuneración bruta de los asalariados registrados del sector privado según rama de actividad,157,OK,0,2
-149,Remuneración imponible promedio de los trabajadores estables (RIPTE),158,OK,0,1
-150,Deuda externa bruta por sector residente,161,OK,0,1
-151,Exportaciones según el Nomenclador Común del Mercosur (NCM),162,OK,0,3
-152,Importaciones según el Nomenclador Común del Mercosur (NCM),163,OK,0,3
-153,Saldo comercial clasificado el Nomenclador Común del Mercosur (NCM),164,OK,0,3
-154,Volumen Físico de Exportaciones e Importaciones 1935-1954,385,OK,0,2
-155,Producto Interno Bruto 1950-1964,386,OK,0,2
-156,Asignación Universal por Hijo,165,OK,0,1
-157,"Ingreso nacional, Ahorro nacional y Préstamo neto",166,OK,0,2
-158,Ahorro del resto del mundo. Base 2004,167,OK,0,2
-159,Tipo de Cambio $-USD - Futuro Dólar - NDF,168,OK,0,1
-160,Índices Bursátiles Argentina,169,OK,0,1
-161,Financiamiento privado en mercado de capitales,170,OK,0,1
-162,Fondos Comunes de Inversión,171,OK,0,2
-163,Principales subgrupos de recaudación tributaria,172,OK,0,3
-164,IPC Categorías. Tasas de variación mensual. Base Dic-2016,173,OK,0,1
-165,Series históricas de estadísticas monetarias,174,OK,0,1
-166,Tipos de Cambio Históricos,175,OK,0,1
-167,Índice de Precios al Consumidor GBA - Base 1988,176,OK,0,1
-168,Índice de Precios al Consumidor GBA - Base 1974,177,OK,0,1
-169,Índice de Precios al Consumidor histórico,178,OK,0,1
-170,Títulos Públicos de Deuda,179,OK,0,1
-171,Indices Bursátiles Argentina. Desagregación sectorial,180,OK,0,1
-172,Exportaciones e importaciones por Intensidad tecnológica,181,OK,0,1
-173,Balance Cambiario,182,OK,0,1
-174,Cobros y pagos por bienes por modalidad de pago - Balance Cambiario,183,OK,0,1
-175,Cobros y pagos por bienes sectorial - Balance Cambiario,184,OK,0,1
-176,Cobros y pagos por tipo de servicio - Balance Cambiario,185,OK,0,1
-177,Gasto Público del Gobierno Nacional en Política de Ingresos,186,OK,0,3
-178,Política de Ingresos. Prestaciones de la seguridad social. BESS-MTESS,187,OK,0,1
-179,Política de Ingresos. Asignación Universal Por Hijo para la Protección Social y por Embarazo.,188,OK,0,1
-180,Política de Ingresos. Prestaciones de la seguridad social. ANSES,189,OK,0,1
-181,Prestaciones de la seguridad social. Cuenta de Inversión.,190,OK,0,1
-182,Prestaciones de la seguridad social. Seguimiento Físico-Financiero.,191,OK,0,1
-183,PIB Subtotal Agrícola en millones de pesos de 1960,192,ERROR,1,1
-184,Índice de Precios al Consumidor de la Ciudad de Buenos Aires. Nivel general y principales aperturas,193,OK,0,1
-185,Índice de Precios al Consumidor de la Provincia de Córdoba. Base 2014 = 100,194,OK,0,1
-186,Índice de Precios al Consumidor de la Provincia de Mendoza. Base 2010 = 100,195,OK,0,1
-187,Índice de Precios al Consumidor de la Provincia de Neuquen. Base 2010 = 100,196,OK,0,1
-188,Índice de Precios al Consumidor de la Provincia de San Luis. Base oct 2005 = 100,197,OK,0,1
-189,Índice de Precios al Consumidor de la Provincia de Santa Fé. Base oct 2005 = 100,198,OK,0,1
-190,Índice de Precios al Consumidor de la Provincia de Tucuman. Base oct 2005 = 100,199,OK,0,1
-191,Activos y pasivos del Banco Central de la Republica Argentina,300,OK,0,2
-192,Distribución personal del ingreso por  deciles,301,OK,0,1
-193,Estadísticas de servicios públicos.,302,OK,0,3
-194,Tasa de asalarización y de asalariados sin descuento jubilatorio. EPH Continua.,303,ERROR,1,1
-195,Lebac mercado secundario,304,OK,0,1
-196,Valor Agregado Bruto a precios básicos por rama de actividad económica,305,OK,0,2
-197,Índice de Precios Implícitos del Valor Agregado Bruto por rama de actividad económica,306,OK,0,2
-198,Valor Agregado Bruto a precios básicos por rama de actividad económica,307,OK,0,2
-199,Brasil PIB Oferta y demanda global,308,OK,0,1
-200,"Brasil Actividad económica, industrial y producción automotriz",309,OK,0,1
-201,Brasil Salario medio real,310,OK,0,1
-202,Brasil Tipo de cambio nominal y real,311,OK,0,1
-203,Stock de Inversión Extranjera Directa - BCRA,312,OK,0,1
-204,Deuda externa privada - BCRA,313,OK,0,1
-205,Flujos de Inversión Extranjera Directa - BCRA,314,OK,0,1
-206,Ingreso de la inversión extranjera directa - BCRA,315,OK,0,1
-207,Stock de Inversión Extranjera Directa por sector - BCRA,316,OK,0,1
-208,Flujos de Inversión Extranjera Directa por sector - BCRA,317,OK,0,1
-209,Ingreso de la inversión extranjera directa por sector - BCRA,318,OK,0,1
-210,Stock de Inversión Extranjera Directa por país primer nivel de residencia - BCRA,319,OK,0,1
-211,Flujos de Inversión Extranjera Directa por país primer nivel de residencia - BCRA,320,OK,0,1
-212,Ingreso de la inversión extranjera directa por país primer nivel de residencia - BCRA,321,OK,0,1
-213,Encuesta de Turismo Internacional,322,OK,0,3
-214,Componentes del VAB por sector de actividad económica,323,OK,0,1
-215,Insumo de mano de obra por sector de actividad económica,324,OK,0,1
-216,Puestos de trabajo registrados por sector de actividad económica en el sector privado,325,OK,0,2
-217,Costo salarial por sector de actividad económica en el sector privado,326,OK,0,2
-218,Remuneración total por sector de actividad económica en el sector privado,327,OK,0,2
-219,Remuneración neta por sector de actividad económica en el sector privado,328,OK,0,2
-220,Datos históricos de la industria automotriz,330,OK,0,3
-221,Factores de explicación de Base Monetaria,331,OK,0,2
-222,Principales Indicadores del Sistema Financiero,332,OK,0,2
-223,Rentabilidad del sistema financiero,333,OK,0,2
-224,Situación patrimonial del sistema financiero,334,OK,0,2
-225,Balance de pagos en millones de dólares,335,OK,0,1
-226,Activos externos en millones de dólares,336,OK,0,1
-227,Flujos monetarios netos de Inversión Extranjera Directa,337,OK,0,1
-228,Flujos porcentuales netos de Inversión Extranjera Directa,338,OK,0,1
-229,Cuenta Corriente del Balance de Pagos. Flujos monetarios,339,OK,0,1
-230,Cuenta Corriente del Balance de Pagos. En porcentaje del producto,340,OK,0,1
-231,Tasa de Actividad por aglomerado 1974-2003,341,OK,0,1
-232,Tasa de Empleo por aglomerado 1974-2003,342,OK,0,1
-233,Tasa de Desocupación por aglomerado 1974-2003,343,OK,0,1
-234,Tasa de Subocupación por aglomerado 1974-2003,344,OK,0,1
-235,IPC Incidencia de los capítulos en el nivel general,345,OK,0,1
-236,IPC Incidencia de los bienes y servicios en el nivel general,346,OK,0,1
-237,IPC Incidencia de las categorías en el nivel general,347,OK,0,1
-238,Precios al consumidor de un conjunto de elementos de la canasta del IPC,348,OK,0,1
-239,Liquidación de divisas por Exportaciones de Oleaginosas y Cereales,349,OK,0,2
-240,Exportaciones por provincia y rubro,350,OK,0,1
-241,Índices de salarios industriales básicos de convenios en la Capital Federal desde 1962,351,OK,0,2
-242,Índices de salarios industriales básicos de convenios en la Capital Federal.,352,OK,0,2
-243,Salarios básicos de convenio del peón de la industria manufacturera,353,OK,0,2
-244,Salarios básicos de convenio del oficial de la industria manufacturera.,354,OK,0,2
-245,Salario real y poder adquisitivo en la Industria.,355,OK,0,2
-246,Costo del Nivel de Vida en la Capital Federal.,356,OK,0,2
-247,Exportaciones por provincia y por país de destino,357,OK,0,1
-248,Precios FOB oficiales,358,OK,0,1
-249,Datos históricos de la industria siderúrgica,359,OK,0,3
-250,"Cantidad de empresas exportadoras por sector de actividad, rangos de exportación y saldo comercial",360,OK,0,1
-251,"Exportaciones por sector, saldo comercial y rangos de exportación de la empresa exportadora",361,OK,0,1
-252,Indice de difusión de las exportaciones por producto y destino,362,OK,0,1
-253,Producción y ventas de petróleo y derivados,363,OK,0,3
-254,Producción y consumo de gas natural,364,OK,0,3
-255,"Producción y Ventas de Petróleo, Gas y Derivados por Empresa",365,OK,0,3
-256,Pozos de petróleo y metros perforados,366,OK,0,3
-257,Demanda de electricidad,367,OK,0,3
-258,Producción y ventas de biocombustibles,368,OK,0,3
-259,Embarques de Oleaginosas y Cereales,369,OK,0,3
-260,Índice de Confianza en el Gobierno,370,OK,0,1
-261,Cuentas Nacionales 1970-1980. Base 1970,371,OK,0,20
-262,Esquema Ahorro - Inversión - Financimmiento. Administración Pública Nacional. Base Caja.,372,OK,0,9
-263,Esquema Ahorro - Inversión - Financimmiento. Tesoro Nacional. Base Caja.,373,OK,0,9
-264,Esquema Ahorro - Inversión - Financimmiento. Recursos Afectados. Base Caja.,374,OK,0,9
-265,Esquema Ahorro - Inversión - Financimmiento. Organismos Descentralizados. Base Caja.,375,OK,0,9
-266,Esquema Ahorro - Inversión - Financimmiento. Instituciones de la Seguridad Social. Base Caja.,376,OK,0,9
-267,Esquema Ahorro - Inversión - Financimmiento. Ex Cajas Provinciales. Base Caja.,377,OK,0,9
-268,"Esquema Ahorro - Inversión - Financimmiento. EEPP, PAMI, Fondos Fiduciarios y Otros. Base Caja",378,OK,0,9
-269,Esquema Ahorro - Inversión - Financimmiento. Sector Público Nacional. Base Caja.,379,OK,0,9
-270,Índice de Confianza del Consumidor,380,OK,0,3
-271,Relevamiento de Expectativas de Mercado (REM),430,OK,0,1
-272,Expectativas de Inflación,431,OK,0,1
-273,Cuentas Nacionales 1970-1980. Base 1960,381,OK,0,6
-274,Cuentas Nacionales 1980-1990,382,OK,0,9
-275,Cuentas Nacionales 1980-1996,383,OK,0,3
-276,Cuentas Nacionales 1935-1962,384,OK,0,8
-277,Producto Interno Bruto Sectorial 1980-1990,387,OK,0,11
-278,Producto Interno Bruto Sectorial 1970-1980,388,OK,0,13
-279,Precios de paquetes de cigarrillos vendidos equivalentes a veinte unidades,399,OK,0,1
+120,Principales Tasas de Interés de Referencia,131,OK,0,1
+121,Rendimiento de los bonos de Estados Unidos,132,OK,0,1
+122,Participación de los principales socios comerciales en el comercio argentino,140,OK,0,1
+123,Recursos tributarios totales y por tributo,142,OK,0,3
+124,Estimador Mensual de Actividad Económica (EMAE),143,OK,0,3
+125,Posición de Inversión Internacional neta,144,OK,0,4
+126,Índice de Precios al Consumidor. Nivel General. Base diciembre 2016.,145,OK,0,2
+127,Índice de Precios al Consumidor. Por capítulos. Base diciembre 2016.,146,OK,0,2
+128,Índice de Precios al Consumidor. Bienes y Servicios. Base diciembre 2016.,147,OK,0,2
+129,Índice de Precios al Consumidor. Por categorías. Base diciembre de 2016.,148,OK,0,2
+130,Índice de salarios. Base Octubre 2016,149,OK,0,1
+131,Valores de la Canasta Básica de Alimentos  y Canasta Básica Total.,150,OK,0,1
+132,Trabajadores registrados según modalidad ocupacional principal. Base 2012,151,OK,0,1
+133,"Asalariados registrados del sector privado, por rama de actividad de la ocupación principal.",152,OK,0,1
+134,Remuneración bruta de los asalariados registrados del sector privado,153,OK,0,1
+135,Balance de Pagos (MBP6),160,OK,0,2
+136,"Asalariados registrados del sector privado, por provincia.",154,OK,0,2
+137,"Empleo registrado del sector privado, por sector de actividad.",155,OK,0,2
+138,"Empleo registrado del sector privado, por rama de actividad",156,OK,0,1
+139,Remuneración bruta de los asalariados registrados del sector privado según rama de actividad,157,OK,0,2
+140,Remuneración imponible promedio de los trabajadores estables (RIPTE),158,OK,0,1
+141,Deuda externa bruta por sector residente,161,OK,0,1
+142,Exportaciones según el Nomenclador Común del Mercosur (NCM),162,OK,0,3
+143,Importaciones según el Nomenclador Común del Mercosur (NCM),163,OK,0,3
+144,Saldo comercial clasificado el Nomenclador Común del Mercosur (NCM),164,OK,0,3
+145,Asignación Universal por Hijo,165,OK,0,1
+146,"Ingreso nacional, Ahorro nacional y Préstamo neto",166,OK,0,2
+147,Ahorro del resto del mundo. Base 2004,167,OK,0,2
+148,Tipo de Cambio $-USD - Futuro Dólar,168,OK,0,1
+149,Índices Bursátiles Argentina,169,OK,0,1
+150,Financiamiento privado en mercado de capitales,170,OK,0,1
+151,Fondos Comunes de Inversión,171,OK,0,2
+152,Principales subgrupos de recaudación tributaria,172,OK,0,3
+153,IPC Categorías. Tasas de variación mensual. Base Dic-2016,173,OK,0,1
+154,Series históricas de estadísticas monetarias,174,OK,0,1
+155,Tipos de Cambio Históricos,175,OK,0,1
+156,Índice de Precios al Consumidor GBA - Base 1988,176,OK,0,1
+157,Índice de Precios al Consumidor GBA - Base 1974,177,OK,0,1
+158,Índice de Precios al Consumidor histórico,178,OK,0,1
+159,Títulos Públicos de Deuda,179,OK,0,1
+160,Indices Bursátiles Argentina. Desagregación sectorial,180,OK,0,1
+161,Exportaciones e importaciones por Intensidad tecnológica,181,OK,0,1
+162,Balance Cambiario,182,OK,0,1
+163,Cobros y pagos por bienes por modalidad de pago - Balance Cambiario,183,OK,0,1
+164,Cobros y pagos por bienes sectorial - Balance Cambiario,184,OK,0,1
+165,Cobros y pagos por tipo de servicio - Balance Cambiario,185,OK,0,1
+166,Gasto Público del Gobierno Nacional en Política de Ingresos,186,OK,0,3
+167,Política de Ingresos. Prestaciones de la seguridad social. BESS-MTESS,187,OK,0,1
+168,Política de Ingresos. Asignación Universal Por Hijo para la Protección Social y por Embarazo.,188,OK,0,1
+169,Política de Ingresos. Prestaciones de la seguridad social. ANSES,189,OK,0,1
+170,Prestaciones de la seguridad social. Cuenta de Inversión.,190,OK,0,1
+171,Prestaciones de la seguridad social. Seguimiento Físico-Financiero.,191,OK,0,1
+172,Índice de Precios al Consumidor de la Ciudad de Buenos Aires. Nivel general y principales aperturas,193,OK,0,1
+173,Índice de Precios al Consumidor de la Provincia de Córdoba. Base 2014 = 100,194,OK,0,1
+174,Índice de Precios al Consumidor de la Provincia de Mendoza. Base 2010 = 100,195,OK,0,1
+175,Índice de Precios al Consumidor de la Provincia de Neuquen. Base 2010 = 100,196,OK,0,1
+176,Índice de Precios al Consumidor de la Provincia de San Luis. Base oct 2005 = 100,197,OK,0,1
+177,Índice de Precios al Consumidor de la Provincia de Santa Fé. Base oct 2005 = 100,198,OK,0,1
+178,Índice de Precios al Consumidor de la Provincia de Tucuman. Base oct 2005 = 100,199,OK,0,1
+179,Activos y pasivos del Banco Central de la Republica Argentina,300,OK,0,2
+180,Distribución personal del ingreso por  deciles,301,OK,0,1
+181,Estadísticas de servicios públicos.,302,OK,0,3
+182,Tasa de asalarización y de asalariados sin descuento jubilatorio. EPH Continua.,303,ERROR,1,1
+183,Lebac mercado secundario,304,OK,0,1
+184,Valor Agregado Bruto a precios básicos por rama de actividad económica,305,OK,0,2
+185,Índice de Precios Implícitos del Valor Agregado Bruto por rama de actividad económica,306,OK,0,1
+186,Valor Agregado Bruto a precios básicos por rama de actividad económica,307,OK,0,1
+187,Brasil PIB Oferta y demanda global,308,OK,0,1
+188,"Brasil Actividad económica, industrial y producción automotriz",309,OK,0,1
+189,Brasil Salario medio real,310,OK,0,1
+190,Brasil Tipo de cambio nominal y real,311,OK,0,1
+191,Stock de Inversión Extranjera Directa - BCRA,312,OK,0,1
+192,Deuda externa privada - BCRA,313,OK,0,1
+193,Flujos de Inversión Extranjera Directa - BCRA,314,OK,0,1
+194,Ingreso de la inversión extranjera directa - BCRA,315,OK,0,1
+195,Stock de Inversión Extranjera Directa por sector - BCRA,316,OK,0,1
+196,Flujos de Inversión Extranjera Directa por sector - BCRA,317,OK,0,1
+197,Ingreso de la inversión extranjera directa por sector - BCRA,318,OK,0,1
+198,Stock de Inversión Extranjera Directa por país primer nivel de residencia - BCRA,319,OK,0,1
+199,Flujos de Inversión Extranjera Directa por país primer nivel de residencia - BCRA,320,OK,0,1
+200,Ingreso de la inversión extranjera directa por país primer nivel de residencia - BCRA,321,OK,0,1
+201,Encuesta de Turismo Internacional,322,OK,0,3
+202,Componentes del VAB por sector de actividad económica,323,OK,0,1
+203,Insumo de mano de obra por sector de actividad económica,324,OK,0,1
+204,Puestos de trabajo registrados por sector de actividad económica en el sector privado,325,OK,0,2
+205,Costo salarial por sector de actividad económica en el sector privado,326,OK,0,2
+206,Remuneración total por sector de actividad económica en el sector privado,327,OK,0,2
+207,Remuneración neta por sector de actividad económica en el sector privado,328,OK,0,2
+208,Datos históricos de la industria automotriz,330,OK,0,3
+209,Factores de explicación de Base Monetaria,331,OK,0,2
+210,Principales Indicadores del Sistema Financiero,332,OK,0,2
+211,Rentabilidad del sistema financiero,333,OK,0,1
+212,Situación patrimonial del sistema financiero,334,OK,0,2
+213,Flujos monetarios netos de Inversión Extranjera Directa,337,OK,0,1
+214,Flujos porcentuales netos de Inversión Extranjera Directa,338,OK,0,1
+215,Cuenta Corriente del Balance de Pagos. Flujos monetarios,339,OK,0,1
+216,Cuenta Corriente del Balance de Pagos. En porcentaje del producto,340,OK,0,1
+217,Tasa de Actividad por aglomerado 1974-2003,341,OK,0,1
+218,Tasa de Empleo por aglomerado 1974-2003,342,OK,0,1
+219,Tasa de Desocupación por aglomerado 1974-2003,343,OK,0,1
+220,Tasa de Subocupación por aglomerado 1974-2003,344,OK,0,1
+221,IPC Incidencia de los capítulos en el nivel general,345,OK,0,1
+222,IPC Incidencia de los bienes y servicios en el nivel general,346,OK,0,1
+223,IPC Incidencia de las categorías en el nivel general,347,OK,0,1
+224,Precios al consumidor de un conjunto de elementos de la canasta del IPC,348,OK,0,1
+225,Liquidación de divisas por Exportaciones de Oleaginosas y Cereales,349,OK,0,2
+226,Exportaciones por provincia y rubro,350,OK,0,1
+227,Índices de salarios industriales básicos de convenios en la Capital Federal desde 1962,351,OK,0,2
+228,Índices de salarios industriales básicos de convenios en la Capital Federal.,352,OK,0,2
+229,Salarios básicos de convenio del peón de la industria manufacturera,353,OK,0,2
+230,Salarios básicos de convenio del oficial de la industria manufacturera.,354,OK,0,2
+231,Salario real y poder adquisitivo en la Industria.,355,OK,0,2
+232,Costo del Nivel de Vida en la Capital Federal.,356,OK,0,2
+233,Exportaciones por provincia y por país de destino,357,OK,0,1
+234,Precios FOB oficiales,358,OK,0,1
+235,Datos históricos de la industria siderúrgica,359,OK,0,3
+236,"Cantidad de empresas exportadoras por sector de actividad, rangos de exportación y saldo comercial",360,OK,0,1
+237,"Exportaciones por sector, saldo comercial y rangos de exportación de la empresa exportadora",361,OK,0,1
+238,Indice de difusión de las exportaciones por producto y destino,362,OK,0,1
+239,Producción y ventas de petróleo y derivados,363,OK,0,3
+240,Producción y consumo de gas natural,364,OK,0,3
+241,"Producción y Ventas de Petróleo, Gas y Derivados por Empresa",365,OK,0,3
+242,Pozos de petróleo y metros perforados,366,OK,0,3
+243,Demanda de electricidad,367,OK,0,3
+244,Producción y ventas de biocombustibles,368,OK,0,3
+245,Embarques de Oleaginosas y Cereales,369,OK,0,3
+246,Esquema Ahorro - Inversión - Financimmiento. Administración Pública Nacional. Base Caja.,372,OK,0,9
+247,Esquema Ahorro - Inversión - Financimmiento. Tesoro Nacional. Base Caja.,373,OK,0,9
+248,Esquema Ahorro - Inversión - Financimmiento. Recursos Afectados. Base Caja.,374,OK,0,9
+249,Esquema Ahorro - Inversión - Financimmiento. Organismos Descentralizados. Base Caja.,375,OK,0,9
+250,Esquema Ahorro - Inversión - Financimmiento. Instituciones de la Seguridad Social. Base Caja.,376,OK,0,9
+251,Esquema Ahorro - Inversión - Financimmiento. Ex Cajas Provinciales. Base Caja.,377,OK,0,9
+252,"Esquema Ahorro - Inversión - Financimmiento. EEPP, PAMI, Fondos Fiduciarios y Otros. Base Caja",378,OK,0,9
+253,Esquema Ahorro - Inversión - Financimmiento. Sector Público Nacional. Base Caja.,379,OK,0,9
+254,Índice de Confianza del Consumidor,380,OK,0,3
+255,Relevamiento de Expectativas de Mercado (REM),430,OK,0,1
+256,Expectativas de Inflación,431,OK,0,1
+257,Precios de paquetes de cigarrillos vendidos equivalentes a veinte unidades,399,OK,0,1
