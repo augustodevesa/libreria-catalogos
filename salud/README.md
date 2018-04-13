@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 25
-- **Cantidad Total de Distribuciones**: 34
+- **Cantidad Total de Datasets**: 27
+- **Cantidad Total de Distribuciones**: 36
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 25
+- **Cantidad de Datasets NO Federados**: 27
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -28,9 +28,12 @@
 
 ## Datasets no federados
 
+- [Registro Nacional de Investigaciones en Salud (RENIS)](http://datos.sisa.msal.gov.ar/dataset/registro-nacional-de-investigaciones-en-salud-renis)
+- [Registro Federal de Establecimientos de Salud (REFES)](http://sisa.msal.gov.ar)
+- [Estadísticas SUMAR](http://www.msal.gob.ar/sumar/)
+- [Beneficiarios CUS Medicamentos](http://datos.sisa.msal.gov.ar/dataset/beneficiarios-cus-medicamentos)
 - [Recetas CUS  MEDICAMENTOS](http://datos.sisa.msal.gov.ar/dataset/recetas-cus-medicamentos)
 - [Consultas CUS MEDICAMENTOS](http://datos.sisa.msal.gov.ar/dataset/consultas-cus-medicamentos)
-- [Estadísticas SUMAR](http://datos.sisa.msal.gov.ar/dataset/estadisticas-sumar)
 - [Población Beneficiaria del Sistema Nacional de Obras Sociales por Tipo de Beneficiario](http://datos.sisa.msal.gov.ar/dataset/poblacion-beneficiaria-del-sistema-nacional-de-obras-sociales-por-tipo-beneficiario)
 - [Población Beneficiaria del Sistema Nacional de Obras Sociales](http://datos.sisa.msal.gov.ar/dataset/poblacion-beneficiaria-del-sistema-nacional-de-obras-sociales)
 - [Estadísticas de consultas e internaciones en establecimientos públicos SERIE 11](http://www.deis.msal.gov.ar/)
@@ -52,7 +55,6 @@
 - [Legislacion en Salud de la República Argentina (LEGISALUD)](http://leg.msal.gov.ar/)
 - [Boletin integrado de vigilancia](http://www.msal.gob.ar/dataset/boletin-integrado-de-vigilancia)
 - [Registro Federal de Farmacias (REFAR)](sisa.msal.gov.ar)
-- [Registro Federal de Establecimientos de Salud (REFES)](http://sisa.msal.gov.ar)
 
 ## Datasets federados
 
