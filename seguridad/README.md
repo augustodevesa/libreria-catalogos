@@ -18,9 +18,9 @@
 - **Cantidad Total de Datasets**: 2
 - **Cantidad Total de Distribuciones**: 2
 
-- **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 2
-- **Porcentaje de Datasets NO Federados**: 100.0%
+- **Cantidad de Datasets Federados**: 2
+- **Cantidad de Datasets NO Federados**: 0
+- **Porcentaje de Datasets NO Federados**: 0.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -28,12 +28,12 @@
 
 ## Datasets no federados
 
-- [Estadísticas criminales en la República Argentina para los años 2014, 2015 y 2016](https://estadisticascriminales.minseg.gob.ar/)
-- [Estadísticas criminales en la República Argentina por Provincias para los años 2014, 2015 y 2016](https://estadisticascriminales.minseg.gob.ar/)
+
 
 ## Datasets federados
 
-
+- [Estadísticas criminales en la República Argentina para los años 2014, 2015 y 2016](https://estadisticascriminales.minseg.gob.ar/)
+- [Estadísticas criminales en la República Argentina por Provincias para los años 2014, 2015 y 2016](https://estadisticascriminales.minseg.gob.ar/)
 
 ## Reporte
 
