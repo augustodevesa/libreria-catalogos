@@ -1,5 +1,4 @@
 {
-    "rights": "",
     "publisher": {
         "mbox": "datos@modernizacion.gob.ar",
         "name": "Datos Argentina"
@@ -11,7 +10,7 @@
     ],
     "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
     "issued": "2016-03-08",
-    "title": "Datos Argentina",
+    "rights": "",
     "modified": "2018-02-20",
     "themeTaxonomy": [
         {
@@ -80,10 +79,12 @@
             "label": "Transporte"
         }
     ],
+    "identifier": "datosgobar",
     "version": "1.1",
     "spatial": [
         "ARG"
     ],
+    "title": "Datos Argentina",
     "dataset": [
         {
             "publisher": {
@@ -28106,6 +28107,5 @@
             ]
         }
     ],
-    "identifier": "datosgobar",
     "homepage": "http://www.datos.gob.ar"
 }
