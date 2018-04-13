@@ -1,86 +1,4 @@
 {
-    "publisher": {
-        "mbox": "datos@modernizacion.gob.ar",
-        "name": "Ministerio de Modernización"
-    },
-    "identifier": "modernizacion",
-    "description": "Catálogo de datos abiertos del Ministerio de Modernización",
-    "license": "Open Database License (ODbL) v1.0",
-    "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
-    "issued": "2016-03-08",
-    "title": "Datos Modernización",
-    "modified": "2017-03-08",
-    "themeTaxonomy": [
-        {
-            "label": "Agroganadería, pesca y forestación",
-            "id": "agri",
-            "description": "Por ejemplo: 'Lechería: precio pagado al productor' o 'Superficie forestada'."
-        },
-        {
-            "label": "Economía y finanzas",
-            "id": "econ",
-            "description": "Por ejemplo: 'Deuda pública'."
-        },
-        {
-            "label": "Educación, cultura y deportes",
-            "id": "educ",
-            "description": "Por ejemplo: “Registro de Establecimientos Educativos”."
-        },
-        {
-            "label": "Energía",
-            "id": "ener",
-            "description": "Por ejemplo: 'Productos mineros exportados' o 'Precios del GNC'."
-        },
-        {
-            "label": "Medio ambiente",
-            "id": "envi",
-            "description": "Por ejemplo: 'Operadores de residuos peligrosos'."
-        },
-        {
-            "label": "Gobierno y sector público",
-            "id": "gove",
-            "description": "Por ejemplo: 'Inmuebles del estado Nacional'."
-        },
-        {
-            "label": "Salud",
-            "id": "heal",
-            "description": "Por ejemplo: 'Estadísticas nacionales de VIH/SIDA'."
-        },
-        {
-            "label": "Asuntos internacionales",
-            "id": "intr",
-            "description": "Por ejemplo: 'Representaciones argentinas en el exterior'."
-        },
-        {
-            "label": "Justicia, seguridad y legales",
-            "id": "just",
-            "description": "Por ejemplo: 'Censo penitenciario'."
-        },
-        {
-            "label": "Regiones y ciudades",
-            "id": "regi",
-            "description": "Por ejemplo: 'Departamentos de la provincia de Río Negro'."
-        },
-        {
-            "label": "Población y sociedad",
-            "id": "soci",
-            "description": "Por ejemplo: 'Turistas residentes que viajan por Argentina'."
-        },
-        {
-            "label": "Ciencia y tecnología",
-            "id": "tech",
-            "description": "Por ejemplo: 'Recursos humanos en ciencia y tecnología'."
-        },
-        {
-            "label": "Transporte",
-            "id": "tran",
-            "description": "Por ejemplo: 'Estadísticas viales'."
-        }
-    ],
-    "language": [
-        "SPA"
-    ],
-    "spatial": "ARG",
     "dataset": [
         {
             "publisher": {
@@ -1741,5 +1659,87 @@
                 }
             ]
         }
-    ]
+    ],
+    "publisher": {
+        "mbox": "datos@modernizacion.gob.ar",
+        "name": "Ministerio de Modernización"
+    },
+    "description": "Catálogo de datos abiertos del Ministerio de Modernización",
+    "license": "Open Database License (ODbL) v1.0",
+    "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
+    "issued": "2016-03-08",
+    "title": "Datos Modernización",
+    "modified": "2017-03-08",
+    "themeTaxonomy": [
+        {
+            "label": "Agroganadería, pesca y forestación",
+            "id": "agri",
+            "description": "Por ejemplo: 'Lechería: precio pagado al productor' o 'Superficie forestada'."
+        },
+        {
+            "label": "Economía y finanzas",
+            "id": "econ",
+            "description": "Por ejemplo: 'Deuda pública'."
+        },
+        {
+            "label": "Educación, cultura y deportes",
+            "id": "educ",
+            "description": "Por ejemplo: “Registro de Establecimientos Educativos”."
+        },
+        {
+            "label": "Energía",
+            "id": "ener",
+            "description": "Por ejemplo: 'Productos mineros exportados' o 'Precios del GNC'."
+        },
+        {
+            "label": "Medio ambiente",
+            "id": "envi",
+            "description": "Por ejemplo: 'Operadores de residuos peligrosos'."
+        },
+        {
+            "label": "Gobierno y sector público",
+            "id": "gove",
+            "description": "Por ejemplo: 'Inmuebles del estado Nacional'."
+        },
+        {
+            "label": "Salud",
+            "id": "heal",
+            "description": "Por ejemplo: 'Estadísticas nacionales de VIH/SIDA'."
+        },
+        {
+            "label": "Asuntos internacionales",
+            "id": "intr",
+            "description": "Por ejemplo: 'Representaciones argentinas en el exterior'."
+        },
+        {
+            "label": "Justicia, seguridad y legales",
+            "id": "just",
+            "description": "Por ejemplo: 'Censo penitenciario'."
+        },
+        {
+            "label": "Regiones y ciudades",
+            "id": "regi",
+            "description": "Por ejemplo: 'Departamentos de la provincia de Río Negro'."
+        },
+        {
+            "label": "Población y sociedad",
+            "id": "soci",
+            "description": "Por ejemplo: 'Turistas residentes que viajan por Argentina'."
+        },
+        {
+            "label": "Ciencia y tecnología",
+            "id": "tech",
+            "description": "Por ejemplo: 'Recursos humanos en ciencia y tecnología'."
+        },
+        {
+            "label": "Transporte",
+            "id": "tran",
+            "description": "Por ejemplo: 'Estadísticas viales'."
+        }
+    ],
+    "language": [
+        "SPA"
+    ],
+    "spatial": "ARG",
+    "identifier": "modernizacion"
 }
