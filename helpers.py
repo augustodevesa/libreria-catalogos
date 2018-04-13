@@ -29,8 +29,14 @@ def nodes_to_df(input_path):
     for jurisdiction in nodes["jurisdictions"]:
         for catalog in jurisdiction["catalogs"]:
             print("Leyendo catálogo '{}' de la jurisdiccion '{}' ({})".format(
-                catalog["id"], jurisdiction["id"], jurisdiction["title"]))
-            dj = DataJson(catalog["url_json"])
+                catalog["id"], jurisdiction["id"], jurisdiction["title"]),
+                end=" ")
+            try:
+                dj = DataJson(catalog["url_json"])
+                print("...OK")
+            except:
+                dj = {}
+                print("...ERROR")
 
             rows.append({
                 "jurisdiction_id": jurisdiction["id"],
