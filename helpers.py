@@ -12,6 +12,9 @@ import json
 import pandas as pd
 from pydatajson import DataJson
 
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
 
 def nodes_to_csv(input_path, output_path):
     """Convierte el JSON de la red de nodos en un CSV."""
@@ -34,9 +37,10 @@ def nodes_to_df(input_path):
             try:
                 dj = DataJson(catalog["url_json"])
                 print("...OK")
-            except:
+            except Exception as e:
                 dj = {}
                 print("...ERROR")
+                print(e)
 
             rows.append({
                 "jurisdiction_id": jurisdiction["id"],

@@ -147,17 +147,14 @@ def process_catalog(org, datajson):
         # For XLSX catalogs, creates corresponding JSON
         file_ext = config["formato"]
         if file_ext == 'xlsx':
-            res = requests.get(config['url'], verify=False)
-            with open('data.xlsx', 'w') as xlsx_file:
-                xlsx_file.write(res.content)
             logger.info('- Transformación de XLSX a JSON')
-            catalog = DataJson('data.xlsx')
+            catalog = DataJson(config['url'])
 
         elif file_ext == 'json':
-            catalog = read_catalog(config['url'])
+            catalog = DataJson(config['url'])
 
         elif file_ext == 'ckan':
-            catalog = read_ckan_catalog(config['url'])
+            catalog = DataJson(read_ckan_catalog(config['url']))
 
         else:
             raise ValueError(
@@ -165,7 +162,7 @@ def process_catalog(org, datajson):
 
         logger.info('- Escritura de catálogo')
         if catalog and len(catalog) > 0:
-            write_json_catalog(catalog, 'data.json')
+            catalog.to_json('data.json')
         else:
             raise Exception("El catálogo {} no se pudo generar".format(org))
 
