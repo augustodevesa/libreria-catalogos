@@ -9,6 +9,349 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "bgarcia@ppn.gov.ar ",
+                "name": "Equipo de estadística y bases de datos"
+            },
+            "accessLevel": "public",
+            "description": "En la base se vuelca el listado de personas bajo resguardo que se solicita a cada unidad con frecuencia semestral. Incluye información sobre el origen de la medida, lugar de alojamiento, fecha desde la cual poseen la medida, etc.",
+            "license": "Creative Commons Attribution",
+            "title": "Listado de personas en Resguardo en el Servicio Penitenciario Federal",
+            "issued": "2017-05-08T15:47:22.770655",
+            "temporal": "2009-01-01T03:00:00.000Z/2015-06-30T03:00:00.000Z",
+            "modified": "2018-04-11T18:05:13.837237",
+            "language": "spa",
+            "theme": [
+                "Condiciones materiales y régimen de encierro"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://181.209.63.46/dataset/7f5ba0c2-2142-4b5e-9762-14fc52cc24bd/resource/fba68b26-58b2-4bdf-b2f4-d5182b805c81/download/base-de-datos-de-resguardo-2010-2016.csv",
+                    "description": "En la base se vuelca el listado de personas bajo resguardo que se solicita a cada unidad con frecuencia semestral. Incluye información sobre el origen de la medida, lugar de alojamiento, fecha desde la cual poseen la medida, etc.",
+                    "title": "Listado de personas en Resguardo en el Servicio Penitenciario Federal",
+                    "issued": "2017-05-08T15:50:05.650679",
+                    "format": "CSV",
+                    "modified": "2018-04-11T18:05:13.817143",
+                    "downloadURL": "http://181.209.63.46/dataset/7f5ba0c2-2142-4b5e-9762-14fc52cc24bd/resource/fba68b26-58b2-4bdf-b2f4-d5182b805c81/download/base-de-datos-de-resguardo-2010-2016.csv"
+                }
+            ],
+            "keyword": [
+                "cárcel",
+                "derechos humanos",
+                "detenidos",
+                "integridad física",
+                "presos",
+                "prisión",
+                "protocolo de resguardo",
+                "resguardo",
+                "servicio penitenciario federal"
+            ],
+            "accrualPeriodicity": "R/P6M",
+            "superTheme": [
+                "JUST"
+            ],
+            "landingPage": "www.ppn.gov.ar",
+            "identifier": "7f5ba0c2-2142-4b5e-9762-14fc52cc24bd",
+            "contactPoint": {
+                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Equipo de estadística y bases de datos"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "bgarcia@ppn.gov.ar ",
+                "name": "Equipo de estadística y bases de datos"
+            },
+            "accessLevel": "public",
+            "description": "Esta base reúne información del seguimiento de la PPN sobre el proceso de investigación de las muertes bajo custodia estatal. Dispone de datos acerca del trámite judicial realizado en el marco de las muertes ocurridas en cárceles dependientes del SERVICIO PENITENCIARIO FEDERAL.  Contiene los avances registrados en la investigación e información detallada relacionada al estado de la causa y eventuales imputados.",
+            "license": "Creative Commons Attribution",
+            "title": "Respuesta judicial ante Fallecimiento",
+            "issued": "2017-05-03T15:39:54.548337",
+            "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
+            "modified": "2018-04-11T18:03:47.731235",
+            "language": "spa",
+            "theme": [
+                "Fallecimientos"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://181.209.63.46/dataset/66d16782-24eb-462a-856f-4af29e1c9124/resource/4d0fa795-cdd0-4dd0-92cc-7cf736dad469/download/base-de-datos-de-respuesta-judicial-ante-casos-de-fallecimientos-2009-2017.csv",
+                    "description": "Esta base reúne información del seguimiento de la PPN sobre el proceso de investigación de las muertes bajo custodia estatal. Dispone de datos acerca del trámite judicial realizado en el marco de las muertes ocurridas en cárceles dependientes del SERVICIO PENITENCIARIO FEDERAL.  Contiene los avances registrados en la investigación e información detallada relacionada al estado de la causa y eventuales imputados.",
+                    "title": "Respuesta judicial ante fallecimientos",
+                    "issued": "2017-05-03T15:41:33.097833",
+                    "format": "CSV",
+                    "modified": "2018-04-11T18:03:47.709567",
+                    "downloadURL": "http://181.209.63.46/dataset/66d16782-24eb-462a-856f-4af29e1c9124/resource/4d0fa795-cdd0-4dd0-92cc-7cf736dad469/download/base-de-datos-de-respuesta-judicial-ante-casos-de-fallecimientos-2009-2017.csv"
+                }
+            ],
+            "keyword": [
+                "causa judicial",
+                "cárcel",
+                "derechos humanos",
+                "fallecimientos",
+                "presos",
+                "salud",
+                "servicio penitencario federal"
+            ],
+            "accrualPeriodicity": "R/P6M",
+            "superTheme": [
+                "JUST"
+            ],
+            "landingPage": "www.ppn.gov.ar",
+            "identifier": "66d16782-24eb-462a-856f-4af29e1c9124",
+            "contactPoint": {
+                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Equipo de estadística y bases de datos"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "bgarcia@ppn.gov.ar ",
+                "name": "Equipo de estadística y bases de datos"
+            },
+            "accessLevel": "public",
+            "description": "La base recupera información que obtiene de los listados semestrales que se solicita a la totalidad de unidades federales sobre la aplicación de sanciones. Contiene datos acerca de las infracciones sancionadas, lugar donde se cumple el aislamiento,  duración de la medida, recurso o apelación del proceso, etc.",
+            "license": "Creative Commons Attribution",
+            "title": "Sanciones de aislamiento en el Servicio Penitenciario Federal",
+            "issued": "2017-05-08T15:02:09.507671",
+            "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
+            "modified": "2018-04-11T18:00:51.976512",
+            "language": "spa",
+            "theme": [
+                "Aislamiento"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://181.209.63.46/dataset/5ae382d8-e6c0-486c-bc6a-05bba3408c81/resource/d9127014-2ca9-4f7d-bca6-50c3ff25af11/download/base-de-datos-de-sanciones-de-aislamiento-2009-2016.csv",
+                    "description": "La base recupera información que obtiene de los listados semestrales que se solicita a la totalidad de unidades federales sobre la aplicación de sanciones. Contiene datos acerca de las infracciones sancionadas, lugar donde se cumple el aislamiento,  duración de la medida, recurso o apelación del proceso, etc.",
+                    "title": "Sanciones de aislamiento en el Servicio Penitenciario Federal",
+                    "issued": "2017-05-08T15:04:27.500195",
+                    "format": "CSV",
+                    "modified": "2018-04-11T18:00:51.953263",
+                    "downloadURL": "http://181.209.63.46/dataset/5ae382d8-e6c0-486c-bc6a-05bba3408c81/resource/d9127014-2ca9-4f7d-bca6-50c3ff25af11/download/base-de-datos-de-sanciones-de-aislamiento-2009-2016.csv"
+                }
+            ],
+            "keyword": [
+                "aislamiento",
+                "celdas de castigo",
+                "cárcel",
+                "derechos humanos",
+                "presos",
+                "prisión",
+                "sanciones",
+                "servicio penitencario federal"
+            ],
+            "accrualPeriodicity": "R/P6M",
+            "superTheme": [
+                "JUST"
+            ],
+            "landingPage": "www.ppn.gov.ar",
+            "identifier": "5ae382d8-e6c0-486c-bc6a-05bba3408c81",
+            "contactPoint": {
+                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Equipo de estadística y bases de datos"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "bgarcia@ppn.gov.ar ",
+                "name": "Equipo de estadística y base de datos"
+            },
+            "accessLevel": "public",
+            "description": "En esta base se reponen los datos remitidos por el SPF en las síntesis semanales de población. La misma está construida mediante la última información disponible de cada mes. Su principal función es la de dar cuenta de la situación de superpoblación y manejo arbitrario de los cupos de alojamiento. El volumen de detenidos alojados en cada establecimiento puede ser observado así en su dinamismo a lo largo del tiempo.",
+            "license": "Creative Commons Attribution",
+            "title": "Población y alojamiento en el Servicio Penitenciario Federal",
+            "issued": "2017-04-27T14:23:40.200122",
+            "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
+            "modified": "2018-04-11T17:59:25.193361",
+            "language": "spa",
+            "theme": [
+                "Capacidad y nivel de ocupación "
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://181.209.63.46/dataset/c8a7c0ec-775f-4f3d-982f-72290d29e6e8/resource/06534f1d-c89d-42e3-87c3-8dc2894f0c8e/download/base-de-datos-de-poblacion-y-alojamiento-en-el-spf-2009-2017.csv",
+                    "description": "En esta base se reponen los datos remitidos por el SERVICIO PENITENCIARIO FEDERAL en las síntesis semanales de población. La misma está construida mediante la última información disponible de cada mes. Su principal función es la de dar cuenta de la situación de superpoblación y manejo arbitrario de los cupos de alojamiento. El volumen de detenidos alojados en cada establecimiento puede ser observado así en su dinamismo a lo largo del tiempo.",
+                    "title": "Población y alojamiento en el Servicio Penitenciario Federal",
+                    "issued": "2017-04-27T14:26:09.130963",
+                    "format": "CSV",
+                    "modified": "2018-04-11T17:59:25.173219",
+                    "downloadURL": "http://181.209.63.46/dataset/c8a7c0ec-775f-4f3d-982f-72290d29e6e8/resource/06534f1d-c89d-42e3-87c3-8dc2894f0c8e/download/base-de-datos-de-poblacion-y-alojamiento-en-el-spf-2009-2017.csv"
+                }
+            ],
+            "keyword": [
+                "cárcel",
+                "derechos humanos",
+                "hacinamiento",
+                "presos",
+                "prisión",
+                "servicio penitenciario federal",
+                "sobrepoblación"
+            ],
+            "accrualPeriodicity": "R/P6M",
+            "superTheme": [
+                "SOCI"
+            ],
+            "landingPage": "http://181.209.63.46/dataset/base-de-datos-de-poblacion-y-alojamiento-en-el-spf",
+            "identifier": "c8a7c0ec-775f-4f3d-982f-72290d29e6e8",
+            "contactPoint": {
+                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Equipo de estadística y base de datos"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "bgarcia@ppn.gov.ar ",
+                "name": "Equipo de estadística y bases de datos"
+            },
+            "accessLevel": "public",
+            "description": "La información resultante acerca de las medidas de fuerza de las que toma conocimiento y registra la PPN es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada uno de los casos relevados en unidades penitenciarias. Se registra tipo de medida de fuerza realizada, alcance, motivos que la originaron, eventuales represalias institucionales, efectividad para la resolución del reclamo presentado, entre otras variables de alta sensibilidad.",
+            "license": "Creative Commons Attribution",
+            "title": "Medidas de fuerza",
+            "issued": "2017-04-27T14:00:18.022273",
+            "temporal": "2014-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
+            "modified": "2018-04-11T17:57:27.804158",
+            "language": "spa",
+            "theme": [
+                "Medidas de fuerza"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://181.209.63.46/dataset/c44d3e2f-5367-40b0-a162-35b82c97d2f9/resource/00952704-dfa3-4585-a5cd-22f2ab9e9728/download/base-de-datos-de-medidas-de-fuerza-2013-2017.csv",
+                    "description": "La información resultante acerca de las medidas de fuerza de las que toma conocimiento y registra la PPN es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada uno de los casos relevados en unidades penitenciarias. Se registra tipo de medida de fuerza realizada, alcance, motivos que la originaron, eventuales represalias institucionales, efectividad para la resolución del reclamo presentado, entre otras variables de alta sensibilidad.",
+                    "title": "Medidas de fuerza",
+                    "issued": "2017-04-27T14:01:36.850639",
+                    "format": "CSV",
+                    "modified": "2018-04-11T17:57:27.787497",
+                    "downloadURL": "http://181.209.63.46/dataset/c44d3e2f-5367-40b0-a162-35b82c97d2f9/resource/00952704-dfa3-4585-a5cd-22f2ab9e9728/download/base-de-datos-de-medidas-de-fuerza-2013-2017.csv"
+                }
+            ],
+            "keyword": [
+                "cárcel",
+                "derechos humanos",
+                "medidas de fuerza",
+                "prisión",
+                "servicio penitenciario federal"
+            ],
+            "accrualPeriodicity": "R/P6M",
+            "superTheme": [
+                "JUST",
+                "SOCI"
+            ],
+            "landingPage": "www.ppn.gov.ar",
+            "identifier": "c44d3e2f-5367-40b0-a162-35b82c97d2f9",
+            "contactPoint": {
+                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Equipo de estadística y bases de datos"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "bgarcia@ppn.gov.ar ",
+                "name": "Equipo de estadística y base de datos"
+            },
+            "accessLevel": "public",
+            "description": "La información resultante acerca de cada uno de los fallecimientos registrados es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada una de las muertes bajo custodia penitenciaria. A los efectos de este relevamiento se contabiliza la totalidad de fallecimientos, cualquiera sea su causa, de personas detenidas bajo la custodia de la administración penitenciaria federal, indistintamente que la muerte ocurra dentro del centro de detención, en hospital extramuros o durante un traslado.",
+            "license": "Creative Commons Attribution",
+            "title": "Fallecimientos en Prisión",
+            "issued": "2017-04-27T13:48:21.909008",
+            "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
+            "modified": "2018-04-11T17:56:03.867734",
+            "language": "spa",
+            "theme": [
+                "Fallecimientos"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://181.209.63.46/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-el-spf-2009-2017.csv",
+                    "description": "La información resultante acerca de cada uno de los fallecimientos registrados es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada una de las muertes bajo custodia penitenciaria. A los efectos de este relevamiento se contabiliza la totalidad de fallecimientos, cualquiera sea su causa, de personas detenidas bajo la custodia de la administración penitenciaria federal, indistintamente que la muerte ocurra dentro del centro de detención, en hospital extramuros o durante un traslado.",
+                    "title": "BASE DE DATOS DE FALLECIMIENTOS EN PRISION",
+                    "issued": "2017-04-27T13:51:30.804506",
+                    "format": "CSV",
+                    "modified": "2018-04-11T17:56:03.847184",
+                    "downloadURL": "http://181.209.63.46/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-el-spf-2009-2017.csv"
+                }
+            ],
+            "keyword": [
+                "cárcel",
+                "derechos humanos",
+                "fallecimientos",
+                "muerte",
+                "presos",
+                "prisión"
+            ],
+            "accrualPeriodicity": "R/P6M",
+            "superTheme": [
+                "SOCI",
+                "TECH"
+            ],
+            "landingPage": "www.ppn.gov.ar",
+            "identifier": "8b9dce12-7069-4fd6-b78b-08e1f03e3732",
+            "contactPoint": {
+                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Equipo de estadística y base de datos"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "bgarcia@ppn.gov.ar ",
+                "name": "Equipo de estadística y bases de datos"
+            },
+            "accessLevel": "public",
+            "description": "Recopila la información producida por organismo en el marco de la aplicación del procedimiento correspondiente inspirado en los principios y criterios del Protocolo de Estambul. La unidad de análisis está constituida por cada una de las personas agredidas en cada hecho de tortura y/o malos tratos de los que se toma conocimiento. La base de datos reúne los hechos registrados y sistematizados desde el año 2009 hasta la actualidad. Produce información sobre las víctimas, las intervenciones efectuadas, los hechos –unidad donde se produjo, circunstancias, modalidad de golpes, objetos utilizados, presencia y descripción de lesiones, etc.-, sus principales consecuencias –amenazas para evitar la denuncia de lo sucedido, aislamiento, sanciones, etc., así como de las estrategias de impunidad desplegadas por la administración penitenciaria.",
+            "license": "Creative Commons Attribution",
+            "title": "Casos de Tortura y Malos Tratos registrados e investigados por la PPN",
+            "issued": "2017-05-08T15:57:47.307377",
+            "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
+            "modified": "2018-04-11T17:51:58.624616",
+            "language": "spa",
+            "theme": [
+                "Malos tratos"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://181.209.63.46/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/fdbef98e-5056-4d00-b7e2-1d60cd5cd18d/download/base-de-datos-de-casos-de-tortura-investigados-y-documentados-por-la-ppn-2009-2017.csv",
+                    "issued": "2018-04-11T17:51:58.686934",
+                    "downloadURL": "http://181.209.63.46/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/fdbef98e-5056-4d00-b7e2-1d60cd5cd18d/download/base-de-datos-de-casos-de-tortura-investigados-y-documentados-por-la-ppn-2009-2017.csv",
+                    "modified": "2018-04-11T17:51:58.600758",
+                    "format": "CSV"
+                }
+            ],
+            "keyword": [
+                "agresiones",
+                "cárcel",
+                "degradantes",
+                "derechos humanos",
+                "detenidos",
+                "golpes",
+                "malos tratos",
+                "presos",
+                "prisión",
+                "servicio penitencario federal",
+                "tortura",
+                "tratos crueles",
+                "tratos inhumanos",
+                "violencia institucional"
+            ],
+            "accrualPeriodicity": "R/P6M",
+            "superTheme": [
+                "JUST"
+            ],
+            "landingPage": "www.ppn.gov.ar",
+            "identifier": "80b0e1e2-8052-48a5-9f05-090fa34e5c50",
+            "contactPoint": {
+                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Equipo de estadística y bases de datos"
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "bgarcia@ppn.gov.ar",
                 "name": "Equipo de estadística y bases de datos"
             },
@@ -293,263 +636,6 @@
                 "name": "Equipo de estadística y bases de datos"
             },
             "accessLevel": "public",
-            "description": "La base recupera información que obtiene de los listados semestrales que se solicita a la totalidad de unidades federales sobre la aplicación de sanciones. Contiene datos acerca de las infracciones sancionadas, lugar donde se cumple el aislamiento,  duración de la medida, recurso o apelación del proceso, etc.",
-            "license": "Creative Commons Attribution",
-            "title": "Sanciones de aislamiento en el Servicio Penitenciario Federal",
-            "issued": "2017-05-08T15:02:09.507671",
-            "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
-            "modified": "2018-01-04T18:50:38.733362",
-            "language": "spa",
-            "theme": [
-                "Aislamiento"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://181.209.63.46/dataset/5ae382d8-e6c0-486c-bc6a-05bba3408c81/resource/d9127014-2ca9-4f7d-bca6-50c3ff25af11/download/basesanciones-2.csv",
-                    "description": "La base recupera información que obtiene de los listados semestrales que se solicita a la totalidad de unidades federales sobre la aplicación de sanciones. Contiene datos acerca de las infracciones sancionadas, lugar donde se cumple el aislamiento,  duración de la medida, recurso o apelación del proceso, etc.",
-                    "title": "Sanciones de aislamiento en el Servicio Penitenciario Federal",
-                    "issued": "2017-05-08T15:04:27.500195",
-                    "format": "CSV",
-                    "modified": "2018-01-04T18:50:38.717455",
-                    "downloadURL": "http://181.209.63.46/dataset/5ae382d8-e6c0-486c-bc6a-05bba3408c81/resource/d9127014-2ca9-4f7d-bca6-50c3ff25af11/download/basesanciones-2.csv"
-                }
-            ],
-            "keyword": [
-                "aislamiento",
-                "celdas de castigo",
-                "cárcel",
-                "derechos humanos",
-                "presos",
-                "prisión",
-                "sanciones",
-                "servicio penitencario federal"
-            ],
-            "accrualPeriodicity": "R/P6M",
-            "superTheme": [
-                "JUST"
-            ],
-            "landingPage": "www.ppn.gov.ar",
-            "identifier": "5ae382d8-e6c0-486c-bc6a-05bba3408c81",
-            "contactPoint": {
-                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Equipo de estadística y bases de datos"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "bgarcia@ppn.gov.ar ",
-                "name": "Equipo de estadística y base de datos"
-            },
-            "accessLevel": "public",
-            "description": "La información resultante acerca de cada uno de los fallecimientos registrados es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada una de las muertes bajo custodia penitenciaria. A los efectos de este relevamiento se contabiliza la totalidad de fallecimientos, cualquiera sea su causa, de personas detenidas bajo la custodia de la administración penitenciaria federal, indistintamente que la muerte ocurra dentro del centro de detención, en hospital extramuros o durante un traslado.",
-            "license": "Creative Commons Attribution",
-            "title": "Fallecimientos en Prisión",
-            "issued": "2017-04-27T13:48:21.909008",
-            "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
-            "modified": "2018-01-04T16:03:08.271914",
-            "language": "spa",
-            "theme": [
-                "Fallecimientos"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://181.209.63.46/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision--2009--2017-1er-semestre.csv",
-                    "description": "La información resultante acerca de cada uno de los fallecimientos registrados es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada una de las muertes bajo custodia penitenciaria. A los efectos de este relevamiento se contabiliza la totalidad de fallecimientos, cualquiera sea su causa, de personas detenidas bajo la custodia de la administración penitenciaria federal, indistintamente que la muerte ocurra dentro del centro de detención, en hospital extramuros o durante un traslado.",
-                    "title": "BASE DE DATOS DE FALLECIMIENTOS EN PRISION",
-                    "issued": "2017-04-27T13:51:30.804506",
-                    "format": "CSV",
-                    "modified": "2017-12-05T12:55:12.536618",
-                    "downloadURL": "http://181.209.63.46/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision--2009--2017-1er-semestre.csv"
-                }
-            ],
-            "keyword": [
-                "cárcel",
-                "derechos humanos",
-                "fallecimientos",
-                "muerte",
-                "presos",
-                "prisión"
-            ],
-            "accrualPeriodicity": "R/P6M",
-            "superTheme": [
-                "SOCI",
-                "TECH"
-            ],
-            "landingPage": "www.ppn.gov.ar",
-            "identifier": "8b9dce12-7069-4fd6-b78b-08e1f03e3732",
-            "contactPoint": {
-                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Equipo de estadística y base de datos"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "bgarcia@ppn.gov.ar ",
-                "name": "Equipo de estadística y bases de datos"
-            },
-            "accessLevel": "public",
-            "description": "En la base se vuelca el listado de personas bajo resguardo que se solicita a cada unidad con frecuencia semestral. Incluye información sobre el origen de la medida, lugar de alojamiento, fecha desde la cual poseen la medida, etc.",
-            "license": "Creative Commons Attribution",
-            "title": "Listado de personas en Resguardo en el Servicio Penitenciario Federal",
-            "issued": "2017-05-08T15:47:22.770655",
-            "temporal": "2009-01-01T03:00:00.000Z/2015-06-30T03:00:00.000Z",
-            "modified": "2018-01-04T16:01:47.402989",
-            "language": "spa",
-            "theme": [
-                "Condiciones materiales y régimen de encierro"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://181.209.63.46/dataset/7f5ba0c2-2142-4b5e-9762-14fc52cc24bd/resource/fba68b26-58b2-4bdf-b2f4-d5182b805c81/download/base-resguardo2010-2015.csv",
-                    "description": "En la base se vuelca el listado de personas bajo resguardo que se solicita a cada unidad con frecuencia semestral. Incluye información sobre el origen de la medida, lugar de alojamiento, fecha desde la cual poseen la medida, etc.",
-                    "title": "Listado de personas en Resguardo en el Servicio Penitenciario Federal",
-                    "issued": "2017-05-08T15:50:05.650679",
-                    "format": "CSV",
-                    "modified": "2018-01-04T15:56:44.305108",
-                    "downloadURL": "http://181.209.63.46/dataset/7f5ba0c2-2142-4b5e-9762-14fc52cc24bd/resource/fba68b26-58b2-4bdf-b2f4-d5182b805c81/download/base-resguardo2010-2015.csv"
-                }
-            ],
-            "keyword": [
-                "cárcel",
-                "derechos humanos",
-                "detenidos",
-                "integridad física",
-                "presos",
-                "prisión",
-                "protocolo de resguardo",
-                "resguardo",
-                "servicio penitenciario federal"
-            ],
-            "accrualPeriodicity": "R/P6M",
-            "superTheme": [
-                "JUST"
-            ],
-            "landingPage": "www.ppn.gov.ar",
-            "identifier": "7f5ba0c2-2142-4b5e-9762-14fc52cc24bd",
-            "contactPoint": {
-                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Equipo de estadística y bases de datos"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "bgarcia@ppn.gov.ar ",
-                "name": "Equipo de estadística y bases de datos"
-            },
-            "accessLevel": "public",
-            "description": "Recopila la información producida por organismo en el marco de la aplicación del procedimiento correspondiente inspirado en los principios y criterios del Protocolo de Estambul. La unidad de análisis está constituida por cada una de las personas agredidas en cada hecho de tortura y/o malos tratos de los que se toma conocimiento. La base de datos reúne los hechos registrados y sistematizados desde el año 2009 hasta la actualidad. Produce información sobre las víctimas, las intervenciones efectuadas, los hechos –unidad donde se produjo, circunstancias, modalidad de golpes, objetos utilizados, presencia y descripción de lesiones, etc.-, sus principales consecuencias –amenazas para evitar la denuncia de lo sucedido, aislamiento, sanciones, etc., así como de las estrategias de impunidad desplegadas por la administración penitenciaria.",
-            "license": "Creative Commons Attribution",
-            "title": "Casos de Tortura y Malos Tratos registrados e investigados por la PPN",
-            "issued": "2017-05-08T15:57:47.307377",
-            "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
-            "modified": "2017-12-06T13:41:55.048550",
-            "language": "spa",
-            "theme": [
-                "Malos tratos"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://181.209.63.46/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/6d05d6f7-d399-4987-a8d7-cc9d50384c67/download/base-de-datos-de-casos-de-tortura-y-malos-tratos-investigados-y-documentados-por-la-ppn-2009-201.csv",
-                    "description": "Recopila la información producida por organismo en el marco de la aplicación del procedimiento correspondiente inspirado en los principios y criterios del Protocolo de Estambul. La unidad de análisis está constituida por cada una de las personas agredidas en cada hecho de tortura y/o malos tratos de los que se toma conocimiento. La base de datos reúne los hechos registrados y sistematizados desde el año 2009 hasta la actualidad. Produce información sobre las víctimas, las intervenciones efectuadas, los hechos –unidad donde se produjo, circunstancias, modalidad de golpes, objetos utilizados, presencia y descripción de lesiones, etc.-, sus principales consecuencias –amenazas para evitar la denuncia de lo sucedido, aislamiento, sanciones, etc., así como de las estrategias de impunidad desplegadas por la administración penitenciaria.",
-                    "title": "Casos de Tortura y Malos Tratos registrados e investigados por la PPN",
-                    "issued": "2017-05-08T15:59:46.177309",
-                    "format": "CSV",
-                    "modified": "2017-12-05T12:56:21.592257",
-                    "downloadURL": "http://181.209.63.46/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/6d05d6f7-d399-4987-a8d7-cc9d50384c67/download/base-de-datos-de-casos-de-tortura-y-malos-tratos-investigados-y-documentados-por-la-ppn-2009-201.csv"
-                }
-            ],
-            "keyword": [
-                "agresiones",
-                "cárcel",
-                "degradantes",
-                "derechos humanos",
-                "detenidos",
-                "golpes",
-                "malos tratos",
-                "presos",
-                "prisión",
-                "servicio penitencario federal",
-                "tortura",
-                "tratos crueles",
-                "tratos inhumanos",
-                "violencia institucional"
-            ],
-            "accrualPeriodicity": "R/P6M",
-            "superTheme": [
-                "JUST"
-            ],
-            "landingPage": "www.ppn.gov.ar",
-            "identifier": "80b0e1e2-8052-48a5-9f05-090fa34e5c50",
-            "contactPoint": {
-                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Equipo de estadística y bases de datos"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "bgarcia@ppn.gov.ar ",
-                "name": "Equipo de estadística y base de datos"
-            },
-            "accessLevel": "public",
-            "description": "En esta base se reponen los datos remitidos por el SPF en las síntesis semanales de población. La misma está construida mediante la última información disponible de cada mes. Su principal función es la de dar cuenta de la situación de superpoblación y manejo arbitrario de los cupos de alojamiento. El volumen de detenidos alojados en cada establecimiento puede ser observado así en su dinamismo a lo largo del tiempo.",
-            "license": "Creative Commons Attribution",
-            "title": "Población y alojamiento en el Servicio Penitenciario Federal",
-            "issued": "2017-04-27T14:23:40.200122",
-            "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
-            "modified": "2017-12-05T12:59:11.536065",
-            "language": "spa",
-            "theme": [
-                "Capacidad y nivel de ocupación "
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://181.209.63.46/dataset/c8a7c0ec-775f-4f3d-982f-72290d29e6e8/resource/06534f1d-c89d-42e3-87c3-8dc2894f0c8e/download/poblacion-y-alojamiento-en-el-servicio-penitenciario-federal.csv",
-                    "description": "En esta base se reponen los datos remitidos por el SERVICIO PENITENCIARIO FEDERAL en las síntesis semanales de población. La misma está construida mediante la última información disponible de cada mes. Su principal función es la de dar cuenta de la situación de superpoblación y manejo arbitrario de los cupos de alojamiento. El volumen de detenidos alojados en cada establecimiento puede ser observado así en su dinamismo a lo largo del tiempo.",
-                    "title": "Población y alojamiento en el Servicio Penitenciario Federal",
-                    "issued": "2017-04-27T14:26:09.130963",
-                    "format": "CSV",
-                    "modified": "2017-05-02T15:22:13.053808",
-                    "downloadURL": "http://181.209.63.46/dataset/c8a7c0ec-775f-4f3d-982f-72290d29e6e8/resource/06534f1d-c89d-42e3-87c3-8dc2894f0c8e/download/poblacion-y-alojamiento-en-el-servicio-penitenciario-federal.csv"
-                },
-                {
-                    "accessURL": "http://181.209.63.46/dataset/c8a7c0ec-775f-4f3d-982f-72290d29e6e8/resource/f97fa4cd-f0f7-41f5-82bd-d06e655e5163/download/base-de-datos-de-poblacion-y-alojamiento-en-el-spf-2009-2017-1er-semestre.csv",
-                    "issued": "2017-12-05T12:59:11.586872",
-                    "downloadURL": "http://181.209.63.46/dataset/c8a7c0ec-775f-4f3d-982f-72290d29e6e8/resource/f97fa4cd-f0f7-41f5-82bd-d06e655e5163/download/base-de-datos-de-poblacion-y-alojamiento-en-el-spf-2009-2017-1er-semestre.csv",
-                    "modified": "2017-12-05T12:59:11.517895",
-                    "format": "CSV"
-                }
-            ],
-            "keyword": [
-                "cárcel",
-                "derechos humanos",
-                "hacinamiento",
-                "presos",
-                "prisión",
-                "servicio penitenciario federal",
-                "sobrepoblación"
-            ],
-            "accrualPeriodicity": "R/P6M",
-            "superTheme": [
-                "SOCI"
-            ],
-            "landingPage": "http://181.209.63.46/dataset/base-de-datos-de-poblacion-y-alojamiento-en-el-spf",
-            "identifier": "c8a7c0ec-775f-4f3d-982f-72290d29e6e8",
-            "contactPoint": {
-                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Equipo de estadística y base de datos"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "bgarcia@ppn.gov.ar ",
-                "name": "Equipo de estadística y bases de datos"
-            },
-            "accessLevel": "public",
             "description": "Se recopila la información suministrada semestralmente por la División de Traslados del Servicio Penitenciario Federal. La base de datos registra unidad de origen y destino y motivo del traslado.",
             "license": "Creative Commons Attribution",
             "title": "Traslados en el Servicio Penitenciario Federal",
@@ -661,101 +747,6 @@
             ],
             "landingPage": "www.ppn.gov.ar",
             "identifier": "0f42f8c4-7885-4c17-a0d2-3c09f9989429",
-            "contactPoint": {
-                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Equipo de estadística y bases de datos"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "bgarcia@ppn.gov.ar ",
-                "name": "Equipo de estadística y bases de datos"
-            },
-            "accessLevel": "public",
-            "description": "La información resultante acerca de las medidas de fuerza de las que toma conocimiento y registra la PPN es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada uno de los casos relevados en unidades penitenciarias. Se registra tipo de medida de fuerza realizada, alcance, motivos que la originaron, eventuales represalias institucionales, efectividad para la resolución del reclamo presentado, entre otras variables de alta sensibilidad.",
-            "license": "Creative Commons Attribution",
-            "title": "Medidas de fuerza",
-            "issued": "2017-04-27T14:00:18.022273",
-            "temporal": "2014-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
-            "modified": "2017-06-14T18:26:39.348832",
-            "language": "spa",
-            "theme": [
-                "Medidas de fuerza"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://181.209.63.46/dataset/c44d3e2f-5367-40b0-a162-35b82c97d2f9/resource/00952704-dfa3-4585-a5cd-22f2ab9e9728/download/medidas-de-fuerza.csv",
-                    "description": "La información resultante acerca de las medidas de fuerza de las que toma conocimiento y registra la PPN es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada uno de los casos relevados en unidades penitenciarias. Se registra tipo de medida de fuerza realizada, alcance, motivos que la originaron, eventuales represalias institucionales, efectividad para la resolución del reclamo presentado, entre otras variables de alta sensibilidad.",
-                    "title": "Medidas de fuerza",
-                    "issued": "2017-04-27T14:01:36.850639",
-                    "format": "CSV",
-                    "modified": "2017-05-02T15:37:46.955021",
-                    "downloadURL": "http://181.209.63.46/dataset/c44d3e2f-5367-40b0-a162-35b82c97d2f9/resource/00952704-dfa3-4585-a5cd-22f2ab9e9728/download/medidas-de-fuerza.csv"
-                }
-            ],
-            "keyword": [
-                "cárcel",
-                "derechos humanos",
-                "medidas de fuerza",
-                "prisión",
-                "servicio penitenciario federal"
-            ],
-            "accrualPeriodicity": "R/P6M",
-            "superTheme": [
-                "JUST",
-                "SOCI"
-            ],
-            "landingPage": "www.ppn.gov.ar",
-            "identifier": "c44d3e2f-5367-40b0-a162-35b82c97d2f9",
-            "contactPoint": {
-                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Equipo de estadística y bases de datos"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "bgarcia@ppn.gov.ar ",
-                "name": "Equipo de estadística y bases de datos"
-            },
-            "accessLevel": "public",
-            "description": "Esta base reúne información del seguimiento de la PPN sobre el proceso de investigación de las muertes bajo custodia estatal. Dispone de datos acerca del trámite judicial realizado en el marco de las muertes ocurridas en cárceles dependientes del SERVICIO PENITENCIARIO FEDERAL.  Contiene los avances registrados en la investigación e información detallada relacionada al estado de la causa y eventuales imputados.",
-            "license": "Creative Commons Attribution",
-            "title": "Respuesta judicial ante Fallecimiento",
-            "issued": "2017-05-03T15:39:54.548337",
-            "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
-            "modified": "2017-06-14T18:26:11.536230",
-            "language": "spa",
-            "theme": [
-                "Fallecimientos"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://181.209.63.46/dataset/66d16782-24eb-462a-856f-4af29e1c9124/resource/4d0fa795-cdd0-4dd0-92cc-7cf736dad469/download/respuesta-judicial-ante-fallecimientos.csv",
-                    "description": "Esta base reúne información del seguimiento de la PPN sobre el proceso de investigación de las muertes bajo custodia estatal. Dispone de datos acerca del trámite judicial realizado en el marco de las muertes ocurridas en cárceles dependientes del SERVICIO PENITENCIARIO FEDERAL.  Contiene los avances registrados en la investigación e información detallada relacionada al estado de la causa y eventuales imputados.",
-                    "title": "Respuesta judicial ante fallecimientos",
-                    "issued": "2017-05-03T15:41:33.097833",
-                    "format": "CSV",
-                    "modified": "2017-05-03T15:41:32.795269",
-                    "downloadURL": "http://181.209.63.46/dataset/66d16782-24eb-462a-856f-4af29e1c9124/resource/4d0fa795-cdd0-4dd0-92cc-7cf736dad469/download/respuesta-judicial-ante-fallecimientos.csv"
-                }
-            ],
-            "keyword": [
-                "causa judicial",
-                "cárcel",
-                "derechos humanos",
-                "fallecimientos",
-                "presos",
-                "salud",
-                "servicio penitencario federal"
-            ],
-            "accrualPeriodicity": "R/P6M",
-            "superTheme": [
-                "JUST"
-            ],
-            "landingPage": "www.ppn.gov.ar",
-            "identifier": "66d16782-24eb-462a-856f-4af29e1c9124",
             "contactPoint": {
                 "hasEmail": "mailto:bgarcia@ppn.gov.ar",
                 "@type": "vcard:Contact",
