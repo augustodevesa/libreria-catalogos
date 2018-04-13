@@ -16,7 +16,7 @@
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
 - **Cantidad Total de Datasets**: 20
-- **Cantidad Total de Distribuciones**: 32
+- **Cantidad Total de Distribuciones**: 31
 
 - **Cantidad de Datasets Federados**: 0
 - **Cantidad de Datasets NO Federados**: 20
@@ -28,19 +28,19 @@
 
 ## Datasets no federados
 
+- [Listado de personas en Resguardo en el Servicio Penitenciario Federal](www.ppn.gov.ar)
+- [Respuesta judicial ante Fallecimiento](www.ppn.gov.ar)
+- [Sanciones de aislamiento en el Servicio Penitenciario Federal](www.ppn.gov.ar)
+- [Población y alojamiento en el Servicio Penitenciario Federal](http://181.209.63.46/dataset/base-de-datos-de-poblacion-y-alojamiento-en-el-spf)
+- [Medidas de fuerza](www.ppn.gov.ar)
+- [Fallecimientos en Prisión](www.ppn.gov.ar)
+- [Casos de Tortura y Malos Tratos registrados e investigados por la PPN](www.ppn.gov.ar)
 - [Base de datos de recomendaciones presentadas por la PPN](http://181.209.63.46/dataset/base-de-datos-de-recomendaciones-presentadas-por-la-ppn)
 - [Registro de llamadas Central Telefónica](http://181.209.63.46/dataset/registro-de-llamadas-central-telefonica)
 - [Registro Nacional de casos de tortura y/o malos tratos (RNCT)](http://181.209.63.46/dataset/datos-ppn-gov-ar)
 - [Víctimas relevadas por el Registro Nacional de Casos de Tortura Policial](http://181.209.63.46/dataset/http-datos-ppn-gov-ar-dataset-rnctpolicial)
-- [Sanciones de aislamiento en el Servicio Penitenciario Federal](www.ppn.gov.ar)
-- [Fallecimientos en Prisión](www.ppn.gov.ar)
-- [Listado de personas en Resguardo en el Servicio Penitenciario Federal](www.ppn.gov.ar)
-- [Casos de Tortura y Malos Tratos registrados e investigados por la PPN](www.ppn.gov.ar)
-- [Población y alojamiento en el Servicio Penitenciario Federal](http://181.209.63.46/dataset/base-de-datos-de-poblacion-y-alojamiento-en-el-spf)
 - [Traslados en el Servicio Penitenciario Federal](https://www.ppn.gov.ar)
 - [Procedimiento de requisa en Servicio Penitencario Federal](www.ppn.gov.ar)
-- [Medidas de fuerza](www.ppn.gov.ar)
-- [Respuesta judicial ante Fallecimiento](www.ppn.gov.ar)
 - [Relevamiento sobre TIC´s en el Servicio Penitenciario Federal](www.ppn.gov.ar)
 - [Trabajo en Servicio Penitenciario Federal](www.ppn.gov.ar)
 - [Argentinos privados de libertad en el exterior](www.ppn.gov.ar)
