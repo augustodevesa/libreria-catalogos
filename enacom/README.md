@@ -69,8 +69,8 @@
 
 ## Datasets federados
 
-- [Numeración no geográfica](None)
 - [Numeración geográfica](None)
+- [Numeración no geográfica](None)
 - [Licenciatarios TIC](None)
 - [Subregistro de prestadores de servicios de mensajería](None)
 - [Listado de radioclubes](None)
