@@ -1,64 +1,4 @@
 {
-    "publisher": {
-        "mbox": "contacto@enacom.gob.ar",
-        "name": "Ente Nacional de Comunicaciones (ENACOM)"
-    },
-    "landingPage": "http://datosabiertos.enacom.gob.ar/home/",
-    "description": "Ente Nacional de Comunicaciones (ENACOM)",
-    "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
-    "title": "Ente Nacional de Comunicaciones (ENACOM)",
-    "themeTaxonomy": [
-        {
-            "label": "Servicios Postales",
-            "id": "servicios-postales",
-            "description": ""
-        },
-        {
-            "label": "Espectro Radioelectrico",
-            "id": "espectro-radioelectrico",
-            "description": ""
-        },
-        {
-            "label": "Homologación de Equipos",
-            "id": "equipos-de-comunicacion-autorizados",
-            "description": ""
-        },
-        {
-            "label": "Denuncias y reclamos",
-            "id": "denuncias-y-reclamos",
-            "description": ""
-        },
-        {
-            "label": "Acceso a Internet",
-            "id": "acceso-a-internet",
-            "description": ""
-        },
-        {
-            "label": "Telefonía móvil",
-            "id": "telefonia-movil",
-            "description": ""
-        },
-        {
-            "label": "FOMECA",
-            "id": "FOMECA",
-            "description": ""
-        },
-        {
-            "label": "Telefonía fija",
-            "id": "telefonia-fija",
-            "description": ""
-        },
-        {
-            "label": "TV por suscripción",
-            "id": "tv-por-suscripcion",
-            "description": ""
-        },
-        {
-            "label": "Licencias",
-            "id": "licencias",
-            "description": ""
-        }
-    ],
     "dataset": [
         {
             "publisher": {
@@ -4088,5 +4028,65 @@
             "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/232258/registro-de-proveedores-postales/",
             "description": "Listado de prestadores postales autorizados a dar servicios postales en la Republica Argentina"
         }
-    ]
+    ],
+    "publisher": {
+        "mbox": "contacto@enacom.gob.ar",
+        "name": "Ente Nacional de Comunicaciones (ENACOM)"
+    },
+    "description": "Ente Nacional de Comunicaciones (ENACOM)",
+    "title": "Ente Nacional de Comunicaciones (ENACOM)",
+    "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
+    "themeTaxonomy": [
+        {
+            "label": "Servicios Postales",
+            "id": "servicios-postales",
+            "description": ""
+        },
+        {
+            "label": "Espectro Radioelectrico",
+            "id": "espectro-radioelectrico",
+            "description": ""
+        },
+        {
+            "label": "Homologación de Equipos",
+            "id": "equipos-de-comunicacion-autorizados",
+            "description": ""
+        },
+        {
+            "label": "Denuncias y reclamos",
+            "id": "denuncias-y-reclamos",
+            "description": ""
+        },
+        {
+            "label": "Acceso a Internet",
+            "id": "acceso-a-internet",
+            "description": ""
+        },
+        {
+            "label": "Telefonía móvil",
+            "id": "telefonia-movil",
+            "description": ""
+        },
+        {
+            "label": "FOMECA",
+            "id": "FOMECA",
+            "description": ""
+        },
+        {
+            "label": "Telefonía fija",
+            "id": "telefonia-fija",
+            "description": ""
+        },
+        {
+            "label": "TV por suscripción",
+            "id": "tv-por-suscripcion",
+            "description": ""
+        },
+        {
+            "label": "Licencias",
+            "id": "licencias",
+            "description": ""
+        }
+    ],
+    "landingPage": "http://datosabiertos.enacom.gob.ar/home/"
 }
