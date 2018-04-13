@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 37
-- **Cantidad Total de Distribuciones**: 110
+- **Cantidad Total de Datasets**: 39
+- **Cantidad Total de Distribuciones**: 117
 
 - **Cantidad de Datasets Federados**: 29
-- **Cantidad de Datasets NO Federados**: 8
-- **Porcentaje de Datasets NO Federados**: 21.62%
+- **Cantidad de Datasets NO Federados**: 10
+- **Porcentaje de Datasets NO Federados**: 25.64%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -31,10 +31,12 @@
 - [Codificación de delitos del Código Penal Argentino]()
 - [Estadística de magistrados de la Justicia Federal y de la Justicia Nacional por género]()
 - [IGJ. Autoridades genero]()
+- [Inscripciones iniciales de autos](http://www.dnrpa.gov.ar)
 - [Línea Nacional 0800-222-1717 contra el abuso sexual infantil]()
 - [Listado de Registros Seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios](http://www.dnrpa.gov.ar)
 - [Lucha contra la trata de personas - Llamados línea 145]()
 - [Solicitudes de acceso a la información pública en el Ministerio de Justicia y Derechos Humanos]()
+- [Transferencias de autos](http://www.dnrpa.gov.ar)
 - [Victimas contra las violencias llamados línea 137]()
 
 ## Datasets federados
