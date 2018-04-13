@@ -28,13 +28,13 @@
 
 ## Datasets no federados
 
+- [Reclamos de los usuarios de telecomunicaciones](None)
+- [Pagos anuales de las líneas de FOMECA (pesos corrientes)](None)
 - [Equipos homologados inscriptos](None)
 - [Registro de prestadores de servicios postales](None)
 - [Equipos homologados inscriptos](None)
 - [Aportes no reembolsables (ANR)](None)
 - [Localidades beneficiadas por el programa de Aportes no reembolsables](None)
-- [Pagos anuales de las líneas de FOMECA (pesos corrientes)](None)
-- [Reclamos de los usuarios de telecomunicaciones](None)
 - [Velocidad promedio de bajada de Internet (nacional)](None)
 - [Velocidad promedio de bajada de Internet por provincia](None)
 - [Penetración trimestral de la telefonía fija por provincia](None)
@@ -69,14 +69,14 @@
 
 ## Datasets federados
 
-- [Numeración geográfica](None)
 - [Numeración no geográfica](None)
+- [Numeración geográfica](None)
 - [Licenciatarios TIC](None)
+- [Subregistro de prestadores de servicios de mensajería](None)
 - [Listado de radioclubes](None)
 - [Listado de estaciones repetidoras autorizadas](None)
 - [Empresas homologadas inscriptas](None)
 - [Listado de radioaficionados](None)
-- [Subregistro de prestadores de servicios de mensajería](None)
 - [Conectividad al servicio de Internet](None)
 - [Portabilidad numérica móvil: portaciones netas mensuales por operador](None)
 - [Fomeca: montos aprobados y pagados por entidad beneficiada](None)
