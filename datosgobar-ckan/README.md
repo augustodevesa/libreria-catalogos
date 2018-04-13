@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 626
-- **Cantidad Total de Distribuciones**: 1523
+- **Cantidad Total de Datasets**: 617
+- **Cantidad Total de Distribuciones**: 1494
 
-- **Cantidad de Datasets Federados**: 624
-- **Cantidad de Datasets NO Federados**: 2
-- **Porcentaje de Datasets NO Federados**: 0.32%
+- **Cantidad de Datasets Federados**: 617
+- **Cantidad de Datasets NO Federados**: 0
+- **Porcentaje de Datasets NO Federados**: 0.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -28,8 +28,7 @@
 
 ## Datasets no federados
 
-- [Estadísticas criminales en la República Argentina para los años 2014, 2015 y 2016](https://estadisticascriminales.minseg.gob.ar/)
-- [Estadísticas criminales en la República Argentina por Provincias para los años 2014, 2015 y 2016](https://estadisticascriminales.minseg.gob.ar/)
+
 
 ## Datasets federados
 
@@ -57,7 +56,6 @@
 - [Base SAIJ de Normativa Provincial]()
 - [Base de Series de Tiempo de la Administración Pública Nacional](http://datos.gob.ar/dataset/base-series-tiempo-administracion-publica-nacional)
 - [Bienes secuestrados y decomisados durante el proceso penal]()
-- [Bolsas mundiales](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Brasil Actividad económica, industrial y producción automotriz](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Brasil PIB Oferta y demanda global](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Brasil Salario medio real](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -98,8 +96,6 @@
 - [Costo Salarial, por rama de actividad económica](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Costo salarial por sector de actividad económica en el sector privado](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Costo Salarial  promedio del sector privado, por provincia](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Cotizaciones de divisas internacionales](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Crecimiento del Producto Interno Bruto de principales economías](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Crédito y Gasto completo del Presupuesto de la Administración Pública Nacional]()
 - [Cuenta Corriente del Balance de Pagos. Flujos monetarios](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Cuenta Corriente del Balance de Pagos. En porcentaje del producto](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -118,7 +114,6 @@
 - [Demanda de electricidad](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Denuncias mensuales recibidas](None)
 - [Denuncias recibidas por el Centro de Atención de ACUMAR 2011-2017](http://172.17.0.4/dataset/denuncias-recibidas-2011-2016)
-- [Desempleo de principales economías](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Designaciones de magistrados de la Justicia Federal y de la Justicia Nacional]()
 - [Destino de producción de la leche](https://datos.agroindustria.gob.ar/dataset/destino-de-produccion-de-la-leche)
 - [Deuda externa bruta por sector residente](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -139,7 +134,6 @@
 - [Elaboración de combustibles]()
 - [Elaboración de productos lácteos](https://datos.agroindustria.gob.ar/dataset/elaboracion-de-productos-lacteos)
 - [Embarques de Oleaginosas y Cereales](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Emerging Markets Bonds Index (EMBI)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Emisiones de gases de efecto invernadero (GEI)](https://inventariogei.ambiente.gob.ar/)
 - [Empleo registrado del sector privado, por rama de actividad](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Empleo registrado del sector privado, por sector de actividad.](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -174,6 +168,8 @@
 - [Estadística de trámites de maquinarias](http://www.dnrpa.gov.ar)
 - [Estadística de trámites de motovehículos](http://www.dnrpa.gov.ar)
 - [Estado de pozos de petróleo y gas]()
+- [Estadísticas criminales en la República Argentina para los años 2014, 2015 y 2016](https://estadisticascriminales.minseg.gob.ar/)
+- [Estadísticas criminales en la República Argentina por Provincias para los años 2014, 2015 y 2016](https://estadisticascriminales.minseg.gob.ar/)
 - [Estimación del consumo de productos lácteos](https://datos.agroindustria.gob.ar/dataset/estimacion-del-consumo-de-productos-lacteos)
 - [Estimaciones agrícolas](https://datos.agroindustria.gob.ar/dataset/estimaciones-agricolas)
 - [Estimador Mensual de Actividad Económica (EMAE)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -184,7 +180,7 @@
 - [Estimados Mensual Industrial (EMI). Variaciones interanuales. Base 2004](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Estructura Orgánica y Autoridades del Poder Ejecutivo Nacional](http://mapadelestado.modernizacion.gob.ar)
 - [Exigencias de encaje o liquidez](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Existencia de ciervo colorado](http://datos.agroindustria.gob.ar/dataset/existencia-de-ciervo-colorado)
+- [Existencia de ciervo colorado](https://datos.agroindustria.gob.ar/dataset/existencia-de-ciervo-colorado)
 - [Existencias lácteas en litros equivalentes](https://datos.agroindustria.gob.ar/dataset/existencias-lacteas-en-litros-equivalentes)
 - [Existencias lácteas del período comprendido entre los años 1998  y  2008](https://datos.agroindustria.gob.ar/dataset/existencias-lacteas-del-periodo-comprendido-entre-los-anos-1998-y-2008)
 - [Exploración Hidrocarburos Cuencas Sedimentarias]()
@@ -238,7 +234,7 @@
 - [Importaciones mineras por rubro]()
 - [Importaciones según el Nomenclador Común del Mercosur (NCM)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Incendios forestales](http://datos.ambiente.gob.ar/dataset/incendios-forestales)
-- [Indicadores anuales del sector bovino](http://datos.agroindustria.gob.ar/dataset/indicadores-anuales-del-sector-bovino)
+- [Indicadores anuales del sector bovino](https://datos.agroindustria.gob.ar/dataset/indicadores-anuales-del-sector-bovino)
 - [Indicadores de emisiones de gases de efecto invernadero (GEI)](https://inventariogei.ambiente.gob.ar/)
 - [Indicadores de evolución del sector agropecuario](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Indicadores mensuales del sector bovino](https://datos.agroindustria.gob.ar/dataset/indicadores-mensuales-del-sector-bovino)
@@ -331,11 +327,9 @@
 - [Indices Bursátiles Argentina. Desagregación sectorial](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índices de Horas trabajadas (IHT)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índices de Horas trabajadas (IHT) (Revisado)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Índices Morgan Stanley Capital Investment (MSCI)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índices de obreros ocupados, horas trabajadas y salario por obrero en la industria manufacturera](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índices de Obreros Ocupados (IOO)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índices de Obreros Ocupados (IOO) (Revisado)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Índices de precios al consumidor, por país](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índices de precios internacionales de productos básicos](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índices de salarios industriales básicos de convenios en la Capital Federal desde 1962](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índices de salarios industriales básicos de convenios en la Capital Federal. Variaciones. Desde 1965](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -584,7 +578,6 @@
 - [Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional]()
 - [Reservas de agua en el suelo por cultivo](https://datos.agroindustria.gob.ar/dataset/reservas-de-agua-en-el-suelo-por-cultivo)
 - [Reservas internacionales y pasivos del BCRA](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Resultado de cuenta corriente de las principales economías](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Resultados Electorales 2015](http://www.elecciones.gob.ar/articulo_princ.php?secc=2&sub_secc=8)
 - [Salario mínimo, vital y móvil en pesos corrientes](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Salario real y poder adquisitivo en la Industria.](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -625,7 +618,6 @@
 - [Telefonía móvil: minutos salientes (miles)](None)
 - [Telefonía móvil: número de llamadas salientes](None)
 - [Tesauro SAIJ de Derecho Argentino]()
-- [Tipo de cambio nominal](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Tipo de Cambio $-USD - Futuro Dólar - NDF](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Tipos de Cambio Históricos](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Títulos Públicos de Deuda](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
