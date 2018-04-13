@@ -1,44 +1,4 @@
 {
-    "publisher": {
-        "mbox": "gcamporro@arsat.com.ar",
-        "name": "ARSAT"
-    },
-    "landingPage": "http://datos.arsat.com.ar/home/",
-    "description": "ARSAT",
-    "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
-    "title": "ARSAT",
-    "themeTaxonomy": [
-        {
-            "label": "TELEVISION DIGITAL ABIERTA",
-            "id": "TECH",
-            "description": "Televisión Digital Abierta"
-        },
-        {
-            "label": "PLAN FEDERAL DE INTERNET",
-            "id": "TECH",
-            "description": "Plan Federal de Internet"
-        },
-        {
-            "label": "CINE.AR PLAY",
-            "id": "TECH",
-            "description": "Datos provenientes de la plataforma CINE.AR PLAY"
-        },
-        {
-            "label": "SERVICIOS SATELITALES",
-            "id": "TECH",
-            "description": "Datos de Satelital"
-        },
-        {
-            "label": "PLAN DE CONECTIVIDAD DE ESCUELAS RURALES",
-            "id": "TECH",
-            "description": "PLAN DE CONECTIVIDAD DE ESCUELAS RURALES"
-        },
-        {
-            "label": "GESTION TRANSPARENTE",
-            "id": "TECH",
-            "description": "GESTION TRANSPARENTE"
-        }
-    ],
     "dataset": [
         {
             "publisher": {
@@ -54,7 +14,7 @@
             ],
             "title": "Registro de Visitas",
             "issued": "2017-06-26T21:51:38",
-            "modified": "2018-04-13T21:37:46.653Z",
+            "modified": "2018-04-13T21:54:27.789Z",
             "language": [
                 "spa"
             ],
@@ -69,7 +29,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "CSV",
-                    "modified": "2018-04-13T21:37:46.653Z",
+                    "modified": "2018-04-13T21:54:27.789Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -78,7 +38,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "XLS",
-                    "modified": "2018-04-13T21:37:46.653Z",
+                    "modified": "2018-04-13T21:54:27.789Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -87,7 +47,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "JSON",
-                    "modified": "2018-04-13T21:37:46.653Z",
+                    "modified": "2018-04-13T21:54:27.790Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -2465,5 +2425,45 @@
             "homepage": "http://datos.arsat.com.ar/dataviews/236003/kilometros-de-fibra-optica-previstos-y-localidades-contempladas-por-provincia/",
             "description": "La tabla indica la cantidad de kilómetros totales de fibra óptica que ARSAT tendrá en cada provincia al finalizar las obras del Plan Federal de internet junto a la cantidad de localidades contempladas por provincia."
         }
-    ]
+    ],
+    "publisher": {
+        "mbox": "gcamporro@arsat.com.ar",
+        "name": "ARSAT"
+    },
+    "description": "ARSAT",
+    "title": "ARSAT",
+    "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
+    "themeTaxonomy": [
+        {
+            "label": "TELEVISION DIGITAL ABIERTA",
+            "id": "TECH",
+            "description": "Televisión Digital Abierta"
+        },
+        {
+            "label": "PLAN FEDERAL DE INTERNET",
+            "id": "TECH",
+            "description": "Plan Federal de Internet"
+        },
+        {
+            "label": "CINE.AR PLAY",
+            "id": "TECH",
+            "description": "Datos provenientes de la plataforma CINE.AR PLAY"
+        },
+        {
+            "label": "SERVICIOS SATELITALES",
+            "id": "TECH",
+            "description": "Datos de Satelital"
+        },
+        {
+            "label": "PLAN DE CONECTIVIDAD DE ESCUELAS RURALES",
+            "id": "TECH",
+            "description": "PLAN DE CONECTIVIDAD DE ESCUELAS RURALES"
+        },
+        {
+            "label": "GESTION TRANSPARENTE",
+            "id": "TECH",
+            "description": "GESTION TRANSPARENTE"
+        }
+    ],
+    "landingPage": "http://datos.arsat.com.ar/home/"
 }
