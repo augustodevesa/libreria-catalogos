@@ -54,7 +54,7 @@
             ],
             "title": "Registro de Visitas",
             "issued": "2017-06-26T21:51:38",
-            "modified": "2018-04-13T12:19:43.345Z",
+            "modified": "2018-04-13T15:19:48.906Z",
             "language": [
                 "spa"
             ],
@@ -69,7 +69,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "CSV",
-                    "modified": "2018-04-13T12:19:43.345Z",
+                    "modified": "2018-04-13T15:19:48.906Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -78,7 +78,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "XLS",
-                    "modified": "2018-04-13T12:19:43.345Z",
+                    "modified": "2018-04-13T15:19:48.906Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -87,7 +87,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "JSON",
-                    "modified": "2018-04-13T12:19:43.345Z",
+                    "modified": "2018-04-13T15:19:48.906Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -104,13 +104,234 @@
                 "TECH"
             ],
             "keyword": [
+                "arsat",
+                "odeon",
+                "incaa",
+                "cine.ar play"
+            ],
+            "title": "Datos de uso de la plataforma",
+            "issued": "2018-04-13T13:26:56",
+            "modified": "2018-04-13T16:32:07Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "cinear-play"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
+                    "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
+                    "title": "Datos de uso de la plataforma",
+                    "issued": "2018-04-13T13:26:56",
+                    "format": "CSV",
+                    "modified": "2018-04-13T16:32:07Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
+                    "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
+                    "title": "Datos de uso de la plataforma",
+                    "issued": "2018-04-13T13:26:56",
+                    "format": "XLS",
+                    "modified": "2018-04-13T16:32:07Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
+                    "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
+                    "title": "Datos de uso de la plataforma",
+                    "issued": "2018-04-13T13:26:56",
+                    "format": "JSON",
+                    "modified": "2018-04-13T16:32:07Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "ODEON-ESTAD-DE-USO",
+            "homepage": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
+            "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "plan federal de internet"
+            ],
+            "title": "Evolución de Cantidad Clientes y Megabits en servicio",
+            "issued": "2018-04-13T13:18:17",
+            "modified": "2018-04-13T16:20:06Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/243009/evolucion-de-cantidad-clientes-y-megabits-en-servicio/",
+                    "description": "Evolución Semanal de Cantidad Clientes y Megabits en servicio",
+                    "title": "Evolución de Cantidad Clientes y Megabits en servicio",
+                    "issued": "2018-04-13T13:18:17",
+                    "format": "CSV",
+                    "modified": "2018-04-13T16:20:06Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CLIEN-Y-MBPS-POR-PROVI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/243009/evolucion-de-cantidad-clientes-y-megabits-en-servicio/",
+                    "description": "Evolución Semanal de Cantidad Clientes y Megabits en servicio",
+                    "title": "Evolución de Cantidad Clientes y Megabits en servicio",
+                    "issued": "2018-04-13T13:18:17",
+                    "format": "XLS",
+                    "modified": "2018-04-13T16:20:06Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CLIEN-Y-MBPS-POR-PROVI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/243009/evolucion-de-cantidad-clientes-y-megabits-en-servicio/",
+                    "description": "Evolución Semanal de Cantidad Clientes y Megabits en servicio",
+                    "title": "Evolución de Cantidad Clientes y Megabits en servicio",
+                    "issued": "2018-04-13T13:18:17",
+                    "format": "JSON",
+                    "modified": "2018-04-13T16:20:06Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CLIEN-Y-MBPS-POR-PROVI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "CLIEN-Y-MBPS-POR-PROVI",
+            "homepage": "http://datos.arsat.com.ar/dataviews/243009/evolucion-de-cantidad-clientes-y-megabits-en-servicio/",
+            "description": "Evolución Semanal de Cantidad Clientes y Megabits en servicio"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "arsat",
+                "plan federal de internet"
+            ],
+            "title": "Cantidad Total de Megabits en servicio por provincia",
+            "issued": "2018-04-13T13:17:50",
+            "modified": "2018-04-13T16:20:04Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
+                    "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet.",
+                    "title": "Cantidad Total de Megabits en servicio por provincia",
+                    "issued": "2018-04-13T13:17:50",
+                    "format": "CSV",
+                    "modified": "2018-04-13T16:20:04Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
+                    "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet.",
+                    "title": "Cantidad Total de Megabits en servicio por provincia",
+                    "issued": "2018-04-13T13:17:50",
+                    "format": "XLS",
+                    "modified": "2018-04-13T16:20:04Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
+                    "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet.",
+                    "title": "Cantidad Total de Megabits en servicio por provincia",
+                    "issued": "2018-04-13T13:17:50",
+                    "format": "JSON",
+                    "modified": "2018-04-13T16:20:04Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "REFEF-CANTI-DE-CLIEN-Y",
+            "homepage": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
+            "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "arsat",
+                "plan federal de internet"
+            ],
+            "title": "Cantidad de clientes por provincia",
+            "issued": "2018-04-13T13:17:11",
+            "modified": "2018-04-13T16:20:04Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
+                    "description": "Cantidad de clientes por provincia conectados al Plan Federal de Internet.",
+                    "title": "Cantidad de clientes por provincia",
+                    "issued": "2018-04-13T13:17:11",
+                    "format": "CSV",
+                    "modified": "2018-04-13T16:20:04Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
+                    "description": "Cantidad de clientes por provincia conectados al Plan Federal de Internet.",
+                    "title": "Cantidad de clientes por provincia",
+                    "issued": "2018-04-13T13:17:11",
+                    "format": "XLS",
+                    "modified": "2018-04-13T16:20:04Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
+                    "description": "Cantidad de clientes por provincia conectados al Plan Federal de Internet.",
+                    "title": "Cantidad de clientes por provincia",
+                    "issued": "2018-04-13T13:17:11",
+                    "format": "JSON",
+                    "modified": "2018-04-13T16:20:04Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "CANTI-DE-CLIEN-POR-PROVI",
+            "homepage": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
+            "description": "Cantidad de clientes por provincia conectados al Plan Federal de Internet."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
                 "transparencia",
                 "audiencias",
                 "arsat"
             ],
             "title": "Registro de Audiencias",
             "issued": "2017-06-26T17:14:16",
-            "modified": "2018-04-13T03:08:48Z",
+            "modified": "2018-04-13T13:06:41Z",
             "language": [
                 "spa"
             ],
@@ -125,7 +346,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T17:14:16",
                     "format": "CSV",
-                    "modified": "2018-04-13T03:08:48Z",
+                    "modified": "2018-04-13T13:06:41Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -134,7 +355,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T17:14:16",
                     "format": "XLS",
-                    "modified": "2018-04-13T03:08:48Z",
+                    "modified": "2018-04-13T13:06:41Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -143,7 +364,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T17:14:16",
                     "format": "JSON",
-                    "modified": "2018-04-13T03:08:48Z",
+                    "modified": "2018-04-13T13:06:41Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -768,60 +989,6 @@
                 "TECH"
             ],
             "keyword": [
-                "plan federal de internet"
-            ],
-            "title": "Evolución de Cantidad Clientes y Megabits en servicio",
-            "issued": "2018-04-11T18:15:05",
-            "modified": "2018-04-11T21:17:40Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/243009/evolucion-de-cantidad-clientes-y-megabits-en-servicio/",
-                    "description": "Evolución Semanal de Cantidad Clientes y Megabits en servicio",
-                    "title": "Evolución de Cantidad Clientes y Megabits en servicio",
-                    "issued": "2018-04-11T18:15:05",
-                    "format": "CSV",
-                    "modified": "2018-04-11T21:17:40Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CLIEN-Y-MBPS-POR-PROVI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/243009/evolucion-de-cantidad-clientes-y-megabits-en-servicio/",
-                    "description": "Evolución Semanal de Cantidad Clientes y Megabits en servicio",
-                    "title": "Evolución de Cantidad Clientes y Megabits en servicio",
-                    "issued": "2018-04-11T18:15:05",
-                    "format": "XLS",
-                    "modified": "2018-04-11T21:17:40Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CLIEN-Y-MBPS-POR-PROVI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/243009/evolucion-de-cantidad-clientes-y-megabits-en-servicio/",
-                    "description": "Evolución Semanal de Cantidad Clientes y Megabits en servicio",
-                    "title": "Evolución de Cantidad Clientes y Megabits en servicio",
-                    "issued": "2018-04-11T18:15:05",
-                    "format": "JSON",
-                    "modified": "2018-04-11T21:17:40Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CLIEN-Y-MBPS-POR-PROVI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "CLIEN-Y-MBPS-POR-PROVI",
-            "homepage": "http://datos.arsat.com.ar/dataviews/243009/evolucion-de-cantidad-clientes-y-megabits-en-servicio/",
-            "description": "Evolución Semanal de Cantidad Clientes y Megabits en servicio"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
                 "arsat",
                 "refefo"
             ],
@@ -988,116 +1155,6 @@
             ],
             "keyword": [
                 "arsat",
-                "plan federal de internet"
-            ],
-            "title": "Cantidad de clientes por provincia",
-            "issued": "2018-03-27T20:20:03",
-            "modified": "2018-03-27T23:20:51Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
-                    "description": "Cantidad de clientes por provincia conectados al Plan Federal de Internet.",
-                    "title": "Cantidad de clientes por provincia",
-                    "issued": "2018-03-27T20:20:03",
-                    "format": "CSV",
-                    "modified": "2018-03-27T23:20:51Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
-                    "description": "Cantidad de clientes por provincia conectados al Plan Federal de Internet.",
-                    "title": "Cantidad de clientes por provincia",
-                    "issued": "2018-03-27T20:20:03",
-                    "format": "XLS",
-                    "modified": "2018-03-27T23:20:51Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
-                    "description": "Cantidad de clientes por provincia conectados al Plan Federal de Internet.",
-                    "title": "Cantidad de clientes por provincia",
-                    "issued": "2018-03-27T20:20:03",
-                    "format": "JSON",
-                    "modified": "2018-03-27T23:20:51Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "CANTI-DE-CLIEN-POR-PROVI",
-            "homepage": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
-            "description": "Cantidad de clientes por provincia conectados al Plan Federal de Internet."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "arsat",
-                "plan federal de internet"
-            ],
-            "title": "Cantidad Total de Megabits en servicio por provincia",
-            "issued": "2018-03-27T20:19:34",
-            "modified": "2018-03-27T23:20:50Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
-                    "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet.",
-                    "title": "Cantidad Total de Megabits en servicio por provincia",
-                    "issued": "2018-03-27T20:19:34",
-                    "format": "CSV",
-                    "modified": "2018-03-27T23:20:50Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
-                    "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet.",
-                    "title": "Cantidad Total de Megabits en servicio por provincia",
-                    "issued": "2018-03-27T20:19:34",
-                    "format": "XLS",
-                    "modified": "2018-03-27T23:20:50Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
-                    "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet.",
-                    "title": "Cantidad Total de Megabits en servicio por provincia",
-                    "issued": "2018-03-27T20:19:34",
-                    "format": "JSON",
-                    "modified": "2018-03-27T23:20:50Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "REFEF-CANTI-DE-CLIEN-Y",
-            "homepage": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
-            "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "arsat",
                 "gestion transparente",
                 "talento humano"
             ],
@@ -1199,63 +1256,6 @@
             "identifier": "ESCUE-CONEC-CON-TECNO-GILLA",
             "homepage": "http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gilat/",
             "description": "Escuelas Conectadas con equipos satelitales de Tecnología Gilat"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "arsat",
-                "odeon",
-                "incaa",
-                "cine.ar play"
-            ],
-            "title": "Datos de uso de la plataforma",
-            "issued": "2018-03-01T16:37:58",
-            "modified": "2018-03-01T19:38:30Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "cinear-play"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
-                    "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
-                    "title": "Datos de uso de la plataforma",
-                    "issued": "2018-03-01T16:37:58",
-                    "format": "CSV",
-                    "modified": "2018-03-01T19:38:30Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
-                    "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
-                    "title": "Datos de uso de la plataforma",
-                    "issued": "2018-03-01T16:37:58",
-                    "format": "XLS",
-                    "modified": "2018-03-01T19:38:30Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
-                    "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
-                    "title": "Datos de uso de la plataforma",
-                    "issued": "2018-03-01T16:37:58",
-                    "format": "JSON",
-                    "modified": "2018-03-01T19:38:30Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "ODEON-ESTAD-DE-USO",
-            "homepage": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
-            "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones."
         },
         {
             "publisher": {
