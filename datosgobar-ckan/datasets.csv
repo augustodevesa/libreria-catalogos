@@ -12,11 +12,11 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 10,Asignación Salarial de las Autoridades Superiores del Poder Ejecutivo Nacional,431381cc-3c5b-49ba-bf77-47bf658cd640,ERROR,3,2
 11,Asignación Universal por Hijo,506acbcb-6861-4237-8f18-c8b92ff70426,ERROR,2,1
 12,Aterrizajes y despegues registrados por EANA,c7229d23-0d3b-4281-bbb2-097d97916267,ERROR,2,1
-13,Autoridades nacionales desde 1944,cfdfd1ab-fe3a-4b80-b977-1a4a3b8222b5,ERROR,2,1
+13,Autoridades nacionales desde 1944,cfdfd1ab-fe3a-4b80-b977-1a4a3b8222b5,ERROR,3,1
 14,Balance de Pagos (MBP5),d2b8842c-e4a9-478e-93a3-5779e26dd755,ERROR,2,2
 15,Balance de Pagos (MBP6),7dfbd646-0b6c-4802-9d4c-6e7ebeeb38d1,ERROR,2,2
 16,Balance de pagos en millones de dólares,8306f78f-9e24-42a3-8715-2a5c45f4da3e,ERROR,2,1
-17,Balances Energéticos,00ff97aa-01d8-4f2d-836e-d7e09af72331,ERROR,2,68
+17,Balances Energéticos,00ff97aa-01d8-4f2d-836e-d7e09af72331,ERROR,9,68
 18,Balanza comercial minera,01e385b8-4f8c-4595-85c8-a35243c9bec3,ERROR,2,1
 19,Barrios Populares de Argentina,89fb68b6-fce4-4297-8dee-24f5de8f20a8,ERROR,2,2
 20,Base Infoleg de Normativa Nacional,6a0823c1-8067-416c-a032-549aff923cd6,ERROR,2,3
@@ -31,7 +31,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 29,Calidad higiénico sanitaria de la producción de leche cruda a nivel nacional y provincial,1d64e67d-b32d-445c-9bac-6e3287ba2302,ERROR,2,4
 30,"Canasta básica alimentaria y total, línea de indigencia y línea de pobreza desde 1988",e9619b49-2c27-4214-8d3f-912e8ffc39c1,ERROR,2,3
 31,"Cantidad de empresas exportadoras por sector de actividad, rangos de exportación y saldo comercial",7a9bede2-5ace-42ac-9475-e959c48e801a,ERROR,2,1
-32,Cantidad de usuarios de gas natural de red por segmento de calle,43b6ad5e-f445-415f-8740-d28a979cb720,ERROR,2,1
+32,Cantidad de usuarios de gas natural de red por segmento de calle,43b6ad5e-f445-415f-8740-d28a979cb720,ERROR,3,1
 33,Cantidad de usuarios  de redes de gas natural por provincia,4efb0ad7-3bcd-4600-8b0c-322aa2d8398d,ERROR,2,1
 34,Cantidad de usuarios de redes de gas natural por tipo,246f338c-ab81-4f8c-89aa-090eb332f421,ERROR,2,1
 35,Captura pesquera,493751a5-f3a4-4c38-b445-ede6c1d22e14,ERROR,2,3
@@ -47,11 +47,11 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 45,Cobros y pagos por bienes sectorial - Balance Cambiario,1e7bd2a1-f7c9-44a1-9435-946b29397570,ERROR,2,1
 46,Cobros y pagos por tipo de servicio - Balance Cambiario,056f98dc-a9a5-4ce8-9ffa-5014da651176,ERROR,2,1
 47,Comercialización de fauna silvestre,59ca8b71-e5fe-42be-a20f-66e8b9b7e841,ERROR,2,1
-48,Comercialización Hidrocarburos Combustibles Líquidos,82644b68-d96b-4bb2-aa7a-fcf6c201f49d,ERROR,2,2
-49,Comercialización de hidrocarburos - Combustibles líquidos - Aeroplantas,765ac526-ea26-40a0-9ed9-2410f164b7b6,ERROR,2,2
-50,Comercialización de hidrocarburos - Depósitos de GLP,e0fdae9c-9cc9-4a5a-b921-0ac83139a6a1,ERROR,2,2
-51,Comercialización de hidrocarburos - Plantas fraccionadoras de GLP,2992479e-3d72-41b1-a107-32ffb33ee97e,ERROR,2,2
-52,Comercialización de hidrocarburos - Terminales de despacho de  combustibles líquidos,f9714d07-56aa-4c1d-a3f5-237361597dbb,ERROR,2,2
+48,Comercialización Hidrocarburos Combustibles Líquidos,82644b68-d96b-4bb2-aa7a-fcf6c201f49d,ERROR,3,2
+49,Comercialización de hidrocarburos - Combustibles líquidos - Aeroplantas,765ac526-ea26-40a0-9ed9-2410f164b7b6,ERROR,3,2
+50,Comercialización de hidrocarburos - Depósitos de GLP,e0fdae9c-9cc9-4a5a-b921-0ac83139a6a1,ERROR,3,2
+51,Comercialización de hidrocarburos - Plantas fraccionadoras de GLP,2992479e-3d72-41b1-a107-32ffb33ee97e,ERROR,3,2
+52,Comercialización de hidrocarburos - Terminales de despacho de  combustibles líquidos,f9714d07-56aa-4c1d-a3f5-237361597dbb,ERROR,3,2
 53,Componentes del VAB por sector de actividad económica,9f23f9b0-7b4e-459c-a910-ddcad952fb3e,ERROR,2,1
 54,Compras de GLP,934ad8ae-e5e8-424e-ab97-62564722a17c,ERROR,2,7
 55,Conectividad al servicio de Internet,2837a43c-0894-4773-a64a-1a885d06f404,ERROR,2,3
@@ -87,17 +87,17 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 85,Deuda externa privada - BCRA,32eca4e2-6b41-43a2-8598-f09e04cef45a,ERROR,2,1
 86,Diccionario Panamericano OIMA - Región Cono Sur,8a4fc795-9658-44e8-85ef-ed474898a27c,ERROR,2,1
 87,Disponibilidad de petróleo a fin de mes,771d25bf-8e48-4a7f-9e38-21a16c300ae1,ERROR,2,1
-88,Distribución Eléctrica Apelp La Pampa Media Tensión  Líneas,1a710621-54cb-486c-8d4d-502e5a97509c,ERROR,2,2
-89,Distribución Eléctrica - Áreas de distribución de cooperativas,00670455-7875-4609-9622-fe17ee70d4ed,ERROR,2,2
-90,Distribución Eléctrica - Concesiones de empresas distribuidoras,b2968c2d-9454-42de-a695-c868e186a246,ERROR,2,2
-91,Distribución Eléctrica Edelap,3e41c507-1811-4263-8b74-7f26e72a6949,ERROR,2,10
-92,Distribución Eléctrica Edenor,e863ef72-be91-4a7c-817c-44acdbda49fc,ERROR,2,16
-93,Distribución Eléctrica Edesur,75694ed5-6737-4f9f-9444-d6e901246ce7,ERROR,2,8
-94,Distribución de gas natural - Concesiones de empresas distribuidoras,09dd14a2-6366-416e-9cb6-e72cce99a970,ERROR,2,2
+88,Distribución Eléctrica Apelp La Pampa Media Tensión  Líneas,1a710621-54cb-486c-8d4d-502e5a97509c,ERROR,3,2
+89,Distribución Eléctrica - Áreas de distribución de cooperativas,00670455-7875-4609-9622-fe17ee70d4ed,ERROR,3,2
+90,Distribución Eléctrica - Concesiones de empresas distribuidoras,b2968c2d-9454-42de-a695-c868e186a246,ERROR,3,2
+91,Distribución Eléctrica Edelap,3e41c507-1811-4263-8b74-7f26e72a6949,ERROR,7,10
+92,Distribución Eléctrica Edenor,e863ef72-be91-4a7c-817c-44acdbda49fc,ERROR,10,16
+93,Distribución Eléctrica Edesur,75694ed5-6737-4f9f-9444-d6e901246ce7,ERROR,6,8
+94,Distribución de gas natural - Concesiones de empresas distribuidoras,09dd14a2-6366-416e-9cb6-e72cce99a970,ERROR,3,2
 95,Distribución del Ingreso Neto Nacional. Millones de pesos corrientes,12defb6d-2738-435d-8dad-3327fb638de8,ERROR,2,1
 96,Distribución de petróleo,b8cf6fc4-497d-4698-af87-5fa912c03a33,ERROR,2,3
 97,Ejecuciones Presupuestarias 2016,cb59761e-a548-4715-aad2-3813025dc476,ERROR,2,3
-98,Ejecución Presupuestaria de la Administración Pública Nacional,89f1a2dd-ad79-4211-87b4-44661d81ac0d,ERROR,2,3
+98,Ejecución Presupuestaria de la Administración Pública Nacional,89f1a2dd-ad79-4211-87b4-44661d81ac0d,ERROR,3,3
 99,Elaboración de combustibles,7be05711-1c71-4ab6-b659-bb0277329137,ERROR,2,3
 100,Elaboración de productos lácteos,1f366ede-741f-4188-9bf7-d36fb1fd704d,ERROR,2,3
 101,Embarques de Oleaginosas y Cereales,b807946f-0b3e-479f-9c8a-ac1d2d1f1e36,ERROR,2,3
@@ -108,17 +108,17 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 106,Empleo total y por sector de actividad,badebf34-b340-4493-b70d-9913eca53ced,ERROR,2,3
 107,"Empresas de ejecución de proyectos de ciencia, tecnología e innovación",f9ad7a39-c93f-44bf-8659-7ca6d550a768,ERROR,2,2
 108,Empresas homologadas inscriptas,04247911-f553-4930-af85-d82cd9adeec8,ERROR,2,3
-109,Empresas de transporte de RMBA,0511f38e-c33c-4e75-b251-dd5d5971c941,ERROR,2,3
+109,Empresas de transporte de RMBA,0511f38e-c33c-4e75-b251-dd5d5971c941,ERROR,5,3
 110,Empresas vigentes inscriptas en el RNCyF de Semillas,e659b1e1-5792-475e-95d3-8494f916ec47,ERROR,2,2
 111,Encuentros y jornadas de educación ambiental,34bdcfa7-132b-4a76-ae6d-1b9ae922851d,ERROR,2,2
 112,Encuesta de Turismo Internacional,321c761f-1531-4685-9abb-5794ce8318ba,ERROR,2,3
-113,Energías Renovables - Balance por radio censal de Energía derivada de la Biomasa WISDOM,6590ce06-3015-4c7e-b61b-d41f831fa973,ERROR,2,8
-114,Energías renovables - Irradiancia normal directa,4cca07cb-d66f-4fa4-bd4c-626c5197f35b,ERROR,2,2
-115,Energías renovables - Plantas de biocombustibles,34f94694-c66c-449c-a19b-815b94725172,ERROR,2,2
-116,Energías renovables - Puntos de Interés Geotérmico,106597f7-1d4c-4d41-9834-d8c3b1aca890,ERROR,2,2
-117,Energías renovables - Radiación Solar Incidente,9cf400fc-33e9-4b87-8a5b-1da0c6fde062,ERROR,2,24
+113,Energías Renovables - Balance por radio censal de Energía derivada de la Biomasa WISDOM,6590ce06-3015-4c7e-b61b-d41f831fa973,ERROR,6,8
+114,Energías renovables - Irradiancia normal directa,4cca07cb-d66f-4fa4-bd4c-626c5197f35b,ERROR,3,2
+115,Energías renovables - Plantas de biocombustibles,34f94694-c66c-449c-a19b-815b94725172,ERROR,3,2
+116,Energías renovables - Puntos de Interés Geotérmico,106597f7-1d4c-4d41-9834-d8c3b1aca890,ERROR,3,2
+117,Energías renovables - Radiación Solar Incidente,9cf400fc-33e9-4b87-8a5b-1da0c6fde062,ERROR,14,24
 118,Entidades constituidas en la Inspección General de Justicia,6a039a44-2af9-4293-b627-ce9e2c2bf19f,ERROR,2,14
-119,Entrada y salida de buques del Puerto de Buenos Aires (AGP),f442f67a-28fd-44f7-b16d-55e92a1db02f,ERROR,2,1
+119,Entrada y salida de buques del Puerto de Buenos Aires (AGP),f442f67a-28fd-44f7-b16d-55e92a1db02f,ERROR,3,1
 120,Equipamiento científico-tecnológico,f8803116-90f9-426c-9322-4514f73d88ed,ERROR,2,2
 121,Escuelas conectadas,1d87b9cb-0a59-48c7-9764-eee374be76eb,ERROR,2,3
 122,Escuelas Conectadas con Tecnología Gilat,5f5d8a16-4dad-4c07-b70f-3ac36b159192,ERROR,2,3
@@ -126,7 +126,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 124,Establecimientos a nivel departamental vinculados a la actividad vitivinícola de acuerdo al INV,e98a8589-ea4f-472a-83e8-2c0eb8de0358,ERROR,2,2
 125,Establecimientos vigentes inscriptos en el RNCyF de Semillas,9735d232-4be6-4b6d-a502-213977cee97b,ERROR,2,2
 126,Estaciones de Medición de la cuenca Matanza Riachuelo,77d189d0-40a4-4b25-baed-28d5988950d5,ERROR,2,3
-127,Estaciones del sistema de Trenes Argentinos,4f43e4dc-85b4-4bf3-b776-1ca6e37924f0,ERROR,2,1
+127,Estaciones del sistema de Trenes Argentinos,4f43e4dc-85b4-4bf3-b776-1ca6e37924f0,ERROR,3,1
 128,Estadística de mediaciones prejudiciales y judiciales,71a4a4f8-3c37-4f4a-93ec-00154a156ec5,ERROR,2,3
 129,Estadísticas de biodiesel y bioetanol,70801246-a54b-4f0e-bb2c-af639657d4ef,ERROR,2,6
 130,Estadísticas de servicios públicos.,54795947-9794-416e-a392-b2c28f6d51ea,ERROR,2,3
@@ -150,7 +150,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 148,Existencia de ciervo colorado,bf3efd3f-4f56-4bdd-9202-7356a50a259d,ERROR,2,2
 149,Existencias lácteas en litros equivalentes,5daea4c3-fb60-4626-90ce-88c28aa31190,ERROR,2,2
 150,Existencias lácteas del período comprendido entre los años 1998  y  2008,b8a9fc07-fbd2-435a-b01f-5f7216baa8b7,ERROR,2,1
-151,Exploración Hidrocarburos Cuencas Sedimentarias,d5dd7396-f935-4069-a755-1f8e5048ba93,ERROR,2,3
+151,Exploración Hidrocarburos Cuencas Sedimentarias,d5dd7396-f935-4069-a755-1f8e5048ba93,ERROR,3,3
 152,"Explotaciones agropecuarias según el Censo Nacional Agropecuario de los años 1988, 2002 y 2008",e456ddf7-e66e-49cf-a12f-b405012dbdd8,ERROR,2,6
 153,Exportaciones de azúcar,8ff9e22b-e790-492c-91f2-108caaa0b014,ERROR,2,1
 154,Exportaciones e importaciones por Intensidad tecnológica,34d68b0d-c4d9-4aa2-b6cf-1dd4b92bf481,ERROR,2,1
@@ -160,7 +160,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 158,Exportaciones mineras por rubro,a7e3711e-9e24-4ec8-ae4c-000037f485c9,ERROR,2,1
 159,Exportaciones por provincia y por país de destino,29ab1bc1-bcdd-4de0-9db7-fa58850bd751,ERROR,2,1
 160,Exportaciones por provincia y rubro,189faa6a-e1f7-4995-bed2-49d3936f700c,ERROR,2,1
-161,"Exportaciones por sector de actividad, saldo comercial y rangos de exportación de la empresa exportadora",4d0cedbf-4a61-4883-84db-74660d335350,ERROR,2,1
+161,"Exportaciones por sector de actividad, saldo comercial y rangos de exportación de la empresa exportadora",4d0cedbf-4a61-4883-84db-74660d335350,ERROR,3,1
 162,Exportaciones según el Nomenclador Común del Mercosur (NCM),f0fd6953-a3b9-4ba0-aef3-38bd2bc2bd01,ERROR,2,3
 163,Extracciones forestales,2e198a03-2132-429f-a987-c81cd84741b4,ERROR,2,2
 164,Factores de explicación de Base Monetaria,9124e31a-8313-4437-a817-eeb397b4626c,ERROR,2,2
@@ -181,18 +181,18 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 179,Gas natural entregado a grandes usuarios por provincia,a139e4cd-c1ac-45d8-90bc-576680941970,ERROR,2,1
 180,Gas natural entregado por área de licencia,9af2bd80-79c8-4496-9e11-2673768d7fa9,ERROR,2,1
 181,Gas natural entregado por provincia,a4713ada-77a6-49d3-8e6c-8dc62e475ac1,ERROR,2,1
-182,"Gasto Público del Gobierno Nacional en Política de Ingresos, por programa. Devengado mensual en pesos corrientes",4c2c370f-a571-4deb-8271-f73cffe91230,ERROR,2,3
+182,"Gasto Público del Gobierno Nacional en Política de Ingresos, por programa. Devengado mensual en pesos corrientes",4c2c370f-a571-4deb-8271-f73cffe91230,ERROR,3,3
 183,Generación Eléctrica Bruta Asociada a redes desde 1930,5aef8a26-74ce-4ad8-8417-bad6194a4846,ERROR,2,1
-184,Generación Eléctrica - Centrales de generación,600195f6-07ac-4c1f-8579-193cc07e065f,ERROR,2,2
-185,Generación Eléctrica - Pequeños Aprovechamientos Hidroeléctricos (PAH),13590307-5072-44e0-914a-fb5b9c7eb384,ERROR,2,2
+184,Generación Eléctrica - Centrales de generación,600195f6-07ac-4c1f-8579-193cc07e065f,ERROR,3,2
+185,Generación Eléctrica - Pequeños Aprovechamientos Hidroeléctricos (PAH),13590307-5072-44e0-914a-fb5b9c7eb384,ERROR,3,2
 186,Generación de residuos,171f8737-c742-4668-b044-6411c9162266,ERROR,2,1
-187,Geología - Yacimientos Minerales,ffd1bf85-774a-4b40-9d97-82b003ed8041,ERROR,2,2
-188,GLP: Distancia de áreas urbanas a depósitos y fraccionadoras,18665c19-bd2b-430f-9390-feb5f7556706,ERROR,2,3
+187,Geología - Yacimientos Minerales,ffd1bf85-774a-4b40-9d97-82b003ed8041,ERROR,3,2
+188,GLP: Distancia de áreas urbanas a depósitos y fraccionadoras,18665c19-bd2b-430f-9390-feb5f7556706,ERROR,3,3
 189,Grandes eventos de educación ambiental,4b870bb5-f794-4be7-96f5-55e722adb3fa,ERROR,2,1
 190,Haber mínimo jubilatorio. Pesos corrientes,24b7028b-a202-491f-8d87-d5ee0b33749d,ERROR,2,1
 191,Hogares con ingresos por debajo de la línea de indigencia EPH puntual y continua,2050ce1d-e6ce-45ad-88b6-52d246401111,ERROR,2,1
 192,Hogares con ingresos por debajo de la línea de pobreza EPH puntual y continua,0e4b5eb8-75b1-45a6-a919-9a2a7ef2e1c7,ERROR,2,1
-193,Hogares y la población que habita con ingresos por debajo de la línea de pobreza e indigencia Encuesta puntual,6079c5d5-a5d3-4f5e-b102-f3b6121490d2,ERROR,2,1
+193,Hogares y la población que habita con ingresos por debajo de la línea de pobreza e indigencia Encuesta puntual,6079c5d5-a5d3-4f5e-b102-f3b6121490d2,ERROR,3,1
 194,Honorarios de Directores,68b3a28e-6c48-4165-b064-6ebe1f95710d,ERROR,2,3
 195,Importaciones de azúcar,deed2421-6361-4fc8-9d82-96d26d6e6732,ERROR,2,1
 196,Importaciones CIF por region y país,e0196ecf-d247-451c-a586-832fb52f1c8a,ERROR,2,3
@@ -264,7 +264,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 262,Índice de Precios al Consumidor. Por categorías. Base abril 2016.,be249ad8-e955-4829-aeac-35eaafcb533d,ERROR,2,2
 263,Índice de Precios al Consumidor. Por categorías. Base diciembre de 2016.,ad35b254-006d-4158-92dd-4dc698144a00,ERROR,2,2
 264,Índice de Precios al Consumidor. Por grupos. Base 2008.,28af78a8-0579-4554-bf5f-c9e2e8876428,ERROR,2,3
-265,Índice de Precios al Consumidor. Precios al consumidor de un conjunto de alimentos y bebidas. Base abr 2016.,761e4a4b-c403-4108-a31a-64f52fd58ff5,ERROR,2,2
+265,Índice de Precios al Consumidor. Precios al consumidor de un conjunto de alimentos y bebidas. Base abr 2016.,761e4a4b-c403-4108-a31a-64f52fd58ff5,ERROR,3,2
 266,Índice de Precios al Consumidor de la Provincia de Córdoba. Base 2014 = 100,2733fd36-742d-4957-9cf9-7b1b9403fb5a,ERROR,2,1
 267,Índice de Precios al Consumidor de la Provincia de Mendoza. Base 2010 = 100,2f6ece60-42ca-4e09-8695-b845ec6cb30e,ERROR,2,1
 268,Índice de Precios al Consumidor de la Provincia de Neuquen. Base 2010 = 100,b8623161-3512-49a1-a5f0-99484afd6c6f,ERROR,2,1
@@ -275,7 +275,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 273,Índice de precios implícitos de la Oferta y Demanda Globales. Base 2004,d2ef017f-3f25-43ab-8ebd-419b028ed772,ERROR,2,2
 274,Índice de precios implícitos de la Oferta y Demanda Globales por componente. Base 2004,142de9b7-bb13-4029-b5b2-f11a70501273,ERROR,2,2
 275,Índice de Precios Implícitos en el Producto Interno Bruto corriente. Base 1993,daf0459f-e222-46f2-90d8-c85085eb0471,ERROR,2,2
-276,Índice de precios implícitos en el Producto Interno Bruto de Sectores Productores de Bienes y de Servicios. Base 1993,7b430ae5-6d4a-43a3-a289-95b517bc3e98,ERROR,2,2
+276,Índice de precios implícitos en el Producto Interno Bruto de Sectores Productores de Bienes y de Servicios. Base 1993,7b430ae5-6d4a-43a3-a289-95b517bc3e98,ERROR,3,2
 277,Índice de precios implícitos del Valor Agregado Bruto. Base 1993,f8947e4f-21aa-4bba-b2d0-334a1549a702,ERROR,2,2
 278,Índice de precios implícitos del Valor Agregado Bruto. Base 2004,8036624e-1bfa-43d6-bc08-0fbd5b021b15,ERROR,2,2
 279,Índice de Precios Implícitos del Valor Agregado Bruto por rama de actividad económica,653f3655-13f1-4b4c-adc6-472801aed4dc,ERROR,2,2
@@ -320,8 +320,8 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 318,Ingresos trimestrales por la prestación del servicio de telefonía móvil,95323c99-d696-48b6-b311-7d6262a97ac6,ERROR,2,3
 319,Inmuebles Propios del Estado Nacional y Alquilados,9a01a890-5f12-4079-bcc7-cae0f37db520,ERROR,2,1
 320,Inspecciones de abastecimiento en instalaciones de hidrocarburos,04d9fa1a-9e61-4e04-b5fe-3c4933ddfedb,ERROR,2,1
-321,Instalaciones de hidrocarburos - Instalaciones empadronads Res. 318/2010,473bee16-896b-4f31-b1d5-5c711c9d85c9,ERROR,2,2
-322,Instalaciones de hidrocarburos - Puertos regasificadores de GNL,b434ccf9-154c-4ce1-9f94-e8ffcfc1ea6b,ERROR,2,2
+321,Instalaciones de hidrocarburos - Instalaciones empadronads Res. 318/2010,473bee16-896b-4f31-b1d5-5c711c9d85c9,ERROR,3,2
+322,Instalaciones de hidrocarburos - Puertos regasificadores de GNL,b434ccf9-154c-4ce1-9f94-e8ffcfc1ea6b,ERROR,3,2
 323,Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino,9e9c86bd-6f37-4e8a-a8ff-723c37edc774,ERROR,2,2
 324,Insumo de mano de obra por sector de actividad económica,d1c727fe-31c6-4178-bac5-6af4ccc89499,ERROR,2,1
 325,Intercambio Comercial Argentino,bf6fa004-e5bf-474a-99c5-63d5c722bd7a,ERROR,2,3
@@ -351,9 +351,9 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 349,Licenciatarios TIC,3fc67e72-f92d-430b-ab94-c613ed75a510,ERROR,2,3
 350,Licitaciones,aa40235e-906d-4610-9b54-d486734cb3fb,ERROR,2,3
 351,Línea de Base de Basurales 2017 la cuenca Matanza Riachuelo,46cf2b5e-2714-47cf-b462-35c310aa7131,ERROR,2,2
-352,Líneas de transporte de RMBA,b0475326-b74b-45bd-8947-84cdbbef16a6,ERROR,2,3
+352,Líneas de transporte de RMBA,b0475326-b74b-45bd-8947-84cdbbef16a6,ERROR,5,3
 353,Liquidación de divisas por Exportaciones de Oleaginosas y Cereales,3105f94a-f556-426a-bf3d-455ad98f741c,ERROR,2,2
-354,Lista de Aeropuertos,6a16da69-4612-4cf6-8b46-8441288dedec,ERROR,2,1
+354,Lista de Aeropuertos,6a16da69-4612-4cf6-8b46-8441288dedec,ERROR,3,1
 355,Listado de estaciones repetidoras autorizadas,8386325d-c819-4ef9-9d7b-d7465ffebb53,ERROR,2,3
 356,Listado de mediaciones prejudiciales y judiciales. Ley 26.589,ec05899c-a47a-434a-8a4e-77c7fee6382b,ERROR,2,3
 357,Listado de mediadores,da4cc18d-7b50-4a72-822d-8fb4b6e7e7e0,ERROR,2,3
@@ -387,7 +387,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 385,Oferta y Demanda Global en millones de pesos a precios de 1986,ea4a668a-95a6-4ce9-9a43-f559542f8fc3,ERROR,2,1
 386,Oferta y Demanda Global a precios constantes de 1950,336ca84c-4eda-4e7c-b32d-a005902666ba,ERROR,2,1
 387,Oferta y Demanda Global Total a precios corrientes,b2106777-e049-44e4-890e-97928cd3d8fa,ERROR,2,1
-388,Operaciones de SUBE por mes en RMBA,25ce5b9c-23ee-427f-abf0-0ca78a747b45,ERROR,2,4
+388,Operaciones de SUBE por mes en RMBA,25ce5b9c-23ee-427f-abf0-0ca78a747b45,ERROR,6,4
 389,Padrón de medidores de petróleo y gas,c7a35477-4732-4398-b8f7-7e6c1cabf565,ERROR,2,4
 390,Padrón de operadores autorizados para la venta de combustibles líquidos,9a1cd724-dcce-4381-a7c1-fa7289840ea5,ERROR,2,1
 391,Padrón de operadores orgánicos certificados,f8dd01c1-b35c-4fd9-8299-73a72646bbf0,ERROR,2,1
@@ -404,13 +404,13 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 402,Personal ocupado por trimestre en el correo oficial y en operadores privados,b77ade54-d6cf-42c5-bd3d-d4c3524fa26b,ERROR,2,3
 403,Personal por Gerencia,72a1b0de-b83a-41f9-aa4b-54ee7cf1cc83,ERROR,2,3
 404,Planes de Apertura de Datos,43c2e6ae-f0a7-4688-b5aa-2aa6f4811a9c,ERROR,2,1
-405,Plantas Productoras de Aceite Vegetal,11302d40-7e95-46b5-bf43-17978175584f,ERROR,2,2
+405,Plantas Productoras de Aceite Vegetal,11302d40-7e95-46b5-bf43-17978175584f,ERROR,3,2
 406,Población con ingresos por debajo de la línea de indigencia  EPH puntual y continua,84ada5a9-857b-446d-8ef7-9b1f03b5ff75,ERROR,2,1
 407,Población con ingresos por debajo de la línea de pobreza  EPH puntual y continua,fee5919f-7a84-4b28-b22d-baf11785e1fc,ERROR,2,1
 408,"Población Urbana, Población Económicamente Activa, ocupados, desocupados y subocupados",25205bf9-46f8-465f-acb5-e53b83f4cb5b,ERROR,2,2
 409,Poder de compra de las exportaciones de bienes y ganancia del intercambio,18eda7c8-c765-456e-8e58-0ffe83c3dafa,ERROR,2,1
 410,Poder de compra de las exportaciones de bienes y ganancia del intercambio. Base 2004,cdb25764-2b6f-4d80-a76a-9e38bd4c1664,ERROR,2,1
-411,Política de Ingresos. Asignación Universal Por Hijo para la Protección Social y por Embarazo. BESS-MTESS,20498381-8183-4fce-8b33-58bcd88daedd,ERROR,2,1
+411,Política de Ingresos. Asignación Universal Por Hijo para la Protección Social y por Embarazo. BESS-MTESS,20498381-8183-4fce-8b33-58bcd88daedd,ERROR,3,1
 412,Política de Ingresos. Prestaciones de la seguridad social. ANSES,cffe8c8e-a9e5-4452-aa02-beeb7c7cff9f,ERROR,2,1
 413,Política de Ingresos. Prestaciones de la seguridad social. BESS-MTESS,383fb6e3-046b-4c1c-a41b-c526ed21737b,ERROR,2,1
 414,Portabilidad numérica móvil: portaciones netas mensuales por operador,3a5d69aa-ad3b-4d61-a885-0a334ecce725,ERROR,2,3
@@ -445,12 +445,12 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 443,Probabilidad de exceso hídrico,e9d13388-c848-4b22-afe7-df94ea3a3b6c,ERROR,2,2
 444,Producción de combustibles,76b39f55-2ced-4c6f-aa44-3bd7148982e4,ERROR,2,1
 445,Producción y consumo de gas natural,4bbf7f92-43bf-4995-a249-eb91d56c6196,ERROR,2,3
-446,Producción y exploración de hidrocarburos - Pozos de Petróleo y Gas,6f6e7ad7-362b-46a2-8ec1-517af4e9a98b,ERROR,2,2
+446,Producción y exploración de hidrocarburos - Pozos de Petróleo y Gas,6f6e7ad7-362b-46a2-8ec1-517af4e9a98b,ERROR,3,2
 447,Producción Gas Natural desde 1950,e4d6021c-147a-4940-b2d0-833379f61a47,ERROR,2,1
 448,Producción de GLP,365b4956-8a08-4e8a-953a-233ae49c1711,ERROR,2,2
 449,Producción de GLP por planta,36297471-365c-4034-a421-dc945e3fd7fa,ERROR,2,2
-450,Producción de hidrocarburos - Productores de GLP,9d7c685b-99e8-43dc-a7e9-ebda8f79111a,ERROR,2,2
-451,Producción Hidrocarburos - Yacimientos Según Profundidad Promedio,d15c0dbc-c953-4b4d-9c22-debe8ee7fe9f,ERROR,2,2
+450,Producción de hidrocarburos - Productores de GLP,9d7c685b-99e8-43dc-a7e9-ebda8f79111a,ERROR,3,2
+451,Producción Hidrocarburos - Yacimientos Según Profundidad Promedio,d15c0dbc-c953-4b4d-9c22-debe8ee7fe9f,ERROR,3,2
 452,Producción de leche a nivel nacional,3d551577-4953-4c61-9241-690f9f9a082d,ERROR,2,2
 453,Producción nacional fiscalizada por especies registrada en el INASE,ae9104fe-cd7e-4d28-b2df-5903b9fbfbb1,ERROR,2,4
 454,Producción nacional fiscalizada por especies y ubicación registrada en el INASE,1e66cc1d-1fec-461e-81f9-66962dc2ef8e,ERROR,2,4
@@ -463,8 +463,8 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 461,Producto Interno Bruto Agrícola. Subtotal Agrícola en millones de pesos de 1960,f6c2ff6d-07d5-41cb-afdc-bfa80b159ee4,ERROR,2,1
 462,"Producto Interno Bruto Agricultura, Caza, Silvicultura y Pesca en australes a precios de 1970",bbf3c932-e5f3-4935-bf0f-22c3f314989e,ERROR,2,1
 463,"Producto Interno Bruto Agricultura, Caza, Silvicultura y Pesca en millones de pesos de 1960",cd0f0588-d9b6-4bf0-9212-93bafaed113a,ERROR,2,1
-464,"Producto Interno Bruto Comercio al por Mayor, Menor, Restaurantes y Hoteles en australes a precios de 1970",b32d7cea-25c5-46d6-8b38-3e40067d8c7f,ERROR,2,1
-465,"Producto Interno Bruto Comercio al por Mayor, Menor, Restaurantes y Hoteles en millones de pesos de 1960",67efcb41-8c17-4244-a0f9-9d36c16674ca,ERROR,2,1
+464,"Producto Interno Bruto Comercio al por Mayor, Menor, Restaurantes y Hoteles en australes a precios de 1970",b32d7cea-25c5-46d6-8b38-3e40067d8c7f,ERROR,3,1
+465,"Producto Interno Bruto Comercio al por Mayor, Menor, Restaurantes y Hoteles en millones de pesos de 1960",67efcb41-8c17-4244-a0f9-9d36c16674ca,ERROR,3,1
 466,"Producto Interno Bruto Comercio Mayorista, Minorista, Restaurantes y Hoteles a pesos de 1960",557d1f82-2445-4571-93ab-5e1b942a63be,ERROR,2,1
 467,Producto Interno Bruto Construcciones en australes a precios de 1970,ed969044-b05c-4a18-ba4e-637b71134685,ERROR,2,1
 468,Producto Interno Bruto Construcciones en millones de pesos de 1960,9aeb58fb-ff8f-4e98-a863-8a951ac9dc87,ERROR,2,1
@@ -476,8 +476,8 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 474,"Producto Interno Bruto en dólares, Producto Interno Bruto per cápita y población",52202555-15b2-4354-8fb5-d34393d823b2,ERROR,2,2
 475,"Producto Interno Bruto Electricidad, Gas y Agua en australes a precios de 1970",593831fb-aac1-41bd-8e36-902390d9271a,ERROR,2,1
 476,"Producto Interno Bruto Electricidad, Gas y Agua en millones de pesos de 1960",e923d988-b16d-4eaa-8cd3-5983123a6b26,ERROR,2,1
-477,"Producto Interno Bruto Establecimientos Financieros, Seguros y Bienes Inmuebles en australes a precios de 1970",b6d09721-e3fb-4b43-879f-9e8d167f9745,ERROR,2,1
-478,"Producto Interno Bruto Establecimientos Financieros, Seguros y Bienes Inmuebles en millones de pesos de 1960",b55c87f8-1868-4284-94b4-5da0eac5cc0e,ERROR,2,1
+477,"Producto Interno Bruto Establecimientos Financieros, Seguros y Bienes Inmuebles en australes a precios de 1970",b6d09721-e3fb-4b43-879f-9e8d167f9745,ERROR,3,1
+478,"Producto Interno Bruto Establecimientos Financieros, Seguros y Bienes Inmuebles en millones de pesos de 1960",b55c87f8-1868-4284-94b4-5da0eac5cc0e,ERROR,3,1
 479,Producto Interno Bruto Explotación Minas y Canteras en australes a precios de 1970,7f0ca35f-7d2b-452e-bffa-4c2c2ca041ce,ERROR,2,1
 480,Producto Interno Bruto Explotación Minas y Canteras en millones de pesos de 1960,5a2e7cc7-77a9-409c-aaf7-4cbf26201a40,ERROR,2,1
 481,Producto Interno Bruto Industria Manufacturera en millones de pesos de 1960,a773a249-e036-4582-9683-ebd2313981a6,ERROR,2,1
@@ -504,18 +504,18 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 502,Puestos de trabajo declarados  por sector provincia,113c5844-a2ff-4f06-8507-083d38febc80,ERROR,2,2
 503,Puestos de trabajo registrados por sector de actividad económica en el sector privado,09f2beea-b853-40d5-8026-dd2dd863e670,ERROR,2,2
 504,Puntos de conexión al Plan Federal de Internet,1b5a82ae-6a87-40b5-8ec9-6baaac5e8367,ERROR,2,3
-505,Puntos Digitales,7c1a3943-eb36-4871-88cb-e5c053cb4215,ERROR,2,1
+505,Puntos Digitales,7c1a3943-eb36-4871-88cb-e5c053cb4215,ERROR,3,1
 506,Reclamos mensuales por tipo de servicio,31212252-d3bf-404b-bc3b-17743fd4595b,ERROR,2,3
 507,Reclamos mensuales recibidos por motivo de reclamo,ace258e8-144d-41e5-8713-4706f7911302,ERROR,2,3
 508,Reclamos por operador y motivo de reclamo,e536de23-365a-41ed-82c7-9f0be6802ed4,ERROR,2,3
-509,Recorridos de servicios de colectivos AMBA,e0a6560e-fcd3-4dd3-a6e9-71d5f10f9877,ERROR,2,1
+509,Recorridos de servicios de colectivos AMBA,e0a6560e-fcd3-4dd3-a6e9-71d5f10f9877,ERROR,3,1
 510,Recursos humanos en ciencia y tecnología,b525cd8f-428a-46ee-8f02-6aa43a031c8d,ERROR,2,2
 511,Recursos tributarios totales y por tributo,f0346672-1bca-45ea-a3a0-a9052f6f5e9c,ERROR,2,3
-512,Red de Carga de RMBA,5c45f3a9-06ca-4ca2-859f-921f6fe10a64,ERROR,2,4
-513,Redes de distribución eléctrica,1525a486-5e3a-4f6e-b970-c07bad37428f,ERROR,2,40
-514,Refinación de hidrocarburos -  Petroquímicas,8d3c6572-fd84-4e11-98f7-b3fe40bb01c9,ERROR,2,2
-515,Refinación de hidrocarburos - Refinerías,aa797833-2f3c-4e6a-907b-19822cac1ac8,ERROR,2,2
-516,Refinerías de Aceite Vegetal,6e4d0219-31fe-42bb-954a-e40c244200f3,ERROR,2,2
+512,Red de Carga de RMBA,5c45f3a9-06ca-4ca2-859f-921f6fe10a64,ERROR,4,4
+513,Redes de distribución eléctrica,1525a486-5e3a-4f6e-b970-c07bad37428f,ERROR,22,40
+514,Refinación de hidrocarburos -  Petroquímicas,8d3c6572-fd84-4e11-98f7-b3fe40bb01c9,ERROR,3,2
+515,Refinación de hidrocarburos - Refinerías,aa797833-2f3c-4e6a-907b-19822cac1ac8,ERROR,3,2
+516,Refinerías de Aceite Vegetal,6e4d0219-31fe-42bb-954a-e40c244200f3,ERROR,3,2
 517,Regímenes de tenencia de tierra según el Censo Nacional Agropecuario 2002,4222f2dc-09cb-4026-a60b-a5a3e48963f9,ERROR,2,2
 518,Registro de Audiencias,e5bec9f4-398c-485b-a5e7-0f5a2ee05623,ERROR,2,3
 519,Registro Central de Personas Contratadas,becaceb2-dbd0-4879-93bd-5f02bd3b8ca2,ERROR,2,1
@@ -532,7 +532,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 530,Registro Unificado de Víctimas del Terrorismo de Estado -RUVTE-,517c9793-0255-4393-ac28-52183309049e,ERROR,2,2
 531,Registro de viajes financiados por terceros,3aa4bba8-586b-40eb-ae58-47fad0116451,ERROR,2,1
 532,Remuneración bruta de los asalariados registrados del sector privado,93c9ed68-bdc2-40a4-a282-4af41310f27e,ERROR,2,1
-533,Remuneración bruta promedio de los asalariados registrados del sector privado según rama de actividad,4191acd6-e11b-4031-acaf-36d2726494ff,ERROR,2,2
+533,Remuneración bruta promedio de los asalariados registrados del sector privado según rama de actividad,4191acd6-e11b-4031-acaf-36d2726494ff,ERROR,3,2
 534,Remuneración imponible promedio de los trabajadores estables (RIPTE),3067a767-0488-4574-8c74-16ea899cc90e,ERROR,2,1
 535,Remuneración neta por sector de actividad económica en el sector privado,0f088750-1c11-40cd-a1ae-f19142be60db,ERROR,2,2
 536,"Remuneración neta de los puestos de trabajo, por sector de actividad económica",d8233ac1-fae6-4645-9392-42d36b49d9c9,ERROR,2,2
@@ -559,7 +559,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 557,Series de precios de productos forestales discontinuado,44c114a2-8318-4f26-b22b-f5ca856683e1,ERROR,2,2
 558,Series de precios de recursos forestales,4637beaf-f574-4641-86f8-8092df38180f,ERROR,2,2
 559,Siembra directa según el Censo Nacional Agropecuario 2002,e0dacdd2-00bf-44d3-bc0b-f92cfeaeadb8,ERROR,2,2
-560,S.I.S.T.A.U.,9e33317d-085b-416a-a3e7-a0e9f9723186,ERROR,2,3
+560,S.I.S.T.A.U.,9e33317d-085b-416a-a3e7-a0e9f9723186,ERROR,5,3
 561,Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.,c7de4c2c-7b63-4d98-b20e-1160a1e4e7df,ERROR,2,1
 562,Sistema de Contrataciones Electrónicas  (Argentina Compra),069b5833-e57d-4d7a-859b-67a80cfdff20,ERROR,2,13
 563,Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP,4a11bcb6-8202-4a4f-9e0d-7bda9a1ffa94,ERROR,2,2
@@ -571,7 +571,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 569,Stock de Inversión Extranjera Directa por país primer nivel de residencia - BCRA,47db0aeb-0c61-44ab-9dc2-f324a95ebdba,ERROR,2,1
 570,Stock de Inversión Extranjera Directa por sector - BCRA,6da5eba8-13d2-4e49-9c4f-3cbd47e1fd34,ERROR,2,1
 571,Subregistro de prestadores de servicios de mensajería,939fde27-624c-4615-99af-10bb1242ae0a,ERROR,2,3
-572,Subsidios al transporte público de pasajeros,fc5f5791-303a-4cee-b922-f553b28b54a7,ERROR,2,3
+572,Subsidios al transporte público de pasajeros,fc5f5791-303a-4cee-b922-f553b28b54a7,ERROR,5,3
 573,Superficie afectada por incendios forestales en el país,d6e82361-cc35-46a3-9e73-3d60dc812003,ERROR,2,1
 574,Superficie nacional fiscalizada por especies,aca6a01c-a2ec-44e1-8761-3d75ea57f054,ERROR,2,4
 575,Superficie nacional fiscalizada por especie y ubicación registrada en el INASE,f59f569e-116c-433c-a3e7-cc57413fd746,ERROR,2,4
@@ -594,14 +594,14 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 592,Total nacional de accesos a telefonía móvil,a27c8dd9-efa4-4ea7-a570-7d28c1cb4ba6,ERROR,2,3
 593,Total nacional de accesos a televisión por suscripción y televisión satelital,73151cab-728d-4dc9-ac55-59653057c2fb,ERROR,2,3
 594,Trabajadores registrados según modalidad ocupacional principal. Base 2012,0fe03d4f-dcd8-495c-8100-01d86e390e7b,ERROR,2,1
-595,Transporte Eléctrico AT Estaciones Transformadoras,12c9685e-a74b-4f93-ba72-13c83302bc38,ERROR,2,2
-596,Transporte Eléctrico AT Estructuras,96620fd7-6843-42f6-890e-dcadfde8bc9a,ERROR,2,2
-597,Transporte Eléctrico AT Líneas,c289f390-8968-45b0-90af-e3b049b5c7f8,ERROR,2,1
-598,Transporte Hidrocarburos -  Ductos Troncales - Gasoductos,823e48b6-1b9c-4471-a33a-501bda48b46b,ERROR,2,2
-599,Transporte Hidrocarburos - Ductos Troncales - JP Ducto,3240d247-ac40-4d7a-9bba-1f0a0ed718ac,ERROR,2,2
-600,Transporte Hidrocarburos - Ductos Troncales - Oleoductos,ba6e4bb0-a8cc-443c-91a3-446ee435f8f5,ERROR,2,2
-601,Transporte Hidrocarburos - Ductos Troncales - Poliductos,cd2a27f0-9409-45cf-8b3f-a9d80f632a03,ERROR,2,2
-602,Transporte de hidrocarburos  - Ductos Troncales - Propanoductos,4a4e9c12-7de5-4e8c-8bf5-1cb96afd6d26,ERROR,2,2
+595,Transporte Eléctrico AT Estaciones Transformadoras,12c9685e-a74b-4f93-ba72-13c83302bc38,ERROR,3,2
+596,Transporte Eléctrico AT Estructuras,96620fd7-6843-42f6-890e-dcadfde8bc9a,ERROR,3,2
+597,Transporte Eléctrico AT Líneas,c289f390-8968-45b0-90af-e3b049b5c7f8,ERROR,3,1
+598,Transporte Hidrocarburos -  Ductos Troncales - Gasoductos,823e48b6-1b9c-4471-a33a-501bda48b46b,ERROR,3,2
+599,Transporte Hidrocarburos - Ductos Troncales - JP Ducto,3240d247-ac40-4d7a-9bba-1f0a0ed718ac,ERROR,3,2
+600,Transporte Hidrocarburos - Ductos Troncales - Oleoductos,ba6e4bb0-a8cc-443c-91a3-446ee435f8f5,ERROR,3,2
+601,Transporte Hidrocarburos - Ductos Troncales - Poliductos,cd2a27f0-9409-45cf-8b3f-a9d80f632a03,ERROR,3,2
+602,Transporte de hidrocarburos  - Ductos Troncales - Propanoductos,4a4e9c12-7de5-4e8c-8bf5-1cb96afd6d26,ERROR,3,2
 603,Unidades Territoriales,ign_01,ERROR,2,12
 604,Uso de suelo según Censo Nacional Agropecuario 2002,6c66081f-beb5-4bb4-a76d-8062b3b8a0b3,ERROR,2,2
 605,Utilización de la capacidad instalada en la industria. En porcentaje. Base 2004,bc229d7f-a86a-494a-82da-8d319782735a,ERROR,2,2
@@ -609,7 +609,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 607,Utilización de la capacidad instalada en la industria. En porcentaje. Base 2012,838b00e2-1767-47d5-a09e-1f9c93024318,ERROR,2,3
 608,Valor Agregado Bruto a precios básicos por rama de actividad económica,ac5b4532-8132-4e65-b46a-50a89cb97e18,ERROR,2,2
 609,Valores de la Canasta Básica de Alimentos  y Canasta Básica Total.,14f80f61-a92f-4892-984a-442f4cc91a69,ERROR,2,1
-610,"Variaciones de los índices de obreros ocupados, horas trabajadas y salario por obrero en la industria manufacturera",55c1639a-66bf-4371-a2b9-bfc6c6eccc49,ERROR,2,1
+610,"Variaciones de los índices de obreros ocupados, horas trabajadas y salario por obrero en la industria manufacturera",55c1639a-66bf-4371-a2b9-bfc6c6eccc49,ERROR,3,1
 611,Ventas al Mercado Interno de Producción Nacional. Base 1994,dc7823d1-27c3-40c7-b11c-9f01f4805cc3,ERROR,2,3
 612,Ventas GLP,2366b5c5-472b-48d0-84cd-eed8c2f8ba5f,ERROR,2,5
 613,Ventas de Supermercados (Base 1996) y evolución de artículos por grupos (base 2008),6fb556a5-0212-47cb-8a96-281b82c6b061,ERROR,2,3
