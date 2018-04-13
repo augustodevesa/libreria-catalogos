@@ -15,15 +15,19 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 280
-- **Cantidad Total de Distribuciones**: 636
+- **Cantidad Total de Datasets**: 258
+- **Cantidad Total de Distribuciones**: 523
 
-- **Cantidad de Datasets Federados**: 240
-- **Cantidad de Datasets NO Federados**: 40
-- **Porcentaje de Datasets NO Federados**: 14.29%
+- **Cantidad de Datasets Federados**: 227
+- **Cantidad de Datasets NO Federados**: 31
+- **Porcentaje de Datasets NO Federados**: 12.02%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
+- [Índice de Confianza en el Gobierno](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Activos externos en millones de dólares](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Balance de pagos en millones de dólares](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Tipo de Cambio $-USD - Futuro Dólar - NDF](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Inversión Bruta Interna Fija Total y Desagregada en australes a precios de 1970](http://infra.datos.gob.ar/catalog/sspm/dataset/273/distribution/273.1/download/ibif-total-desagregada-australes-precios-1970.csv)
 - [Inversión Bruta Interna Equipo Durable de Producción Importado en australes a precios de 1970](http://infra.datos.gob.ar/catalog/sspm/dataset/272/distribution/272.2/download/ibi-equipo-durable-produccion-importado-australes-precios-1970-trimestral.csv)
 - [Producto Interno Bruto a costo de factores en australes a precios de 1970](http://infra.datos.gob.ar/catalog/sspm/dataset/271/distribution/271.1/download/pib-costo-factores-australes-precios-1970-trimestral.csv)
@@ -100,19 +104,16 @@
 - [Índice de Precios al Consumidor. Precios al consumidor de un conjunto de alimentos y bebidas.](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índice de precios implícitos de Sectores Productores de Bienes y de Servicios. Base 1993](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Remuneración bruta de los asalariados registrados del sector privado según rama de actividad](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Volumen Físico de Exportaciones e Importaciones 1935-1954](None)
-- [Producto Interno Bruto 1950-1964](None)
+- [Tipo de Cambio $-USD - Futuro Dólar](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Balance Cambiario](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Gasto Público del Gobierno Nacional en Política de Ingresos](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Política de Ingresos. Asignación Universal Por Hijo para la Protección Social y por Embarazo.](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Prestaciones de la seguridad social. Cuenta de Inversión.](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Prestaciones de la seguridad social. Seguimiento Físico-Financiero.](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [PIB Subtotal Agrícola en millones de pesos de 1960](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Distribución personal del ingreso por  deciles](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Tasa de asalarización y de asalariados sin descuento jubilatorio. EPH Continua.](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índices de salarios industriales básicos de convenios en la Capital Federal.](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Exportaciones por sector, saldo comercial y rangos de exportación de la empresa exportadora](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Cuentas Nacionales 1970-1980. Base 1970](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Esquema Ahorro - Inversión - Financimmiento. Administración Pública Nacional. Base Caja.](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Esquema Ahorro - Inversión - Financimmiento. Tesoro Nacional. Base Caja.](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Esquema Ahorro - Inversión - Financimmiento. Recursos Afectados. Base Caja.](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -124,12 +125,6 @@
 - [Índice de Confianza del Consumidor](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Relevamiento de Expectativas de Mercado (REM)](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Expectativas de Inflación](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Cuentas Nacionales 1970-1980. Base 1960](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Cuentas Nacionales 1980-1990](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Cuentas Nacionales 1980-1996](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Cuentas Nacionales 1935-1962](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Producto Interno Bruto Sectorial 1980-1990](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Producto Interno Bruto Sectorial 1970-1980](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Precios de paquetes de cigarrillos vendidos equivalentes a veinte unidades](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 
 ## Datasets federados
@@ -246,17 +241,8 @@
 - [Índice de Precios al Consumidor Nacional Urbano, por principales aperturas](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índice de Precios Internos Básicos al por Mayor (IPIB) hasta cuatro dígitos](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índice de Precios Internos al por Mayor (IPIM) hasta cuatro dígitos](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Crecimiento del Producto Interno Bruto de principales economías](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Desempleo de principales economías](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Resultado de cuenta corriente de las principales economías](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Principales Tasas de Interés de Referencia](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Rendimiento de los bonos de Estados Unidos](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Cotizaciones de divisas internacionales](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Emerging Markets Bonds Index (EMBI)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Bolsas mundiales](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Índices Morgan Stanley Capital Investment (MSCI)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Tipo de cambio nominal](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Índices de precios al consumidor, por país](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Participación de los principales socios comerciales en el comercio argentino](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Recursos tributarios totales y por tributo](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Estimador Mensual de Actividad Económica (EMAE)](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -282,7 +268,6 @@
 - [Asignación Universal por Hijo](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Ingreso nacional, Ahorro nacional y Préstamo neto](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Ahorro del resto del mundo. Base 2004](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Tipo de Cambio $-USD - Futuro Dólar - NDF](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índices Bursátiles Argentina](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Financiamiento privado en mercado de capitales](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Fondos Comunes de Inversión](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -340,8 +325,6 @@
 - [Principales Indicadores del Sistema Financiero](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Rentabilidad del sistema financiero](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Situación patrimonial del sistema financiero](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Balance de pagos en millones de dólares](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Activos externos en millones de dólares](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Flujos monetarios netos de Inversión Extranjera Directa](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Flujos porcentuales netos de Inversión Extranjera Directa](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Cuenta Corriente del Balance de Pagos. Flujos monetarios](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
@@ -373,7 +356,6 @@
 - [Demanda de electricidad](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Producción y ventas de biocombustibles](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Embarques de Oleaginosas y Cereales](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Índice de Confianza en el Gobierno](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 
 ## Reporte
 
