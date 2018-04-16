@@ -29,6 +29,8 @@
 ## Datasets no federados
 
 - [Registro de Visitas](None)
+- [Tráfico de Internet entrante y saliente](None)
+- [Ausentismo - Total mensual de días por motivo de ausencia](None)
 - [Evolución de Cantidad Clientes y Megabits en servicio](None)
 - [Cantidad Total de Megabits en servicio por provincia](None)
 - [Cantidad de clientes por provincia](None)
@@ -38,8 +40,6 @@
 - [Personal de ARSAT asignado a áreas operativas o de soporte](None)
 - [Personal de ARSAT según contrato laboral](None)
 - [Personal por provincia](None)
-- [Tráfico de Internet entrante y saliente](None)
-- [Ausentismo - Total mensual de días por motivo de ausencia](None)
 - [Porcentaje de avance del Plan](None)
 - [Puntos de Conexión al Plan Federal de Internet por provincia](None)
 - [Distribución por provincia de las escuelas conectadas con tecnología Gilat](None)
