@@ -92,6 +92,11 @@ modernizacion:
   formato: "json"
   federado: true
 
+otros:
+  url: "http://infra.datos.gob.ar/catalog/otros/data.json"
+  formato: "json"
+  federado: true
+
 sspm:
   url: "http://infra.datos.gob.ar/catalog/sspm/data.json"
   formato: "json"
