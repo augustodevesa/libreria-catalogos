@@ -14,7 +14,7 @@
             ],
             "title": "Registro de Visitas",
             "issued": "2017-06-26T21:51:38",
-            "modified": "2018-04-13T21:54:27.789Z",
+            "modified": "2018-04-16T21:47:48.006Z",
             "language": [
                 "spa"
             ],
@@ -29,7 +29,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "CSV",
-                    "modified": "2018-04-13T21:54:27.789Z",
+                    "modified": "2018-04-16T21:47:48.007Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -38,7 +38,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "XLS",
-                    "modified": "2018-04-13T21:54:27.789Z",
+                    "modified": "2018-04-16T21:47:48.007Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -47,7 +47,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "JSON",
-                    "modified": "2018-04-13T21:54:27.790Z",
+                    "modified": "2018-04-16T21:47:48.007Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -64,13 +64,68 @@
                 "TECH"
             ],
             "keyword": [
+                "arsat",
+                "refefo"
+            ],
+            "title": "Tráfico de Internet entrante y saliente",
+            "issued": "2018-04-16T21:41:08",
+            "modified": "2018-04-17T00:42:23Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
+                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
+                    "title": "Tráfico de Internet entrante y saliente",
+                    "issued": "2018-04-16T21:41:08",
+                    "format": "CSV",
+                    "modified": "2018-04-17T00:42:23Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
+                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
+                    "title": "Tráfico de Internet entrante y saliente",
+                    "issued": "2018-04-16T21:41:08",
+                    "format": "XLS",
+                    "modified": "2018-04-17T00:42:23Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
+                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
+                    "title": "Tráfico de Internet entrante y saliente",
+                    "issued": "2018-04-16T21:41:08",
+                    "format": "JSON",
+                    "modified": "2018-04-17T00:42:23Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "TRAFI-DE-INTER",
+            "homepage": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
+            "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
                 "transparencia",
                 "audiencias",
                 "arsat"
             ],
             "title": "Registro de Audiencias",
             "issued": "2017-06-26T17:14:16",
-            "modified": "2018-04-13T20:14:33Z",
+            "modified": "2018-04-16T20:08:45Z",
             "language": [
                 "spa"
             ],
@@ -85,7 +140,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T17:14:16",
                     "format": "CSV",
-                    "modified": "2018-04-13T20:14:33Z",
+                    "modified": "2018-04-16T20:08:45Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -94,7 +149,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T17:14:16",
                     "format": "XLS",
-                    "modified": "2018-04-13T20:14:33Z",
+                    "modified": "2018-04-16T20:08:45Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -103,13 +158,69 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T17:14:16",
                     "format": "JSON",
-                    "modified": "2018-04-13T20:14:33Z",
+                    "modified": "2018-04-16T20:08:45Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
             "identifier": "AUDIE-96185",
             "homepage": "http://datos.arsat.com.ar/dataviews/239713/registro-de-audiencias/",
             "description": ".Listado de Audiencias realizadas en Arsat desde el 20/03/17 hasta el presente."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "arsat",
+                "gestion transparente",
+                "talento humano"
+            ],
+            "title": "Ausentismo - Total mensual de días por motivo de ausencia",
+            "issued": "2018-04-16T13:22:45",
+            "modified": "2018-04-16T16:24:52Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "gestion-transparente"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/241643/ausentismo-total-mensual-de-dias-por-motivo-de-ausencia/",
+                    "description": "Detalle mensual de cantidad de días por cada uno de los motivos de inasistencia",
+                    "title": "Ausentismo - Total mensual de días por motivo de ausencia",
+                    "issued": "2018-04-16T13:22:45",
+                    "format": "CSV",
+                    "modified": "2018-04-16T16:24:52Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/INASI-PRUEB/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/241643/ausentismo-total-mensual-de-dias-por-motivo-de-ausencia/",
+                    "description": "Detalle mensual de cantidad de días por cada uno de los motivos de inasistencia",
+                    "title": "Ausentismo - Total mensual de días por motivo de ausencia",
+                    "issued": "2018-04-16T13:22:45",
+                    "format": "XLS",
+                    "modified": "2018-04-16T16:24:52Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/INASI-PRUEB/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/241643/ausentismo-total-mensual-de-dias-por-motivo-de-ausencia/",
+                    "description": "Detalle mensual de cantidad de días por cada uno de los motivos de inasistencia",
+                    "title": "Ausentismo - Total mensual de días por motivo de ausencia",
+                    "issued": "2018-04-16T13:22:45",
+                    "format": "JSON",
+                    "modified": "2018-04-16T16:24:52Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/INASI-PRUEB/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "INASI-PRUEB",
+            "homepage": "http://datos.arsat.com.ar/dataviews/241643/ausentismo-total-mensual-de-dias-por-motivo-de-ausencia/",
+            "description": "Detalle mensual de cantidad de días por cada uno de los motivos de inasistencia"
         },
         {
             "publisher": {
@@ -950,61 +1061,6 @@
             ],
             "keyword": [
                 "arsat",
-                "refefo"
-            ],
-            "title": "Tráfico de Internet entrante y saliente",
-            "issued": "2018-04-09T15:48:20",
-            "modified": "2018-04-09T18:49:32Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
-                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
-                    "title": "Tráfico de Internet entrante y saliente",
-                    "issued": "2018-04-09T15:48:20",
-                    "format": "CSV",
-                    "modified": "2018-04-09T18:49:32Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
-                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
-                    "title": "Tráfico de Internet entrante y saliente",
-                    "issued": "2018-04-09T15:48:20",
-                    "format": "XLS",
-                    "modified": "2018-04-09T18:49:32Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
-                    "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
-                    "title": "Tráfico de Internet entrante y saliente",
-                    "issued": "2018-04-09T15:48:20",
-                    "format": "JSON",
-                    "modified": "2018-04-09T18:49:32Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "TRAFI-DE-INTER",
-            "homepage": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
-            "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "arsat",
                 "plan federal de internet"
             ],
             "title": "Futuros puntos de conexión al Plan Federal de Internet",
@@ -1104,62 +1160,6 @@
             "identifier": "NODOS-EN-SERVI-58179",
             "homepage": "http://datos.arsat.com.ar/dataviews/238001/puntos-de-conexion-al-plan-federal-de-internet/",
             "description": "La tabla muestra la ubicación precisa de los puntos de acceso al Plan Federal de Internet que se encuentran en servicio junto a otros datos como la población de la localidad y la fecha de conexión."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "arsat",
-                "gestion transparente",
-                "talento humano"
-            ],
-            "title": "Ausentismo - Total mensual de días por motivo de ausencia",
-            "issued": "2018-03-09T13:12:41",
-            "modified": "2018-03-09T16:14:26Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "gestion-transparente"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/241643/ausentismo-total-mensual-de-dias-por-motivo-de-ausencia/",
-                    "description": "Detalle mensual de cantidad de días por cada uno de los motivos de inasistencia",
-                    "title": "Ausentismo - Total mensual de días por motivo de ausencia",
-                    "issued": "2018-03-09T13:12:41",
-                    "format": "CSV",
-                    "modified": "2018-03-09T16:14:26Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/INASI-PRUEB/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/241643/ausentismo-total-mensual-de-dias-por-motivo-de-ausencia/",
-                    "description": "Detalle mensual de cantidad de días por cada uno de los motivos de inasistencia",
-                    "title": "Ausentismo - Total mensual de días por motivo de ausencia",
-                    "issued": "2018-03-09T13:12:41",
-                    "format": "XLS",
-                    "modified": "2018-03-09T16:14:26Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/INASI-PRUEB/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/241643/ausentismo-total-mensual-de-dias-por-motivo-de-ausencia/",
-                    "description": "Detalle mensual de cantidad de días por cada uno de los motivos de inasistencia",
-                    "title": "Ausentismo - Total mensual de días por motivo de ausencia",
-                    "issued": "2018-03-09T13:12:41",
-                    "format": "JSON",
-                    "modified": "2018-03-09T16:14:26Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/INASI-PRUEB/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "INASI-PRUEB",
-            "homepage": "http://datos.arsat.com.ar/dataviews/241643/ausentismo-total-mensual-de-dias-por-motivo-de-ausencia/",
-            "description": "Detalle mensual de cantidad de días por cada uno de los motivos de inasistencia"
         },
         {
             "publisher": {
