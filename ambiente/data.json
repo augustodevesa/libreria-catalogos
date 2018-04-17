@@ -42,37 +42,50 @@
                     "description": "Cantidad de incendios ocurridos en los Parques Naciones según causas principales",
                     "license": "odc-odbl",
                     "title": "Causas y cantidad de incendios en parques nacionales",
+                    "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
                     "issued": "2017-09-06T14:41:05.212552",
                     "format": "CSV",
                     "modified": "2017-09-06T14:41:05.151429",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/12f60bea-3225-4375-935c-1fb9ebe3ef57/resource/6c3a726b-f2d0-43d4-81ac-72e55a84a6a3/download/incendios-cantidad-causas-parques-nacionales.csv",
                     "field": [
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de la serie",
                             "title": "incendio_anio"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de incendios ocurridos en el año dado",
                             "title": "incendio_total_numero"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de incendios producidos por negligencia (fuego provocado por descuido) para el año dado",
                             "title": "incendio_negligencia_numero"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de incendios cuya causa fue intencional (fuego provocado para obtener un beneficio) para el año dado",
                             "title": "incendio_intencional_numero"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de incendios cuya causa fue natural (fuego provocado por las sequias, altas temperaturas, tormentas eléctricas) para el año dado",
                             "title": "incendio_natural_numero"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de incendios cuya causa fue desconocida (fuego cuya causa es imposible determinar) para el año dado",
                             "title": "incendio_desconocida_numero"
@@ -84,42 +97,57 @@
                     "description": "Cantidad de incendios ocurridos por provincia según causas principales",
                     "license": "odc-odbl",
                     "title": "Causas y cantidad de incendios por provincia",
+                    "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
                     "issued": "2017-09-06T14:51:01.880477",
                     "format": "CSV",
                     "modified": "2017-09-06T14:53:17.994300",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/12f60bea-3225-4375-935c-1fb9ebe3ef57/resource/93c2f293-9698-4457-92cf-e07856d8edb2/download/incendios-cantidad-causas-provincia.csv",
                     "field": [
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de la serie",
                             "title": "incendio_anio"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Denominación de la provincia",
                             "title": "incendio_provincia"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de incendios ocurridos en el año dado",
                             "title": "incendio_total_numero"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de incendios cuya causa fue negligencia (fuego provocado por descuido) para el año dado",
                             "title": "incendio_negligencia_numero"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de incendios cuya causa fue intencional (fuego provocado para obtener un beneficio) para el año dado",
                             "title": "incendio_intencional_numero"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de incendios cuya causa fue natural (fuego provocado por las sequias, altas temperaturas, tormentas eléctricas) para el año dado",
                             "title": "incendio_natural_numero"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de incendios cuya causa fue desconocida (fuego cuya causa es imposible determinar) para el año dado",
                             "title": "incendio_desconocida_numero"
@@ -131,42 +159,57 @@
                     "description": "Superficie  afectada por incendios en parques nacionales, según tipo de vegetación, por año y en hectáreas",
                     "license": "odc-odbl",
                     "title": "Superficie afectada por incendios en parques nacionales por tipo de vegetación",
+                    "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
                     "issued": "2017-09-06T15:08:57.114345",
                     "format": "CSV",
                     "modified": "2018-03-21T14:02:13.951251",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/12f60bea-3225-4375-935c-1fb9ebe3ef57/resource/00cb98c3-993e-40c5-8ad7-e8a4262cf6bd/download/superficie-afectada-por-incendios-parques-nacionales-tipo-de-vegetacion.csv",
                     "field": [
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de la serie",
                             "title": "superficie_afectada_por_incendios_total_anio"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Superficie total afectada por incendios en Parques Nacionales, en hectáreas",
                             "title": "superficie_afectada_por_incendios_total _hectareas"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Superficie afectada por incendios en bosques nativos (bosque que ha evolucionado a partir de organismos que ya estaban en el lugar (predominio de especies autóctonas) y cuya cobertura es de al menos el 20% de la superficie y la altura de los árboles a la madurez es mayor o igual > o = a cuatro metros) para el año dado",
                             "title": "superficie_afectada_por_incendios_bosque_nativo_hectareas"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Superficie afectada por incendios en bosques cultivados (plantación forestal obtenida mediante la implantación de árboles o estacas) para el año dado",
                             "title": "superficie_afectada_por_incendios_bosque_cultivado_hectareas"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Superficie afectada por incendios en arbustales o matorrales (terreno con plantas que se diferencian de las hierbas por sus tallos persistentes y leñosos y de los bosques por su poca altura (hasta 4 metros) y su tendencia a ramificarse desde la base) para el año dado",
                             "title": "superficie_afectada_por_incendios_arbustal_hectareas"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Superficie afectada por incendios en pastizales (terreno de pastos, en el que el combustible principal es hierba, sin importar la altura) para el año dado",
                             "title": "superficie_afectada_por_incendios_pastizal_hectareas"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Superficie afectada por incendios en un tipo de vegetación que no se puede determinar",
                             "title": "superficie_afectada_por_incendios_sin_determinar_hectareas"
@@ -178,47 +221,64 @@
                     "description": "Superficie afectada por incendios por provincia, según tipo de vegetación y  año, en hectáreas",
                     "license": "odc-odbl",
                     "title": "Superficie afectada por incendios por provincia y tipo de vegetación",
+                    "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
                     "issued": "2017-09-06T15:18:44.707234",
                     "format": "CSV",
                     "modified": "2018-03-21T13:44:49.502933",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/12f60bea-3225-4375-935c-1fb9ebe3ef57/resource/c7b70f96-5562-4673-9b61-6ead123a99f7/download/superficie-incendiada-provincias-tipo-de-vegetacion.csv",
                     "field": [
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de la serie",
                             "title": "superficie_afectada_por_incendios_total_anio"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Denominación de la provincia",
                             "title": "superficie_afectada_por_incendios_provincia"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Superficie total afectada por incendios en provincia en hectáreas",
                             "title": "superficie_afectada_por_incendios_total_hectareas"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Superficie afectada por incendios en bosques nativos( bosque que ha evolucionado a partir de organismos que ya estaban en el lugar (predominio de especies autóctonas) y cuya cobertura es de al menos el 20% de la superficie y la altura de los árboles a la madurez es mayor o igual > o = a cuatro metros)para el año dado",
                             "title": "superficie_afectada_por_incendios _bosque_nativo_hectareas"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Superficie afectada por incendios en bosques cultivados (plantación forestal obtenida mediante la implantación de árboles o estacas) para el año dado",
                             "title": "superficie_afectada_por_incendios_bosque_cultivado_hectareas"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Superficie afectada por incendios en arbustales o matorrales (terreno con plantas que se diferencian de las hierbas por sus tallos persistentes y leñosos y de los bosques por su poca altura (hasta 4 metros) y su tendencia a ramificarse desde la base) para el año dado",
                             "title": "superficie_afectada_por_incendios_arbustal_hectareas"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Superficie afectada por incendios en pastizales (terreno de pastos, en el que el combustible principal es hierbas, sin importar la altura) para el año dado",
                             "title": "superficie_afectada_por_incendios_pastizal_hectareas"
                         },
                         {
+                            "dataset_identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Superficie afectada por incendios en un tipo de vegetación que no se puede determinar",
                             "title": "superficie_afectada_por_incendios_sin_determinar_hectareas"
@@ -264,42 +324,57 @@
                     "description": "Son las sociedades que están inscriptas en el registro de participación ciudadana",
                     "license": "odc-odbl",
                     "title": "Organizaciones de la sociedad civil",
+                    "dataset_identifier": "b67a0774-0c7a-4a23-8d23-b5fb76a814b5",
                     "issued": "2017-09-05T17:13:44.734830",
                     "format": "CSV",
                     "modified": "2018-03-15T19:36:22.236880",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/b67a0774-0c7a-4a23-8d23-b5fb76a814b5/resource/f8960692-877e-427b-99cb-5079ff34c16b/download/organizaciones-sociedad-civil.csv",
                     "field": [
                         {
+                            "dataset_identifier": "b67a0774-0c7a-4a23-8d23-b5fb76a814b5",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Denominación de la Organización de la Sociedad Civil",
                             "title": "OSC_nombre"
                         },
                         {
+                            "dataset_identifier": "b67a0774-0c7a-4a23-8d23-b5fb76a814b5",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Tipo de Organización de Sociedad civil",
                             "title": "OSC_tipo"
                         },
                         {
+                            "dataset_identifier": "b67a0774-0c7a-4a23-8d23-b5fb76a814b5",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Provincia donde está radicada la OSC",
                             "title": "OSC_localizacion"
                         },
                         {
+                            "dataset_identifier": "b67a0774-0c7a-4a23-8d23-b5fb76a814b5",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Mail de contacto de la OSC",
                             "title": "OSC_contacto_correo_electronico"
                         },
                         {
+                            "dataset_identifier": "b67a0774-0c7a-4a23-8d23-b5fb76a814b5",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Página Web de la OSC",
                             "title": "OSC_contacto_pagina_web"
                         },
                         {
+                            "dataset_identifier": "b67a0774-0c7a-4a23-8d23-b5fb76a814b5",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Facebook de la OSC",
                             "title": "OSC_contacto_facebook"
                         },
                         {
+                            "dataset_identifier": "b67a0774-0c7a-4a23-8d23-b5fb76a814b5",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Twitter de la OSC",
                             "title": "OSC_contacto_twitter"
@@ -340,27 +415,36 @@
                     "description": "Son los eventos de Educación Ambiental destinados a niños, jóvenes y público en general con el fin de  que enseñar contenidos y educar en hábitos y valores en relación al ambiente",
                     "license": "odc-odbl",
                     "title": "Eventos de educación ambiental",
+                    "dataset_identifier": "3bde7244-fffa-4357-b7b1-2c6277098455",
                     "issued": "2017-09-07T12:39:12.146587",
                     "format": "CSV",
                     "modified": "2017-09-07T12:39:12.112544",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/3bde7244-fffa-4357-b7b1-2c6277098455/resource/f338e1ca-70bd-42c1-a577-1db5390172f2/download/grandes-eventos-de-educacion-ambiental.csv",
                     "field": [
                         {
+                            "dataset_identifier": "3bde7244-fffa-4357-b7b1-2c6277098455",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año en el cual se realiza el evento",
                             "title": "evento_anio"
                         },
                         {
+                            "dataset_identifier": "3bde7244-fffa-4357-b7b1-2c6277098455",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Tipo de evento realizado",
                             "title": "evento_tipo"
                         },
                         {
+                            "dataset_identifier": "3bde7244-fffa-4357-b7b1-2c6277098455",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Destinatarios del evento",
                             "title": "evento_destinatario"
                         },
                         {
+                            "dataset_identifier": "3bde7244-fffa-4357-b7b1-2c6277098455",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de visitantes al evento",
                             "title": "evento_visitantes_numero"
@@ -405,32 +489,43 @@
                     "description": "Son  materiales didácticos desarrollados en el marco de la Estrategia de Educación Ambiental.",
                     "license": "odc-odbl",
                     "title": "Materiales de educación ambiental",
+                    "dataset_identifier": "62dccae6-041a-4b72-aa05-5325b39bbd36",
                     "issued": "2017-09-06T17:51:32.202025",
                     "format": "CSV",
                     "modified": "2017-09-06T17:51:32.152270",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/62dccae6-041a-4b72-aa05-5325b39bbd36/resource/3fe4e8c6-d832-4e49-bdc4-e7bb369a1651/download/materiales-educcion-ambiental.csv",
                     "field": [
                         {
+                            "dataset_identifier": "62dccae6-041a-4b72-aa05-5325b39bbd36",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año en el cual se realiza la impresión del material didáctico",
                             "title": "impresiones_anio"
                         },
                         {
+                            "dataset_identifier": "62dccae6-041a-4b72-aa05-5325b39bbd36",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de temáticas  de Educación Ambiental",
                             "title": "impresiones_cantidad_de_temáticas"
                         },
                         {
+                            "dataset_identifier": "62dccae6-041a-4b72-aa05-5325b39bbd36",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Tipo de material didáctico ",
                             "title": "impresiones_material_didáctico_tipo"
                         },
                         {
+                            "dataset_identifier": "62dccae6-041a-4b72-aa05-5325b39bbd36",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Formato del material didáctico ",
                             "title": "impresiones_formato"
                         },
                         {
+                            "dataset_identifier": "62dccae6-041a-4b72-aa05-5325b39bbd36",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de impresiones hechas",
                             "title": "impresiones_numero"
@@ -442,22 +537,29 @@
                     "description": "Son materiales de comunicación en distintos formatos para promover la interpretación de datos e información ambiental y ampliar el conocimiento sobre el ambiente",
                     "license": "odc-odbl",
                     "title": "Materiales de comunicación ambiental",
+                    "dataset_identifier": "62dccae6-041a-4b72-aa05-5325b39bbd36",
                     "issued": "2017-09-06T17:56:19.243101",
                     "format": "CSV",
                     "modified": "2017-09-06T17:56:19.190963",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/62dccae6-041a-4b72-aa05-5325b39bbd36/resource/44d4af7b-6d5b-4d48-adbf-340ba9e0407d/download/materiales-comunicacion-ambiental.csv",
                     "field": [
                         {
+                            "dataset_identifier": "62dccae6-041a-4b72-aa05-5325b39bbd36",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año en el cual se realiza el material de comunicación",
                             "title": "material_anio"
                         },
                         {
+                            "dataset_identifier": "62dccae6-041a-4b72-aa05-5325b39bbd36",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de material de comunicación de diferentes temáticas ambientales ",
                             "title": "material_temas"
                         },
                         {
+                            "dataset_identifier": "62dccae6-041a-4b72-aa05-5325b39bbd36",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Tipo de material de comunicación ambiental",
                             "title": "material_comunicación_tipo"
@@ -503,32 +605,43 @@
                     "description": "Son los encuentros de educación ambiental realizados con el propósito de generar compromisos de acciones educativas articuladas  con diversos organismos estatales, instituciones y sectores sociales.",
                     "license": "odc-odbl",
                     "title": "Encuentros de educación ambiental",
+                    "dataset_identifier": "9a4a51ef-26e4-416c-b97d-7ea48dac04df",
                     "issued": "2017-09-06T17:07:49.317701",
                     "format": "CSV",
                     "modified": "2017-09-06T17:07:49.271370",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/9a4a51ef-26e4-416c-b97d-7ea48dac04df/resource/0db23dc2-a196-42bd-a1b3-8a1036beffea/download/encuentro-educacion-ambiental.csv",
                     "field": [
                         {
+                            "dataset_identifier": "9a4a51ef-26e4-416c-b97d-7ea48dac04df",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año en el cual se realiza el encuentro de Educación Ambiental",
                             "title": "encuentro_anio"
                         },
                         {
+                            "dataset_identifier": "9a4a51ef-26e4-416c-b97d-7ea48dac04df",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de encuentros de temática ambiental en el año dado",
                             "title": "encuentro_numero"
                         },
                         {
+                            "dataset_identifier": "9a4a51ef-26e4-416c-b97d-7ea48dac04df",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de participantes en el encuentro de Educación Ambiental",
                             "title": "encuentro_participantes"
                         },
                         {
+                            "dataset_identifier": "9a4a51ef-26e4-416c-b97d-7ea48dac04df",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Tipo de encuentro de Educación Ambiental",
                             "title": "encuentro_tematica"
                         },
                         {
+                            "dataset_identifier": "9a4a51ef-26e4-416c-b97d-7ea48dac04df",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Destinatarios del encuentro de Educación Ambiental",
                             "title": "encuentro_destinatarios"
@@ -540,32 +653,43 @@
                     "description": "Son las capacitaciones de Educación Ambiental que contribuyen con los procesos de enseñanza y aprendizaje basados en la integración de contenidos ambientales.",
                     "license": "odc-odbl",
                     "title": "Capacitaciones de educación ambiental",
+                    "dataset_identifier": "9a4a51ef-26e4-416c-b97d-7ea48dac04df",
                     "issued": "2017-09-06T17:41:31.629104",
                     "format": "CSV",
                     "modified": "2017-09-06T17:41:31.575364",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/9a4a51ef-26e4-416c-b97d-7ea48dac04df/resource/88702f60-1007-4182-b73d-c6b01dcb457f/download/capacitaciones-educacion-ambiental.csv",
                     "field": [
                         {
+                            "dataset_identifier": "9a4a51ef-26e4-416c-b97d-7ea48dac04df",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año en el cual se realiza el curso o capacitación de educación ambiental",
                             "title": "capacitacion_anio"
                         },
                         {
+                            "dataset_identifier": "9a4a51ef-26e4-416c-b97d-7ea48dac04df",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de cursos o capacitaciones en la temática ambiental en el año dado",
                             "title": "capacitacion_numero"
                         },
                         {
+                            "dataset_identifier": "9a4a51ef-26e4-416c-b97d-7ea48dac04df",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de participantes en los cursos o capacitaciones en la temática ambiental",
                             "title": "capacitacion_participantes_numero"
                         },
                         {
+                            "dataset_identifier": "9a4a51ef-26e4-416c-b97d-7ea48dac04df",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Tipo de curso o capacitación de Educación Ambiental ",
                             "title": "capacitación_tematica"
                         },
                         {
+                            "dataset_identifier": "9a4a51ef-26e4-416c-b97d-7ea48dac04df",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Destinatarios del curso o capacitación de Educación Ambiental",
                             "title": "capacitación_destinatarios"
@@ -611,52 +735,71 @@
                     "description": "Son los los planes de asistencia técnica en implementación de las comunidades beneficiarias",
                     "license": "odc-odbl",
                     "title": "Plan integral comunitario (PICs)",
+                    "dataset_identifier": "9a4f202f-4cb4-4dc1-9557-503c68e2b32e",
                     "issued": "2017-09-05T14:32:52.658647",
                     "format": "CSV",
                     "modified": "2017-09-05T14:32:52.590025",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/9a4f202f-4cb4-4dc1-9557-503c68e2b32e/resource/dec86fa1-5bdc-4c24-a201-4bc300ca6741/download/plan-integral-comunitario.csv",
                     "field": [
                         {
+                            "dataset_identifier": "9a4f202f-4cb4-4dc1-9557-503c68e2b32e",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Nombre de la comunidad que recibe el PICs",
                             "title": "comunidad_nombre"
                         },
                         {
+                            "dataset_identifier": "9a4f202f-4cb4-4dc1-9557-503c68e2b32e",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Tipo de comunidad que recibe el plan, (campesina criollo e indígena)",
                             "title": "comunidad_tipo"
                         },
                         {
+                            "dataset_identifier": "9a4f202f-4cb4-4dc1-9557-503c68e2b32e",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Provincia donde reside la comunidad y se ejecuta el PICs",
                             "title": "provincia_descripcion"
                         },
                         {
+                            "dataset_identifier": "9a4f202f-4cb4-4dc1-9557-503c68e2b32e",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Departamento provincial donde reside la comunidad y se ejecuta el PICs",
                             "title": "departamento_descripcion"
                         },
                         {
+                            "dataset_identifier": "9a4f202f-4cb4-4dc1-9557-503c68e2b32e",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de familias que integran el PICs",
                             "title": "comunidad_familias_numero"
                         },
                         {
+                            "dataset_identifier": "9a4f202f-4cb4-4dc1-9557-503c68e2b32e",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Superficie en hectáreas que ocupa la comunidad",
                             "title": "comunidad_superficie_ocupada_hectareas"
                         },
                         {
+                            "dataset_identifier": "9a4f202f-4cb4-4dc1-9557-503c68e2b32e",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Organización que asiste a la comunidad en la formulación del PICs",
                             "title": "organizacion_asistencia_tecnica_nombre"
                         },
                         {
+                            "dataset_identifier": "9a4f202f-4cb4-4dc1-9557-503c68e2b32e",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Etapa en la implementación que se encuentra el PICs",
                             "title": "plan_integral_comunitario_estado"
                         },
                         {
+                            "dataset_identifier": "9a4f202f-4cb4-4dc1-9557-503c68e2b32e",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Estado de avance en porcentaje que se encuentra el PICs para su implementación",
                             "title": "plan_integral_comunitario_avance_porcentaje"
@@ -706,22 +849,29 @@
                     "description": "Identificación de las provincias que acordaron trabajar con MAyDS en Programas de Reconversión Industrial (capacitación, asistencia técnica e implementación)",
                     "license": "odc-odbl",
                     "title": "Acuerdos PRI por provincia",
+                    "dataset_identifier": "9052dd12-505e-456e-9162-e3abdf60dba9",
                     "issued": "2017-09-05T15:37:57.562993",
                     "format": "CSV",
                     "modified": "2017-09-05T15:37:57.493596",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/47db353d-b9ed-4054-a8a9-546c97d2833b/download/acuerdos-pri-provincia.csv",
                     "field": [
                         {
+                            "dataset_identifier": "9052dd12-505e-456e-9162-e3abdf60dba9",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Identificación de la provincia que acordó con Nación trabajar en Programas de Reconversión Industrial.",
                             "title": "provincia_id"
                         },
                         {
+                            "dataset_identifier": "9052dd12-505e-456e-9162-e3abdf60dba9",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Descripción de la provincia que acordó con Nación trabajar en Programas de Reconversión Industrial.",
                             "title": "provincia_desc"
                         },
                         {
+                            "dataset_identifier": "9052dd12-505e-456e-9162-e3abdf60dba9",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Identificación de la existencia de acuerdo",
                             "title": "tiene_acuerdo_pri"
@@ -733,22 +883,29 @@
                     "description": "Cantidad de empresas con Programas de Reconversión Industrial - PRI - firmados en proceso de implementación desde 2014, discriminadas por provincia.",
                     "license": "odc-odbl",
                     "title": "Empresas con PRI activos por provincia",
+                    "dataset_identifier": "9052dd12-505e-456e-9162-e3abdf60dba9",
                     "issued": "2017-09-05T16:41:27.135592",
                     "format": "CSV",
                     "modified": "2017-09-05T16:41:27.049941",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/3f34caf7-4e7f-4ed6-ab66-9c83a6aafcab/download/empresas-pri-activos-provincia.csv",
                     "field": [
                         {
+                            "dataset_identifier": "9052dd12-505e-456e-9162-e3abdf60dba9",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Código provincial del sistema de identificadores de la cartografía censal del Censo Nacional 2010 del Instituto Nacional de Estadísticas y Censos",
                             "title": "provincia_id"
                         },
                         {
+                            "dataset_identifier": "9052dd12-505e-456e-9162-e3abdf60dba9",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Descripción de la provincia que se encuentra implementando Programas de Reconversión Industrial en empresas desde 2014.",
                             "title": "provincia_desc"
                         },
                         {
+                            "dataset_identifier": "9052dd12-505e-456e-9162-e3abdf60dba9",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Cantidad de empresas con Programa de Reconversión Industrial firmados en implementación desde 2014, para cada provincia.",
                             "title": "empresas_pri_activos_numero"
@@ -760,22 +917,29 @@
                     "description": "Cantidad de empresas con Programas de Reconversión Industrial – PRI - firmados en proceso de implementación desde 2014, discriminadas por actividad económica",
                     "license": "odc-odbl",
                     "title": "Empresas con PRI activos por actividad económica",
+                    "dataset_identifier": "9052dd12-505e-456e-9162-e3abdf60dba9",
                     "issued": "2017-09-05T16:52:07.542993",
                     "format": "CSV",
                     "modified": "2017-09-05T16:52:07.474199",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/ce96d534-e437-4f14-b807-b0bf041ad4f2/download/empresas-pri-activos-por-actividad-economica.csv",
                     "field": [
                         {
+                            "dataset_identifier": "9052dd12-505e-456e-9162-e3abdf60dba9",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Identificación de la actividad económica de las empresas con programa en proceso de implementación",
                             "title": "actividad_economica_id"
                         },
                         {
+                            "dataset_identifier": "9052dd12-505e-456e-9162-e3abdf60dba9",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Descripción de la actividad económica de las empresas con programa en proceso de implementación",
                             "title": "actividad_economica_descripcion"
                         },
                         {
+                            "dataset_identifier": "9052dd12-505e-456e-9162-e3abdf60dba9",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de empresas con PRI firmados en proceso de implementación desde 2014, para la actividad económica.",
                             "title": "empresas_pri_activos_cantidad"
@@ -818,27 +982,36 @@
                     "description": "El datasets muestra el listado de humedales de la Argentina designados como humedales de importancia internacional en el marco de la convención de Ramsar",
                     "license": "odc-odbl",
                     "title": "Humedales de Argentina dentro de la Convención Ramsar",
+                    "dataset_identifier": "0060e144-5b8a-405d-a8fc-bad574ed2153",
                     "issued": "2017-09-05T15:44:59.531995",
                     "format": "CSV",
                     "modified": "2017-09-05T15:44:59.486974",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/0060e144-5b8a-405d-a8fc-bad574ed2153/resource/39d12a68-e36c-4c18-816c-d43aef874724/download/humedales-argentina-dentro-convenio-ramsar.csv",
                     "field": [
                         {
+                            "dataset_identifier": "0060e144-5b8a-405d-a8fc-bad574ed2153",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Denominación del sitio Ramsar",
                             "title": "sitio_ramsar_nombre"
                         },
                         {
+                            "dataset_identifier": "0060e144-5b8a-405d-a8fc-bad574ed2153",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Provincia donde se ubica el sitio Ramsar",
                             "title": "sitio_ramsar_provincia_nombre"
                         },
                         {
+                            "dataset_identifier": "0060e144-5b8a-405d-a8fc-bad574ed2153",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Ecorregión donde se ubica el sitio Ramsar",
                             "title": "sitio_ramsar_ecorregión_ocupada_nombre"
                         },
                         {
+                            "dataset_identifier": "0060e144-5b8a-405d-a8fc-bad574ed2153",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Superficie ocupada por el sitio Ramsar en hectareas",
                             "title": "sitio_ramsar_superficie_hectareas"
@@ -850,27 +1023,36 @@
                     "description": "El datasets muestra la superficie y el porcentaje de territorio provincial de humedales designados como humedales de importancia internacional en el marco de la convención de Ramsar",
                     "license": "odc-odbl",
                     "title": "Superficie de los sitios Ramsar por provincia",
+                    "dataset_identifier": "0060e144-5b8a-405d-a8fc-bad574ed2153",
                     "issued": "2017-09-05T15:55:49.248246",
                     "format": "CSV",
                     "modified": "2017-09-05T15:55:49.198162",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/0060e144-5b8a-405d-a8fc-bad574ed2153/resource/625bfabf-398c-49c7-966d-28a510e24af6/download/superficie-sitio-ramsar-por-provincia.csv",
                     "field": [
                         {
+                            "dataset_identifier": "0060e144-5b8a-405d-a8fc-bad574ed2153",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Denominación de la provincia",
                             "title": "provincia_nombre"
                         },
                         {
+                            "dataset_identifier": "0060e144-5b8a-405d-a8fc-bad574ed2153",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Superficie total de la provincia",
                             "title": "provincia_superficie_hectareas"
                         },
                         {
+                            "dataset_identifier": "0060e144-5b8a-405d-a8fc-bad574ed2153",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Superficie de sitios designados como humedales de importancia internacional en el marco de la convención de Ramsar",
                             "title": "sitio_ramsar_superficie_provincia_hectareas"
                         },
                         {
+                            "dataset_identifier": "0060e144-5b8a-405d-a8fc-bad574ed2153",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Porcentaje de la superficie provincial se sitios designados como humedales de importancia internacional en el marco de la convención de Ramsar",
                             "title": "sitio_ramsar_superficie_provincia_porcentaje"
@@ -916,42 +1098,57 @@
                     "description": "Consultores individuales que cumplen con las exigencias de las Resoluciones Nº60/96, y Nº 95/02",
                     "license": "odc-odbl",
                     "title": "Consultores individuales",
+                    "dataset_identifier": "0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd",
                     "issued": "2017-09-06T19:55:53.768539",
                     "format": "CSV",
                     "modified": "2017-09-14T12:43:00.200291",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd/resource/0df14811-7b62-4760-8875-5b835b2c199b/download/consultores-individuales.csv",
                     "field": [
                         {
+                            "dataset_identifier": "0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Número de certificado otorgado por el Registro al consultor",
                             "title": "consultor_certificado"
                         },
                         {
+                            "dataset_identifier": "0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Apellido y nombre del consultor",
                             "title": "consultor_nombre\t"
                         },
                         {
+                            "dataset_identifier": "0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Provincia de residencia informada por el consultor",
                             "title": "consultor_localizacion_provincia"
                         },
                         {
+                            "dataset_identifier": "0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Localidad de residencia informada por el consultor",
                             "title": "consultor_localizacion_localidad"
                         },
                         {
+                            "dataset_identifier": "0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Dirección de residencia informada por el consultor",
                             "title": "consultor_contacto_dirección"
                         },
                         {
+                            "dataset_identifier": "0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Correo electrónico informado por el consultor",
                             "title": "consultor_contacto_correo_electronico"
                         },
                         {
+                            "dataset_identifier": "0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Teléfono informado por el consultor",
                             "title": "consultor_contacto_telefono"
@@ -963,42 +1160,57 @@
                     "description": "Firmas consultoras que cumplen con las exigencias de las Resoluciones Nº60/96, Nº95/02",
                     "license": "odc-odbl",
                     "title": "Firmas consultoras",
+                    "dataset_identifier": "0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd",
                     "issued": "2017-09-06T20:16:54.811837",
                     "format": "CSV",
                     "modified": "2017-09-06T20:16:54.756249",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd/resource/01e9b876-7a14-40c5-81ba-bb42cb60fa53/download/firmas-consultoras.csv",
                     "field": [
                         {
+                            "dataset_identifier": "0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Número de certificado otorgado por el Registro a la firma consultora",
                             "title": "firma_consultora_certificado"
                         },
                         {
+                            "dataset_identifier": "0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Nombre de la firma consultora",
                             "title": "firma_consultora_nombre"
                         },
                         {
+                            "dataset_identifier": "0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Estado de situación de cumplimiento de la normativa a la fecha",
                             "title": "estado_situación_2017"
                         },
                         {
+                            "dataset_identifier": "0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Provincia de residencia informada por la firma consultora",
                             "title": "firma_consultora_localizacion_provincia"
                         },
                         {
+                            "dataset_identifier": "0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Localidad de residencia informada por la firma consultora",
                             "title": "firma_consultora_localizacion_localidad"
                         },
                         {
+                            "dataset_identifier": "0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Dirección de residencia informada por la firma consultora",
                             "title": "firma_consultora_contacto_direccion"
                         },
                         {
+                            "dataset_identifier": "0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Correo electrónico informado por la firma consultora",
                             "title": "firma_consultora_contacto_correo_electronico"
@@ -1049,22 +1261,29 @@
                     "description": "Inventario total de GEI de la República Argentina dividido por la cantidad de habitantes (población total).",
                     "license": "odc-odbl",
                     "title": "Emisiones de gases de efecto invernadero (GEI) por habitante",
+                    "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
                     "issued": "2017-09-06T17:32:59.353325",
                     "format": "CSV",
                     "modified": "2017-09-06T17:34:08.862635",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/09924bea-0458-4777-ab54-e74cbc5d3e8e/resource/f02bced4-8cd2-487e-b4e9-4443a83a2539/download/emisiones-gei-por-habitante.csv",
                     "field": [
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de la toma del dato",
                             "title": "emisiones_ gei_anio"
                         },
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Emisiones de GEI totales por habitante para cada año de la serie",
                             "title": "emisiones_gei_por_habitante"
                         },
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Toneladas de dióxido de carbono equivalente/habitante",
                             "title": "emisiones_gei_por_habitante_unidad_medida"
@@ -1076,22 +1295,29 @@
                     "description": "Inventario total de GEI de la República Argentina dividido por el PBI por año. Se realizó a precios constantes con el 2004 como año base, ya que se cuenta con serie histórica anterior a ese año.",
                     "license": "odc-odbl",
                     "title": "Emisiones de gases de efecto invernadero (GEI) por producto bruto interno (PBI)",
+                    "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
                     "issued": "2017-09-06T17:46:51.456355",
                     "format": "CSV",
                     "modified": "2017-09-06T17:46:51.387017",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/09924bea-0458-4777-ab54-e74cbc5d3e8e/resource/083c0172-9d5c-4354-877a-04a3f4876770/download/emisiones-gei-por-pbi.csv",
                     "field": [
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de la toma del dato",
                             "title": "emisiones_gei_pbi_anio"
                         },
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Emisiones de GEI totales por Producto Bruto Interno (PBI) por cada año de la serie, de 2004 a 2014",
                             "title": "emisiones_gei_por_pbi"
                         },
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Toneladas de dióxido de carbono equivalente/millones de pesos a 2004",
                             "title": "emisiones_gei_por_pbi_unidad_medida"
@@ -1103,22 +1329,29 @@
                     "description": "Emisiones de GEI del sector “1.Energía” dividido por la Oferta Interna Total.",
                     "license": "odc-odbl",
                     "title": "Emisiones de gases de efecto invernadero (GEI) por unidad de energía",
+                    "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
                     "issued": "2017-09-06T17:57:16.994224",
                     "format": "CSV",
                     "modified": "2017-09-06T17:57:16.921895",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/09924bea-0458-4777-ab54-e74cbc5d3e8e/resource/3bbd4bd6-f177-45f2-a22c-3fcf403279d6/download/emisiones-gei-por-unidad-de-energia.csv",
                     "field": [
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de la toma del dato",
                             "title": "emisiones_gei_por_unidad_energia_anio"
                         },
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Emisiones de GEI del sector “1.Energía” en relación con la oferta interna total para cada año de la serie",
                             "title": "emisiones_gei_por_unidad_energia"
                         },
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Toneladas de dióxido de carbono equivalente/tonelada equivalente de petróleo",
                             "title": "emisiones_gei_por_unidad_energia_unidad_medida"
@@ -1130,22 +1363,29 @@
                     "description": "Emisiones de GEI de la categoría “1.A1.a – Producción de electricidad y calor como actividad principal” dividido por la generación total de energía eléctrica conectada a la red.",
                     "license": "odc-odbl",
                     "title": "Emisiones de gases de efecto invernadero (GEI) por unidad de energia electrica",
+                    "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
                     "issued": "2017-09-06T19:50:45.706879",
                     "format": "CSV",
                     "modified": "2017-09-06T19:50:45.625096",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/09924bea-0458-4777-ab54-e74cbc5d3e8e/resource/5a0a2fcf-3335-464b-9e80-ee9455b57777/download/emisiones-gei-por-unidad-de-energia-electrica.csv",
                     "field": [
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de la toma de datos",
                             "title": "emisiones_gei_unidad_energia_electrica_anio"
                         },
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Emisiones de GEI por unidad de energía eléctrica producida en relación con la generación total para cada año de la serie",
                             "title": "emisiones_gei_por_unidad_energia_electrica"
                         },
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Toneladas de dióxido de carbono equivalente/Mega Watts hora",
                             "title": "emisiones_gei_por_unidad_energia_electrica_unidad_medida"
@@ -1157,22 +1397,29 @@
                     "description": "Emisiones de GEI de la industria manufacturera. El PBI es a precios constantes con el 2004 como año base.",
                     "license": "odc-odbl",
                     "title": "Emisiones de gases de efecto invernadero (GEI) de la industria por valor bruto de producción",
+                    "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
                     "issued": "2017-09-06T20:04:28.387112",
                     "format": "CSV",
                     "modified": "2017-09-06T20:04:28.310256",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/09924bea-0458-4777-ab54-e74cbc5d3e8e/resource/804d4b65-a074-41c5-8ac0-92297d0707c8/download/emisiones-gei-industria-por-valor-bruto-de-produccion.csv",
                     "field": [
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de la toma del dato",
                             "title": "emisiones_gei_industria_anio"
                         },
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Emisiones de GEI por la industria en relación con el Valor Bruto de la Producción de la Industria manufacturera, para cada año de la serie",
                             "title": "emisiones_gei_por_industria"
                         },
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Toneladas de dióxido de carbono equivalente/millones de pesos a 2004",
                             "title": "emisiones_gei_por_industria_unidad_medida"
@@ -1184,22 +1431,29 @@
                     "description": "Emisiones de GEI del ganado bovino de carne y de leche",
                     "license": "odc-odbl",
                     "title": "Emisiones de gases de efecto invernadero (GEI) por cabeza de ganado bovino",
+                    "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
                     "issued": "2017-09-06T20:20:59.623577",
                     "format": "CSV",
                     "modified": "2017-09-06T20:20:59.538632",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/09924bea-0458-4777-ab54-e74cbc5d3e8e/resource/1bbd7e9a-0f7d-47d4-a0cb-1569bbe3a1c2/download/emisiones-gei-por-cabeza-de-ganado-bovino.csv",
                     "field": [
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de la toma del dato",
                             "title": "emisiones_gei_por_cabeza_ganado_bovino_anio"
                         },
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Emisiones de GEI provenientes de la actividad ganadera por cabeza de ganado bovino para cada año de la serie",
                             "title": "emisiones_gei_por_cabeza_ganado_bovino"
                         },
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Toneladas de dióxido de carbono equivalente/cabeza de ganado bovino",
                             "title": "emisiones_gei_por_cabeza_ganado_bovino_unidad_medida"
@@ -1211,22 +1465,29 @@
                     "description": "Categorías Quemas de Biomasa, Aplicación de Urea, Residuos de Cosecha y Fertilizantes Sintéticos, Producción de Arroz y Cambio de Carbono en los suelos dividido por la producción de cultivos",
                     "license": "odc-odbl",
                     "title": "emisiones-gei-produccion-de-granos",
+                    "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
                     "issued": "2017-09-07T13:41:18.032454",
                     "format": "CSV",
                     "modified": "2017-09-07T13:41:17.946290",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/09924bea-0458-4777-ab54-e74cbc5d3e8e/resource/54267618-5c48-466f-9198-e9708c9c71e0/download/emisiones-gei-produccion-de-granos.csv",
                     "field": [
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de registro del dato",
                             "title": "emisiones_gei_rsu_por_habitante_anio"
                         },
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Emisiones de GEI por la Agricultura para las categorías 3.C.1, 3.C.3, 3.C.4/3.C.5, 3.C.7 y 3.B/3.C.4/3.C.5 en relación con la producción de cultivos para granos, para cada año de la serie.",
                             "title": "emisiones_gei_por_produccion_granos"
                         },
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Toneladas de dióxido de carbono equivalente/tonelada de grano",
                             "title": "emisiones_gei_por_produccion_granos_unidad_medida"
@@ -1238,22 +1499,29 @@
                     "description": "Emisiones de GEI generadas por a la disposición, el tratamiento y la gestión de residuos sólidos en relación a la cantidad de habitantes (residuos sólidos, e Incineración dividido por la cdad de hab)",
                     "license": "odc-odbl",
                     "title": "emisiones-gei-por-rsu-habitante",
+                    "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
                     "issued": "2017-09-07T13:46:20.582484",
                     "format": "CSV",
                     "modified": "2017-09-07T13:46:20.497580",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/09924bea-0458-4777-ab54-e74cbc5d3e8e/resource/3a893313-089f-44c6-a2bb-c76ee87aafb6/download/emisiones-por-rsu-habitante.csv",
                     "field": [
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de registro del dato.",
                             "title": "emisiones_gei_rsu_por_habitante_anio"
                         },
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Emisiones de GEI provenientes de RSU por habitante para cada año de la serie.",
                             "title": "emisiones_gei_de_rsu_por_habitante"
                         },
                         {
+                            "dataset_identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Toneladas de dióxido de carbono equivalente/habitante",
                             "title": "emisiones_gei_de_rsu_por_habitante_unidad_medida"
@@ -1304,27 +1572,36 @@
                     "description": "Emisiones de GEI discriminadas por el sector que los origina y el tipo de gas (composición química)",
                     "license": "odc-odbl",
                     "title": "Emisiones de gases de efecto invernadero (GEI) por sector y tipo - Año 2014",
+                    "dataset_identifier": "477e90ae-905a-4c0e-9afc-164fa11784b7",
                     "issued": "2017-09-07T12:59:35.043261",
                     "format": "CSV",
                     "modified": "2017-09-07T13:37:31.016781",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/477e90ae-905a-4c0e-9afc-164fa11784b7/resource/5726fc76-5659-445a-8acd-61d01d015bec/download/emisiones-gei-por-sector-y-tipo-2014.csv",
                     "field": [
                         {
+                            "dataset_identifier": "477e90ae-905a-4c0e-9afc-164fa11784b7",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Sectores de los que se originan los GEI: Energía; Procesos Industriales y Uso de Productos; Agricultura, Ganadería, Silvicultura y Otros Usos de la Tierra; Residuos",
                             "title": "emisiones_gei_sector"
                         },
                         {
+                            "dataset_identifier": "477e90ae-905a-4c0e-9afc-164fa11784b7",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Tipos de GEI según su composición química: CO2 (dióxido de carbono), CH4 (metano), N2O (óxido nitroso), HFC (hidrofluorocarbonos), PFC (perfluorocarbnos), SF6 (hexafloruro de azufre)",
                             "title": "emisiones_gei_tipo"
                         },
                         {
+                            "dataset_identifier": "477e90ae-905a-4c0e-9afc-164fa11784b7",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Emisiones de GEI para cada una de las categorías para el año 2014",
                             "title": "emisiones_gei"
                         },
                         {
+                            "dataset_identifier": "477e90ae-905a-4c0e-9afc-164fa11784b7",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Megatoneladas de dióxido de carbono equivalente",
                             "title": "emisiones_gei_unidad_medida"
@@ -1336,27 +1613,36 @@
                     "description": "Emisiones de GEI provenientes de sectores de las actividades humanas (Energía; Procesos Industriales y Uso de Productos; Agricultura, Ganadería, Silvicultura y Otros Usos de la Tierra; Residuos)",
                     "license": "odc-odbl",
                     "title": "Emisiones de gases de efecto invernadero (GEI) por sector",
+                    "dataset_identifier": "477e90ae-905a-4c0e-9afc-164fa11784b7",
                     "issued": "2017-09-07T13:33:08.838849",
                     "format": "CSV",
                     "modified": "2017-09-07T13:33:08.768978",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/477e90ae-905a-4c0e-9afc-164fa11784b7/resource/de51f713-b19f-4b2f-9a1a-c1d47588b822/download/emisiones-gei-por-sector.csv",
                     "field": [
                         {
+                            "dataset_identifier": "477e90ae-905a-4c0e-9afc-164fa11784b7",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de la toma del dato",
                             "title": "emisiones_gei_anio"
                         },
                         {
+                            "dataset_identifier": "477e90ae-905a-4c0e-9afc-164fa11784b7",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Sectores de las actividades humanas que generan GEI: Energía; Procesos Industriales y Uso de Productos; Agricultura, Ganadería, Silvicultura y Otros Usos de la Tierra; Residuos",
                             "title": "emisiones_gei_sector"
                         },
                         {
+                            "dataset_identifier": "477e90ae-905a-4c0e-9afc-164fa11784b7",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Emisiones de GEI para cada uno de los sectores y cada año de la serie",
                             "title": "emisiones_gei"
                         },
                         {
+                            "dataset_identifier": "477e90ae-905a-4c0e-9afc-164fa11784b7",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Megatoneladas de dióxido de carbono equivalente",
                             "title": "emisiones_gei_unidad_medida"
@@ -1407,32 +1693,43 @@
                     "description": "Extracciones de productos forestales (Rollizos, Leña, Postes, Otros productos, Carbón y Durmientes) en Parques Nacionales expresado en metros cúbicos",
                     "license": "odc-odbl",
                     "title": "Extracciones de productos forestales en parques nacionales en m3",
+                    "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
                     "issued": "2017-09-06T15:48:25.236395",
                     "format": "CSV",
                     "modified": "2017-09-06T15:48:25.113209",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/b45c63b4-5da5-426f-8e98-ac934807a510/resource/027a0131-180d-4f38-a461-b085ea943f24/download/extracciones-productos-forestales-parques-nacionales-m3.csv",
                     "field": [
                         {
+                            "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de la serie",
                             "title": "extracciones_productos_forestales_anio"
                         },
                         {
+                            "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Tipos de productos forestales",
                             "title": "extraccion_productos_forestales_tipo"
                         },
                         {
+                            "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Denominación de la jurisdicción",
                             "title": "extraccion_productos_forestales_jurisdiccion"
                         },
                         {
+                            "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Total del producto forestal extraído por año",
                             "title": "extraccion_productos_forestales_numero"
                         },
                         {
+                            "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Unidad de medida en metros cúbicos del total  del producto forestal extraído por año",
                             "title": "extraccion_productos_forestales_unidad_medida"
@@ -1444,32 +1741,43 @@
                     "description": "Extracciones de productos forestales (Rollizos, Leña, Postes, Otros productos, Carbón y Durmientes) en Parques Nacionales expresado en toneladas.",
                     "license": "odc-odbl",
                     "title": "Extraccione de productos forestales parques nacionales en toneladas",
+                    "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
                     "issued": "2017-09-06T16:08:47.366293",
                     "format": "CSV",
                     "modified": "2017-09-06T16:08:47.298833",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/b45c63b4-5da5-426f-8e98-ac934807a510/resource/d0ba52d3-59f8-40cf-8549-bebf0d2e1d50/download/extraccionesproductosforestales-parques-nacionales-tn.csv",
                     "field": [
                         {
+                            "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de la serie",
                             "title": "extracciones_productos_forestales_anio"
                         },
                         {
+                            "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Tipos de productos forestales",
                             "title": "extraccion_productos_forestales_tipo"
                         },
                         {
+                            "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Denominación de la jurisdicción",
                             "title": "extraccion_productos_forestales_jurisdiccion"
                         },
                         {
+                            "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Total del  producto forestal extraído por año",
                             "title": "extraccion_productos_forestales_numero"
                         },
                         {
+                            "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Unidad de medida en toneladas del total del producto forestal extraído por año",
                             "title": "extraccion_productos_forestales_unidad_medida"
@@ -1481,32 +1789,43 @@
                     "description": "Extracciones de productos forestales (Rollizos, Leña, Postes, Otros productos, Carbón y Durmientes) en  las provincias expresado en metros cúbicos",
                     "license": "odc-odbl",
                     "title": "Extracciones de productos forestales por provincia en m3",
+                    "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
                     "issued": "2017-09-06T16:20:59.553824",
                     "format": "CSV",
                     "modified": "2017-09-06T16:20:59.479653",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/b45c63b4-5da5-426f-8e98-ac934807a510/resource/de4c7796-4f0d-477b-84db-93c91e365185/download/extracciones-productos-forestales-provincia-m3.csv",
                     "field": [
                         {
+                            "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de la serie",
                             "title": "extracciones_productos_forestales_anio"
                         },
                         {
+                            "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Tipos de productos forestales",
                             "title": "extraccion_productos_forestales_tipo"
                         },
                         {
+                            "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Provincia al cual corresponde el valor",
                             "title": "extraccion_productos_forestales_provincia"
                         },
                         {
+                            "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Total del producto forestal extraído por año en la provincia",
                             "title": "extraccion_productos_forestales_numero"
                         },
                         {
+                            "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Unidad de medida en metros cúbicos del total del producto forestal extraído por año y provincia",
                             "title": "extraccion_productos_forestales_unidad_medida"
@@ -1518,32 +1837,43 @@
                     "description": "Extracciones de productos forestales (Rollizos, Leña, Postes, Otros productos, Carbón y Durmientes) en las provincias expresado en toneladas",
                     "license": "odc-odbl",
                     "title": "Extracciones de productos forestales por provincia en toneladas",
+                    "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
                     "issued": "2017-09-06T16:41:57.699684",
                     "format": "CSV",
                     "modified": "2017-09-06T16:41:57.626341",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/b45c63b4-5da5-426f-8e98-ac934807a510/resource/540c2fab-d7fa-40e0-85bd-cc6ac831297c/download/extracciones-productos-forestales-provincia-tn.csv",
                     "field": [
                         {
+                            "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de la serie",
                             "title": "extracciones_productos_forestales_anio"
                         },
                         {
+                            "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Tipos de productos forestales",
                             "title": "extraccion_productos_forestales_tipo"
                         },
                         {
+                            "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Provincia al cual corresponde el valor",
                             "title": "extraccion_productos_forestales_provincia"
                         },
                         {
+                            "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Total del producto forestal extraído por año y provincia",
                             "title": "extraccion_productos_forestales_numero"
                         },
                         {
+                            "dataset_identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Unidad de medida en toneladas del total del producto forestal extraído por año y provincia",
                             "title": "extraccion_productos_forestales_unidad_medida"
@@ -1586,42 +1916,57 @@
                     "description": "El recurso describe el presupuesto asignado por tipo de obra, por localidad, y el porcentaje de la población alcanzada de la provincia",
                     "license": "odc-odbl",
                     "title": "Presupuestos asignados para construcción de obras",
+                    "dataset_identifier": "05657188-4d10-4c1c-be3d-3308db35cc22",
                     "issued": "2017-09-05T19:15:35.342243",
                     "format": "CSV",
                     "modified": "2017-09-05T19:15:35.288183",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/05657188-4d10-4c1c-be3d-3308db35cc22/resource/b6bbafac-77b7-4cab-84a1-ccd61aae08b6/download/presupuestos-asignados-para-construccion-obras.csv",
                     "field": [
                         {
+                            "dataset_identifier": "05657188-4d10-4c1c-be3d-3308db35cc22",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Provincia a la cual corresponde la obra y el presupuesto asignado",
                             "title": "provincia_nombre"
                         },
                         {
+                            "dataset_identifier": "05657188-4d10-4c1c-be3d-3308db35cc22",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Denominación de la obra",
                             "title": "obra_denominacion"
                         },
                         {
+                            "dataset_identifier": "05657188-4d10-4c1c-be3d-3308db35cc22",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Tipo de obra en construcción",
                             "title": "obra_tipo"
                         },
                         {
+                            "dataset_identifier": "05657188-4d10-4c1c-be3d-3308db35cc22",
+                            "distribution_identifier": null,
                             "type": "date",
                             "description": "Fecha de inicio de la obra en construcción",
                             "title": "obra_fecha_inicio"
                         },
                         {
+                            "dataset_identifier": "05657188-4d10-4c1c-be3d-3308db35cc22",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Población alcanzada por la obra en construcción",
                             "title": "obra_poblacion_alcanzada"
                         },
                         {
+                            "dataset_identifier": "05657188-4d10-4c1c-be3d-3308db35cc22",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Porcentaje de la población de la provincia alcanzada por la obra en construcción",
                             "title": "obra_porcentaje_poblacion_provincia"
                         },
                         {
+                            "dataset_identifier": "05657188-4d10-4c1c-be3d-3308db35cc22",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Presupuesto asignado de la obra en construcción en pesos",
                             "title": "obra_presupuesto_asignado_pesos"
@@ -1666,32 +2011,43 @@
                     "description": "Estima el grado de degradación en 4 clases: leve – etapa inicial,; moderado – control y rehabilitación posible; fuerte – etapa avanzada,; extrema – rehabilitación imposible.",
                     "license": "odc-odbl",
                     "title": "Superficie degradada en tierras secas por tipo",
+                    "dataset_identifier": "2e21c5a0-9c96-44ad-8574-f865be07cad7",
                     "issued": "2017-09-05T13:51:52.481292",
                     "format": "CSV",
                     "modified": "2017-09-05T13:51:52.433469",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/2e21c5a0-9c96-44ad-8574-f865be07cad7/resource/c2b2a095-1fa0-47b2-9980-07a52aa6d48f/download/superficie-degradada-en-tierras-secas.csv",
                     "field": [
                         {
+                            "dataset_identifier": "2e21c5a0-9c96-44ad-8574-f865be07cad7",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Tipo de proceso de  degradación, puede ser erosión hídrica, erosión eólica, degradación física o degradación química de la tierra",
                             "title": "degradacion_tipo"
                         },
                         {
+                            "dataset_identifier": "2e21c5a0-9c96-44ad-8574-f865be07cad7",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Superficie de tierras secas afectada  en grado bajo por el proceso en km 2",
                             "title": "degradacion_baja_superficie_km2"
                         },
                         {
+                            "dataset_identifier": "2e21c5a0-9c96-44ad-8574-f865be07cad7",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Superficie de tierras secas afectada  en grado moderado por el proceso en km 2",
                             "title": "degradacion_moderada_superficie_km2"
                         },
                         {
+                            "dataset_identifier": "2e21c5a0-9c96-44ad-8574-f865be07cad7",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Superficie de tierras secas afectada  en grado fuerte por el proceso en km 2",
                             "title": "degradacion_fuerte_superficie_km2"
                         },
                         {
+                            "dataset_identifier": "2e21c5a0-9c96-44ad-8574-f865be07cad7",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Superficie de tierras secas afectada  en grado extremo por el proceso en km 2",
                             "title": "degradacion_extrema_superficie_km2"
@@ -1703,17 +2059,22 @@
                     "description": "Estima la superficie de tierras secas del país según el régimen de precipitaciones. Se considera dentro de la categoría de tierras secas a todas aquellas tierras comprendidas debajo  isohieta 600mm",
                     "license": "odc-odbl",
                     "title": "Superficie de tierra seca según precipitación",
+                    "dataset_identifier": "2e21c5a0-9c96-44ad-8574-f865be07cad7",
                     "issued": "2017-09-05T13:57:10.636710",
                     "format": "CSV",
                     "modified": "2017-09-05T13:57:10.578713",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/2e21c5a0-9c96-44ad-8574-f865be07cad7/resource/921eea56-b7d7-4852-b24b-35df3187e935/download/superficie-tierras-secas-segun-precipitacion.csv",
                     "field": [
                         {
+                            "dataset_identifier": "2e21c5a0-9c96-44ad-8574-f865be07cad7",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Tipo de tierras",
                             "title": "tierras_secas_pais"
                         },
                         {
+                            "dataset_identifier": "2e21c5a0-9c96-44ad-8574-f865be07cad7",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Superficie de tierras secas en kilómetros cuadrados",
                             "title": "superfiice_tierras_secas_ pais_km2"
@@ -1758,52 +2119,71 @@
                     "description": "Listado de préstamos y donaciones con financiamiento internacional existentes en el Ministerio de Ambiente y Desarrollo Sustentable",
                     "license": "odc-odbl",
                     "title": "Proyectos con financiamiento externo",
+                    "dataset_identifier": "3b8c5484-c346-4dd6-8376-e6b521ee745e",
                     "issued": "2017-09-05T14:50:11.316362",
                     "format": "CSV",
                     "modified": "2017-09-05T14:50:11.270352",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/3b8c5484-c346-4dd6-8376-e6b521ee745e/resource/86a11a62-3b91-4d8c-943b-56ccabb54385/download/proyectos-financiamiento-externo.csv",
                     "field": [
                         {
+                            "dataset_identifier": "3b8c5484-c346-4dd6-8376-e6b521ee745e",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Número de identificación de los proyectos asignados por los organismos que los implementan",
                             "title": "proyecto_id"
                         },
                         {
+                            "dataset_identifier": "3b8c5484-c346-4dd6-8376-e6b521ee745e",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Título oficial del proyecto",
                             "title": "proyecto_nombre"
                         },
                         {
+                            "dataset_identifier": "3b8c5484-c346-4dd6-8376-e6b521ee745e",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Organismo que financia el proyecto",
                             "title": "proyecto_origen"
                         },
                         {
+                            "dataset_identifier": "3b8c5484-c346-4dd6-8376-e6b521ee745e",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Fuente de financiamiento del proyecto: El número 21 indica que se trata de una donación, el 22 indica que se trata de un préstamo. ",
                             "title": "proyecto_fuente"
                         },
                         {
+                            "dataset_identifier": "3b8c5484-c346-4dd6-8376-e6b521ee745e",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Describe si es un préstamos o una donación",
                             "title": "proyecto_tipo"
                         },
                         {
+                            "dataset_identifier": "3b8c5484-c346-4dd6-8376-e6b521ee745e",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Monto total necesario para la ejecución del Proyecto",
                             "title": "proyecto_monto_USD"
                         },
                         {
+                            "dataset_identifier": "3b8c5484-c346-4dd6-8376-e6b521ee745e",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Coordinadores y responsables técnicos y financieros del MAyDS, para cada uno de los proyectos",
                             "title": "proyecto_responsable"
                         },
                         {
+                            "dataset_identifier": "3b8c5484-c346-4dd6-8376-e6b521ee745e",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Etapa en que se encuentra cada proyecto al día de la fecha",
                             "title": "proyecto_estado"
                         },
                         {
+                            "dataset_identifier": "3b8c5484-c346-4dd6-8376-e6b521ee745e",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Lugar físico donde se llevará a cabo el proyecto",
                             "title": "proyecto_localización"
@@ -1847,32 +2227,43 @@
                     "description": "El dataset muestra el listado de la normativa nacional argentina vigente vinculada con la temática de suelos.",
                     "license": "odc-odbl",
                     "title": "Normativa Nacional Argentina en la temática de suelos",
+                    "dataset_identifier": "ec41f092-2a01-43ed-a12b-22d2a4c12bf8",
                     "issued": "2017-09-05T14:10:42.666688",
                     "format": "CSV",
                     "modified": "2017-09-05T14:10:42.625724",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/ec41f092-2a01-43ed-a12b-22d2a4c12bf8/resource/91803a80-013f-4694-89cb-16f1cfd9fb9a/download/normativa-nacional-argentina-suelos.csv",
                     "field": [
                         {
+                            "dataset_identifier": "ec41f092-2a01-43ed-a12b-22d2a4c12bf8",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Tipo de normativa",
                             "title": "normativa_tipo"
                         },
                         {
+                            "dataset_identifier": "ec41f092-2a01-43ed-a12b-22d2a4c12bf8",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Número de norma",
                             "title": "normativa_numero"
                         },
                         {
+                            "dataset_identifier": "ec41f092-2a01-43ed-a12b-22d2a4c12bf8",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Organismo que emitió la norma",
                             "title": "normativa_organismo_emisor"
                         },
                         {
+                            "dataset_identifier": "ec41f092-2a01-43ed-a12b-22d2a4c12bf8",
+                            "distribution_identifier": null,
                             "type": "date",
                             "description": "Fecha de publicación de la norma en el Boletín Oficial de la República Argentina",
                             "title": "normativa_fecha_publicacion_boletin_oficial"
                         },
                         {
+                            "dataset_identifier": "ec41f092-2a01-43ed-a12b-22d2a4c12bf8",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Síntesis temática de la norma",
                             "title": "normativa_sumario"
@@ -1916,17 +2307,22 @@
                     "description": "Expresa la relación entre la precipitación anual promedio y la evapotranspiración potencial en un área determinada (UNEP, 1992)",
                     "license": "odc-odbl",
                     "title": "Índice de aridez",
+                    "dataset_identifier": "31a2acad-c95c-4346-9447-eb0603935c9f",
                     "issued": "2017-09-05T13:26:32.572205",
                     "format": "CSV",
                     "modified": "2017-09-05T13:30:48.720336",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/31a2acad-c95c-4346-9447-eb0603935c9f/resource/46c21043-0257-49a9-8bd4-b290998d639c/download/indice-de-aridez.csv",
                     "field": [
                         {
+                            "dataset_identifier": "31a2acad-c95c-4346-9447-eb0603935c9f",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Categorías del Índice de Aridez:\nHiperárida                      <0.05\nÁrida                         0.05 a 0.20\n",
                             "title": "indice_de_aridez_categoria"
                         },
                         {
+                            "dataset_identifier": "31a2acad-c95c-4346-9447-eb0603935c9f",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Superficie en kilómetros cuadrados para cada categoría del índice de aridez",
                             "title": "indice_de_aridez_superficie_km2"
@@ -1976,22 +2372,29 @@
                     "description": "Número de emprendimientos inscriptos en PROESUS por categoría. El Programa agrupa las iniciativas en 12 categorías a fin de sistematizar la información.",
                     "license": "odc-odbl",
                     "title": "Emprendimientos PROESUS por categoría",
+                    "dataset_identifier": "1931bc96-46a5-48f3-b613-55626847ca61",
                     "issued": "2017-09-05T17:34:25.179858",
                     "format": "CSV",
                     "modified": "2017-09-05T17:34:25.058566",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/1931bc96-46a5-48f3-b613-55626847ca61/resource/a4e70ffe-fb56-46d8-a5e6-312db4879b20/download/emprendimientos-proesus-por-categoria.csv",
                     "field": [
                         {
+                            "dataset_identifier": "1931bc96-46a5-48f3-b613-55626847ca61",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Código asignado a cada categoría",
                             "title": "categoria_id"
                         },
                         {
+                            "dataset_identifier": "1931bc96-46a5-48f3-b613-55626847ca61",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Denominación de la categoría",
                             "title": "categoria_nombre"
                         },
                         {
+                            "dataset_identifier": "1931bc96-46a5-48f3-b613-55626847ca61",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de emprendimientos pertenecientes a una categoría.",
                             "title": "emprendimientos_numero"
@@ -2003,22 +2406,29 @@
                     "description": "Cantidad de emprendimientos registrados en la plataforma PROESUS por usuarios pertenecientes a una Provincia. A los efectos de este recurso y a pesar de no pertenecer a esta categoría, la Ciudad de Bu",
                     "license": "odc-odbl",
                     "title": "Emprendimientos PROESUS por provincia",
+                    "dataset_identifier": "1931bc96-46a5-48f3-b613-55626847ca61",
                     "issued": "2017-09-05T17:41:52.753305",
                     "format": "CSV",
                     "modified": "2017-09-05T17:41:52.685002",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/1931bc96-46a5-48f3-b613-55626847ca61/resource/c6e51536-16f8-4103-abe0-fa7e550cbff6/download/emprendimientos-proesus-por-provincia.xlsx",
                     "field": [
                         {
+                            "dataset_identifier": "1931bc96-46a5-48f3-b613-55626847ca61",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Código provincial del sistema de identificadores de la cartografía censal del Censo Nacional 2010 del Instituto Nacional de Estadísticas y Censos",
                             "title": "provincia_id"
                         },
                         {
+                            "dataset_identifier": "1931bc96-46a5-48f3-b613-55626847ca61",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Denominación de la Provincia",
                             "title": "provincia_desc"
                         },
                         {
+                            "dataset_identifier": "1931bc96-46a5-48f3-b613-55626847ca61",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de emprendimientos inscriptos en la plataforma PROESUS en cada provincia",
                             "title": "emprendimientos_numero"
@@ -2061,37 +2471,50 @@
                     "description": "Indican la cantidad, tipo y del área sustantiva que se aplican en el MAyDS",
                     "license": "odc-odbl",
                     "title": "Sanciones administrativas aplicadas",
+                    "dataset_identifier": "408ba48b-cd84-45bd-9632-254c10b637b9",
                     "issued": "2017-09-05T18:39:50.434492",
                     "format": "CSV",
                     "modified": "2017-09-05T18:39:50.393052",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/408ba48b-cd84-45bd-9632-254c10b637b9/resource/bf57fac3-d227-4360-a2e9-63b492a459bb/download/sanciones-administrativa-aplicadas.csv",
                     "field": [
                         {
+                            "dataset_identifier": "408ba48b-cd84-45bd-9632-254c10b637b9",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de aplicación de la sanción",
                             "title": "solicitud_inicio_sumario_anio"
                         },
                         {
+                            "dataset_identifier": "408ba48b-cd84-45bd-9632-254c10b637b9",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Área sustantiva que solicita el inicio del sumario",
                             "title": "solicitud_inicio_sumario_area_sustantiva"
                         },
                         {
+                            "dataset_identifier": "408ba48b-cd84-45bd-9632-254c10b637b9",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Indica que normativa se aplicó al sumario sancionado",
                             "title": "normativa_aplicado_tipo"
                         },
                         {
+                            "dataset_identifier": "408ba48b-cd84-45bd-9632-254c10b637b9",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Número de ley, decreto aplicada al sumario",
                             "title": "normativa_aplicado_numero"
                         },
                         {
+                            "dataset_identifier": "408ba48b-cd84-45bd-9632-254c10b637b9",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de sanción de la normativa aplicada al sumario penalizado",
                             "title": "normativa_aplicado_anio_de_sancion"
                         },
                         {
+                            "dataset_identifier": "408ba48b-cd84-45bd-9632-254c10b637b9",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de penalidades o sanciones aplicadas",
                             "title": "penalidades_aplicadas_numero"
@@ -2147,32 +2570,43 @@
                     "description": "El dataset muestra el marco jurídico ambiental vigente",
                     "license": "odc-odbl",
                     "title": "Normativa ambiental",
+                    "dataset_identifier": "b4110596-d9f4-42ff-b5d8-08f26e1c83c0",
                     "issued": "2017-09-05T18:06:20.194182",
                     "format": "CSV",
                     "modified": "2017-09-05T18:06:20.094665",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/b4110596-d9f4-42ff-b5d8-08f26e1c83c0/resource/22a44141-ddd6-4b67-b7a8-e3bc6245a733/download/normativa-ambiental-.csv",
                     "field": [
                         {
+                            "dataset_identifier": "b4110596-d9f4-42ff-b5d8-08f26e1c83c0",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Normativa vinculada al tema",
                             "title": "normativa_tema"
                         },
                         {
+                            "dataset_identifier": "b4110596-d9f4-42ff-b5d8-08f26e1c83c0",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Tipo de normativa",
                             "title": "normativa_tipo"
                         },
                         {
+                            "dataset_identifier": "b4110596-d9f4-42ff-b5d8-08f26e1c83c0",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Número de identificación de la normativa ",
                             "title": "normativa_numero"
                         },
                         {
+                            "dataset_identifier": "b4110596-d9f4-42ff-b5d8-08f26e1c83c0",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de sanción de la normativa ",
                             "title": "normativa_anio"
                         },
                         {
+                            "dataset_identifier": "b4110596-d9f4-42ff-b5d8-08f26e1c83c0",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Marco jurídico ambiental vigente del cual el MAyDS es autoridad de aplicación ",
                             "title": "normativa_descripcion"
@@ -2217,47 +2651,64 @@
                     "description": "El recurso describe la generación de residuos por habitante y año por municipio y provincia, si posee planta de tratamiento y la distancia al municipio perteneciente",
                     "license": "odc-odbl",
                     "title": "Generación de residuos sólidos urbanos por provincia",
+                    "dataset_identifier": "c099ac6b-e6c0-464e-b3e0-8381bb6f35b2",
                     "issued": "2017-09-05T19:00:31.485501",
                     "format": "CSV",
                     "modified": "2017-09-05T19:00:31.435289",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/c099ac6b-e6c0-464e-b3e0-8381bb6f35b2/resource/08c8bd92-188d-4349-9b06-c5a75d641480/download/generacion-de-residuos-solidos-urbanos-por-provincia.csv",
                     "field": [
                         {
+                            "dataset_identifier": "c099ac6b-e6c0-464e-b3e0-8381bb6f35b2",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Provincia a la cual corresponde el municipio",
                             "title": "provincia_nombre"
                         },
                         {
+                            "dataset_identifier": "c099ac6b-e6c0-464e-b3e0-8381bb6f35b2",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Nombre del municipio al cual corresponde el valor",
                             "title": "Municipio_nombre"
                         },
                         {
+                            "dataset_identifier": "c099ac6b-e6c0-464e-b3e0-8381bb6f35b2",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de habitantes en el municipio",
                             "title": "Municipio_habitantes"
                         },
                         {
+                            "dataset_identifier": "c099ac6b-e6c0-464e-b3e0-8381bb6f35b2",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Porcentaje de habitantes del municipio en relación a la provincia",
                             "title": "Porcentaje_habitantes_Provincia"
                         },
                         {
+                            "dataset_identifier": "c099ac6b-e6c0-464e-b3e0-8381bb6f35b2",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Generación de residuos por habitante y por año en kilogramos del municipio",
                             "title": "Generacion_Dia_Habitante_Kg"
                         },
                         {
+                            "dataset_identifier": "c099ac6b-e6c0-464e-b3e0-8381bb6f35b2",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Generacion de residuos generados por el municipio en toneladas",
                             "title": "Generacion_Municipio_Tn"
                         },
                         {
+                            "dataset_identifier": "c099ac6b-e6c0-464e-b3e0-8381bb6f35b2",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Distancia del lugar de disposición final de los residuos generados por el municipio",
                             "title": "Distancia_obra_km"
                         },
                         {
+                            "dataset_identifier": "c099ac6b-e6c0-464e-b3e0-8381bb6f35b2",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Existencia de planta de tratamiento del municipio",
                             "title": "Con_Planta_de_Transferencia"
@@ -2300,22 +2751,29 @@
                     "description": "Son las autorizaciones de importaciones y exportaciones de flora y fauna",
                     "license": "odc-odbl",
                     "title": "Autorizaciones de importaciones y exportaciones de flora y fauna silvestre",
+                    "dataset_identifier": "3015d5f5-d032-4abc-a959-4eaea8c98fc2",
                     "issued": "2017-09-05T19:08:49.861673",
                     "format": "CSV",
                     "modified": "2017-09-05T19:08:49.809444",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/3015d5f5-d032-4abc-a959-4eaea8c98fc2/resource/f1000f91-ce4d-4a48-9f04-babe46f156c4/download/autorizaciones-importaciones-exportaciones-flora-fauna.csv",
                     "field": [
                         {
+                            "dataset_identifier": "3015d5f5-d032-4abc-a959-4eaea8c98fc2",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de la serie",
                             "title": "autorizaciones_anio"
                         },
                         {
+                            "dataset_identifier": "3015d5f5-d032-4abc-a959-4eaea8c98fc2",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de importaciones autorizadas",
                             "title": "autorizaciones_importaciones_numero"
                         },
                         {
+                            "dataset_identifier": "3015d5f5-d032-4abc-a959-4eaea8c98fc2",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de exportaciones autorizadas",
                             "title": "autorizaciones_exportaciones_numero"
@@ -2359,17 +2817,22 @@
                     "description": "Son las actas que se elaboran y notifica el Área de Fiscalización de la Dirección de Fauna Silvestre y Conservación de la Biodiversidad",
                     "license": "odc-odbl",
                     "title": "Actas elaboradas y notificadas por fiscalizacion de fauna",
+                    "dataset_identifier": "c8864d14-0ac1-4c97-9fe6-10b12ef3ecdc",
                     "issued": "2017-09-05T18:59:04.627263",
                     "format": "CSV",
                     "modified": "2017-09-05T18:59:04.581171",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/c8864d14-0ac1-4c97-9fe6-10b12ef3ecdc/resource/52fa3a64-83be-4aed-b590-a2425bf8cfdd/download/actas-elaboradas-notificadas-por-fiscalizacion-de-fauna.csv",
                     "field": [
                         {
+                            "dataset_identifier": "c8864d14-0ac1-4c97-9fe6-10b12ef3ecdc",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de la serie",
                             "title": "actas_elaboradas_y_notificadas_anio"
                         },
                         {
+                            "dataset_identifier": "c8864d14-0ac1-4c97-9fe6-10b12ef3ecdc",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de actas que se elaboran y notifican",
                             "title": "actas_elaboradas_y_notificadas_numero"
@@ -2419,52 +2882,71 @@
                     "description": "Son los decomisos más frecuentes realizados  por el Ministerio de especies de fauna por comercio ilegal",
                     "license": "odc-odbl",
                     "title": "Decomisos de fauna por comercio ilegal",
+                    "dataset_identifier": "a84def2c-5233-41b1-9bc5-868671a84a92",
                     "issued": "2017-09-05T18:33:48.666014",
                     "format": "CSV",
                     "modified": "2017-09-05T18:35:59.802101",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/a84def2c-5233-41b1-9bc5-868671a84a92/resource/d02014ae-bc2a-4e72-a25f-384f0ac45d03/download/decomisos-de-fauna-por-comercio-ilegal.csv",
                     "field": [
                         {
+                            "dataset_identifier": "a84def2c-5233-41b1-9bc5-868671a84a92",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de la serie",
                             "title": "decomisos_anio"
                         },
                         {
+                            "dataset_identifier": "a84def2c-5233-41b1-9bc5-868671a84a92",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de ejemplares de jilguero decomisados",
                             "title": "decomisos_jilgueros"
                         },
                         {
+                            "dataset_identifier": "a84def2c-5233-41b1-9bc5-868671a84a92",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de ejemplares de cabecita negra decomisados",
                             "title": "decomisos_cabecita_negra"
                         },
                         {
+                            "dataset_identifier": "a84def2c-5233-41b1-9bc5-868671a84a92",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de ejemplares de cardenal común decomisados",
                             "title": "decomisos_cardenal_común"
                         },
                         {
+                            "dataset_identifier": "a84def2c-5233-41b1-9bc5-868671a84a92",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de ejemplares de corbatita común decomisados",
                             "title": "decomisos_corbatita_común"
                         },
                         {
+                            "dataset_identifier": "a84def2c-5233-41b1-9bc5-868671a84a92",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de ejemplares de cotorra australiana decomisados",
                             "title": "decomisos_cotorra_australiana"
                         },
                         {
+                            "dataset_identifier": "a84def2c-5233-41b1-9bc5-868671a84a92",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de ejemplares de canario decomisados",
                             "title": "decomisos_canarios"
                         },
                         {
+                            "dataset_identifier": "a84def2c-5233-41b1-9bc5-868671a84a92",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de ejemplares de cangrejo de agua dulce decomisados",
                             "title": "decomisos_cangrejos_agua_dulce"
                         },
                         {
+                            "dataset_identifier": "a84def2c-5233-41b1-9bc5-868671a84a92",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de ejemplares de tortuga de tierra decomisados",
                             "title": "decomisos_tortugas_de_tierra"
@@ -2476,37 +2958,50 @@
                     "description": "Son los decomisos hechos por el Ministerio de especies de fauna comercializadas ilegalmente por tipo (secuestrados, rescatados, productos y subproductos, municiones y carne en kilogramos)",
                     "license": "odc-odbl",
                     "title": "Decomisos de especies comercializadas ilegalmente por tipo",
+                    "dataset_identifier": "a84def2c-5233-41b1-9bc5-868671a84a92",
                     "issued": "2017-09-05T18:45:27.781495",
                     "format": "CSV",
                     "modified": "2017-09-05T18:45:27.712976",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/a84def2c-5233-41b1-9bc5-868671a84a92/resource/7b289472-6318-4199-a23d-627666ca04ec/download/decomisos-especies-comercializadas-ilegalmente-por-tipo.csv",
                     "field": [
                         {
+                            "dataset_identifier": "a84def2c-5233-41b1-9bc5-868671a84a92",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Año de la serie",
                             "title": "decomisos_anio"
                         },
                         {
+                            "dataset_identifier": "a84def2c-5233-41b1-9bc5-868671a84a92",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de decomisos de ejemplares vivos secuestrados",
                             "title": "decomisos_ejemplares_vivos_secuestrados"
                         },
                         {
+                            "dataset_identifier": "a84def2c-5233-41b1-9bc5-868671a84a92",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de decomisos de ejemplares vivos rescatados",
                             "title": "decomisos_ejemplares_vivos_rescates"
                         },
                         {
+                            "dataset_identifier": "a84def2c-5233-41b1-9bc5-868671a84a92",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de decomisos de productos y subproductos (ej: cueros, plumas, prendas, marroquinería, calzado)",
                             "title": "decomisos_ejemplares_vivos_productos_y_subproductos"
                         },
                         {
+                            "dataset_identifier": "a84def2c-5233-41b1-9bc5-868671a84a92",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de decomisos de municiones 12-70 (cartuchos de escopeta)",
                             "title": "decomisos_municiones_12_70"
                         },
                         {
+                            "dataset_identifier": "a84def2c-5233-41b1-9bc5-868671a84a92",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de decomisos de carne (ej: proveniente de la caza ilegal o venta al público)",
                             "title": "decomisos_carne_en_kilogramos"
@@ -2554,32 +3049,43 @@
                     "description": "Superficie, cantidad y porcentaje del área protegida que corresponde al Mar Argentino",
                     "license": "odc-odbl",
                     "title": "Áreas naturales protegidas en Mar Argentino",
+                    "dataset_identifier": "7111050b-ea63-4858-92e2-aa126352ae77",
                     "issued": "2017-09-05T17:31:20.141492",
                     "format": "CSV",
                     "modified": "2017-09-05T18:04:19.194674",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/7111050b-ea63-4858-92e2-aa126352ae77/resource/4557aa5c-d022-4062-ac2f-48441ac95659/download/areas-naturales-protegidas-mar-argentino.csv",
                     "field": [
                         {
+                            "dataset_identifier": "7111050b-ea63-4858-92e2-aa126352ae77",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Denominación de la unidad geográfica (Mar Argentino)",
                             "title": "unidad_geografica"
                         },
                         {
+                            "dataset_identifier": "7111050b-ea63-4858-92e2-aa126352ae77",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Total de la superficie de la unidad geográfica (Mar Argentino) en km2",
                             "title": "unidad_geografica_superficie_km2"
                         },
                         {
+                            "dataset_identifier": "7111050b-ea63-4858-92e2-aa126352ae77",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de áreas protegidas en la unidad geográfica",
                             "title": "areas_naturales_protegidas_numero"
                         },
                         {
+                            "dataset_identifier": "7111050b-ea63-4858-92e2-aa126352ae77",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Superficie del área protegida en la unidad geográfica en km2",
                             "title": "areas_naturales_protegidas_superficie_km2"
                         },
                         {
+                            "dataset_identifier": "7111050b-ea63-4858-92e2-aa126352ae77",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Porcentaje de la superficie del área protegida en relación a la unidad geográfica",
                             "title": "areas_naturales_protegidas_porcentaje"
@@ -2591,32 +3097,43 @@
                     "description": "Datos correspondientes al porcentaje y superficie de áreas naturales protegidas por provincia",
                     "license": "odc-odbl",
                     "title": "Porcentaje y superficie de áreas naturales protegidas por provincia",
+                    "dataset_identifier": "7111050b-ea63-4858-92e2-aa126352ae77",
                     "issued": "2017-09-05T17:43:06.797965",
                     "format": "CSV",
                     "modified": "2017-09-05T17:43:06.731725",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/7111050b-ea63-4858-92e2-aa126352ae77/resource/986deea3-d8ef-4d92-8155-c5099d5edfab/download/areas-naturales-protegidas-porcentaje-superficie.csv",
                     "field": [
                         {
+                            "dataset_identifier": "7111050b-ea63-4858-92e2-aa126352ae77",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Código de unidad geográfica utilizada por el INDEC",
                             "title": "provincia_id"
                         },
                         {
+                            "dataset_identifier": "7111050b-ea63-4858-92e2-aa126352ae77",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Denominación de la provincia",
                             "title": "provincia_desc"
                         },
                         {
+                            "dataset_identifier": "7111050b-ea63-4858-92e2-aa126352ae77",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Superficie de la provincia en km2",
                             "title": "provincia_superficie_km2"
                         },
                         {
+                            "dataset_identifier": "7111050b-ea63-4858-92e2-aa126352ae77",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Superficie del área protegida de la provincia en km2",
                             "title": "areas_naturales_protegidas_superficie_km2"
                         },
                         {
+                            "dataset_identifier": "7111050b-ea63-4858-92e2-aa126352ae77",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Porcentaje de la superficie del área protegida en relación a la superficie total provincial",
                             "title": "areas_naturales_protegidas_porcentaje"
@@ -2628,22 +3145,29 @@
                     "description": "Datos correspondientes a la cantidad de áreas protegidas por provincia",
                     "license": "odc-odbl",
                     "title": "Cantidad de áreas naturales protegidas por provincia",
+                    "dataset_identifier": "7111050b-ea63-4858-92e2-aa126352ae77",
                     "issued": "2017-09-05T17:47:06.948966",
                     "format": "CSV",
                     "modified": "2017-09-05T18:06:06.950253",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/7111050b-ea63-4858-92e2-aa126352ae77/resource/e0ad159b-53d9-404f-b0b7-e83c9681b217/download/areas-naturales-protegidas-provincia-cantidad.csv",
                     "field": [
                         {
+                            "dataset_identifier": "7111050b-ea63-4858-92e2-aa126352ae77",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Código de unidad geográfica utilizada por el INDEC",
                             "title": "provincia_id"
                         },
                         {
+                            "dataset_identifier": "7111050b-ea63-4858-92e2-aa126352ae77",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Denominación de la provincia",
                             "title": "provincia_desc"
                         },
                         {
+                            "dataset_identifier": "7111050b-ea63-4858-92e2-aa126352ae77",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de áreas protegidas en la provincia",
                             "title": "areas_naturales_protegidas_numero"
@@ -2686,57 +3210,78 @@
                     "description": "Tabla que resume los resultados del ING, cuyo objetivo es la individualización de todos los glaciares y geoformas periglaciales que actúan como reserva hídricas existentes en el territorio nacional.",
                     "license": "odc-odbl",
                     "title": "Área englazada por subcuenca publicada del Inventario Nacional de Glaciares (ING).",
+                    "dataset_identifier": "a0f15169-f826-4657-b53f-0471bf6392e3",
                     "issued": "2017-09-05T15:25:25.621833",
                     "format": "CSV",
                     "modified": "2017-09-05T15:25:25.582604",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/a0f15169-f826-4657-b53f-0471bf6392e3/resource/1ece7132-b379-4fb3-b9d9-7295e59e97fa/download/area-englazada-por-subcuenca.csv",
                     "field": [
                         {
+                            "dataset_identifier": "a0f15169-f826-4657-b53f-0471bf6392e3",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Nombre de la subcuenca del Inventario Nacional de Glaciares (ING)",
                             "title": "subcuenca_nombre"
                         },
                         {
+                            "dataset_identifier": "a0f15169-f826-4657-b53f-0471bf6392e3",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Nombre de la cuenca de acuerdo a la denominación del Atlas de Cuencas y Regiones Hídricas Superficiales de la República Argentina",
                             "title": "cuenca_nombre"
                         },
                         {
+                            "dataset_identifier": "a0f15169-f826-4657-b53f-0471bf6392e3",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Región a la cual pertenece la subcuenca de acuerdo a las definidas por el Decreto Reglamentario 207/11",
                             "title": "region_nombre"
                         },
                         {
+                            "dataset_identifier": "a0f15169-f826-4657-b53f-0471bf6392e3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Código provincial del sistema de identificadores de la cartografía censal del Censo Nacional 2010 del Instituto Nacional de Estadísticas y Censos",
                             "title": "provincia_id"
                         },
                         {
+                            "dataset_identifier": "a0f15169-f826-4657-b53f-0471bf6392e3",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Denominación de la Provincia, en caso de subcuencas compartidas entre una o más provincias, se asigna a la provincia que mayor área abarca en la subcuenca",
                             "title": "provincia_nombre"
                         },
                         {
+                            "dataset_identifier": "a0f15169-f826-4657-b53f-0471bf6392e3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Área total de las subcuencas del ING en km2",
                             "title": "subcuenca_area_total_km2"
                         },
                         {
+                            "dataset_identifier": "a0f15169-f826-4657-b53f-0471bf6392e3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Hace referencia a la cantidad de glaciares cubiertos, glaciares descubiertos, glaciares de escombros activos e inactivos, manchones de nieve que hay en cada subcuenca",
                             "title": "subcuenca_cuerpos_ricos_numero"
                         },
                         {
+                            "dataset_identifier": "a0f15169-f826-4657-b53f-0471bf6392e3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Hace referencia a la suma de las área total de glaciares cubiertos, glaciares descubiertos, glaciares de escombros activos e inactivos, manchones de nieve que hay en cada subcuenca",
                             "title": "subcuenca_area_englazada_km2"
                         },
                         {
+                            "dataset_identifier": "a0f15169-f826-4657-b53f-0471bf6392e3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Porcentaje de relación entre el área englazada y el área de la subcuenca",
                             "title": "subcuenca_porcentaje_englazado"
                         },
                         {
+                            "dataset_identifier": "a0f15169-f826-4657-b53f-0471bf6392e3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Área de la subcuenca que no está englazada",
                             "title": "subcuenca_no_englazada_km2"
@@ -2781,72 +3326,99 @@
                     "description": "Conjunto de determinaciones in situ/laboratorio de parámetros de calidad de agua de muestras extraídas a lo largo de la franja costera del Río de la Plata, en la campaña Invierno 2013.",
                     "license": "odc-odbl",
                     "title": "Muestreos de calidad de agua de la Red de Intercambio de Información de los Gobiernos Locales (RIIGLO) invierno-2013",
+                    "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
                     "issued": "2017-09-04T19:05:01.908506",
                     "format": "CSV",
                     "modified": "2017-09-04T19:05:00.841306",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/894b56e5-6861-4863-965c-3ba12da7edd3/resource/e9776dd3-a06d-42f7-83bf-0372d2984637/download/muestreo-calidad-de-agua-riiglo-invierno-2013.csv",
                     "field": [
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Identificador de la estación de muestreo",
                             "title": "estacion_id"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Nombre de la estación de muestreo",
                             "title": "estacion_ubicacion"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "date",
                             "description": "Fecha de extracción de la muestra",
                             "title": "extraccion_fecha"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘pH’ en unidades de pH",
                             "title": "ph_uph"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘oxígeno disuelto’ en mg/l",
                             "title": "od_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘demanda bioquímica de oxígeno’ en mg/l",
                             "title": "dqo_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘bacterias coliformes totales’ en NMP/100ml",
                             "title": "coliformes_totales_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘bacterias escherichia coli’ en NMP/100ml",
                             "title": "escherichia_coli_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘bacterias coliformes fecales’ en NMP/100ml",
                             "title": "coliformes_fecales_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘amonio’ en mg/l",
                             "title": "nh4_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘nitratos’ en mg/l",
                             "title": "no3_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘temperatura ambiente’ en °C",
                             "title": "temperatura_ambiente"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘temperatura del agua’ en °C",
                             "title": "temperatura_agua"
@@ -2858,72 +3430,99 @@
                     "description": "Conjunto de determinaciones in situ/laboratorio de parámetros de calidad de agua de muestras extraídas a lo largo de la franja costera del Río de la Plata, en la campaña Primavera 2013.",
                     "license": "odc-odbl",
                     "title": "Muestreos de calidad de agua de la Red de Intercambio de Información de los Gobiernos Locales (RIIGLO) primavera-2013",
+                    "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
                     "issued": "2017-09-04T19:46:16.804774",
                     "format": "CSV",
                     "modified": "2017-09-04T19:51:35.537849",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/894b56e5-6861-4863-965c-3ba12da7edd3/resource/571ebcba-dfdb-473f-bbb3-22b6c6ac4c1d/download/muestreo-calidad-de-agua-riiglo-primavera--2013.csv",
                     "field": [
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Identificador de la estación de muestreo",
                             "title": "estacion_id"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Nombre de la estación de muestreo",
                             "title": "estacion_ubicacion"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "date",
                             "description": "Fecha de extracción de la muestra",
                             "title": "extraccion_fecha"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘pH’ en unidades de pH",
                             "title": "ph_uph"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘oxígeno disuelto’ en mg/l",
                             "title": "od_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘demanda bioquímica de oxígeno’ en mg/l",
                             "title": "dqo_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘bacterias coliformes totales’ en NMP/100ml",
                             "title": "coliformes_totales_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘bacterias escherichia coli’ en NMP/100ml",
                             "title": "escherichia_coli_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘bacterias coliformes fecales’ en NMP/100ml",
                             "title": "coliformes_fecales_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘amonio’ en mg/l",
                             "title": "nh4_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘nitratos’ en mg/l",
                             "title": "no3_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘temperatura ambiente’ en °C",
                             "title": "temperatura_ambiente"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘temperatura del agua’ en °C",
                             "title": "temperatura_agua"
@@ -2935,72 +3534,99 @@
                     "description": "Conjunto de determinaciones in situ/laboratorio de parámetros de calidad de agua de muestras extraídas a lo largo de la franja costera del Río de la Plata, en la campaña Verano 2014.",
                     "license": "odc-odbl",
                     "title": "Muestreos de calidad de agua de la Red de Intercambio de Información de los Gobiernos Locales (RIIGLO) verano-2014",
+                    "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
                     "issued": "2017-09-05T13:36:52.328525",
                     "format": "CSV",
                     "modified": "2017-09-05T13:36:52.275195",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/894b56e5-6861-4863-965c-3ba12da7edd3/resource/6a6b107c-6aad-4b7d-b38f-90d425ed7b14/download/muestreo-calidad-de-agua-riiglo-verano-2014.csv",
                     "field": [
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Identificador de la estación de muestreo",
                             "title": "estacion_id"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Nombre de la estación de muestreo",
                             "title": "estacion_ubicacion"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "date",
                             "description": "Fecha de extracción de la muestra",
                             "title": "extraccion_fecha"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘pH’ en unidades de pH",
                             "title": "ph_uph"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘oxígeno disuelto’ en mg/l",
                             "title": "od_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘demanda bioquímica de oxígeno’ en mg/l",
                             "title": "dqo_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘bacterias coliformes totales’ en NMP/100ml",
                             "title": "coliformes_totales_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘bacterias escherichia coli’ en NMP/100ml",
                             "title": "escherichia_coli_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘bacterias coliformes fecales’ en NMP/100ml",
                             "title": "coliformes_fecales_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘amonio’ en mg/l",
                             "title": "nh4_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘nitratos’ en mg/l",
                             "title": "no3_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘temperatura ambiente’ en °C",
                             "title": "temperatura_ambiente"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘temperatura del agua’ en °C",
                             "title": "temperatura_agua"
@@ -3012,72 +3638,99 @@
                     "description": "Conjunto de determinaciones in situ/laboratorio de parámetros de calidad de agua de muestras extraídas a lo largo de la franja costera del Río de la Plata, en la campaña Invierno 2014.",
                     "license": "odc-odbl",
                     "title": "Muestreos de calidad de agua de la Red de Intercambio de Información de los Gobiernos Locales (RIIGLO) Invierno-2014",
+                    "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
                     "issued": "2017-09-05T13:56:44.610891",
                     "format": "CSV",
                     "modified": "2017-09-05T13:56:44.553161",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/894b56e5-6861-4863-965c-3ba12da7edd3/resource/38619b55-edbf-401e-9e41-817805363df2/download/muestreo-calidad-de-agua-riiglo-invierno-2014.csv",
                     "field": [
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Identificador de la estación de muestreo",
                             "title": "estacion_id"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Nombre de la estación de muestreo",
                             "title": "estacion_ubicacion"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "date",
                             "description": "Fecha de extracción de la muestra",
                             "title": "extraccion_fecha"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘pH’ en unidades de pH",
                             "title": "ph_uph"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘oxígeno disuelto’ en mg/l",
                             "title": "od_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘demanda bioquímica de oxígeno’ en mg/l",
                             "title": "dqo_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘bacterias coliformes totales’ en NMP/100ml",
                             "title": "coliformes_totales_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘bacterias escherichia coli’ en NMP/100ml",
                             "title": "escherichia_coli_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘bacterias coliformes fecales’ en NMP/100ml",
                             "title": "coliformes_fecales_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘amonio’ en mg/l",
                             "title": "nh4_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘nitratos’ en mg/l",
                             "title": "no3_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘temperatura ambiente’ en °C",
                             "title": "temperatura_ambiente"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘temperatura del agua’ en °C",
                             "title": "temperatura_agua"
@@ -3089,72 +3742,99 @@
                     "description": "Conjunto de determinaciones in situ/laboratorio de parámetros de calidad de agua de muestras extraídas a lo largo de la franja costera del Río de la Plata, en la campaña Primavera 2014.",
                     "license": "odc-odbl",
                     "title": "Muestreos de calidad de agua de la Red de Intercambio de Información de los Gobiernos Locales (RIIGLO) Primavera-2014",
+                    "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
                     "issued": "2017-09-05T14:08:05.648245",
                     "format": "CSV",
                     "modified": "2017-09-05T14:08:05.591000",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/894b56e5-6861-4863-965c-3ba12da7edd3/resource/1d95280c-33ba-4b35-9dc5-8fd4c452deea/download/muestreo-calidad-de-agua-riiglo-primavera-2014.csv",
                     "field": [
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Identificador de la estación de muestreo",
                             "title": "estacion_id"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Nombre de la estación de muestreo",
                             "title": "estacion_ubicacion"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "date",
                             "description": "Fecha de extracción de la muestra",
                             "title": "extraccion_fecha"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘pH’ en unidades de pH",
                             "title": "ph_uph"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘oxígeno disuelto’ en mg/l",
                             "title": "od_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘demanda bioquímica de oxígeno’ en mg/l",
                             "title": "dqo_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘bacterias coliformes totales’ en NMP/100ml",
                             "title": "coliformes_totales_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘bacterias escherichia coli’ en NMP/100ml",
                             "title": "escherichia_coli_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘bacterias coliformes fecales’ en NMP/100ml",
                             "title": "coliformes_fecales_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘amonio’ en mg/l",
                             "title": "nh4_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘nitratos’ en mg/l",
                             "title": "no3_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘temperatura ambiente’ en °C",
                             "title": "temperatura_ambiente"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘temperatura del agua’ en °C",
                             "title": "temperatura_agua"
@@ -3166,57 +3846,78 @@
                     "description": "Conjunto de determinaciones in situ/laboratorio de parámetros de calidad de agua de muestras extraídas a lo largo de la franja costera del Río de la Plata, en la campaña Otoño 2016.",
                     "license": "odc-odbl",
                     "title": "Muestreos de calidad de agua de la Red de Intercambio de Información de los Gobiernos Locales (RIIGLO) Otoño-2016",
+                    "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
                     "issued": "2017-09-05T14:21:03.800210",
                     "format": "CSV",
                     "modified": "2017-09-05T14:21:03.736440",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/894b56e5-6861-4863-965c-3ba12da7edd3/resource/8645e3d8-be3a-4d82-83f7-86a8e8fd7119/download/muestreo-calidad-de-agua-riiglo-otono-2016.csv",
                     "field": [
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Identificador de la estación de muestreo",
                             "title": "estacion_id"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Nombre de la estación de muestreo",
                             "title": "estacion_ubicacion"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "date",
                             "description": "Fecha de extracción de la muestra",
                             "title": "extraccion_fecha"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘pH’ en unidades de pH",
                             "title": "ph_uph"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘demanda bioquímica de oxígeno’ en mg/l",
                             "title": "dqo_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘bacterias coliformes totales’ en NMP/100ml",
                             "title": "coliformes_totales_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘bacterias escherichia coli’ en NMP/100ml",
                             "title": "escherichia_coli_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘bacterias coliformes fecales’ en NMP/100ml",
                             "title": "coliformes_fecales_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘amonio’ en mg/l",
                             "title": "nh4_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘nitratos’ en mg/l",
                             "title": "no3_mg_l"
@@ -3228,52 +3929,71 @@
                     "description": "Conjunto de determinaciones in situ/laboratorio de parámetros de calidad de agua de muestras extraídas a lo largo de la franja costera del Río de la Plata, en la campaña Invierno 2016.",
                     "license": "odc-odbl",
                     "title": "Muestreos de calidad de agua de la Red de Intercambio de Información de los Gobiernos Locales (RIIGLO) Invierno-2016",
+                    "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
                     "issued": "2017-09-05T14:33:29.954832",
                     "format": "CSV",
                     "modified": "2017-09-05T14:33:29.862798",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/894b56e5-6861-4863-965c-3ba12da7edd3/resource/80238997-47c7-4e30-8f52-7cf49949bc11/download/muestreo-calidad-de-agua-riiglo-invierno-2016.csv",
                     "field": [
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Identificador de la estación de muestreo",
                             "title": "estacion_id"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Nombre de la estación de muestreo",
                             "title": "estacion_ubicacion"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "date",
                             "description": "Fecha de extracción de la muestra",
                             "title": "extraccion_fecha"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘demanda bioquímica de oxígeno’ en mg/l",
                             "title": "dqo_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘bacterias coliformes totales’ en NMP/100ml",
                             "title": "coliformes_totales_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘bacterias escherichia coli’ en NMP/100ml",
                             "title": "escherichia_coli_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘bacterias coliformes fecales’ en NMP/100ml",
                             "title": "coliformes_fecales_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘amonio’ en mg/l",
                             "title": "nh4_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘nitratos’ en mg/l",
                             "title": "no3_mg_l"
@@ -3285,52 +4005,71 @@
                     "description": "Conjunto de determinaciones in situ/laboratorio de parámetros de calidad de agua de muestras extraídas a lo largo de la franja costera del Río de la Plata, en la campaña Verano 2016.",
                     "license": "odc-odbl",
                     "title": "Muestreos de calidad de agua de la Red de Intercambio de Información de los Gobiernos Locales (RIIGLO) Verano-2016",
+                    "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
                     "issued": "2017-09-05T14:49:47.965943",
                     "format": "CSV",
                     "modified": "2017-09-05T14:49:47.898125",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/894b56e5-6861-4863-965c-3ba12da7edd3/resource/f960fc03-ddcb-4a6f-b10a-765faf907371/download/muestreo-calidad-de-agua-riiglo-verano-2016.csv",
                     "field": [
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Identificador de la estación de muestreo",
                             "title": "estacion_id"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Nombre de la estación de muestreo",
                             "title": "estacion_ubicacion"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "date",
                             "description": "Fecha de extracción de la muestra",
                             "title": "extraccion_fecha"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘demanda bioquímica de oxígeno’ en mg/l",
                             "title": "dqo_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘bacterias coliformes totales’ en NMP/100ml",
                             "title": "coliformes_totales_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘bacterias escherichia coli’ en NMP/100ml",
                             "title": "escherichia_coli_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘bacterias coliformes fecales’ en NMP/100ml",
                             "title": "coliformes_fecales_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘amonio’ en mg/l",
                             "title": "nh4_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘nitratos’ en mg/l",
                             "title": "no3_mg_l"
@@ -3342,52 +4081,71 @@
                     "description": "Conjunto de determinaciones in situ/laboratorio de parámetros de calidad de agua de muestras extraídas a lo largo de la franja costera del Río de la Plata, en la campaña Primavera 2016.",
                     "license": "odc-odbl",
                     "title": "Muestreos de calidad de agua de la Red de Intercambio de Información de los Gobiernos Locales (RIIGLO) Primavera-2016",
+                    "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
                     "issued": "2017-09-05T15:01:43.512143",
                     "format": "CSV",
                     "modified": "2017-09-05T15:01:43.439950",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/894b56e5-6861-4863-965c-3ba12da7edd3/resource/7cf2a681-0e2a-436f-bae0-7ff01a6ad290/download/muestreo-calidad-de-agua-riiglo-primavera-2016.csv",
                     "field": [
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Identificador de la estación de muestreo",
                             "title": "estacion_id"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Nombre de la estación de muestreo",
                             "title": "estacion_ubicacion"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "date",
                             "description": "Fecha de extracción de la muestra",
                             "title": "extraccion_fecha"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘demanda bioquímica de oxígeno’ en mg/l",
                             "title": "dqo_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘bacterias coliformes totales’ en NMP/100ml",
                             "title": "coliformes_totales_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘bacterias escherichia coli’ en NMP/100ml",
                             "title": "escherichia_coli_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Valor medido del parámetro ‘bacterias coliformes fecales’ en NMP/100ml",
                             "title": "coliformes_fecales_nmp_100ml"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘amonio’ en mg/l",
                             "title": "nh4_mg_l"
                         },
                         {
+                            "dataset_identifier": "894b56e5-6861-4863-965c-3ba12da7edd3",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Valor medido del parámetro ‘nitratos’ en mg/l",
                             "title": "no3_mg_l"
