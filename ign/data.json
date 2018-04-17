@@ -44,33 +44,44 @@
                     "accessURL": "http://www.ign.gob.ar/sig",
                     "field": [
                         {
+                            "distribution_identifier": "01.01.1",
                             "description": "Nombre geográfico (FNA) o nombre largo del país.",
                             "title": "pais_nombre_largo",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.01.1",
                             "description": "Término genérico (GNA) o tipo de jurisdicción de la división político-territorial.",
                             "title": "jurisdiccion_tipo",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.01.1",
                             "description": "Término específico (NAM) o nombre corto del país.",
                             "title": "pais_nombre",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.01.1",
                             "description": "Autoridad de fuente (SAG) responsable de la administración del dato de estas entidades.",
                             "title": "autoridad_fuente",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.01.1",
                             "description": "Código identificador de la país (IN1) del Censo Nacional de Población, Hogares y Viviendas 2010 de INDEC.",
                             "title": "pais_id",
+                            "dataset_identifier": "01",
                             "type": "text"
                         }
                     ],
                     "description": "Entidad que representa a los límites de la República Argentina como nación jurídicamente organizada. Formato CSV",
                     "title": "País",
+                    "dataset_identifier": "01",
                     "issued": "2017-12-20T00:00:00",
                     "format": "CSV",
                     "modified": "2017-12-20T00:00:00",
@@ -82,38 +93,51 @@
                     "accessURL": "http://www.ign.gob.ar/sig",
                     "field": [
                         {
+                            "distribution_identifier": "01.01.2",
                             "description": "Código ISO ISO 3166-1 alfa 3",
                             "title": "pais_iso_3166_1",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.01.2",
                             "description": "Nombre geográfico (FNA) o nombre largo del país.",
                             "title": "fna",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.01.2",
                             "description": "Término genérico (GNA) o tipo de jurisdicción de la división político-territorial.",
                             "title": "gna",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.01.2",
                             "description": "Término específico (NAM) o nombre corto del país.",
                             "title": "nam",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.01.2",
                             "description": "Autoridad de fuente (SAG) responsable de la administración del dato de estas entidades.",
                             "title": "sag",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.01.2",
                             "description": "Código identificador del país (IN1) del Censo Nacional de Población, Hogares y Viviendas 2010 de INDEC.",
                             "title": "in1",
+                            "dataset_identifier": "01",
                             "type": "text"
                         }
                     ],
                     "description": "Polígono que representa a los límites de la República Argentina como nación jurídicamente organizada. Formato SHP",
                     "title": "País",
+                    "dataset_identifier": "01",
                     "issued": "2017-12-20T00:00:00",
                     "format": "ZIP",
                     "modified": "2017-12-20T00:00:00",
@@ -125,33 +149,44 @@
                     "accessURL": "http://www.ign.gob.ar/sig",
                     "field": [
                         {
+                            "distribution_identifier": "01.01.3",
                             "description": "Nombre geográfico (FNA) o nombre largo de la país.",
                             "title": "fna",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.01.3",
                             "description": "Término genérico (GNA) o tipo de jurisdicción de la división político-territorial.",
                             "title": "gna",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.01.3",
                             "description": "Término específico (NAM) o nombre corto del país.",
                             "title": "nam",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.01.3",
                             "description": "Autoridad de fuente (SAG) responsable de la administración del dato de estas entidades.",
                             "title": "sag",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.01.3",
                             "description": "Código identificador del país (IN1) del Censo Nacional de Población, Hogares y Viviendas 2010 de INDEC.",
                             "title": "in1",
+                            "dataset_identifier": "01",
                             "type": "text"
                         }
                     ],
                     "description": "Polígono que representa a los límites de la República Argentina como nación jurídicamente organizada. Formato GEOJSON",
                     "title": "País",
+                    "dataset_identifier": "01",
                     "issued": "2017-12-20T00:00:00",
                     "format": "ZIP",
                     "modified": "2017-12-20T00:00:00",
@@ -163,33 +198,44 @@
                     "accessURL": "http://www.ign.gob.ar/sig",
                     "field": [
                         {
+                            "distribution_identifier": "01.02.1",
                             "description": "Código identificador de la provincia (IN1) del Censo Nacional de Población, Hogares y Viviendas 2010 de INDEC.",
                             "title": "provincia_id",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.02.1",
                             "description": "Término específico (NAM) o nombre corto de la provincia.",
                             "title": "provincia_nombre",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.02.1",
                             "description": "Término genérico (GNA) o tipo de jurisdicción de la división político-territorial.",
                             "title": "jurisdiccion_tipo",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.02.1",
                             "description": "Autoridad de fuente (SAG) responsable de la administración del dato de estas entidades.",
                             "title": "autoridad_fuente",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.02.1",
                             "description": "Nombre geográfico (FNA) o nombre largo de la provincia.",
                             "title": "provincia_nombre_largo",
+                            "dataset_identifier": "01",
                             "type": "text"
                         }
                     ],
                     "description": "Lista de las entidades que representan la división político territorial de primer orden de la República Argentina. Incluye las 23 provincias y la Ciudad Autónoma de Buenos Aires (CABA). Formato CSV.",
                     "title": "Provincias",
+                    "dataset_identifier": "01",
                     "issued": "2017-12-20T00:00:00",
                     "format": "CSV",
                     "modified": "2017-12-20T00:00:00",
@@ -201,33 +247,44 @@
                     "accessURL": "http://www.ign.gob.ar/sig",
                     "field": [
                         {
+                            "distribution_identifier": "01.02.2",
                             "description": "Código ISO 3166-2:AR de las provincias argentinas",
                             "title": "provincia_codigo_iso",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.02.2",
                             "description": "Abreviatura de las provincias argentinas",
                             "title": "provincia_abreviatura",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.02.2",
                             "description": "Código identificador de la provincia (IN1) del Censo Nacional de Población, Hogares y Viviendas 2010 de INDEC.",
                             "title": "in1",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.02.2",
                             "description": "Término específico (NAM) o nombre corto de la provincia.",
                             "title": "nam",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.02.2",
                             "description": "Nombre geográfico (FNA) o nombre largo de la provincia.",
                             "title": "fna",
+                            "dataset_identifier": "01",
                             "type": "text"
                         }
                     ],
                     "description": "Polígonos que representan la división político territorial de primer orden de la República Argentina. Incluye las 23 provincias y la Ciudad Autónoma de Buenos Aires (CABA). Formato SHP.",
                     "title": "Provincias",
+                    "dataset_identifier": "01",
                     "issued": "2017-12-20T00:00:00",
                     "format": "ZIP",
                     "modified": "2017-12-20T00:00:00",
@@ -239,43 +296,58 @@
                     "accessURL": "http://www.ign.gob.ar/sig",
                     "field": [
                         {
+                            "distribution_identifier": "01.02.3",
                             "description": "Término genérico (GNA) o tipo de jurisdicción de la división político-territorial.",
                             "title": "gna",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.02.3",
                             "description": "Autoridad de fuente (SAG) responsable de la administración del dato de estas entidades.",
                             "title": "sag",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.02.3",
                             "description": "Código identificador de la provincia (IN1) del Censo Nacional de Población, Hogares y Viviendas 2010 de INDEC.",
                             "title": "in1",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.02.3",
                             "description": "Término específico (NAM) o nombre corto de la provincia.",
                             "title": "nam",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.02.3",
                             "description": "Nombre geográfico (FNA) o nombre largo de la provincia.",
                             "title": "fna",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.02.3",
                             "description": "Término genérico (GNA) o tipo de jurisdicción de la división político-territorial.",
                             "title": "gna",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.02.3",
                             "description": "Autoridad de fuente (SAG) responsable de la administración del dato de estas entidades.",
                             "title": "sag",
+                            "dataset_identifier": "01",
                             "type": "text"
                         }
                     ],
                     "description": "Polígonos que representan la división político territorial de primer orden de la República Argentina. Incluye las 23 provincias y la Ciudad Autónoma de Buenos Aires (CABA). Formato GEOJSON.",
                     "title": "Provincias",
+                    "dataset_identifier": "01",
                     "issued": "2017-12-20T00:00:00",
                     "format": "ZIP",
                     "modified": "2017-12-20T00:00:00",
@@ -287,23 +359,30 @@
                     "accessURL": "http://www.ign.gob.ar/sig",
                     "field": [
                         {
+                            "distribution_identifier": "01.03.1",
                             "description": "Nombre geográfico (FNA) o nombre largo del departamento.",
                             "title": "departamento_nombre_largo",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.03.1",
                             "description": "Término genérico (GNA) o tipo de jurisdicción de la división político-territorial.",
                             "title": "jurisdiccion_tipo",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.03.1",
                             "description": "Término específico (NAM) o nombre corto del departamento.",
                             "title": "departamento_nombre",
+                            "dataset_identifier": "01",
                             "type": "text"
                         }
                     ],
                     "description": "Lista de las entidades que representan la división político administrativa de segundo orden de la República Argentina, incluye partidos y comunas. Formato CSV.",
                     "title": "Departamentos",
+                    "dataset_identifier": "01",
                     "issued": "2017-12-20T00:00:00",
                     "format": "CSV",
                     "modified": "2017-12-20T00:00:00",
@@ -315,33 +394,44 @@
                     "accessURL": "http://www.ign.gob.ar/sig",
                     "field": [
                         {
+                            "distribution_identifier": "01.03.2",
                             "description": "Autoridad de fuente (SAG) responsable de la administración del dato de estas entidades.",
                             "title": "autoridad_fuente",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.03.2",
                             "description": "Código identificador del departamento (IN1) del Censo Nacional de Población, Hogares y Viviendas 2010 de INDEC.",
                             "title": "departamento_id",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.03.2",
                             "description": "Nombre geográfico (FNA) o nombre largo del departamento.",
                             "title": "fna",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.03.2",
                             "description": "Término genérico (GNA) o tipo de jurisdicción de la división político-territorial.",
                             "title": "gna",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.03.2",
                             "description": "Término específico (NAM) o nombre corto del departamento.",
                             "title": "nam",
+                            "dataset_identifier": "01",
                             "type": "text"
                         }
                     ],
                     "description": "Polígonos que representan la división político administrativa de segundo orden de la República Argentina, incluye partidos y comunas. Formato SHP.",
                     "title": "Departamentos",
+                    "dataset_identifier": "01",
                     "issued": "2017-12-20T00:00:00",
                     "format": "ZIP",
                     "modified": "2017-12-20T00:00:00",
@@ -353,43 +443,58 @@
                     "accessURL": "http://www.ign.gob.ar/sig",
                     "field": [
                         {
+                            "distribution_identifier": "01.03.3",
                             "description": "Autoridad de fuente (SAG) responsable de la administración del dato de estas entidades.",
                             "title": "sag",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.03.3",
                             "description": "Código identificador del departamento (IN1) del Censo Nacional de Población, Hogares y Viviendas 2010 de INDEC.",
                             "title": "in1",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.03.3",
                             "description": "Nombre geográfico (FNA) o nombre largo del departamento.",
                             "title": "fna",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.03.3",
                             "description": "Término genérico (GNA) o tipo de jurisdicción de la división político-territorial.",
                             "title": "gna",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.03.3",
                             "description": "Término específico (NAM) o nombre corto del departamento.",
                             "title": "nam",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.03.3",
                             "description": "Autoridad de fuente (SAG) responsable de la administración del dato de estas entidades.",
                             "title": "sag",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.03.3",
                             "description": "Código identificador del departamento (IN1) del Censo Nacional de Población, Hogares y Viviendas 2010 de INDEC.",
                             "title": "in1",
+                            "dataset_identifier": "01",
                             "type": "text"
                         }
                     ],
                     "description": "Polígonos que representan la división político administrativa de segundo orden de la República Argentina, incluye partidos y comunas. Formato GEOJSON.",
                     "title": "Departamentos",
+                    "dataset_identifier": "01",
                     "issued": "2017-12-20T00:00:00",
                     "format": "ZIP",
                     "modified": "2017-12-20T00:00:00",
@@ -401,33 +506,44 @@
                     "accessURL": "http://www.ign.gob.ar/sig",
                     "field": [
                         {
+                            "distribution_identifier": "01.04.01",
                             "description": "Nombre geográfico (FNA) o nombre largo del municipio.",
                             "title": "municipio_nombre_largo",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.04.01",
                             "description": "Término genérico (GNA) o tipo de jurisdicción de la división político-territorial.",
                             "title": "jurisdiccion_tipo",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.04.01",
                             "description": "Término específico (NAM) o nombre corto del municipio.",
                             "title": "municipio_nombre",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.04.01",
                             "description": "Autoridad de fuente (SAG) responsable de la administración del dato de estas entidades.",
                             "title": "autoridad_fuente",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.04.01",
                             "description": "Código identificador del municipio (IN1) del Censo Nacional de Población, Hogares y Viviendas 2010 de INDEC.",
                             "title": "municipio_id",
+                            "dataset_identifier": "01",
                             "type": "text"
                         }
                     ],
                     "description": "Lista de las entidades que representan la división político administrativa de tercer orden de la República Argentina. Incluye comunas, juntas vecinales y demás formas de gobierno local. Formato CSV.",
                     "title": "Municipios",
+                    "dataset_identifier": "01",
                     "issued": "2017-12-20T00:00:00",
                     "format": "CSV",
                     "modified": "2017-12-20T00:00:00",
@@ -439,33 +555,44 @@
                     "accessURL": "http://www.ign.gob.ar/sig",
                     "field": [
                         {
+                            "distribution_identifier": "01.04.02",
                             "description": "Nombre geográfico (FNA) o nombre largo del municipio.",
                             "title": "fna",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.04.02",
                             "description": "Término genérico (GNA) o tipo de jurisdicción de la división político-territorial.",
                             "title": "gna",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.04.02",
                             "description": "Término específico (NAM) o nombre corto del municipio.",
                             "title": "nam",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.04.02",
                             "description": "Autoridad de fuente (SAG) responsable de la administración del dato de estas entidades.",
                             "title": "sag",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.04.02",
                             "description": "Código identificador del municipio (IN1) del Censo Nacional de Población, Hogares y Viviendas 2010 de INDEC.",
                             "title": "in1",
+                            "dataset_identifier": "01",
                             "type": "text"
                         }
                     ],
                     "description": "Polígonos que representan la división político administrativa de tercer orden de la República Argentina. Incluye comunas, juntas vecinales y demás formas de gobierno local. Formato SHP.",
                     "title": "Municipios",
+                    "dataset_identifier": "01",
                     "issued": "2017-12-20T00:00:00",
                     "format": "ZIP",
                     "modified": "2017-12-20T00:00:00",
@@ -477,33 +604,44 @@
                     "accessURL": "http://www.ign.gob.ar/sig",
                     "field": [
                         {
+                            "distribution_identifier": "01.04.03",
                             "description": "Nombre geográfico (FNA) o nombre largo del municipio.",
                             "title": "fna",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.04.03",
                             "description": "Término genérico (GNA) o tipo de jurisdicción de la división político-territorial.",
                             "title": "gna",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.04.03",
                             "description": "Término específico (NAM) o nombre corto del municipio.",
                             "title": "nam",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.04.03",
                             "description": "Autoridad de fuente (SAG) responsable de la administración del dato de estas entidades.",
                             "title": "sag",
+                            "dataset_identifier": "01",
                             "type": "text"
                         },
                         {
+                            "distribution_identifier": "01.04.03",
                             "description": "Código identificador del municipio (IN1) del Censo Nacional de Población, Hogares y Viviendas 2010 de INDEC.",
                             "title": "in1",
+                            "dataset_identifier": "01",
                             "type": "text"
                         }
                     ],
                     "description": "Polígonos que representan la división político administrativa de tercer orden de la República Argentina. Incluye comunas, juntas vecinales y demás formas de gobierno local. Formato GEOJSON.",
                     "title": "Municipios",
+                    "dataset_identifier": "01",
                     "issued": "2017-12-20T00:00:00",
                     "format": "ZIP",
                     "modified": "2017-12-20T00:00:00",
