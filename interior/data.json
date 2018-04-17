@@ -35,6 +35,7 @@
                     "description": "Detalle de Solicitudes de acceso a la información pública recibidas por el Poder Ejecutivo Nacional durante el año 2017",
                     "license": "cc-by",
                     "title": "Solicitudes de acceso a la información pública año 2017",
+                    "dataset_identifier": "55c8b8f7-1591-4870-b24d-0b6bb54abef5",
                     "issued": "2018-03-23T17:51:22.081181",
                     "format": "CSV",
                     "modified": "2018-03-23T17:51:22.030657",
@@ -83,21 +84,26 @@
                     "description": "Movimientos Migratorios - 4° trimestre - año 2017",
                     "license": "odc-odbl",
                     "title": "Ingresos y Egresos de personas al pais - 4° trimestre - año 2017.",
+                    "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
                     "issued": "2018-01-16T21:23:22.277897",
                     "format": "CSV",
                     "modified": "2018-02-06T19:49:52.482730",
                     "downloadURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/ce89c526-ef09-4b35-a0ee-84d6c5b7a190/download/movimientos-migratorios--4-trimestre-2017.csv",
                     "field": [
                         {
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "",
                             "title": "PASO_CRUCE"
                         },
                         {
-                            "type": "integer",
+                            "distribution_identifier": null,
                             "description": "Cantidad de ingresos y egresos de personas.",
-                            "unit": "",
-                            "title": "CANTIDAD"
+                            "title": "CANTIDAD",
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "type": "integer",
+                            "unit": ""
                         }
                     ]
                 },
@@ -106,39 +112,50 @@
                     "description": "Detalle Residencias otorgadas - 4° trimestre - año 2017",
                     "license": "odc-odbl",
                     "title": "Residencias otorgadas - 4° trimestre - año 2017",
+                    "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
                     "issued": "2018-01-16T21:43:08.194346",
                     "format": "CSV",
                     "modified": "2018-01-16T21:41:11.146500",
                     "downloadURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/a1b7bb00-9bd0-415d-b47e-89c19fa70c74/download/residencias-otorgadas---4-trimestre---ano-2017.csv",
                     "field": [
                         {
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "PROVINCIA",
                             "title": "PROVINCIA"
                         },
                         {
-                            "type": "integer",
+                            "distribution_identifier": null,
                             "description": "Tipo de Residencia",
-                            "unit": "",
-                            "title": "TRANSITORIAS"
+                            "title": "TRANSITORIAS",
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "type": "integer",
+                            "unit": ""
                         },
                         {
-                            "type": "integer",
+                            "distribution_identifier": null,
                             "description": "Tipo de Residencia",
-                            "unit": "",
-                            "title": "TEMPORARIAS"
+                            "title": "TEMPORARIAS",
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "type": "integer",
+                            "unit": ""
                         },
                         {
-                            "type": "integer",
+                            "distribution_identifier": null,
                             "description": "Tipo de Residencia",
-                            "unit": "",
-                            "title": "PERMANENTES"
+                            "title": "PERMANENTES",
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "type": "integer",
+                            "unit": ""
                         },
                         {
-                            "type": "integer",
+                            "distribution_identifier": null,
                             "description": "Totales de residencias otorgadas",
-                            "unit": "",
-                            "title": "TOTALES"
+                            "title": "TOTALES",
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "type": "integer",
+                            "unit": ""
                         }
                     ]
                 },
@@ -147,21 +164,26 @@
                     "description": "Movimientos Migratorios - 3° trimestre - año 2017",
                     "license": "odc-odbl",
                     "title": "Ingresos y Egresos de personas al pais - 3° trimestre - año 2017.",
+                    "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
                     "issued": "2018-01-16T20:48:59.625736",
                     "format": "CSV",
                     "modified": "2018-02-06T20:06:26.020181",
                     "downloadURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/85313fb9-2b74-4d6a-a842-33f9b05b80c1/download/movimientos-migratorios--3-trimestre-2017.csv",
                     "field": [
                         {
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Paso por donde se realizo el transito.",
                             "title": "PASO_CRUCE"
                         },
                         {
-                            "type": "integer",
+                            "distribution_identifier": null,
                             "description": "Cantidad de ingresos y egresos de personas.",
-                            "unit": "",
-                            "title": "CANTIDAD"
+                            "title": "CANTIDAD",
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "type": "integer",
+                            "unit": ""
                         }
                     ]
                 },
@@ -170,39 +192,50 @@
                     "description": "Detalle Residencias otorgadas - 3° trimestre - año 2017",
                     "license": "odc-odbl",
                     "title": "Residencias otorgadas - 3° trimestre - año 2017",
+                    "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
                     "issued": "2018-01-16T21:29:46.311153",
                     "format": "CSV",
                     "modified": "2018-02-06T19:57:31.529841",
                     "downloadURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/8782b0fd-8f82-4652-93be-5b8c0cc8b19b/download/residencias-otorgadas---3-trimestre---ano-2017.csv",
                     "field": [
                         {
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "PROVINCIA",
                             "title": "PROVINCIA"
                         },
                         {
-                            "type": "integer",
+                            "distribution_identifier": null,
                             "description": "Tipo de Residencia",
-                            "unit": "",
-                            "title": "TRANSITORIAS"
+                            "title": "TRANSITORIAS",
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "type": "integer",
+                            "unit": ""
                         },
                         {
-                            "type": "integer",
+                            "distribution_identifier": null,
                             "description": "Tipo de Residencia",
-                            "unit": "",
-                            "title": "TEMPORARIAS"
+                            "title": "TEMPORARIAS",
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "type": "integer",
+                            "unit": ""
                         },
                         {
-                            "type": "integer",
+                            "distribution_identifier": null,
                             "description": "Tipo de Residencia",
-                            "unit": "",
-                            "title": "PERMANENTES"
+                            "title": "PERMANENTES",
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "type": "integer",
+                            "unit": ""
                         },
                         {
-                            "type": "integer",
+                            "distribution_identifier": null,
                             "description": "Totales de residencias otorgadas",
-                            "unit": "",
-                            "title": "TOTALES"
+                            "title": "TOTALES",
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "type": "integer",
+                            "unit": ""
                         }
                     ]
                 },
@@ -211,17 +244,22 @@
                     "description": "Movimientos Migratorios - 2° trimestre - año 2017",
                     "license": "odc-odbl",
                     "title": "Ingresos y Egresos de personas al pais - 2° trimestre - año 2017.",
+                    "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
                     "issued": "2017-09-21T20:28:54.129272",
                     "format": "CSV",
                     "modified": "2017-09-22T20:06:57.242816",
                     "downloadURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/916b441c-56c4-46be-af0a-976e460e7201/download/movimientos-migratorios-2-trimestre-2017.csv",
                     "field": [
                         {
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Paso por donde se realizo el transito.",
                             "title": "PASO_CRUCE"
                         },
                         {
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de ingresos y egresos de personas.",
                             "title": "CANTIDAD"
@@ -233,39 +271,50 @@
                     "description": "Detalle Residencias otorgadas - 2° trimestre - año 2017",
                     "license": "odc-odbl",
                     "title": "Residencias otorgadas - 2° trimestre - año 2017",
+                    "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
                     "issued": "2017-09-21T21:31:23.095022",
                     "format": "CSV",
                     "modified": "2017-09-22T19:42:52.108421",
                     "downloadURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/d4c9874a-27d2-43e0-bc79-93fd35d0c49a/download/recidencias-2-trimestre.csv",
                     "field": [
                         {
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "PROVINCIA",
                             "title": "PROVINCIA"
                         },
                         {
-                            "type": "integer",
+                            "distribution_identifier": null,
                             "description": "Tipo de Residencia",
-                            "unit": "",
-                            "title": "TRANSITORIAS"
+                            "title": "TRANSITORIAS",
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "type": "integer",
+                            "unit": ""
                         },
                         {
-                            "type": "integer",
+                            "distribution_identifier": null,
                             "description": "Tipo de Residencia",
-                            "unit": "",
-                            "title": "TEMPORARIAS"
+                            "title": "TEMPORARIAS",
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "type": "integer",
+                            "unit": ""
                         },
                         {
-                            "type": "integer",
+                            "distribution_identifier": null,
                             "description": "Tipo de Residencia",
-                            "unit": "",
-                            "title": "PERMANENTES"
+                            "title": "PERMANENTES",
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "type": "integer",
+                            "unit": ""
                         },
                         {
-                            "type": "integer",
+                            "distribution_identifier": null,
                             "description": "Totales de residencias otorgadas",
-                            "unit": "",
-                            "title": "TOTALES"
+                            "title": "TOTALES",
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "type": "integer",
+                            "unit": ""
                         }
                     ]
                 },
@@ -274,17 +323,22 @@
                     "description": "Movimientos Migratorios - 1° trimestre - año 2017",
                     "license": "odc-odbl",
                     "title": "Ingresos y Egresos de personas al pais - 1° trimestre - año 2017.",
+                    "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
                     "issued": "2017-09-20T19:31:39.840077",
                     "format": "CSV",
                     "modified": "2017-09-22T16:18:42.607554",
                     "downloadURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/769633d7-5f7e-42dc-b7c5-596e4ecaf16f/download/movimientos-migratorios--1-trimestre.csv",
                     "field": [
                         {
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Paso donde se registro el movimiento migratorio",
                             "title": "PASO_CRUCE"
                         },
                         {
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Cantidad de movimientos",
                             "title": "CANTIDAD"
@@ -296,32 +350,43 @@
                     "description": "Detalle Residencias otorgadas - 1° trimestre - año 2017",
                     "license": "odc-odbl",
                     "title": "Residencias otorgadas - 1° trimestre - año 2017",
+                    "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
                     "issued": "2017-09-20T12:55:08.493522",
                     "format": "CSV",
                     "modified": "2017-09-22T16:21:20.868203",
                     "downloadURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/ebfe1345-c90d-4567-8190-879c18183763/download/recidencias-1-trimestre.csv",
                     "field": [
                         {
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "PROVINCIA",
                             "title": "PROVINCIA"
                         },
                         {
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Tipo de Residencia",
                             "title": "TRANSITORIAS"
                         },
                         {
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Tipo de Residencia",
                             "title": "TEMPORARIAS"
                         },
                         {
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Tipo de Residencia",
                             "title": "PERMANENTES"
                         },
                         {
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Residencias Totales",
                             "title": "TOTALES"
@@ -333,12 +398,15 @@
                     "description": "Movimientos Migratorios - 3° trimestre - año 2017",
                     "license": "odc-odbl",
                     "title": "Ingresos y Egresos de personas al pais - 3° trimestre - año 2017.",
+                    "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
                     "issued": "2018-01-16T20:39:38.847364",
                     "format": "CSV",
                     "modified": "2018-01-16T20:39:38.683431",
                     "downloadURL": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/72f9bd8e-7fea-4e08-93b2-ace4f1bf0cde/download/ingresos-y-egresos-de-personas-al-pais---3-trimestre---ano-2017..csv",
                     "field": [
                         {
+                            "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Paso por donde se realizo el transito.",
                             "title": "PASO_CRUCE"
@@ -350,6 +418,7 @@
                     "description": "Movimientos Migratorios - 3° trimestre - año 2017",
                     "license": "odc-odbl",
                     "title": "Ingresos y Egresos de personas al pais -",
+                    "dataset_identifier": "dd032084-b7eb-4317-9151-05fc850c1654",
                     "issued": "2018-01-16T20:42:36.259838",
                     "format": "CSV",
                     "modified": "2018-01-16T20:42:36.135375",
@@ -386,6 +455,7 @@
                     "description": "Enlace al Plan Estratégico Territorial",
                     "license": "other-open",
                     "title": "Plan Estratégico Territorial",
+                    "dataset_identifier": "23f24c02-7a31-4998-a774-ec8bf82d9b5f",
                     "issued": "2017-12-07T18:21:14.446408",
                     "format": "link",
                     "downloadURL": "http://www.mininterior.gob.ar/planificacion/plan-estrategico.php"
@@ -422,6 +492,7 @@
                     "description": "Detalle de las audiencias entre los años 2015 y 2016 del Registro Único de Audiencias",
                     "license": "cc-by",
                     "title": "Audiencias del 2015 al 2016",
+                    "dataset_identifier": "28c12f14-e847-4826-9bc2-d110d72d0674",
                     "issued": "2018-01-08T13:59:57.451524",
                     "format": "CSV",
                     "modified": "2018-01-08T13:59:57.388500",
@@ -432,6 +503,7 @@
                     "description": "Detalle de las audiencias entre los años 2015 y 2016 del Registro Único de Audiencias",
                     "license": "cc-by",
                     "title": "Audiencias del 2015 al 2016",
+                    "dataset_identifier": "28c12f14-e847-4826-9bc2-d110d72d0674",
                     "issued": "2018-01-08T14:04:13.064976",
                     "format": "CSV",
                     "modified": "2018-01-08T14:03:19.934512",
@@ -442,6 +514,7 @@
                     "description": "Detalle de las audiencias del Registro Único de Audiencias del cuatrimestre entre enero y abril de 2017.",
                     "license": "cc-by",
                     "title": "Audiencias cuatrimestrales del RUA entre enero y abril de 2017",
+                    "dataset_identifier": "28c12f14-e847-4826-9bc2-d110d72d0674",
                     "issued": "2018-01-08T14:23:39.071249",
                     "format": "CSV",
                     "modified": "2018-01-08T14:23:38.990174",
@@ -452,6 +525,7 @@
                     "description": "Detalle de las audiencias del Registro Único de Audiencias del cuatrimestre entre enero y abril de 2017.",
                     "license": "cc-by",
                     "title": "Audiencias cuatrimestrales del RUA entre enero y abril de 2017",
+                    "dataset_identifier": "28c12f14-e847-4826-9bc2-d110d72d0674",
                     "issued": "2018-01-08T14:30:19.206735",
                     "format": "CSV",
                     "modified": "2018-01-08T14:30:19.105329",
@@ -462,6 +536,7 @@
                     "description": "Detalle de las audiencias del Registro Único de Audiencias del cuatrimestre entre mayo y agosto de 2017.",
                     "license": "cc-by",
                     "title": "Audiencias cuatrimestrales del RUA entre mayo y agosto de 2017",
+                    "dataset_identifier": "28c12f14-e847-4826-9bc2-d110d72d0674",
                     "issued": "2018-01-09T17:40:07.609604",
                     "format": "CSV",
                     "modified": "2018-01-09T17:40:07.490883",
@@ -472,6 +547,7 @@
                     "description": "Detalle de las audiencias del Registro Único de Audiencias del cuatrimestre entre mayo y agosto de 2017.",
                     "license": "cc-by",
                     "title": "Audiencias cuatrimestrales del RUA entre septiembre y diciembre de 2017",
+                    "dataset_identifier": "28c12f14-e847-4826-9bc2-d110d72d0674",
                     "issued": "2018-01-09T17:44:13.060578",
                     "format": "CSV",
                     "modified": "2018-01-09T17:44:12.929659",
@@ -482,6 +558,7 @@
                     "description": "Detalle de las audiencias del Registro Único de Audiencias del cuatrimestre entre mayo y agosto de 2017.",
                     "license": "cc-by",
                     "title": "Audiencias cuatrimestrales del RUA entre septiembre y diciembre de 2017",
+                    "dataset_identifier": "28c12f14-e847-4826-9bc2-d110d72d0674",
                     "issued": "2018-01-09T17:48:52.153875",
                     "format": "CSV",
                     "modified": "2018-01-09T17:48:51.999679",
@@ -516,6 +593,7 @@
                     "description": "Resultados Definitivos - Elecciones PASO 2017 - Senadores Nacionales - Desagregados por Distrito Electoral.",
                     "license": "cc-by",
                     "title": "Resultados Definitivos - Elecciones PASO 2017 - Senadores Nacionales",
+                    "dataset_identifier": "3d510b38-4744-44e7-a1f2-2c5a0a2696dd",
                     "issued": "2017-12-12T04:43:49.696213",
                     "format": "CSV",
                     "modified": "2017-12-12T20:09:28.580668",
@@ -526,6 +604,7 @@
                     "description": "Resultados Definitivos - Elecciones PASO 2017 - Diputados Nacionales - Desagregados por Distrito Electoral.",
                     "license": "cc-by",
                     "title": "Resultados Definitivos - Elecciones PASO 2017 - Diputados Nacionales",
+                    "dataset_identifier": "3d510b38-4744-44e7-a1f2-2c5a0a2696dd",
                     "issued": "2017-12-12T04:55:03.362736",
                     "format": "CSV",
                     "modified": "2017-12-12T04:49:28.604081",
@@ -559,6 +638,7 @@
                     "description": "Resultados Definitivos - Elecciones PASO 2017 - Senadores Nacionales - Desagregados por Distrito Electoral.",
                     "license": "cc-by",
                     "title": "Resultados Definitivos - Elecciones Generales 2017 - Senadores Nacionales",
+                    "dataset_identifier": "b79d08e4-3aa8-4c20-a449-6cb049de6d90",
                     "issued": "2017-12-12T20:42:58.445150",
                     "format": "CSV",
                     "modified": "2017-12-12T20:42:58.347791",
@@ -569,6 +649,7 @@
                     "description": "Resultados Definitivos - Elecciones Generales 2017 - Diputados Nacionales - Desagregados por Distrito Electoral.",
                     "license": "cc-by",
                     "title": "Resultados Definitivos - Elecciones Generales 2017 - Diputados Nacionales",
+                    "dataset_identifier": "b79d08e4-3aa8-4c20-a449-6cb049de6d90",
                     "issued": "2017-12-12T22:00:40.260252",
                     "format": "CSV",
                     "modified": "2017-12-12T22:00:40.193562",
@@ -610,6 +691,7 @@
                     "description": "Enlace de acceso al sitio de AtlasID",
                     "license": "other-open",
                     "title": "Atlas ID",
+                    "dataset_identifier": "d7222fce-d57a-4334-9c34-7e56dedcf6d5",
                     "issued": "2017-12-07T17:53:45.147045",
                     "downloadURL": "http://atlasid.planificacion.gob.ar/"
                 }
@@ -649,6 +731,7 @@
                     "description": "Acceso al Sistema de Información Geográfica",
                     "license": "other-open",
                     "title": "Sistema de Información Geográfica",
+                    "dataset_identifier": "514da746-b33a-4f32-ba27-4ed18d4bda17",
                     "issued": "2017-12-07T17:44:48.599279",
                     "downloadURL": "http://sig.planificacion.gob.ar"
                 }
@@ -686,6 +769,7 @@
                     "description": "Detalle de las solicitudes de acceso a la información pública recibidas por el Poder Ejecutivo Nacional durante el año 2016",
                     "license": "cc-by",
                     "title": "Solicitudes de Acceso a la Información Pública de 2016",
+                    "dataset_identifier": "940cde74-532a-4636-b45c-19ab809f43bc",
                     "issued": "2017-11-01T15:56:06.618608",
                     "format": "CSV",
                     "modified": "2017-11-01T15:56:06.548803",
@@ -732,37 +816,50 @@
                     "description": "Presenta información sobre el nombre, ubicación, cuenca, rio a la que pertenecen las estaciones de medición de la Red",
                     "license": "cc-by",
                     "title": "Listado de Estaciones de la Red",
+                    "dataset_identifier": "93913deb-d22e-4c0d-bca3-f465e7b2bb94",
                     "issued": "2017-09-25T15:48:38.729026",
                     "format": "CSV",
                     "modified": "2017-09-29T14:13:59.040482",
                     "downloadURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/357a6ad0-2c37-4f33-a633-3c8d323dc4c5/download/estacionesred.csv",
                     "field": [
                         {
+                            "dataset_identifier": "93913deb-d22e-4c0d-bca3-f465e7b2bb94",
+                            "distribution_identifier": null,
                             "type": "integer",
                             "description": "Código de la estación",
                             "title": "Código"
                         },
                         {
+                            "dataset_identifier": "93913deb-d22e-4c0d-bca3-f465e7b2bb94",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Nombre de la estación",
                             "title": "Nombre"
                         },
                         {
+                            "dataset_identifier": "93913deb-d22e-4c0d-bca3-f465e7b2bb94",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Río de la ubicación de la estación",
                             "title": "Río"
                         },
                         {
+                            "dataset_identifier": "93913deb-d22e-4c0d-bca3-f465e7b2bb94",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Sistema Hidrográfico",
                             "title": "Sistema"
                         },
                         {
+                            "dataset_identifier": "93913deb-d22e-4c0d-bca3-f465e7b2bb94",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Cuenca del río",
                             "title": "Cuenca"
                         },
                         {
+                            "dataset_identifier": "93913deb-d22e-4c0d-bca3-f465e7b2bb94",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Subcuenca del río",
                             "title": "Subcuenca"
@@ -774,17 +871,22 @@
                     "description": "Detalle de como se accede a la Base de datos de la Red y como se extrae información de la misma. Se presenta",
                     "license": "other-open",
                     "title": "Tutorial de acceso, y productos de la Red",
+                    "dataset_identifier": "93913deb-d22e-4c0d-bca3-f465e7b2bb94",
                     "issued": "2017-09-25T15:58:32.695261",
                     "format": "CSV",
                     "modified": "2017-09-28T16:03:46.768297",
                     "downloadURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/ff6f0957-d65b-4133-ac40-3ee7805f801f/download/lin-ks.csv",
                     "field": [
                         {
+                            "dataset_identifier": "93913deb-d22e-4c0d-bca3-f465e7b2bb94",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Titulo del Recurso",
                             "title": "Titulo"
                         },
                         {
+                            "dataset_identifier": "93913deb-d22e-4c0d-bca3-f465e7b2bb94",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Contiene las URL del tutorial y los recursos producto",
                             "title": "LINKS"
@@ -796,22 +898,29 @@
                     "description": "Ubicación y nombre de las estaciones",
                     "license": "other-open",
                     "title": "Listado de Estaciones de la Red (lat-lon)",
+                    "dataset_identifier": "93913deb-d22e-4c0d-bca3-f465e7b2bb94",
                     "issued": "2017-09-25T17:19:07.658717",
                     "format": "CSV",
                     "modified": "2017-09-28T16:42:50.463677",
                     "downloadURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/26d292a4-4d7f-48e1-872a-50a0dca35386/download/estacioneslalon.csv",
                     "field": [
                         {
+                            "dataset_identifier": "93913deb-d22e-4c0d-bca3-f465e7b2bb94",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Latitud",
                             "title": "Latitud"
                         },
                         {
+                            "dataset_identifier": "93913deb-d22e-4c0d-bca3-f465e7b2bb94",
+                            "distribution_identifier": null,
                             "type": "number",
                             "description": "Longitud",
                             "title": "Longitud"
                         },
                         {
+                            "dataset_identifier": "93913deb-d22e-4c0d-bca3-f465e7b2bb94",
+                            "distribution_identifier": null,
                             "type": "string",
                             "description": "Nombre de la Estacion",
                             "title": "Nombre"
@@ -847,6 +956,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/01e5aea2-96ac-4f23-abb6-df6868119689",
                     "license": "cc-by",
                     "title": "Datos Chaco",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T16:17:50.860793",
                     "format": "CSV",
                     "modified": "2017-09-20T16:17:50.749950",
@@ -856,6 +966,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/7a3f157c-a0bd-4bb6-bbfd-ef8a9fa03bb8",
                     "license": "cc-by",
                     "title": "Datos Corrientes",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T16:19:41.533720",
                     "format": "CSV",
                     "modified": "2017-09-20T16:19:41.419108",
@@ -865,6 +976,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/7921eb6a-fa66-44ff-a17e-7b98066591d3",
                     "license": "cc-by",
                     "title": "Datos Formosa",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T16:21:09.945734",
                     "format": "CSV",
                     "modified": "2017-09-20T16:21:09.850430",
@@ -874,6 +986,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/1821ee38-a5c1-428d-8a2c-f66858dac52d",
                     "license": "cc-by",
                     "title": "Datos Misiones",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T16:22:59.066158",
                     "format": "CSV",
                     "modified": "2017-09-20T16:22:58.928032",
@@ -883,6 +996,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/056edce5-7096-4d49-9ec1-ab3e04f4addd",
                     "license": "cc-by",
                     "title": "Datos Rio Negro",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T16:24:27.744787",
                     "format": "CSV",
                     "modified": "2017-09-20T16:24:27.621026",
@@ -892,6 +1006,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/6b5e4beb-f794-4a32-becb-656bde4fdc0c",
                     "license": "cc-by",
                     "title": "Datos Neuquen",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T16:25:16.888731",
                     "format": "CSV",
                     "modified": "2017-09-20T16:25:16.773157",
@@ -901,6 +1016,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/20aab24d-532b-4162-94d0-23d8a4182307",
                     "license": "cc-by",
                     "title": "Datos Chubut",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T16:26:00.371347",
                     "format": "CSV",
                     "modified": "2017-09-20T16:26:00.258222",
@@ -910,6 +1026,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/9a573b5c-853e-4cfe-bfbb-64179db4dccf",
                     "license": "cc-by",
                     "title": "Datos La Pampa",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T16:27:07.043453",
                     "format": "CSV",
                     "modified": "2017-09-20T16:27:06.698875",
@@ -919,6 +1036,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/44235a54-be3f-464c-84f6-aeeb66012fd5",
                     "license": "cc-by",
                     "title": "Datos Tierra del Fuego",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T16:28:12.128214",
                     "format": "CSV",
                     "modified": "2017-09-20T16:28:11.981064",
@@ -928,6 +1046,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/f32954fa-214d-4306-bfda-8e5dea1d30f2",
                     "license": "cc-by",
                     "title": "Datos Santa Cruz",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T16:29:30.953628",
                     "format": "CSV",
                     "modified": "2017-09-20T16:29:30.789276",
@@ -937,6 +1056,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/974eea94-b954-4d50-9f67-317bccc5139e",
                     "license": "cc-by",
                     "title": "Datos Mendoza",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T16:36:10.186660",
                     "format": "CSV",
                     "modified": "2017-09-20T16:36:09.975285",
@@ -946,6 +1066,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/b8fc561f-6369-4e18-9622-d22f4e8fca43",
                     "license": "cc-by",
                     "title": "Datos San Juan",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T16:38:40.720679",
                     "format": "CSV",
                     "modified": "2017-09-20T16:38:40.596002",
@@ -955,6 +1076,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/a89a1d12-11d0-4f1d-a9e0-700cd60acfd2",
                     "license": "cc-by",
                     "title": "Datos San Luis",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T16:43:08.345170",
                     "format": "CSV",
                     "modified": "2017-09-20T16:43:08.154136",
@@ -964,6 +1086,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/7bda6dbd-c6e2-4beb-a42f-c6ebbd72f439",
                     "license": "cc-by",
                     "title": "Datos La Rioja",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T16:40:46.681000",
                     "format": "CSV",
                     "modified": "2017-09-20T16:40:46.547389",
@@ -973,6 +1096,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/8d3f4b2a-0729-4d24-83dc-0a052ed7816a",
                     "license": "cc-by",
                     "title": "Datos Entre Rios",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T16:13:37.646915",
                     "format": "CSV",
                     "modified": "2017-09-20T16:13:37.553016",
@@ -982,6 +1106,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/813ed8db-366b-44fd-9857-8b4e671045b4",
                     "license": "cc-by",
                     "title": "Datos Buenos Aires",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T16:46:04.158244",
                     "format": "CSV",
                     "modified": "2017-09-20T16:46:04.023706",
@@ -991,6 +1116,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/243895a1-9a91-45f5-8f30-1baa7d411e70",
                     "license": "cc-by",
                     "title": "Datos Cordoba",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T16:59:17.709229",
                     "format": "CSV",
                     "modified": "2017-09-20T16:59:17.533912",
@@ -1000,6 +1126,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/4759505f-b211-4a44-a4ab-8907db229ca3",
                     "license": "cc-by",
                     "title": "Datos Santa Fe",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T17:01:34.372313",
                     "format": "CSV",
                     "modified": "2017-09-20T17:01:34.228461",
@@ -1009,6 +1136,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/c60817f4-c881-49c6-9194-59d15b93380a",
                     "license": "cc-by",
                     "title": "Datos Catamarca",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T17:04:29.398053",
                     "format": "CSV",
                     "modified": "2017-09-20T17:04:29.244950",
@@ -1018,6 +1146,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/ca5e0c80-52e5-44a0-a846-50d6eff3e6fb",
                     "license": "cc-by",
                     "title": "Datos Jujuy",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T17:06:51.416496",
                     "format": "CSV",
                     "modified": "2017-09-20T17:06:51.218024",
@@ -1027,6 +1156,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/599ef94e-0488-42ef-9ba5-3dacf6d11c0d",
                     "license": "cc-by",
                     "title": "Datos Salta",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T17:08:34.298980",
                     "format": "CSV",
                     "modified": "2017-09-20T17:08:34.137382",
@@ -1036,6 +1166,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/77e69ccc-8797-4ea2-bfbe-745c5e44710a",
                     "license": "cc-by",
                     "title": "Santiago del Estero",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T17:12:37.190931",
                     "format": "CSV",
                     "modified": "2017-09-20T17:12:36.996208",
@@ -1045,6 +1176,7 @@
                     "accessURL": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/archivo/208c8f22-875e-42fd-86a4-173c1bb76da1",
                     "license": "cc-by",
                     "title": "Datos de Tucuman",
+                    "dataset_identifier": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
                     "issued": "2017-09-20T17:14:28.474321",
                     "format": "CSV",
                     "modified": "2017-09-20T17:14:28.303176",
