@@ -15,10 +15,10 @@
 
 - **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 3
-- **Cantidad Total de Distribuciones**: 27
+- **Cantidad Total de Datasets**: 2
+- **Cantidad Total de Distribuciones**: 6
 
-- **Cantidad de Datasets Federados**: 3
+- **Cantidad de Datasets Federados**: 2
 - **Cantidad de Datasets NO Federados**: 0
 - **Porcentaje de Datasets NO Federados**: 0.0%
 
@@ -34,7 +34,6 @@
 
 - [Solicitudes de Acceso a la Información Pública](http://www.mininterior.gov.ar/inicio/index.php)
 - [Pauta Oficial](https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad)
-- [Nombres de personas físicas](http://http:/dataset/nombres-personas-fisicas)
 
 ## Reporte
 
