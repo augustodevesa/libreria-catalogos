@@ -97,6 +97,11 @@ otros:
   formato: "json"
   federado: true
 
+jgm:
+  url: "http://infra.datos.gob.ar/catalog/jgm/data.json"
+  formato: "json"
+  federado: true
+
 sspm:
   url: "http://infra.datos.gob.ar/catalog/sspm/data.json"
   formato: "json"
