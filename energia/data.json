@@ -4,8 +4,8 @@
         "name": "Ministerio de Energia y Mineria"
     },
     "description": "Iniciativa de apertura de datos del Ministerio de Energia Mineria",
-    "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
     "title": "Ministerio de Energia y Mineria",
+    "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
     "dataset": [
         {
             "publisher": {
@@ -845,11 +845,11 @@
                 "name": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.  "
             },
             "landingPage": "",
-            "description": "Informes estadísticos anuales del sector eléctrico.\r\n",
+            "description": "Informes estadísticos anuales del sector eléctrico.",
             "license": "Creative Commons Attribution",
             "title": "Anuarios de Energía Eléctrica",
             "issued": "2016-12-23T17:00:01.930783",
-            "modified": "2018-01-30T11:56:21.659562",
+            "modified": "2018-04-13T13:44:41.399519",
             "theme": [
                 "distribucion-de-energia-electrica",
                 "generacion-de-energia-electrica"
@@ -869,6 +869,18 @@
             },
             "identifier": "e0c48587-cb50-4bb9-a541-8478a6ff2a6f",
             "distribution": [
+                {
+                    "accessURL": "https://datos.minem.gob.ar/dataset/e0c48587-cb50-4bb9-a541-8478a6ff2a6f/resource/c35dcb3f-3268-4708-aa13-c71bccda04c4",
+                    "description": "",
+                    "title": "Informe Estadístico del Sector Eléctrico 2016",
+                    "byteSize": null,
+                    "format": "ZIP",
+                    "mediaType": null,
+                    "modified": "2018-04-13T10:40:11.906610",
+                    "downloadURL": "http://datos.minem.gob.ar/dataset/e0c48587-cb50-4bb9-a541-8478a6ff2a6f/resource/c35dcb3f-3268-4708-aa13-c71bccda04c4/download/informesectorelectrico2016.rar",
+                    "issued": "2018-04-13T10:40:12.172157",
+                    "identifier": "c35dcb3f-3268-4708-aa13-c71bccda04c4"
+                },
                 {
                     "accessURL": "https://datos.minem.gob.ar/dataset/e0c48587-cb50-4bb9-a541-8478a6ff2a6f/resource/f3d1e4a9-bd83-4dd7-8987-88cc4bf20530",
                     "description": "",
@@ -1628,7 +1640,7 @@
             "license": "Creative Commons Attribution",
             "title": "Balances Energéticos",
             "issued": "2018-03-21T15:15:02.115182",
-            "modified": "2018-03-26T11:26:43.497645",
+            "modified": "2018-04-09T15:44:26.858905",
             "theme": [
                 "otros"
             ],
@@ -1764,6 +1776,18 @@
                     "downloadURL": "http://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_del_mercado/publicaciones/energia_en_gral/balances_2016/documento-metodologico-balance-energetico-nacional-final-2015.pdf",
                     "issued": "2018-03-21T12:28:44.832098",
                     "identifier": "e1d2ce4e-608b-4d70-8b66-89318316cb1d"
+                },
+                {
+                    "accessURL": "https://datos.minem.gob.ar/dataset/802cf1b7-2efb-469d-ba82-5be6b9710dab/resource/41016f41-5e3c-4857-84d9-49ee0e2ba2ff",
+                    "description": "Notas metodológicas y consolidación de la información. Serie 1: Provincias de La Rioja, Mendoza, Neuquén, Santa Cruz y Tierra del Fuego",
+                    "title": "Balances Energéticos Provinciales",
+                    "byteSize": null,
+                    "format": "PDF",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_del_mercado/publicaciones/energia_en_gral/balances_provinciales/notas_metodologicas_balances_energeticos_provinciales_serie 1.pdf",
+                    "issued": "2018-04-09T12:11:31.940265",
+                    "identifier": "41016f41-5e3c-4857-84d9-49ee0e2ba2ff"
                 },
                 {
                     "accessURL": "https://datos.minem.gob.ar/dataset/802cf1b7-2efb-469d-ba82-5be6b9710dab/resource/0038ae65-a570-4df8-beee-a32979a1aa2e",
@@ -2126,18 +2150,6 @@
                     "identifier": "7782cefc-6ae8-4129-a8a3-47c89d849098"
                 },
                 {
-                    "accessURL": "https://datos.minem.gob.ar/dataset/802cf1b7-2efb-469d-ba82-5be6b9710dab/resource/bb7b62d5-d6e9-4d11-9736-81608530e181",
-                    "description": "",
-                    "title": "Balance Energético Nacional - 1988",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2018-03-21T13:46:14.227377",
-                    "downloadURL": "http://datos.minem.gob.ar/dataset/802cf1b7-2efb-469d-ba82-5be6b9710dab/resource/bb7b62d5-d6e9-4d11-9736-81608530e181/download/ben-1988.csv",
-                    "issued": "2018-03-21T13:46:14.340847",
-                    "identifier": "bb7b62d5-d6e9-4d11-9736-81608530e181"
-                },
-                {
                     "accessURL": "https://datos.minem.gob.ar/dataset/802cf1b7-2efb-469d-ba82-5be6b9710dab/resource/57f9b208-6520-482c-b69d-c0a2990faa68",
                     "description": "",
                     "title": " Balance Energético Nacional - 1989",
@@ -2148,6 +2160,18 @@
                     "downloadURL": "http://datos.minem.gob.ar/dataset/802cf1b7-2efb-469d-ba82-5be6b9710dab/resource/57f9b208-6520-482c-b69d-c0a2990faa68/download/ben-1989.csv",
                     "issued": "2018-03-21T13:46:47.693684",
                     "identifier": "57f9b208-6520-482c-b69d-c0a2990faa68"
+                },
+                {
+                    "accessURL": "https://datos.minem.gob.ar/dataset/802cf1b7-2efb-469d-ba82-5be6b9710dab/resource/bb7b62d5-d6e9-4d11-9736-81608530e181",
+                    "description": "",
+                    "title": "Balance Energético Nacional - 1988",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2018-03-21T13:46:14.227377",
+                    "downloadURL": "http://datos.minem.gob.ar/dataset/802cf1b7-2efb-469d-ba82-5be6b9710dab/resource/bb7b62d5-d6e9-4d11-9736-81608530e181/download/ben-1988.csv",
+                    "issued": "2018-03-21T13:46:14.340847",
+                    "identifier": "bb7b62d5-d6e9-4d11-9736-81608530e181"
                 },
                 {
                     "accessURL": "https://datos.minem.gob.ar/dataset/802cf1b7-2efb-469d-ba82-5be6b9710dab/resource/58870f88-7884-42e9-8af2-4695bc726a98",
@@ -2865,87 +2889,42 @@
         {
             "publisher": {
                 "mbox": "tienerg@minem.gob.ar",
-                "name": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información."
+                "name": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.  "
             },
-            "landingPage": "http://www.enargas.gov.ar/secciones/transporte-y-distribucion/datos-operativos.php",
-            "description": "Número total de usuarios, por provincia - Datos de ENARGAS.",
+            "landingPage": "",
+            "description": "Uso de la capacidad de transporte de gas natural por distribuidora.  (ENARGAS)\r\n",
             "license": "Creative Commons Attribution",
-            "title": "Cantidad de usuarios  de redes de gas natural por provincia",
-            "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-07-21T01:49:22.326943",
+            "title": "Uso de la Capacidad Contratada por Distribuidora",
+            "issued": "2018-04-12T15:34:21.875827",
+            "modified": "2018-04-12T15:36:21.585480",
             "theme": [
-                "comercializacion-de-gas-natural"
+                "distribucion-de-gas-natural"
             ],
             "keyword": [
                 "ENARGAS",
-                "Gas",
-                "Provincias",
-                "Usuarios"
+                "Gas"
             ],
             "superTheme": [
                 "ENER"
             ],
-            "accrualPeriodicity": "eventual",
+            "accrualPeriodicity": "R/P1D",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": ""
             },
-            "identifier": "bcffc058-227b-426a-8a23-71a89ee73a21",
+            "identifier": "5e45c361-b050-4e11-8519-359084254af4",
             "distribution": [
                 {
-                    "accessURL": "https://datos.minem.gob.ar/dataset/bcffc058-227b-426a-8a23-71a89ee73a21/resource/a9d5c8ce-26c7-44a5-8f8f-cc8ce0ad4b43",
-                    "description": "",
-                    "title": "Cantidad de usuarios de redes de gas natural por provincia",
+                    "accessURL": "https://datos.minem.gob.ar/dataset/5e45c361-b050-4e11-8519-359084254af4/resource/1591b2a7-ff7e-4659-99ba-9f02b3189b49",
+                    "description": "Uso de la capacidad de transporte de gas natural por distribuidora.  (ENARGAS)",
+                    "title": "Uso de la Capacidad Contratada por Distribuidora",
                     "byteSize": null,
-                    "format": "CSV",
+                    "format": "",
                     "mediaType": null,
-                    "modified": "2017-05-29T10:20:28.598509",
-                    "downloadURL": "http://datos.minem.gob.ar/dataset/bcffc058-227b-426a-8a23-71a89ee73a21/resource/a9d5c8ce-26c7-44a5-8f8f-cc8ce0ad4b43/download/gas-numero-de-usuarios-total-por-provincia-enargas.csv",
-                    "issued": "2017-05-29T10:20:28.708209",
-                    "identifier": "a9d5c8ce-26c7-44a5-8f8f-cc8ce0ad4b43"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "tienerg@minem.gob.ar",
-                "name": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información."
-            },
-            "landingPage": "http://www.enargas.gov.ar/secciones/transporte-y-distribucion/datos-operativos.php",
-            "description": "Número total de usuarios, por tipo de usuario - Datos de ENARGAS.",
-            "license": "Creative Commons Attribution",
-            "title": "Cantidad de usuarios de redes de gas natural por tipo",
-            "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-07-21T01:40:02.123614",
-            "theme": [
-                "comercializacion-de-gas-natural"
-            ],
-            "keyword": [
-                "ENARGAS",
-                "Gas",
-                "Usuarios"
-            ],
-            "superTheme": [
-                "ENER"
-            ],
-            "accrualPeriodicity": "eventual",
-            "contactPoint": {
-                "hasEmail": "",
-                "fn": ""
-            },
-            "identifier": "eba8a57c-d9a7-40bc-b97a-dddb8d2ede55",
-            "distribution": [
-                {
-                    "accessURL": "https://datos.minem.gob.ar/dataset/eba8a57c-d9a7-40bc-b97a-dddb8d2ede55/resource/954f3e65-379b-47e4-81f7-aa9558568428",
-                    "description": "",
-                    "title": "Cantidad de usuarios de redes de gas natural por tipo",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-29T10:43:29.467491",
-                    "downloadURL": "http://datos.minem.gob.ar/dataset/eba8a57c-d9a7-40bc-b97a-dddb8d2ede55/resource/954f3e65-379b-47e4-81f7-aa9558568428/download/gas-numero-de-usuarios-total-por-tipo-de-usuario-y-terceros-enargas.csv",
-                    "issued": "2017-05-29T10:43:29.538097",
-                    "identifier": "954f3e65-379b-47e4-81f7-aa9558568428"
+                    "modified": null,
+                    "downloadURL": "https://www.enargas.gob.ar/secciones/transporte-y-distribucion/partes-diarios.php",
+                    "issued": "2018-04-12T12:35:21.685672",
+                    "identifier": "1591b2a7-ff7e-4659-99ba-9f02b3189b49"
                 }
             ]
         },
@@ -3694,6 +3673,90 @@
                     "downloadURL": "http://www.energia.gob.ar/contenidos/archivos/Reorganizacion/contenidos_didacticos/publicaciones/consumos_mercosur.pdf",
                     "issued": "2016-12-22T08:37:16.935920",
                     "identifier": "61ee80b4-fa37-45a0-8879-12e934d75e3c"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "tienerg@minem.gob.ar",
+                "name": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información"
+            },
+            "landingPage": "https://www.enargas.gob.ar/",
+            "description": "Licenciatarias de Distribución, Licenciatarias de Transporte, Total Sistema, GLP Indiluido Distribuido por Redes - Datos de ENARGAS",
+            "license": "Creative Commons Attribution",
+            "title": "Datos Operativos de Gas Natural",
+            "issued": "2018-04-09T11:12:18.045645",
+            "modified": "2018-04-09T14:10:49.512064",
+            "theme": [
+                "distribucion-de-gas-natural"
+            ],
+            "keyword": [
+                "ENARGAS",
+                "Gas"
+            ],
+            "superTheme": [
+                "ENER"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "contactPoint": {
+                "hasEmail": "",
+                "fn": ""
+            },
+            "identifier": "6d2fc601-248a-4ba8-9d85-51c8c820a60c",
+            "distribution": [
+                {
+                    "accessURL": "https://datos.minem.gob.ar/dataset/6d2fc601-248a-4ba8-9d85-51c8c820a60c/resource/5d35a06b-18a8-433d-a38e-7c7e8bb90bfd",
+                    "description": "Licenciatarias de Distribución, Licenciatarias de Transporte, Total Sistema, GLP Indiluido Distribuido por Redes - Datos de ENARGAS",
+                    "title": "Datos Operativos de Gas Natural",
+                    "byteSize": null,
+                    "format": "php",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "https://www.enargas.gob.ar/secciones/transporte-y-distribucion/datos-operativos.php",
+                    "issued": "2018-04-09T08:12:52.295410",
+                    "identifier": "5d35a06b-18a8-433d-a38e-7c7e8bb90bfd"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "tienerg@minem.gob.ar",
+                "name": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información"
+            },
+            "landingPage": "https://www.enargas.gob.ar/",
+            "description": "Entregas e Inyecciones, Estimación Demanda Prioritaria, Confirmaciones de gas y desbalances por segmento de Demanda, Eventos críticos, Proyección Semanal de la Demanda del Sistema de Transporte - Datos de ENARGAS",
+            "license": "Creative Commons Attribution",
+            "title": "Despacho Diario",
+            "issued": "2018-04-09T11:21:08.710970",
+            "modified": "2018-04-09T14:12:39.059663",
+            "theme": [
+                "distribucion-de-gas-natural"
+            ],
+            "keyword": [
+                "ENARGAS",
+                "Gas"
+            ],
+            "superTheme": [
+                "ENER"
+            ],
+            "accrualPeriodicity": "R/P1D",
+            "contactPoint": {
+                "hasEmail": "",
+                "fn": ""
+            },
+            "identifier": "40a9d783-5273-46b1-95ad-8ea4da74b519",
+            "distribution": [
+                {
+                    "accessURL": "https://datos.minem.gob.ar/dataset/40a9d783-5273-46b1-95ad-8ea4da74b519/resource/27ce3172-454a-4cd1-a5c0-94991e81f6b1",
+                    "description": "Entregas e Inyecciones, Estimación Demanda Prioritaria, Confirmaciones de gas y desbalances por segmento de Demanda, Eventos críticos, Proyección Semanal de la Demanda del Sistema de Transporte ",
+                    "title": " Despacho Diario",
+                    "byteSize": null,
+                    "format": "php",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "https://www.enargas.gob.ar/secciones/transporte-y-distribucion/despacho-diario.php",
+                    "issued": "2018-04-09T08:21:41.179452",
+                    "identifier": "27ce3172-454a-4cd1-a5c0-94991e81f6b1"
                 }
             ]
         },
@@ -6156,7 +6219,7 @@
             "license": "Creative Commons Attribution",
             "title": "Estadísticas de biodiesel y bioetanol",
             "issued": "2016-12-22T14:56:55.641090",
-            "modified": "2018-03-19T13:06:04.284238",
+            "modified": "2018-04-10T15:56:45.404672",
             "theme": [
                 "biocombustibles",
                 "energias-renovables"
@@ -6440,6 +6503,48 @@
                     "downloadURL": "http://www.energia.gob.ar/contenidos/archivos/publicaciones/informe%20de%20grandes%20usuarios.pdf",
                     "issued": "2016-12-28T14:28:41.781193",
                     "identifier": "318d89a2-c249-44ee-a46a-8ce4fb7963aa"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "tienerg@minem.gob.ar",
+                "name": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información"
+            },
+            "landingPage": "https://www.enargas.gob.ar/",
+            "description": "Obras de expansiones de redes de gas que han sido autorizadas administrativamente y están en condiciones de iniciar su ejecución - Datos de ENARGAS.",
+            "license": "Creative Commons Attribution",
+            "title": "Expansión de Redes de Distribución",
+            "issued": "2018-04-09T11:14:50.551491",
+            "modified": "2018-04-09T14:11:36.737624",
+            "theme": [
+                "distribucion-de-gas-natural"
+            ],
+            "keyword": [
+                "ENARGAS",
+                "Gas"
+            ],
+            "superTheme": [
+                "ENER"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "contactPoint": {
+                "hasEmail": "",
+                "fn": ""
+            },
+            "identifier": "ff0a9eff-cf79-4688-bfe8-1a5a59258113",
+            "distribution": [
+                {
+                    "accessURL": "https://datos.minem.gob.ar/dataset/ff0a9eff-cf79-4688-bfe8-1a5a59258113/resource/b344e4bc-6def-417e-9227-606c0d120b79",
+                    "description": "Obras de expansiones de redes de gas que han sido autorizadas administrativamente y están en condiciones de iniciar su ejecución ",
+                    "title": "Expansión de Redes de Distribución",
+                    "byteSize": null,
+                    "format": "php",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "https://www.enargas.gob.ar/secciones/transporte-y-distribucion/expansion-de-redes.php",
+                    "issued": "2018-04-09T08:15:39.078205",
+                    "identifier": "b344e4bc-6def-417e-9227-606c0d120b79"
                 }
             ]
         },
@@ -6769,255 +6874,42 @@
         {
             "publisher": {
                 "mbox": "tienerg@minem.gob.ar",
-                "name": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información."
-            },
-            "landingPage": "http://www.enargas.gov.ar/secciones/transporte-y-distribucion/datos-operativos.php",
-            "description": "Gas entregado a grandes usuarios industriales, por distribuidora - Datos de ENARGAS.",
-            "license": "Creative Commons Attribution",
-            "title": "Gas natural entregado a grandes usuarios por distribuidora",
-            "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-07-21T01:48:39.557061",
-            "theme": [
-                "comercializacion-de-gas-natural"
-            ],
-            "keyword": [
-                "Distribuidora",
-                "ENARGAS",
-                "Gas",
-                "Industrial",
-                "Usuarios"
-            ],
-            "superTheme": [
-                "ENER"
-            ],
-            "accrualPeriodicity": "eventual",
-            "contactPoint": {
-                "hasEmail": "",
-                "fn": ""
-            },
-            "identifier": "4923ff1e-f3db-4664-be56-4fde6bc3eb61",
-            "distribution": [
-                {
-                    "accessURL": "https://datos.minem.gob.ar/dataset/4923ff1e-f3db-4664-be56-4fde6bc3eb61/resource/c79cf2f9-1407-4337-8c1c-ab70236543e1",
-                    "description": "En miles de m3 de 9300 kcal.",
-                    "title": "Gas natural entregado a grandes usuarios por distribuidora ",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-29T10:33:04.948104",
-                    "downloadURL": "http://datos.minem.gob.ar/dataset/4923ff1e-f3db-4664-be56-4fde6bc3eb61/resource/c79cf2f9-1407-4337-8c1c-ab70236543e1/download/gas-entregado-a-grandes-usuarios-industriales-por-distribuidora-total-en-miles-de-m3-de-9300-kca.csv",
-                    "issued": "2017-05-29T10:33:05.033937",
-                    "identifier": "c79cf2f9-1407-4337-8c1c-ab70236543e1"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "tienerg@minem.gob.ar",
-                "name": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información."
-            },
-            "landingPage": "http://www.enargas.gov.ar/secciones/transporte-y-distribucion/datos-operativos.php",
-            "description": "Total gas entregado a grandes usuarios industriales en miles de m3 de 9300 kcal, por provincia - Datos de ENARGAS.",
-            "license": "Creative Commons Attribution",
-            "title": "Gas natural entregado a grandes usuarios por provincia",
-            "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-07-21T01:48:59.361682",
-            "theme": [
-                "comercializacion-de-gas-natural"
-            ],
-            "keyword": [
-                "ENARGAS",
-                "Gas",
-                "Provincias",
-                "Usuarios"
-            ],
-            "superTheme": [
-                "ENER"
-            ],
-            "accrualPeriodicity": "eventual",
-            "contactPoint": {
-                "hasEmail": "",
-                "fn": ""
-            },
-            "identifier": "7abff795-d834-4a19-aae5-6deafa2983ea",
-            "distribution": [
-                {
-                    "accessURL": "https://datos.minem.gob.ar/dataset/7abff795-d834-4a19-aae5-6deafa2983ea/resource/970f826d-e60c-4c8e-a3be-a5910d884fff",
-                    "description": "En miles de m3 de 9300 kcal.",
-                    "title": "Gas natural entregado a grandes usuarios por provincia ",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-29T10:30:23.985534",
-                    "downloadURL": "http://datos.minem.gob.ar/dataset/7abff795-d834-4a19-aae5-6deafa2983ea/resource/970f826d-e60c-4c8e-a3be-a5910d884fff/download/gas-entregado-a-grandes-usuarios-industriales-por-provincia-total-en-miles-de-m3-de-9300-kcal-en.csv",
-                    "issued": "2017-05-29T10:30:24.078183",
-                    "identifier": "970f826d-e60c-4c8e-a3be-a5910d884fff"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "tienerg@minem.gob.ar",
-                "name": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información."
-            },
-            "landingPage": "http://www.enargas.gov.ar/secciones/transporte-y-distribucion/datos-operativos.php",
-            "description": "Total gas entregado a usuarios finales en miles de m3 de 9300 kcal, por área de licencia - Datos de ENARGAS.",
-            "license": "Creative Commons Attribution",
-            "title": "Gas natural entregado por área de licencia",
-            "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-07-21T01:48:14.424696",
-            "theme": [
-                "comercializacion-de-gas-natural"
-            ],
-            "keyword": [
-                "ENARGAS",
-                "Gas",
-                "Áreas"
-            ],
-            "superTheme": [
-                "ENER"
-            ],
-            "accrualPeriodicity": "eventual",
-            "contactPoint": {
-                "hasEmail": "",
-                "fn": ""
-            },
-            "identifier": "ce7b5038-d07e-4334-a810-348bca859810",
-            "distribution": [
-                {
-                    "accessURL": "https://datos.minem.gob.ar/dataset/ce7b5038-d07e-4334-a810-348bca859810/resource/7494c3a1-24b9-4252-8924-7b4e705e3e58",
-                    "description": "En miles de m3 de 9300 kcal.",
-                    "title": "Gas natural entregado por área de licencia ",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-29T10:35:51.179675",
-                    "downloadURL": "http://datos.minem.gob.ar/dataset/ce7b5038-d07e-4334-a810-348bca859810/resource/7494c3a1-24b9-4252-8924-7b4e705e3e58/download/gas-entregado-por-area-en-miles-de-m3-de-9300-kcal-enargas.csv",
-                    "issued": "2017-05-29T10:35:51.265474",
-                    "identifier": "7494c3a1-24b9-4252-8924-7b4e705e3e58"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "tienerg@minem.gob.ar",
                 "name": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.  "
             },
-            "landingPage": "http://www.enargas.gov.ar/secciones/transporte-y-distribucion/datos-operativos.php",
-            "description": "Total gas entregado a usuarios finales en miles de m<sup>3</sup> de 9300 kcal, por provincia - Datos de ENARGAS.",
+            "landingPage": "",
+            "description": "Flujo Promedio Entregado vs. Capacidad Nominal de Transporte por Gasoducto  (ENARGAS)\r\n",
             "license": "Creative Commons Attribution",
-            "title": "Gas natural entregado por provincia",
-            "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2018-03-19T13:03:19.160326",
+            "title": "Flujo Promedio Entregado vs. Capacidad Nominal de Transporte, por Gasoducto",
+            "issued": "2018-04-12T15:01:44.614055",
+            "modified": "2018-04-12T15:02:17.563074",
             "theme": [
-                "comercializacion-de-gas-natural"
+                "distribucion-de-gas-natural"
             ],
             "keyword": [
                 "ENARGAS",
-                "Gas",
-                "Provincias"
+                "Gas"
             ],
             "superTheme": [
                 "ENER"
             ],
-            "accrualPeriodicity": "eventual",
-            "contactPoint": {
-                "hasEmail": "",
-                "fn": "ENARGAS"
-            },
-            "identifier": "c5d8e29a-912a-44ad-80d7-7a35cae0aeba",
-            "distribution": [
-                {
-                    "accessURL": "https://datos.minem.gob.ar/dataset/c5d8e29a-912a-44ad-80d7-7a35cae0aeba/resource/f23a7256-9ff9-403e-a83d-8309cb989627",
-                    "description": "En miles de m<sup>3</sup> de 9.300 kcal.",
-                    "title": "Gas natural entregado por provincia ",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-29T10:09:44.145642",
-                    "downloadURL": "http://datos.minem.gob.ar/dataset/c5d8e29a-912a-44ad-80d7-7a35cae0aeba/resource/f23a7256-9ff9-403e-a83d-8309cb989627/download/gas-entregado-por-provincia-enargas.csv",
-                    "issued": "2017-05-29T10:09:47.462253",
-                    "identifier": "f23a7256-9ff9-403e-a83d-8309cb989627"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "tienerg@minem.gob.ar",
-                "name": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información."
-            },
-            "landingPage": "http://www.enargas.gov.ar/secciones/transporte-y-distribucion/datos-operativos.php",
-            "description": "Total gas entregado a usuarios finales en miles de m3 de 9300 kcal, por tipo de usuario - Datos de ENARGAS.",
-            "license": "Creative Commons Attribution",
-            "title": "Gas Entregado, por Tipo de Usuario",
-            "issued": "2017-05-29T13:56:33.936186",
-            "modified": "2017-05-29T14:54:39.652744",
-            "theme": [],
-            "keyword": [
-                "ENARGAS",
-                "Usuario"
-            ],
-            "superTheme": [
-                "ENER"
-            ],
-            "accrualPeriodicity": "eventual",
+            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": ""
             },
-            "identifier": "09aa1423-fde8-4141-b3f3-37ce2ded8a8e",
+            "identifier": "a22f3405-0de4-492a-a6ac-848db08b7dc4",
             "distribution": [
                 {
-                    "accessURL": "https://datos.minem.gob.ar/dataset/09aa1423-fde8-4141-b3f3-37ce2ded8a8e/resource/e80d38e2-91cc-494d-9a77-aebbbd04f9c0",
-                    "description": "",
-                    "title": "Gas Entregado, por Tipo de Usuario",
+                    "accessURL": "https://datos.minem.gob.ar/dataset/a22f3405-0de4-492a-a6ac-848db08b7dc4/resource/439f36b2-1202-441d-868b-ce25c4814861",
+                    "description": "Flujo Promedio Entregado vs. Capacidad Nominal de Transporte por Gasoducto  (ENARGAS)\r\n",
+                    "title": "Flujo Promedio Entregado vs. Capacidad Nominal de Transporte, por Gasoducto",
                     "byteSize": null,
-                    "format": "CSV",
+                    "format": "php",
                     "mediaType": null,
-                    "modified": "2017-05-29T10:56:46.815987",
-                    "downloadURL": "http://datos.minem.gob.ar/dataset/09aa1423-fde8-4141-b3f3-37ce2ded8a8e/resource/e80d38e2-91cc-494d-9a77-aebbbd04f9c0/download/gas-entregado-por-tipo-de-usuario-total-en-miles-de-m3-de-9300-kcal-enargas.csv",
-                    "issued": "2017-05-29T10:56:46.896600",
-                    "identifier": "e80d38e2-91cc-494d-9a77-aebbbd04f9c0"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "tienerg@minem.gob.ar",
-                "name": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información."
-            },
-            "landingPage": "http://www.enargas.gov.ar/secciones/transporte-y-distribucion/datos-operativos.php",
-            "description": "Total gas entregado a usuarios finales en miles de m3 de 9300 kcal, por tipo de usuario y por cuenta de terceros - Datos de ENARGAS.\r\n\r\n",
-            "license": "Creative Commons Attribution",
-            "title": "Gas Entregado, por Tipo de Usuario y por cuenta de Terceros",
-            "issued": "2017-05-29T13:53:12.527850",
-            "modified": "2017-05-29T14:54:16.657801",
-            "theme": [],
-            "keyword": [
-                "ENARGAS",
-                "Usuario"
-            ],
-            "superTheme": [
-                "ENER"
-            ],
-            "accrualPeriodicity": "eventual",
-            "contactPoint": {
-                "hasEmail": "",
-                "fn": ""
-            },
-            "identifier": "cd834454-ea20-4e41-8839-fc426d0b4211",
-            "distribution": [
-                {
-                    "accessURL": "https://datos.minem.gob.ar/dataset/cd834454-ea20-4e41-8839-fc426d0b4211/resource/41caa09e-60fd-4533-b6e2-cc6b3eb2ba44",
-                    "description": "",
-                    "title": "Gas Entregado, por Tipo de Usuario y por cuenta de Terceros",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-29T10:53:34.580607",
-                    "downloadURL": "http://datos.minem.gob.ar/dataset/cd834454-ea20-4e41-8839-fc426d0b4211/resource/41caa09e-60fd-4533-b6e2-cc6b3eb2ba44/download/gas-entregado-por-tipo-de-usuario-y-terceros-total-en-miles-de-m3-de-9300-kcal-enargas.csv",
-                    "issued": "2017-05-29T10:53:34.686495",
-                    "identifier": "41caa09e-60fd-4533-b6e2-cc6b3eb2ba44"
+                    "modified": null,
+                    "downloadURL": "https://www.enargas.gob.ar/secciones/transporte-y-distribucion/datos-operativos-subsec.php?sec=2&subsec=4&subsecord=04",
+                    "issued": "2018-04-12T12:02:17.048534",
+                    "identifier": "439f36b2-1202-441d-868b-ce25c4814861"
                 }
             ]
         },
@@ -7928,6 +7820,48 @@
                     "downloadURL": "http://www.energia.gob.ar/contenidos/archivos/publicaciones/Informe%20de%20Impuestos%20V1.pdf",
                     "issued": "2016-12-28T15:38:26.188521",
                     "identifier": "557d1255-9913-4b35-85ae-a05b8c9ab967"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "tienerg@minem.gob.ar",
+                "name": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información"
+            },
+            "landingPage": "https://www.enargas.gob.ar/",
+            "description": "Indicadores de Calidad del Servicio público de gas, prestado por las Licenciatarias de Distribución y Transporte - Datos de ENARGAS",
+            "license": "Creative Commons Attribution",
+            "title": "Indicadores de Calidad",
+            "issued": "2018-04-09T11:22:56.923372",
+            "modified": "2018-04-09T14:13:14.389166",
+            "theme": [
+                "distribucion-de-gas-natural"
+            ],
+            "keyword": [
+                "ENARGAS",
+                "Gas"
+            ],
+            "superTheme": [
+                "ENER"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "contactPoint": {
+                "hasEmail": "",
+                "fn": ""
+            },
+            "identifier": "428d6da4-2258-44e2-b68e-8f08cee73a13",
+            "distribution": [
+                {
+                    "accessURL": "https://datos.minem.gob.ar/dataset/428d6da4-2258-44e2-b68e-8f08cee73a13/resource/88b3e3b9-f22d-41c0-bfa8-3539a00435eb",
+                    "description": "Indicadores de Calidad del Servicio público de gas, prestado por las Licenciatarias de Distribución y Transporte - Datos de ENARGAS",
+                    "title": "Datos Indicadores de Calidad",
+                    "byteSize": null,
+                    "format": "php",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "https://www.enargas.gob.ar/secciones/transporte-y-distribucion/indicadores-calidad.php",
+                    "issued": "2018-04-09T08:23:41.259632",
+                    "identifier": "88b3e3b9-f22d-41c0-bfa8-3539a00435eb"
                 }
             ]
         },
@@ -10817,7 +10751,7 @@
             "license": "Creative Commons Attribution",
             "title": "Informe Trimestral de Coyuntura Energética",
             "issued": "2017-03-01T18:45:01.117181",
-            "modified": "2018-04-05T15:30:15.038091",
+            "modified": "2018-04-10T17:05:06.680202",
             "theme": [
                 "otros"
             ],
@@ -10832,7 +10766,7 @@
             "accrualPeriodicity": "R/P3M",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. "
+                "fn": ""
             },
             "identifier": "82496485-c054-4623-be52-fb2bdec9b587",
             "distribution": [
@@ -13000,7 +12934,7 @@
             "license": "Creative Commons Attribution",
             "title": "Partes diarios de gas natural",
             "issued": "2017-07-21T04:47:19.452641",
-            "modified": "2017-08-04T12:03:51.397329",
+            "modified": "2018-04-12T14:51:04.291049",
             "theme": [
                 "distribucion-de-gas-natural"
             ],
@@ -13041,6 +12975,18 @@
                     "downloadURL": "http://www.enargas.gov.ar/secciones/transporte-y-distribucion/partes-diarios-exp-imp.php",
                     "issued": "2017-07-21T01:51:05.780301",
                     "identifier": "744fe5d7-bcf3-4bee-8e00-8961b911ae38"
+                },
+                {
+                    "accessURL": "https://datos.minem.gob.ar/dataset/e06ad11c-7ede-420d-a608-83fa8a9156c4/resource/0edd3c0d-31ed-4417-ad8a-110095c3e795",
+                    "description": "Uso de la capacidad de transporte de gas natural por distribuidora.  (ENARGAS)",
+                    "title": "Uso de la Capacidad Contratada por Distribuidora",
+                    "byteSize": null,
+                    "format": "php",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "https://www.enargas.gob.ar/secciones/transporte-y-distribucion/partes-diarios.php",
+                    "issued": "2018-04-12T11:51:04.345529",
+                    "identifier": "0edd3c0d-31ed-4417-ad8a-110095c3e795"
                 }
             ]
         },
@@ -13288,6 +13234,47 @@
                     "downloadURL": "http://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_del_mercado/mercado_hidrocarburos/tablas_dinamicas/inversiones/inversionesTD.zip",
                     "issued": "2016-12-22T15:22:56.712062",
                     "identifier": "9c4a753a-f1a0-4fcc-b049-96eb9abc80de"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "tienerg@minem.gob.ar",
+                "name": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información"
+            },
+            "landingPage": "https://www.enargas.gob.ar/",
+            "description": "Listado de obras, mejoras y relevamientos obligatorios de las licenciatarias de Transporte y Distribución (\"Inversiones Obligatorias\") para el quinquenio 2017-2021 - Datos de ENARGAS",
+            "license": "Creative Commons Attribution",
+            "title": "Plan de Inversiones",
+            "issued": "2018-04-09T11:25:48.433041",
+            "modified": "2018-04-09T14:13:42.016174",
+            "theme": [
+                "distribucion-de-gas-natural"
+            ],
+            "keyword": [
+                "ENARGAS"
+            ],
+            "superTheme": [
+                "ENER"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "contactPoint": {
+                "hasEmail": "",
+                "fn": ""
+            },
+            "identifier": "ee0c63c1-d1b9-4728-bff7-9c7921ecea0e",
+            "distribution": [
+                {
+                    "accessURL": "https://datos.minem.gob.ar/dataset/ee0c63c1-d1b9-4728-bff7-9c7921ecea0e/resource/e0691fb6-66f6-4c35-b721-f58a44b021d0",
+                    "description": " Listado de obras, mejoras y relevamientos obligatorios de las licenciatarias de Transporte y Distribución (\"Inversiones Obligatorias\") para el quinquenio 2017-2021 - Datos de ENARGAS",
+                    "title": "Plan de Inversiones",
+                    "byteSize": null,
+                    "format": "php",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "https://www.enargas.gob.ar/secciones/transporte-y-distribucion/plan-inversion.php",
+                    "issued": "2018-04-09T08:26:25.892775",
+                    "identifier": "e0691fb6-66f6-4c35-b721-f58a44b021d0"
                 }
             ]
         },
@@ -13745,7 +13732,7 @@
             "license": "Creative Commons Attribution",
             "title": "Precios EESS - Resolución 1104/04",
             "issued": "2017-02-02T18:41:10.020781",
-            "modified": "2018-02-20T05:48:24.834554",
+            "modified": "2018-04-20T06:03:05.030853",
             "theme": [
                 "comercializacion-de-los-hidrocarburos"
             ],
@@ -13770,7 +13757,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2018-02-20T02:48:24.800809",
+                    "modified": "2018-04-20T03:03:05.001451",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/708f9ab4-829b-4f02-b507-f303c5bc4800/resource/d0d01143-fb95-4ee4-993e-0ff178e33aa8/download/precios-eess-2017.csv",
                     "issued": "2017-05-04T12:20:09.726061",
                     "identifier": "d0d01143-fb95-4ee4-993e-0ff178e33aa8"
@@ -13943,7 +13930,7 @@
             "license": "Creative Commons Attribution",
             "title": "Precios en Surtidor - Resolución 314/2016",
             "issued": "2018-03-21T17:19:44.921115",
-            "modified": "2018-04-06T01:03:01.964566",
+            "modified": "2018-04-24T00:58:56.923321",
             "theme": [
                 "comercializacion-de-los-hidrocarburos"
             ],
@@ -13968,7 +13955,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2018-04-05T22:02:52.266121",
+                    "modified": "2018-04-23T21:58:47.753815",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/1c181390-5045-475e-94dc-410429be4b17/resource/80ac25de-a44a-4445-9215-090cf55cfda5/download/precios-en-surtidor-resolucin-3142016.csv",
                     "issued": "2018-03-21T14:20:27.688896",
                     "identifier": "80ac25de-a44a-4445-9215-090cf55cfda5"
@@ -13980,7 +13967,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2018-04-05T12:02:39.186849",
+                    "modified": "2018-04-23T12:02:57.509886",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/1c181390-5045-475e-94dc-410429be4b17/resource/f8dda0d5-2a9f-4d34-b79b-4e63de3995df/download/precios-historicos.csv",
                     "issued": "2018-03-21T14:21:36.203218",
                     "identifier": "f8dda0d5-2a9f-4d34-b79b-4e63de3995df"
@@ -14139,7 +14126,7 @@
             "license": "Creative Commons Attribution",
             "title": "Producción de GLP",
             "issued": "2017-01-20T16:33:27.594071",
-            "modified": "2018-03-26T12:23:24.126733",
+            "modified": "2018-04-20T05:00:57.206583",
             "theme": [
                 "refinacion-de-hidrocarburos"
             ],
@@ -14165,7 +14152,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2018-03-26T09:21:16.032504",
+                    "modified": "2018-04-20T02:00:53.460569",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/55b83784-8f04-4018-91c7-027163c615b3/resource/8ccafc38-252d-404f-b354-71465519a01f/download/produccin-de-glp-condensado-y-gasolina-estabilizada-produccin-de-glp.csv",
                     "issued": "2017-05-04T12:42:29.186253",
                     "identifier": "8ccafc38-252d-404f-b354-71465519a01f"
@@ -14177,7 +14164,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2018-03-26T09:20:58.612738",
+                    "modified": "2018-04-20T02:00:44.715222",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/55b83784-8f04-4018-91c7-027163c615b3/resource/6abeecd8-ed64-48ca-904a-53b61a00ece7/download/produccin-de-glp-por-planta-ant-2009.csv",
                     "issued": "2017-05-04T13:57:58.353953",
                     "identifier": "6abeecd8-ed64-48ca-904a-53b61a00ece7"
@@ -14290,7 +14277,7 @@
             "license": "Creative Commons Attribution",
             "title": "Producción de petróleo y gas por pozo (Capítulo IV)",
             "issued": "2017-01-20T16:34:31.665991",
-            "modified": "2018-02-20T04:48:19.720564",
+            "modified": "2018-04-20T05:00:28.394438",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos"
             ],
@@ -14342,7 +14329,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2018-02-20T01:48:12.047918",
+                    "modified": "2018-04-20T02:00:20.361308",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/cbfa4d79-ffb3-4096-bab5-eb0dde9a8385/download/listado-de-pozos-cargados-por-empresas-operadoras.csv",
                     "issued": "2017-05-04T19:29:38.992761",
                     "identifier": "cbfa4d79-ffb3-4096-bab5-eb0dde9a8385"
@@ -16414,7 +16401,7 @@
             "license": "Creative Commons Attribution",
             "title": "Registro de empresas de hidrocarburos del upstream",
             "issued": "2017-01-20T16:33:21.697424",
-            "modified": "2018-03-23T19:05:44.154867",
+            "modified": "2018-04-20T05:00:37.603497",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos"
             ],
@@ -16451,7 +16438,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2018-03-23T15:04:24.792398",
+                    "modified": "2018-04-20T02:00:29.026308",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/2b227214-829d-4ef5-9f3e-c9bb49fa2f4c/resource/68508752-90bc-401b-930f-5d130333f577/download/conformacin-de-consorcio.csv",
                     "issued": "2017-05-04T14:39:35.186683",
                     "identifier": "68508752-90bc-401b-930f-5d130333f577"
@@ -16463,7 +16450,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-05-04T15:00:46.451792",
+                    "modified": "2018-04-20T02:00:33.618017",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/2b227214-829d-4ef5-9f3e-c9bb49fa2f4c/resource/4f417d63-b53c-4424-8cc3-98dd276f129a/download/conformacin-de-consorcios-listado-oficial-.csv",
                     "issued": "2017-05-04T15:00:53.259146",
                     "identifier": "4f417d63-b53c-4424-8cc3-98dd276f129a"
@@ -16605,7 +16592,7 @@
             "license": "Creative Commons Attribution",
             "title": "Padrón de operadores autorizados para la venta de combustibles líquidos",
             "issued": "2017-01-20T16:34:30.488389",
-            "modified": "2018-04-06T01:02:36.417405",
+            "modified": "2018-04-24T01:02:47.420040",
             "theme": [
                 "comercializacion-de-los-hidrocarburos"
             ],
@@ -16627,7 +16614,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2018-04-05T22:02:32.269177",
+                    "modified": "2018-04-23T22:02:43.081671",
                     "downloadURL": "http://datos.minem.gob.ar/dataset/21a54fa2-539d-4570-b1cd-679d54229d2f/resource/5ccaf9d2-d9a8-4482-b4fb-a4d7bcd225f2/download/padrn-de-operadores-autorizados.csv",
                     "issued": "2017-05-04T19:43:43.794698",
                     "identifier": "5ccaf9d2-d9a8-4482-b4fb-a4d7bcd225f2"
@@ -17056,7 +17043,7 @@
             "license": "Creative Commons Attribution",
             "title": "Síntesis del Mercado Eléctrico Mayorista de la CNEA",
             "issued": "2016-12-23T14:25:57.283041",
-            "modified": "2018-01-02T12:43:19.910497",
+            "modified": "2018-04-10T14:52:25.151136",
             "theme": [
                 "generacion-de-energia-electrica"
             ],
@@ -17067,7 +17054,6 @@
             "superTheme": [
                 "ENER"
             ],
-            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": ""
@@ -17082,7 +17068,7 @@
                     "format": "HTML",
                     "mediaType": null,
                     "modified": null,
-                    "downloadURL": "https://www.cnea.gov.ar/es/publicaciones/2017-2/",
+                    "downloadURL": "https://www.cnea.gov.ar/es/publicaciones/sintesis-mem-2018-2/",
                     "issued": "2017-05-31T12:17:38.593770",
                     "identifier": "18dfa0c3-4877-4135-9a0d-941c98e91470"
                 }
@@ -17210,6 +17196,48 @@
                     "downloadURL": "http://datos.minem.gob.ar/dataset/182d2184-49a2-4769-a33b-e4204eac3183/resource/aafb418b-7c56-4588-8865-0fa12526613d/download/energy-forum-holanda.pdf",
                     "issued": "2017-04-10T08:47:52.537864",
                     "identifier": "aafb418b-7c56-4588-8865-0fa12526613d"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "tienerg@minem.gob.ar",
+                "name": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.  "
+            },
+            "landingPage": "",
+            "description": "Capacidad de Transporte Contratada en Firme por cargador (ENARGAS)\r\n",
+            "license": "Creative Commons Attribution",
+            "title": "Capacidad de Transporte Contratada en Firme, por Cargador",
+            "issued": "2018-04-12T14:59:47.685551",
+            "modified": "2018-04-12T15:00:26.330726",
+            "theme": [
+                "distribucion-de-gas-natural"
+            ],
+            "keyword": [
+                "ENARGAS",
+                "Gas"
+            ],
+            "superTheme": [
+                "ENER"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "contactPoint": {
+                "hasEmail": "",
+                "fn": ""
+            },
+            "identifier": "bf96c65d-e5dd-41fd-b512-ed45d215965f",
+            "distribution": [
+                {
+                    "accessURL": "https://datos.minem.gob.ar/dataset/bf96c65d-e5dd-41fd-b512-ed45d215965f/resource/21313d57-1545-43b4-bb7d-622c91e10723",
+                    "description": "Capacidad de Transporte Contratada en Firme por cargador (ENARGAS)\r\n",
+                    "title": "Capacidad de Transporte Contratada en Firme, por Cargador",
+                    "byteSize": null,
+                    "format": "php",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "https://www.enargas.gob.ar/secciones/transporte-y-distribucion/datos-operativos-subsec.php?sec=2&subsec=5&subsecord=05",
+                    "issued": "2018-04-12T12:00:25.766416",
+                    "identifier": "21313d57-1545-43b4-bb7d-622c91e10723"
                 }
             ]
         },
@@ -17667,6 +17695,48 @@
                     "downloadURL": "http://datos.minem.gob.ar/dataset/b5681530-fb92-4fff-ae89-9a327f28120f/resource/8eff6adb-4149-4e2e-9a93-a5915c22f04d/download/transporte-hidrocarburos-ductos-troncales-propanoductos.csv",
                     "issued": "2017-05-04T22:50:23.326575",
                     "identifier": "8eff6adb-4149-4e2e-9a93-a5915c22f04d"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "tienerg@minem.gob.ar",
+                "name": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.  "
+            },
+            "landingPage": "",
+            "description": "Cantidad de Vehículos habilitados clasificados por provincia y tipo de vehículo.  (ENARGAS)",
+            "license": "Creative Commons Attribution",
+            "title": "Vehículos habilitados para GNC",
+            "issued": "2018-04-12T14:54:37.500058",
+            "modified": "2018-04-12T14:55:13.003433",
+            "theme": [
+                "distribucion-de-gas-natural"
+            ],
+            "keyword": [
+                "ENARGAS",
+                "Gas"
+            ],
+            "superTheme": [
+                "ENER"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "contactPoint": {
+                "hasEmail": "",
+                "fn": ""
+            },
+            "identifier": "3f3cdc6d-575d-4f62-9b47-158a09213930",
+            "distribution": [
+                {
+                    "accessURL": "https://datos.minem.gob.ar/dataset/3f3cdc6d-575d-4f62-9b47-158a09213930/resource/ff24befe-0178-4f76-8716-68aa39336bd2",
+                    "description": "Cantidad de Vehículos habilitados clasificados por provincia y tipo de vehículo.  (ENARGAS)\r\n",
+                    "title": "Vehículos habilitados para GNC",
+                    "byteSize": null,
+                    "format": "PHP",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "https://www.enargas.gob.ar/secciones/gas-natural-comprimido/estadisticas.php",
+                    "issued": "2018-04-12T11:55:12.600628",
+                    "identifier": "ff24befe-0178-4f76-8716-68aa39336bd2"
                 }
             ]
         },
