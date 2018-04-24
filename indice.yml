@@ -4,11 +4,6 @@ datosgobar:
   formato: "json"
   federado: false
 
-datosgobar-ckan:
-  url: "http://datos.gob.ar"
-  formato: "ckan"
-  federado: false
-
 # nodos de prueba
 transporte-bis:
   url: "http://datos.transporte.gob.ar/data.json"
