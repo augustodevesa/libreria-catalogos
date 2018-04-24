@@ -15,15 +15,16 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 279
-- **Cantidad Total de Distribuciones**: 641
+- **Cantidad Total de Datasets**: 278
+- **Cantidad Total de Distribuciones**: 640
 
-- **Cantidad de Datasets Federados**: 230
+- **Cantidad de Datasets Federados**: 229
 - **Cantidad de Datasets NO Federados**: 49
-- **Porcentaje de Datasets NO Federados**: 17.56%
+- **Porcentaje de Datasets NO Federados**: 17.63%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
+- [Títulos Públicos de Deuda](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Tipo de Cambio $-USD - Futuro Dólar - NDF](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Inversión Bruta Interna Fija Total y Desagregada en australes a precios de 1970](http://infra.datos.gob.ar/catalog/sspm/dataset/273/distribution/273.1/download/ibif-total-desagregada-australes-precios-1970.csv)
 - [Inversión Bruta Interna Equipo Durable de Producción Importado en australes a precios de 1970](http://infra.datos.gob.ar/catalog/sspm/dataset/272/distribution/272.2/download/ibi-equipo-durable-produccion-importado-australes-precios-1970-trimestral.csv)
@@ -293,7 +294,6 @@
 - [Índice de Precios al Consumidor GBA - Base 1988](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índice de Precios al Consumidor GBA - Base 1974](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Índice de Precios al Consumidor histórico](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
-- [Títulos Públicos de Deuda](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Indices Bursátiles Argentina. Desagregación sectorial](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Exportaciones e importaciones por Intensidad tecnológica](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Cobros y pagos por bienes por modalidad de pago - Balance Cambiario](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
