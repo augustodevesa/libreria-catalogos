@@ -1,4 +1,15 @@
 {
+    "publisher": {
+        "mbox": "datos@modernizacion.gob.ar",
+        "name": "Ministerio de Modernización"
+    },
+    "identifier": "otros",
+    "description": "Catálogo de datos abiertos de la Administración Pública Nacional, cuya publicación es administrada por el Ministerio de Modernización.",
+    "license": "Open Database License (ODbL) v1.0",
+    "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
+    "issued": "2018-03-01T00:00:00",
+    "title": "Datos APN",
+    "modified": "2018-03-01T00:00:00",
     "dataset": [
         {
             "publisher": {
@@ -34,127 +45,12 @@
             "landingPage": "http://www.mininterior.gov.ar/inicio/index.php",
             "distribution": [],
             "description": "En este cuerpo de datos se listan los pedidos de acceso a la información que se realizan en el marco del Decreto 1172/2003. Entre otras cosas, se detallan la fecha del pedido, el estado del trámite y una síntesis del objeto de la solicitud."
-        },
-        {
-            "publisher": {
-                "mbox": "pautas@medios.gov.ar",
-                "name": "Jefatura de Gabinete de Ministros. Secretaría de Comunicación Pública."
-            },
-            "license": "ODbL-1.0",
-            "keyword": [
-                "Comunicación",
-                "Gastos",
-                "Medios",
-                "Pauta",
-                "Publicidad"
-            ],
-            "superTheme": [
-                "GOVE"
-            ],
-            "title": "Pauta Oficial",
-            "issued": "2016-09-02T18:38:21.940714",
-            "modified": "2018-02-01T22:07:46.614750",
-            "language": [
-                "SPA"
-            ],
-            "theme": [
-                "GOVE"
-            ],
-            "accrualPeriodicity": "R/P6M",
-            "spatial": "ARG",
-            "identifier": "2",
-            "contactPoint": {
-                "hasEmail": "mailto:pautas@medios.gov.ar",
-                "fn": "Jefatura de Gabinete de Ministros. Secretaría de Comunicación Pública."
-            },
-            "landingPage": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad",
-            "distribution": [
-                {
-                    "accessURL": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad/resource/79557a3e-c155-4a48-83f5-bd5bf1973555",
-                    "description": "Montos destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el segundo semestre de 2017.",
-                    "format": "CSV",
-                    "dataset_identifier": "2",
-                    "issued": "2018-02-01T22:07:02.457479",
-                    "title": "Pauta Oficial Segundo Semestre 2017",
-                    "modified": "2018-02-01T22:07:02.387004",
-                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/79557a3e-c155-4a48-83f5-bd5bf1973555/download/pauta-oficial-segundo-semestre-2017.csv",
-                    "draft": false,
-                    "identifier": "2.6"
-                },
-                {
-                    "accessURL": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad/resource/6cc9c4b4-fbc4-41dd-8f01-7d1dedbed596",
-                    "description": "Montos destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el primer semestre de 2017.",
-                    "format": "CSV",
-                    "dataset_identifier": "2",
-                    "issued": "2017-07-10T17:35:07.907522",
-                    "title": "Pauta Oficial Primer Semestre 2017",
-                    "modified": "2017-07-10T17:35:07.854398",
-                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/6cc9c4b4-fbc4-41dd-8f01-7d1dedbed596/download/pauta-publicitaria-primer-semestre-2017.csv",
-                    "draft": false,
-                    "identifier": "2.5"
-                },
-                {
-                    "accessURL": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad/resource/eed67d08-3c9a-4c02-86ac-c51ff24fe99a",
-                    "description": "Montos destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el segundo semestre de 2016.",
-                    "format": "CSV",
-                    "dataset_identifier": "2",
-                    "issued": "2017-01-05T16:44:13.562265",
-                    "title": "Pauta Oficial Segundo Semestre 2016",
-                    "modified": "2017-01-05T19:44:13.501028",
-                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/eed67d08-3c9a-4c02-86ac-c51ff24fe99a/download/pauta-oficial-segundo-semestre-2016.csv",
-                    "draft": false,
-                    "identifier": "2.4"
-                },
-                {
-                    "accessURL": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad/resource/0c3cca0a-ccfa-4520-a614-dbdd58d74d79",
-                    "description": "Montos (incluye IVA) destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el primer semestre de 2016.",
-                    "format": "CSV",
-                    "dataset_identifier": "2",
-                    "issued": "2016-09-02T15:41:50.241059",
-                    "title": "Pauta Oficial Primer Semestre 2016",
-                    "modified": "2017-01-17T18:49:16.640853",
-                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/0c3cca0a-ccfa-4520-a614-dbdd58d74d79/download/pauta-oficial-primer-semestre-2016.csv",
-                    "draft": false,
-                    "identifier": "2.3"
-                },
-                {
-                    "accessURL": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad/resource/01bd7d9f-bc54-4fd7-b800-a4969a2a5b6f",
-                    "description": "Montos (incluye IVA) destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el año 2015.",
-                    "format": "CSV",
-                    "dataset_identifier": "2",
-                    "issued": "2016-09-02T15:59:51.435179",
-                    "title": "Pauta Oficial 2015",
-                    "modified": "2017-01-17T18:47:17.000985",
-                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/01bd7d9f-bc54-4fd7-b800-a4969a2a5b6f/download/pauta-oficial-2015.csv",
-                    "draft": false,
-                    "identifier": "2.2"
-                },
-                {
-                    "accessURL": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad/resource/98a8c15f-5937-47fe-92e3-05d755be7d43",
-                    "description": "Montos (incluye IVA) destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el año 2014.",
-                    "format": "CSV",
-                    "dataset_identifier": "2",
-                    "issued": "2016-09-02T16:00:50.534613",
-                    "title": "Pauta Oficial 2014",
-                    "modified": "2016-09-02T19:00:50.469703",
-                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/98a8c15f-5937-47fe-92e3-05d755be7d43/download/pauta-oficial-2014.csv",
-                    "draft": false,
-                    "identifier": "2.1"
-                }
-            ],
-            "description": "La información publicada refleja las órdenes de publicidad emitidas en concepto de campañas de pauta oficial realizadas por la ADMINISTRACIÓN PUBLICA NACIONAL, el Banco de la Nación Argentina y sus empresas vinculadas, y demás organismos comprendidos en el artículo 8º de la Ley Nº 24.156, cualquiera fuera su fuente de financiamiento."
         }
     ],
-    "publisher": {
-        "mbox": "datos@modernizacion.gob.ar",
-        "name": "Ministerio de Modernización"
-    },
-    "description": "Catálogo de datos abiertos de la Administración Pública Nacional, cuya publicación es administrada por el Ministerio de Modernización.",
-    "license": "Open Database License (ODbL) v1.0",
-    "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
-    "issued": "2018-03-01T00:00:00",
-    "title": "Datos APN",
-    "modified": "2018-03-01T00:00:00",
+    "language": [
+        "SPA"
+    ],
+    "spatial": "ARG",
     "themeTaxonomy": [
         {
             "label": "Agroganadería, pesca y forestación",
@@ -221,10 +117,5 @@
             "id": "tran",
             "description": "Por ejemplo: 'Estadísticas viales'."
         }
-    ],
-    "language": [
-        "SPA"
-    ],
-    "spatial": "ARG",
-    "identifier": "otros"
+    ]
 }
