@@ -30,10 +30,10 @@
 
 - [Registro de Visitas](None)
 - [Tráfico de Internet entrante y saliente](None)
-- [Ausentismo - Total mensual de días por motivo de ausencia](None)
-- [Evolución de Cantidad Clientes y Megabits en servicio](None)
 - [Cantidad Total de Megabits en servicio por provincia](None)
 - [Cantidad de clientes por provincia](None)
+- [Evolución de Cantidad Clientes y Megabits en servicio](None)
+- [Ausentismo - Total mensual de días por motivo de ausencia](None)
 - [Personal de ARSAT según zona laboral](None)
 - [Personal por Gerencia distinguido por género](None)
 - [Total de personal por género](None)
@@ -49,6 +49,8 @@
 ## Datasets federados
 
 - [Registro de Audiencias](None)
+- [Datos de las estaciones de transmisión en construcción o planificadas](None)
+- [Datos de las estaciones transmisoras](None)
 - [Datos de uso de la plataforma](None)
 - [Escuelas conectadas](None)
 - [Escuelas de próxima conexión](None)
@@ -64,8 +66,6 @@
 - [Fibra óptica sin iluminar](None)
 - [Coordenadas de Traza de Fibra óptica de Redes Provinciales](None)
 - [Áreas de cobertura de la televisión digital abierta](None)
-- [Datos de las estaciones transmisoras](None)
-- [Datos de las estaciones de transmisión en construcción o planificadas](None)
 - [Licitaciones](None)
 - [Declaraciones Juradas Patrimoniales - Directorio y Gerentes](None)
 - [Listado de Proveedores](None)
