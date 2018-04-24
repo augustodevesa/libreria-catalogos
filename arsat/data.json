@@ -14,7 +14,7 @@
             ],
             "title": "Registro de Visitas",
             "issued": "2017-06-26T21:51:38",
-            "modified": "2018-04-17T21:56:18.441Z",
+            "modified": "2018-04-24T01:26:54.530Z",
             "language": [
                 "spa"
             ],
@@ -27,30 +27,27 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/239722/registro-de-visitas/",
                     "description": "Listado de visitas recibidas en Arsat desde el 20/03/17 hasta el presente.",
                     "title": "Registro de Visitas",
-                    "dataset_identifier": "REGIS-DE-VISIT-31415",
                     "issued": "2017-06-26T21:51:38",
                     "format": "CSV",
-                    "modified": "2018-04-17T21:56:18.441Z",
+                    "modified": "2018-04-24T01:26:54.530Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/239722/registro-de-visitas/",
                     "description": "Listado de visitas recibidas en Arsat desde el 20/03/17 hasta el presente.",
                     "title": "Registro de Visitas",
-                    "dataset_identifier": "REGIS-DE-VISIT-31415",
                     "issued": "2017-06-26T21:51:38",
                     "format": "XLS",
-                    "modified": "2018-04-17T21:56:18.441Z",
+                    "modified": "2018-04-24T01:26:54.530Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/239722/registro-de-visitas/",
                     "description": "Listado de visitas recibidas en Arsat desde el 20/03/17 hasta el presente.",
                     "title": "Registro de Visitas",
-                    "dataset_identifier": "REGIS-DE-VISIT-31415",
                     "issued": "2017-06-26T21:51:38",
                     "format": "JSON",
-                    "modified": "2018-04-17T21:56:18.441Z",
+                    "modified": "2018-04-24T01:26:54.530Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -73,7 +70,7 @@
             ],
             "title": "Registro de Audiencias",
             "issued": "2017-06-26T17:14:16",
-            "modified": "2018-04-17T21:17:46Z",
+            "modified": "2018-04-23T23:33:21Z",
             "language": [
                 "spa"
             ],
@@ -86,30 +83,27 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/239713/registro-de-audiencias/",
                     "description": ".Listado de Audiencias realizadas en Arsat desde el 20/03/17 hasta el presente.",
                     "title": "Registro de Audiencias",
-                    "dataset_identifier": "AUDIE-96185",
                     "issued": "2017-06-26T17:14:16",
                     "format": "CSV",
-                    "modified": "2018-04-17T21:17:46Z",
+                    "modified": "2018-04-23T23:33:21Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/239713/registro-de-audiencias/",
                     "description": ".Listado de Audiencias realizadas en Arsat desde el 20/03/17 hasta el presente.",
                     "title": "Registro de Audiencias",
-                    "dataset_identifier": "AUDIE-96185",
                     "issued": "2017-06-26T17:14:16",
                     "format": "XLS",
-                    "modified": "2018-04-17T21:17:46Z",
+                    "modified": "2018-04-23T23:33:21Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/239713/registro-de-audiencias/",
                     "description": ".Listado de Audiencias realizadas en Arsat desde el 20/03/17 hasta el presente.",
                     "title": "Registro de Audiencias",
-                    "dataset_identifier": "AUDIE-96185",
                     "issued": "2017-06-26T17:14:16",
                     "format": "JSON",
-                    "modified": "2018-04-17T21:17:46Z",
+                    "modified": "2018-04-23T23:33:21Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -130,8 +124,8 @@
                 "refefo"
             ],
             "title": "Tráfico de Internet entrante y saliente",
-            "issued": "2018-04-16T21:41:08",
-            "modified": "2018-04-17T00:42:23Z",
+            "issued": "2018-04-23T16:07:10",
+            "modified": "2018-04-23T19:08:56Z",
             "language": [
                 "spa"
             ],
@@ -144,36 +138,307 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
                     "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
                     "title": "Tráfico de Internet entrante y saliente",
-                    "dataset_identifier": "TRAFI-DE-INTER",
-                    "issued": "2018-04-16T21:41:08",
+                    "issued": "2018-04-23T16:07:10",
                     "format": "CSV",
-                    "modified": "2018-04-17T00:42:23Z",
+                    "modified": "2018-04-23T19:08:56Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
                     "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
                     "title": "Tráfico de Internet entrante y saliente",
-                    "dataset_identifier": "TRAFI-DE-INTER",
-                    "issued": "2018-04-16T21:41:08",
+                    "issued": "2018-04-23T16:07:10",
                     "format": "XLS",
-                    "modified": "2018-04-17T00:42:23Z",
+                    "modified": "2018-04-23T19:08:56Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
                     "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s.",
                     "title": "Tráfico de Internet entrante y saliente",
-                    "dataset_identifier": "TRAFI-DE-INTER",
-                    "issued": "2018-04-16T21:41:08",
+                    "issued": "2018-04-23T16:07:10",
                     "format": "JSON",
-                    "modified": "2018-04-17T00:42:23Z",
+                    "modified": "2018-04-23T19:08:56Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAFI-DE-INTER/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
             "identifier": "TRAFI-DE-INTER",
             "homepage": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
             "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "tda",
+                "arsat"
+            ],
+            "title": "Datos de las estaciones de transmisión en construcción o planificadas",
+            "issued": "2018-04-20T18:35:24",
+            "modified": "2018-04-23T19:08:55Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "television-digital-abierta"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
+                    "title": "Datos de las estaciones de transmisión en construcción o planificadas",
+                    "issued": "2018-04-20T18:35:24",
+                    "format": "CSV",
+                    "modified": "2018-04-23T19:08:55Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
+                    "title": "Datos de las estaciones de transmisión en construcción o planificadas",
+                    "issued": "2018-04-20T18:35:24",
+                    "format": "XLS",
+                    "modified": "2018-04-23T19:08:55Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
+                    "title": "Datos de las estaciones de transmisión en construcción o planificadas",
+                    "issued": "2018-04-20T18:35:24",
+                    "format": "JSON",
+                    "modified": "2018-04-23T19:08:55Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "TDA-ESTAC-PLANI",
+            "homepage": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
+            "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "tda",
+                "arsat"
+            ],
+            "title": "Datos de las estaciones transmisoras",
+            "issued": "2018-04-20T18:33:12",
+            "modified": "2018-04-20T21:34:23Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "television-digital-abierta"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
+                    "title": "Datos de las estaciones transmisoras",
+                    "issued": "2018-04-20T18:33:12",
+                    "format": "CSV",
+                    "modified": "2018-04-20T21:34:23Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
+                    "title": "Datos de las estaciones transmisoras",
+                    "issued": "2018-04-20T18:33:12",
+                    "format": "XLS",
+                    "modified": "2018-04-20T21:34:23Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
+                    "title": "Datos de las estaciones transmisoras",
+                    "issued": "2018-04-20T18:33:12",
+                    "format": "JSON",
+                    "modified": "2018-04-20T21:34:23Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "TDA-ESTAC-DE-TRANS",
+            "homepage": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
+            "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "arsat",
+                "plan federal de internet"
+            ],
+            "title": "Cantidad Total de Megabits en servicio por provincia",
+            "issued": "2018-04-20T15:32:03",
+            "modified": "2018-04-20T18:32:47Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
+                    "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet.",
+                    "title": "Cantidad Total de Megabits en servicio por provincia",
+                    "issued": "2018-04-20T15:32:03",
+                    "format": "CSV",
+                    "modified": "2018-04-20T18:32:47Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
+                    "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet.",
+                    "title": "Cantidad Total de Megabits en servicio por provincia",
+                    "issued": "2018-04-20T15:32:03",
+                    "format": "XLS",
+                    "modified": "2018-04-20T18:32:47Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
+                    "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet.",
+                    "title": "Cantidad Total de Megabits en servicio por provincia",
+                    "issued": "2018-04-20T15:32:03",
+                    "format": "JSON",
+                    "modified": "2018-04-20T18:32:47Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "REFEF-CANTI-DE-CLIEN-Y",
+            "homepage": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
+            "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "arsat",
+                "plan federal de internet"
+            ],
+            "title": "Cantidad de clientes por provincia",
+            "issued": "2018-04-20T15:32:29",
+            "modified": "2018-04-20T18:32:47Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
+                    "description": "Cantidad de clientes por provincia conectados al Plan Federal de Internet.",
+                    "title": "Cantidad de clientes por provincia",
+                    "issued": "2018-04-20T15:32:29",
+                    "format": "CSV",
+                    "modified": "2018-04-20T18:32:47Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
+                    "description": "Cantidad de clientes por provincia conectados al Plan Federal de Internet.",
+                    "title": "Cantidad de clientes por provincia",
+                    "issued": "2018-04-20T15:32:29",
+                    "format": "XLS",
+                    "modified": "2018-04-20T18:32:47Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
+                    "description": "Cantidad de clientes por provincia conectados al Plan Federal de Internet.",
+                    "title": "Cantidad de clientes por provincia",
+                    "issued": "2018-04-20T15:32:29",
+                    "format": "JSON",
+                    "modified": "2018-04-20T18:32:47Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "CANTI-DE-CLIEN-POR-PROVI",
+            "homepage": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
+            "description": "Cantidad de clientes por provincia conectados al Plan Federal de Internet."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "plan federal de internet"
+            ],
+            "title": "Evolución de Cantidad Clientes y Megabits en servicio",
+            "issued": "2018-04-20T15:31:32",
+            "modified": "2018-04-20T18:32:46Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/243009/evolucion-de-cantidad-clientes-y-megabits-en-servicio/",
+                    "description": "Evolución Semanal de Cantidad Clientes y Megabits en servicio",
+                    "title": "Evolución de Cantidad Clientes y Megabits en servicio",
+                    "issued": "2018-04-20T15:31:32",
+                    "format": "CSV",
+                    "modified": "2018-04-20T18:32:46Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CLIEN-Y-MBPS-POR-PROVI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/243009/evolucion-de-cantidad-clientes-y-megabits-en-servicio/",
+                    "description": "Evolución Semanal de Cantidad Clientes y Megabits en servicio",
+                    "title": "Evolución de Cantidad Clientes y Megabits en servicio",
+                    "issued": "2018-04-20T15:31:32",
+                    "format": "XLS",
+                    "modified": "2018-04-20T18:32:46Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CLIEN-Y-MBPS-POR-PROVI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/243009/evolucion-de-cantidad-clientes-y-megabits-en-servicio/",
+                    "description": "Evolución Semanal de Cantidad Clientes y Megabits en servicio",
+                    "title": "Evolución de Cantidad Clientes y Megabits en servicio",
+                    "issued": "2018-04-20T15:31:32",
+                    "format": "JSON",
+                    "modified": "2018-04-20T18:32:46Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CLIEN-Y-MBPS-POR-PROVI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "CLIEN-Y-MBPS-POR-PROVI",
+            "homepage": "http://datos.arsat.com.ar/dataviews/243009/evolucion-de-cantidad-clientes-y-megabits-en-servicio/",
+            "description": "Evolución Semanal de Cantidad Clientes y Megabits en servicio"
         },
         {
             "publisher": {
@@ -203,7 +468,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/241643/ausentismo-total-mensual-de-dias-por-motivo-de-ausencia/",
                     "description": "Detalle mensual de cantidad de días por cada uno de los motivos de inasistencia",
                     "title": "Ausentismo - Total mensual de días por motivo de ausencia",
-                    "dataset_identifier": "INASI-PRUEB",
                     "issued": "2018-04-16T13:22:45",
                     "format": "CSV",
                     "modified": "2018-04-16T16:24:52Z",
@@ -213,7 +477,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/241643/ausentismo-total-mensual-de-dias-por-motivo-de-ausencia/",
                     "description": "Detalle mensual de cantidad de días por cada uno de los motivos de inasistencia",
                     "title": "Ausentismo - Total mensual de días por motivo de ausencia",
-                    "dataset_identifier": "INASI-PRUEB",
                     "issued": "2018-04-16T13:22:45",
                     "format": "XLS",
                     "modified": "2018-04-16T16:24:52Z",
@@ -223,7 +486,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/241643/ausentismo-total-mensual-de-dias-por-motivo-de-ausencia/",
                     "description": "Detalle mensual de cantidad de días por cada uno de los motivos de inasistencia",
                     "title": "Ausentismo - Total mensual de días por motivo de ausencia",
-                    "dataset_identifier": "INASI-PRUEB",
                     "issued": "2018-04-16T13:22:45",
                     "format": "JSON",
                     "modified": "2018-04-16T16:24:52Z",
@@ -263,7 +525,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
                     "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
                     "title": "Datos de uso de la plataforma",
-                    "dataset_identifier": "ODEON-ESTAD-DE-USO",
                     "issued": "2018-04-13T13:26:56",
                     "format": "CSV",
                     "modified": "2018-04-13T16:32:07Z",
@@ -273,7 +534,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
                     "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
                     "title": "Datos de uso de la plataforma",
-                    "dataset_identifier": "ODEON-ESTAD-DE-USO",
                     "issued": "2018-04-13T13:26:56",
                     "format": "XLS",
                     "modified": "2018-04-13T16:32:07Z",
@@ -283,7 +543,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
                     "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
                     "title": "Datos de uso de la plataforma",
-                    "dataset_identifier": "ODEON-ESTAD-DE-USO",
                     "issued": "2018-04-13T13:26:56",
                     "format": "JSON",
                     "modified": "2018-04-13T16:32:07Z",
@@ -293,179 +552,6 @@
             "identifier": "ODEON-ESTAD-DE-USO",
             "homepage": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
             "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "plan federal de internet"
-            ],
-            "title": "Evolución de Cantidad Clientes y Megabits en servicio",
-            "issued": "2018-04-13T13:18:17",
-            "modified": "2018-04-13T16:20:06Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/243009/evolucion-de-cantidad-clientes-y-megabits-en-servicio/",
-                    "description": "Evolución Semanal de Cantidad Clientes y Megabits en servicio",
-                    "title": "Evolución de Cantidad Clientes y Megabits en servicio",
-                    "dataset_identifier": "CLIEN-Y-MBPS-POR-PROVI",
-                    "issued": "2018-04-13T13:18:17",
-                    "format": "CSV",
-                    "modified": "2018-04-13T16:20:06Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CLIEN-Y-MBPS-POR-PROVI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/243009/evolucion-de-cantidad-clientes-y-megabits-en-servicio/",
-                    "description": "Evolución Semanal de Cantidad Clientes y Megabits en servicio",
-                    "title": "Evolución de Cantidad Clientes y Megabits en servicio",
-                    "dataset_identifier": "CLIEN-Y-MBPS-POR-PROVI",
-                    "issued": "2018-04-13T13:18:17",
-                    "format": "XLS",
-                    "modified": "2018-04-13T16:20:06Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CLIEN-Y-MBPS-POR-PROVI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/243009/evolucion-de-cantidad-clientes-y-megabits-en-servicio/",
-                    "description": "Evolución Semanal de Cantidad Clientes y Megabits en servicio",
-                    "title": "Evolución de Cantidad Clientes y Megabits en servicio",
-                    "dataset_identifier": "CLIEN-Y-MBPS-POR-PROVI",
-                    "issued": "2018-04-13T13:18:17",
-                    "format": "JSON",
-                    "modified": "2018-04-13T16:20:06Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CLIEN-Y-MBPS-POR-PROVI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "CLIEN-Y-MBPS-POR-PROVI",
-            "homepage": "http://datos.arsat.com.ar/dataviews/243009/evolucion-de-cantidad-clientes-y-megabits-en-servicio/",
-            "description": "Evolución Semanal de Cantidad Clientes y Megabits en servicio"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "arsat",
-                "plan federal de internet"
-            ],
-            "title": "Cantidad Total de Megabits en servicio por provincia",
-            "issued": "2018-04-13T13:17:50",
-            "modified": "2018-04-13T16:20:04Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
-                    "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet.",
-                    "title": "Cantidad Total de Megabits en servicio por provincia",
-                    "dataset_identifier": "REFEF-CANTI-DE-CLIEN-Y",
-                    "issued": "2018-04-13T13:17:50",
-                    "format": "CSV",
-                    "modified": "2018-04-13T16:20:04Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
-                    "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet.",
-                    "title": "Cantidad Total de Megabits en servicio por provincia",
-                    "dataset_identifier": "REFEF-CANTI-DE-CLIEN-Y",
-                    "issued": "2018-04-13T13:17:50",
-                    "format": "XLS",
-                    "modified": "2018-04-13T16:20:04Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
-                    "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet.",
-                    "title": "Cantidad Total de Megabits en servicio por provincia",
-                    "dataset_identifier": "REFEF-CANTI-DE-CLIEN-Y",
-                    "issued": "2018-04-13T13:17:50",
-                    "format": "JSON",
-                    "modified": "2018-04-13T16:20:04Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "REFEF-CANTI-DE-CLIEN-Y",
-            "homepage": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
-            "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "arsat",
-                "plan federal de internet"
-            ],
-            "title": "Cantidad de clientes por provincia",
-            "issued": "2018-04-13T13:17:11",
-            "modified": "2018-04-13T16:20:04Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
-                    "description": "Cantidad de clientes por provincia conectados al Plan Federal de Internet.",
-                    "title": "Cantidad de clientes por provincia",
-                    "dataset_identifier": "CANTI-DE-CLIEN-POR-PROVI",
-                    "issued": "2018-04-13T13:17:11",
-                    "format": "CSV",
-                    "modified": "2018-04-13T16:20:04Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
-                    "description": "Cantidad de clientes por provincia conectados al Plan Federal de Internet.",
-                    "title": "Cantidad de clientes por provincia",
-                    "dataset_identifier": "CANTI-DE-CLIEN-POR-PROVI",
-                    "issued": "2018-04-13T13:17:11",
-                    "format": "XLS",
-                    "modified": "2018-04-13T16:20:04Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
-                    "description": "Cantidad de clientes por provincia conectados al Plan Federal de Internet.",
-                    "title": "Cantidad de clientes por provincia",
-                    "dataset_identifier": "CANTI-DE-CLIEN-POR-PROVI",
-                    "issued": "2018-04-13T13:17:11",
-                    "format": "JSON",
-                    "modified": "2018-04-13T16:20:04Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "CANTI-DE-CLIEN-POR-PROVI",
-            "homepage": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
-            "description": "Cantidad de clientes por provincia conectados al Plan Federal de Internet."
         },
         {
             "publisher": {
@@ -495,7 +581,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/",
                     "description": "Listado de escuelas rurales conectadas",
                     "title": "Escuelas conectadas",
-                    "dataset_identifier": "PLAN-DE-CONEC-DE-61064",
                     "issued": "2018-04-12T17:46:50",
                     "format": "CSV",
                     "modified": "2018-04-12T20:48:19Z",
@@ -505,7 +590,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/",
                     "description": "Listado de escuelas rurales conectadas",
                     "title": "Escuelas conectadas",
-                    "dataset_identifier": "PLAN-DE-CONEC-DE-61064",
                     "issued": "2018-04-12T17:46:50",
                     "format": "XLS",
                     "modified": "2018-04-12T20:48:19Z",
@@ -515,7 +599,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/",
                     "description": "Listado de escuelas rurales conectadas",
                     "title": "Escuelas conectadas",
-                    "dataset_identifier": "PLAN-DE-CONEC-DE-61064",
                     "issued": "2018-04-12T17:46:50",
                     "format": "JSON",
                     "modified": "2018-04-12T20:48:19Z",
@@ -554,7 +637,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/",
                     "description": "Listado de escuelas rurales planificadas para ser conectadas",
                     "title": "Escuelas de próxima conexión",
-                    "dataset_identifier": "PLAN-DE-CONEC-DE-25724",
                     "issued": "2018-04-12T17:46:50",
                     "format": "CSV",
                     "modified": "2018-04-12T20:48:19Z",
@@ -564,7 +646,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/",
                     "description": "Listado de escuelas rurales planificadas para ser conectadas",
                     "title": "Escuelas de próxima conexión",
-                    "dataset_identifier": "PLAN-DE-CONEC-DE-25724",
                     "issued": "2018-04-12T17:46:50",
                     "format": "XLS",
                     "modified": "2018-04-12T20:48:19Z",
@@ -574,7 +655,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/",
                     "description": "Listado de escuelas rurales planificadas para ser conectadas",
                     "title": "Escuelas de próxima conexión",
-                    "dataset_identifier": "PLAN-DE-CONEC-DE-25724",
                     "issued": "2018-04-12T17:46:50",
                     "format": "JSON",
                     "modified": "2018-04-12T20:48:19Z",
@@ -613,7 +693,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/",
                     "description": "Listado de todos los empleados de ARSAT",
                     "title": "Listado de Personal",
-                    "dataset_identifier": "LISTA-DE-PERSO-98437",
                     "issued": "2018-04-11T18:26:33",
                     "format": "CSV",
                     "modified": "2018-04-11T21:27:07Z",
@@ -623,7 +702,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/",
                     "description": "Listado de todos los empleados de ARSAT",
                     "title": "Listado de Personal",
-                    "dataset_identifier": "LISTA-DE-PERSO-98437",
                     "issued": "2018-04-11T18:26:33",
                     "format": "XLS",
                     "modified": "2018-04-11T21:27:07Z",
@@ -633,7 +711,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/",
                     "description": "Listado de todos los empleados de ARSAT",
                     "title": "Listado de Personal",
-                    "dataset_identifier": "LISTA-DE-PERSO-98437",
                     "issued": "2018-04-11T18:26:33",
                     "format": "JSON",
                     "modified": "2018-04-11T21:27:07Z",
@@ -671,7 +748,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238096/personal-de-arsat-segun-zona-laboral/",
                     "description": "La tabla muestra el número de empleados de ARSAT  que desarrollan sus tareas en la Estación Terrena en Benavidez y cuantos en el interior del país.",
                     "title": "Personal de ARSAT según zona laboral",
-                    "dataset_identifier": "CANTI-DE-PERSO-QUE-PREST",
                     "issued": "2018-04-11T18:23:13",
                     "format": "CSV",
                     "modified": "2018-04-11T21:25:47Z",
@@ -681,7 +757,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238096/personal-de-arsat-segun-zona-laboral/",
                     "description": "La tabla muestra el número de empleados de ARSAT  que desarrollan sus tareas en la Estación Terrena en Benavidez y cuantos en el interior del país.",
                     "title": "Personal de ARSAT según zona laboral",
-                    "dataset_identifier": "CANTI-DE-PERSO-QUE-PREST",
                     "issued": "2018-04-11T18:23:13",
                     "format": "XLS",
                     "modified": "2018-04-11T21:25:47Z",
@@ -691,7 +766,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238096/personal-de-arsat-segun-zona-laboral/",
                     "description": "La tabla muestra el número de empleados de ARSAT  que desarrollan sus tareas en la Estación Terrena en Benavidez y cuantos en el interior del país.",
                     "title": "Personal de ARSAT según zona laboral",
-                    "dataset_identifier": "CANTI-DE-PERSO-QUE-PREST",
                     "issued": "2018-04-11T18:23:13",
                     "format": "JSON",
                     "modified": "2018-04-11T21:25:47Z",
@@ -729,7 +803,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238091/personal-por-gerencia/",
                     "description": "Cantidad de empleados por gerencia.",
                     "title": "Personal por Gerencia",
-                    "dataset_identifier": "CANTI-DE-PERSO-POR-GEREN",
                     "issued": "2018-04-11T18:23:13",
                     "format": "CSV",
                     "modified": "2018-04-11T21:25:47Z",
@@ -739,7 +812,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238091/personal-por-gerencia/",
                     "description": "Cantidad de empleados por gerencia.",
                     "title": "Personal por Gerencia",
-                    "dataset_identifier": "CANTI-DE-PERSO-POR-GEREN",
                     "issued": "2018-04-11T18:23:13",
                     "format": "XLS",
                     "modified": "2018-04-11T21:25:47Z",
@@ -749,7 +821,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238091/personal-por-gerencia/",
                     "description": "Cantidad de empleados por gerencia.",
                     "title": "Personal por Gerencia",
-                    "dataset_identifier": "CANTI-DE-PERSO-POR-GEREN",
                     "issued": "2018-04-11T18:23:13",
                     "format": "JSON",
                     "modified": "2018-04-11T21:25:47Z",
@@ -787,7 +858,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238113/personal-por-gerencia-distinguido-por-genero/",
                     "description": "La lista muestra la cantidad de empleados que tiene cada Gerencia, distinguiendo la cantidad de mujeres y de hombres en cada caso.",
                     "title": "Personal por Gerencia distinguido por género",
-                    "dataset_identifier": "DISTR-DE-PERSO-POR-GENER",
                     "issued": "2018-04-11T18:23:13",
                     "format": "CSV",
                     "modified": "2018-04-11T21:25:47Z",
@@ -797,7 +867,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238113/personal-por-gerencia-distinguido-por-genero/",
                     "description": "La lista muestra la cantidad de empleados que tiene cada Gerencia, distinguiendo la cantidad de mujeres y de hombres en cada caso.",
                     "title": "Personal por Gerencia distinguido por género",
-                    "dataset_identifier": "DISTR-DE-PERSO-POR-GENER",
                     "issued": "2018-04-11T18:23:13",
                     "format": "XLS",
                     "modified": "2018-04-11T21:25:47Z",
@@ -807,7 +876,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238113/personal-por-gerencia-distinguido-por-genero/",
                     "description": "La lista muestra la cantidad de empleados que tiene cada Gerencia, distinguiendo la cantidad de mujeres y de hombres en cada caso.",
                     "title": "Personal por Gerencia distinguido por género",
-                    "dataset_identifier": "DISTR-DE-PERSO-POR-GENER",
                     "issued": "2018-04-11T18:23:13",
                     "format": "JSON",
                     "modified": "2018-04-11T21:25:47Z",
@@ -845,7 +913,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238093/total-de-personal-por-genero/",
                     "description": "Cantidad de empleados que trabajan en ARSAT, distinguidos por género.",
                     "title": "Total de personal por género",
-                    "dataset_identifier": "PERSO-POR-GENER",
                     "issued": "2018-04-11T18:23:12",
                     "format": "CSV",
                     "modified": "2018-04-11T21:25:47Z",
@@ -855,7 +922,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238093/total-de-personal-por-genero/",
                     "description": "Cantidad de empleados que trabajan en ARSAT, distinguidos por género.",
                     "title": "Total de personal por género",
-                    "dataset_identifier": "PERSO-POR-GENER",
                     "issued": "2018-04-11T18:23:12",
                     "format": "XLS",
                     "modified": "2018-04-11T21:25:47Z",
@@ -865,7 +931,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238093/total-de-personal-por-genero/",
                     "description": "Cantidad de empleados que trabajan en ARSAT, distinguidos por género.",
                     "title": "Total de personal por género",
-                    "dataset_identifier": "PERSO-POR-GENER",
                     "issued": "2018-04-11T18:23:12",
                     "format": "JSON",
                     "modified": "2018-04-11T21:25:47Z",
@@ -903,7 +968,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238097/personal-de-arsat-asignado-a-areas-operativas-o-de-soporte/",
                     "description": "La tabla muestra la cantidad de empleados de ARSAT asignados a áreas operativas y la cantidad de empleados asignados a áreas de soporte.",
                     "title": "Personal de ARSAT asignado a áreas operativas o de soporte",
-                    "dataset_identifier": "CANTI-DE-PERSO-ASIGN-A",
                     "issued": "2018-04-11T18:23:14",
                     "format": "CSV",
                     "modified": "2018-04-11T21:25:46Z",
@@ -913,7 +977,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238097/personal-de-arsat-asignado-a-areas-operativas-o-de-soporte/",
                     "description": "La tabla muestra la cantidad de empleados de ARSAT asignados a áreas operativas y la cantidad de empleados asignados a áreas de soporte.",
                     "title": "Personal de ARSAT asignado a áreas operativas o de soporte",
-                    "dataset_identifier": "CANTI-DE-PERSO-ASIGN-A",
                     "issued": "2018-04-11T18:23:14",
                     "format": "XLS",
                     "modified": "2018-04-11T21:25:46Z",
@@ -923,7 +986,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238097/personal-de-arsat-asignado-a-areas-operativas-o-de-soporte/",
                     "description": "La tabla muestra la cantidad de empleados de ARSAT asignados a áreas operativas y la cantidad de empleados asignados a áreas de soporte.",
                     "title": "Personal de ARSAT asignado a áreas operativas o de soporte",
-                    "dataset_identifier": "CANTI-DE-PERSO-ASIGN-A",
                     "issued": "2018-04-11T18:23:14",
                     "format": "JSON",
                     "modified": "2018-04-11T21:25:46Z",
@@ -961,7 +1023,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238095/personal-de-arsat-segun-contrato-laboral/",
                     "description": "La tabla expresa cuantos empleados de ARSAT se encuentran contratados bajo convenio colectivo y cuantos se encuentran fuera de convenio.",
                     "title": "Personal de ARSAT según contrato laboral",
-                    "dataset_identifier": "CANTI-DE-PERSO-POR-REGIM",
                     "issued": "2018-04-11T18:23:13",
                     "format": "CSV",
                     "modified": "2018-04-11T21:25:46Z",
@@ -971,7 +1032,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238095/personal-de-arsat-segun-contrato-laboral/",
                     "description": "La tabla expresa cuantos empleados de ARSAT se encuentran contratados bajo convenio colectivo y cuantos se encuentran fuera de convenio.",
                     "title": "Personal de ARSAT según contrato laboral",
-                    "dataset_identifier": "CANTI-DE-PERSO-POR-REGIM",
                     "issued": "2018-04-11T18:23:13",
                     "format": "XLS",
                     "modified": "2018-04-11T21:25:46Z",
@@ -981,7 +1041,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238095/personal-de-arsat-segun-contrato-laboral/",
                     "description": "La tabla expresa cuantos empleados de ARSAT se encuentran contratados bajo convenio colectivo y cuantos se encuentran fuera de convenio.",
                     "title": "Personal de ARSAT según contrato laboral",
-                    "dataset_identifier": "CANTI-DE-PERSO-POR-REGIM",
                     "issued": "2018-04-11T18:23:13",
                     "format": "JSON",
                     "modified": "2018-04-11T21:25:46Z",
@@ -1019,7 +1078,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238092/personal-por-provincia/",
                     "description": "Cantidad de empleados de ARSAT, distribuidos por provincia.",
                     "title": "Personal por provincia",
-                    "dataset_identifier": "DISTR-DE-PERSO-POR-PROVI",
                     "issued": "2018-04-11T18:23:14",
                     "format": "CSV",
                     "modified": "2018-04-11T21:25:46Z",
@@ -1029,7 +1087,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238092/personal-por-provincia/",
                     "description": "Cantidad de empleados de ARSAT, distribuidos por provincia.",
                     "title": "Personal por provincia",
-                    "dataset_identifier": "DISTR-DE-PERSO-POR-PROVI",
                     "issued": "2018-04-11T18:23:14",
                     "format": "XLS",
                     "modified": "2018-04-11T21:25:46Z",
@@ -1039,7 +1096,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238092/personal-por-provincia/",
                     "description": "Cantidad de empleados de ARSAT, distribuidos por provincia.",
                     "title": "Personal por provincia",
-                    "dataset_identifier": "DISTR-DE-PERSO-POR-PROVI",
                     "issued": "2018-04-11T18:23:14",
                     "format": "JSON",
                     "modified": "2018-04-11T21:25:46Z",
@@ -1077,7 +1133,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238094/promedios-de-edad-y-antiguedad-del-personal/",
                     "description": "Promedios de edad y antigüedad de los empleados de ARSAT registrados.",
                     "title": "Promedios de edad y antigüedad del personal",
-                    "dataset_identifier": "PROME-DE-EDAD-Y-ANTIG",
                     "issued": "2018-04-11T18:23:14",
                     "format": "CSV",
                     "modified": "2018-04-11T21:25:45Z",
@@ -1087,7 +1142,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238094/promedios-de-edad-y-antiguedad-del-personal/",
                     "description": "Promedios de edad y antigüedad de los empleados de ARSAT registrados.",
                     "title": "Promedios de edad y antigüedad del personal",
-                    "dataset_identifier": "PROME-DE-EDAD-Y-ANTIG",
                     "issued": "2018-04-11T18:23:14",
                     "format": "XLS",
                     "modified": "2018-04-11T21:25:45Z",
@@ -1097,7 +1151,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238094/promedios-de-edad-y-antiguedad-del-personal/",
                     "description": "Promedios de edad y antigüedad de los empleados de ARSAT registrados.",
                     "title": "Promedios de edad y antigüedad del personal",
-                    "dataset_identifier": "PROME-DE-EDAD-Y-ANTIG",
                     "issued": "2018-04-11T18:23:14",
                     "format": "JSON",
                     "modified": "2018-04-11T21:25:45Z",
@@ -1135,7 +1188,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238746/futuros-puntos-de-conexion-al-plan-federal-de-internet/",
                     "description": "La tabla muestra la ubicación precisa de los puntos de acceso que se conectarán al Plan Federal de Internet junto a otros datos como la población de la localidad.",
                     "title": "Futuros puntos de conexión al Plan Federal de Internet",
-                    "dataset_identifier": "NODOS-PLANI",
                     "issued": "2018-04-04T19:05:37",
                     "format": "CSV",
                     "modified": "2018-04-04T22:07:17Z",
@@ -1145,7 +1197,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238746/futuros-puntos-de-conexion-al-plan-federal-de-internet/",
                     "description": "La tabla muestra la ubicación precisa de los puntos de acceso que se conectarán al Plan Federal de Internet junto a otros datos como la población de la localidad.",
                     "title": "Futuros puntos de conexión al Plan Federal de Internet",
-                    "dataset_identifier": "NODOS-PLANI",
                     "issued": "2018-04-04T19:05:37",
                     "format": "XLS",
                     "modified": "2018-04-04T22:07:17Z",
@@ -1155,7 +1206,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238746/futuros-puntos-de-conexion-al-plan-federal-de-internet/",
                     "description": "La tabla muestra la ubicación precisa de los puntos de acceso que se conectarán al Plan Federal de Internet junto a otros datos como la población de la localidad.",
                     "title": "Futuros puntos de conexión al Plan Federal de Internet",
-                    "dataset_identifier": "NODOS-PLANI",
                     "issued": "2018-04-04T19:05:37",
                     "format": "JSON",
                     "modified": "2018-04-04T22:07:17Z",
@@ -1193,7 +1243,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238001/puntos-de-conexion-al-plan-federal-de-internet/",
                     "description": "La tabla muestra la ubicación precisa de los puntos de acceso al Plan Federal de Internet que se encuentran en servicio junto a otros datos como la población de la localidad y la fecha de conexión.",
                     "title": "Puntos de conexión al Plan Federal de Internet",
-                    "dataset_identifier": "NODOS-EN-SERVI-58179",
                     "issued": "2018-04-04T19:01:39",
                     "format": "CSV",
                     "modified": "2018-04-04T22:05:13Z",
@@ -1203,7 +1252,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238001/puntos-de-conexion-al-plan-federal-de-internet/",
                     "description": "La tabla muestra la ubicación precisa de los puntos de acceso al Plan Federal de Internet que se encuentran en servicio junto a otros datos como la población de la localidad y la fecha de conexión.",
                     "title": "Puntos de conexión al Plan Federal de Internet",
-                    "dataset_identifier": "NODOS-EN-SERVI-58179",
                     "issued": "2018-04-04T19:01:39",
                     "format": "XLS",
                     "modified": "2018-04-04T22:05:13Z",
@@ -1213,7 +1261,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238001/puntos-de-conexion-al-plan-federal-de-internet/",
                     "description": "La tabla muestra la ubicación precisa de los puntos de acceso al Plan Federal de Internet que se encuentran en servicio junto a otros datos como la población de la localidad y la fecha de conexión.",
                     "title": "Puntos de conexión al Plan Federal de Internet",
-                    "dataset_identifier": "NODOS-EN-SERVI-58179",
                     "issued": "2018-04-04T19:01:39",
                     "format": "JSON",
                     "modified": "2018-04-04T22:05:13Z",
@@ -1252,7 +1299,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gilat/",
                     "description": "Escuelas Conectadas con equipos satelitales de Tecnología Gilat",
                     "title": "Escuelas Conectadas con Tecnología Gilat",
-                    "dataset_identifier": "ESCUE-CONEC-CON-TECNO-GILLA",
                     "issued": "2018-03-06T14:02:20",
                     "format": "CSV",
                     "modified": "2018-03-06T17:02:56Z",
@@ -1262,7 +1308,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gilat/",
                     "description": "Escuelas Conectadas con equipos satelitales de Tecnología Gilat",
                     "title": "Escuelas Conectadas con Tecnología Gilat",
-                    "dataset_identifier": "ESCUE-CONEC-CON-TECNO-GILLA",
                     "issued": "2018-03-06T14:02:20",
                     "format": "XLS",
                     "modified": "2018-03-06T17:02:56Z",
@@ -1272,7 +1317,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gilat/",
                     "description": "Escuelas Conectadas con equipos satelitales de Tecnología Gilat",
                     "title": "Escuelas Conectadas con Tecnología Gilat",
-                    "dataset_identifier": "ESCUE-CONEC-CON-TECNO-GILLA",
                     "issued": "2018-03-06T14:02:20",
                     "format": "JSON",
                     "modified": "2018-03-06T17:02:56Z",
@@ -1310,7 +1354,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238788/honorarios-de-directores/",
                     "description": "Honorarios de Directores de ARSAT",
                     "title": "Honorarios de Directores",
-                    "dataset_identifier": "HONOR-DE-DIREC",
                     "issued": "2018-02-05T13:52:12",
                     "format": "CSV",
                     "modified": "2018-02-05T16:52:15Z",
@@ -1320,7 +1363,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238788/honorarios-de-directores/",
                     "description": "Honorarios de Directores de ARSAT",
                     "title": "Honorarios de Directores",
-                    "dataset_identifier": "HONOR-DE-DIREC",
                     "issued": "2018-02-05T13:52:12",
                     "format": "XLS",
                     "modified": "2018-02-05T16:52:15Z",
@@ -1330,7 +1372,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238788/honorarios-de-directores/",
                     "description": "Honorarios de Directores de ARSAT",
                     "title": "Honorarios de Directores",
-                    "dataset_identifier": "HONOR-DE-DIREC",
                     "issued": "2018-02-05T13:52:12",
                     "format": "JSON",
                     "modified": "2018-02-05T16:52:15Z",
@@ -1369,7 +1410,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237190/porcentaje-de-avance-del-plan/",
                     "description": "Porcentaje de avance de la primera Fase del Plan de conectividad de Escuelas Rurales.",
                     "title": "Porcentaje de avance del Plan",
-                    "dataset_identifier": "PLAN-DE-CONEC-DE-97527",
                     "issued": "2018-02-02T16:57:28",
                     "format": "CSV",
                     "modified": "2018-02-02T19:57:34Z",
@@ -1379,7 +1419,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237190/porcentaje-de-avance-del-plan/",
                     "description": "Porcentaje de avance de la primera Fase del Plan de conectividad de Escuelas Rurales.",
                     "title": "Porcentaje de avance del Plan",
-                    "dataset_identifier": "PLAN-DE-CONEC-DE-97527",
                     "issued": "2018-02-02T16:57:28",
                     "format": "XLS",
                     "modified": "2018-02-02T19:57:34Z",
@@ -1389,7 +1428,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237190/porcentaje-de-avance-del-plan/",
                     "description": "Porcentaje de avance de la primera Fase del Plan de conectividad de Escuelas Rurales.",
                     "title": "Porcentaje de avance del Plan",
-                    "dataset_identifier": "PLAN-DE-CONEC-DE-97527",
                     "issued": "2018-02-02T16:57:28",
                     "format": "JSON",
                     "modified": "2018-02-02T19:57:34Z",
@@ -1427,7 +1465,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236038/coordenadas-de-la-red-de-fibra-optica-en-servicio/",
                     "description": "El listado muestra las coordenadas de los diferentes tramos de la Red de Fibra Óptica que actualmente se encuentran en condiciones de transportar internet de alta velocidad según sus coordenadas.",
                     "title": "Coordenadas de la red de fibra óptica en servicio",
-                    "dataset_identifier": "PLAN-FEDER-DE-INTER-TRAZA",
                     "issued": "2018-01-30T12:07:04",
                     "format": "CSV",
                     "modified": "2018-01-30T15:07:32Z",
@@ -1437,7 +1474,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236038/coordenadas-de-la-red-de-fibra-optica-en-servicio/",
                     "description": "El listado muestra las coordenadas de los diferentes tramos de la Red de Fibra Óptica que actualmente se encuentran en condiciones de transportar internet de alta velocidad según sus coordenadas.",
                     "title": "Coordenadas de la red de fibra óptica en servicio",
-                    "dataset_identifier": "PLAN-FEDER-DE-INTER-TRAZA",
                     "issued": "2018-01-30T12:07:04",
                     "format": "XLS",
                     "modified": "2018-01-30T15:07:32Z",
@@ -1447,7 +1483,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236038/coordenadas-de-la-red-de-fibra-optica-en-servicio/",
                     "description": "El listado muestra las coordenadas de los diferentes tramos de la Red de Fibra Óptica que actualmente se encuentran en condiciones de transportar internet de alta velocidad según sus coordenadas.",
                     "title": "Coordenadas de la red de fibra óptica en servicio",
-                    "dataset_identifier": "PLAN-FEDER-DE-INTER-TRAZA",
                     "issued": "2018-01-30T12:07:04",
                     "format": "JSON",
                     "modified": "2018-01-30T15:07:32Z",
@@ -1484,7 +1519,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-construccion/",
                     "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil",
                     "title": "Fibra óptica en construcción",
-                    "dataset_identifier": "FIBRA-OPTIC-PROXI-EN-OBRA",
                     "issued": "2018-01-30T12:06:28",
                     "format": "CSV",
                     "modified": "2018-01-30T15:07:31Z",
@@ -1494,7 +1528,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-construccion/",
                     "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil",
                     "title": "Fibra óptica en construcción",
-                    "dataset_identifier": "FIBRA-OPTIC-PROXI-EN-OBRA",
                     "issued": "2018-01-30T12:06:28",
                     "format": "XLS",
                     "modified": "2018-01-30T15:07:31Z",
@@ -1504,7 +1537,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-construccion/",
                     "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil",
                     "title": "Fibra óptica en construcción",
-                    "dataset_identifier": "FIBRA-OPTIC-PROXI-EN-OBRA",
                     "issued": "2018-01-30T12:06:28",
                     "format": "JSON",
                     "modified": "2018-01-30T15:07:31Z",
@@ -1539,7 +1571,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238754/fibra-optica-sin-iluminar/",
                     "description": "Traza de Fibra óptica sin iluminar",
                     "title": "Fibra óptica sin iluminar",
-                    "dataset_identifier": "FIBRA-OPTIC-TENDI",
                     "issued": "2018-01-30T12:05:42",
                     "format": "CSV",
                     "modified": "2018-01-30T15:07:31Z",
@@ -1549,7 +1580,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238754/fibra-optica-sin-iluminar/",
                     "description": "Traza de Fibra óptica sin iluminar",
                     "title": "Fibra óptica sin iluminar",
-                    "dataset_identifier": "FIBRA-OPTIC-TENDI",
                     "issued": "2018-01-30T12:05:42",
                     "format": "XLS",
                     "modified": "2018-01-30T15:07:31Z",
@@ -1559,7 +1589,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238754/fibra-optica-sin-iluminar/",
                     "description": "Traza de Fibra óptica sin iluminar",
                     "title": "Fibra óptica sin iluminar",
-                    "dataset_identifier": "FIBRA-OPTIC-TENDI",
                     "issued": "2018-01-30T12:05:42",
                     "format": "JSON",
                     "modified": "2018-01-30T15:07:31Z",
@@ -1597,7 +1626,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/244251/coordenadas-de-traza-de-fibra-optica-de-redes-provinciales/",
                     "description": "La tabla muestra las coordenadas de traza de Fibra óptica de Redes Provinciales",
                     "title": "Coordenadas de Traza de Fibra óptica de Redes Provinciales",
-                    "dataset_identifier": "COORD-DE-TRAZA-DE-FIBRA",
                     "issued": "2017-12-28T18:20:43",
                     "format": "CSV",
                     "modified": "2017-12-28T21:25:35Z",
@@ -1607,7 +1635,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/244251/coordenadas-de-traza-de-fibra-optica-de-redes-provinciales/",
                     "description": "La tabla muestra las coordenadas de traza de Fibra óptica de Redes Provinciales",
                     "title": "Coordenadas de Traza de Fibra óptica de Redes Provinciales",
-                    "dataset_identifier": "COORD-DE-TRAZA-DE-FIBRA",
                     "issued": "2017-12-28T18:20:43",
                     "format": "XLS",
                     "modified": "2017-12-28T21:25:35Z",
@@ -1617,7 +1644,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/244251/coordenadas-de-traza-de-fibra-optica-de-redes-provinciales/",
                     "description": "La tabla muestra las coordenadas de traza de Fibra óptica de Redes Provinciales",
                     "title": "Coordenadas de Traza de Fibra óptica de Redes Provinciales",
-                    "dataset_identifier": "COORD-DE-TRAZA-DE-FIBRA",
                     "issued": "2017-12-28T18:20:43",
                     "format": "JSON",
                     "modified": "2017-12-28T21:25:35Z",
@@ -1655,7 +1681,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
                     "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
                     "title": "Áreas de cobertura de la televisión digital abierta",
-                    "dataset_identifier": "TDA-POLIG-DE-COBER",
                     "issued": "2017-12-26T19:54:27",
                     "format": "CSV",
                     "modified": "2017-12-26T22:55:00Z",
@@ -1665,7 +1690,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
                     "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
                     "title": "Áreas de cobertura de la televisión digital abierta",
-                    "dataset_identifier": "TDA-POLIG-DE-COBER",
                     "issued": "2017-12-26T19:54:27",
                     "format": "XLS",
                     "modified": "2017-12-26T22:55:00Z",
@@ -1675,7 +1699,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
                     "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
                     "title": "Áreas de cobertura de la televisión digital abierta",
-                    "dataset_identifier": "TDA-POLIG-DE-COBER",
                     "issued": "2017-12-26T19:54:27",
                     "format": "JSON",
                     "modified": "2017-12-26T22:55:00Z",
@@ -1685,122 +1708,6 @@
             "identifier": "TDA-POLIG-DE-COBER",
             "homepage": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
             "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "tda",
-                "arsat"
-            ],
-            "title": "Datos de las estaciones transmisoras",
-            "issued": "2017-12-21T13:58:02",
-            "modified": "2017-12-21T16:59:44Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "television-digital-abierta"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
-                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
-                    "title": "Datos de las estaciones transmisoras",
-                    "dataset_identifier": "TDA-ESTAC-DE-TRANS",
-                    "issued": "2017-12-21T13:58:02",
-                    "format": "CSV",
-                    "modified": "2017-12-21T16:59:44Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
-                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
-                    "title": "Datos de las estaciones transmisoras",
-                    "dataset_identifier": "TDA-ESTAC-DE-TRANS",
-                    "issued": "2017-12-21T13:58:02",
-                    "format": "XLS",
-                    "modified": "2017-12-21T16:59:44Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
-                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
-                    "title": "Datos de las estaciones transmisoras",
-                    "dataset_identifier": "TDA-ESTAC-DE-TRANS",
-                    "issued": "2017-12-21T13:58:02",
-                    "format": "JSON",
-                    "modified": "2017-12-21T16:59:44Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "TDA-ESTAC-DE-TRANS",
-            "homepage": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
-            "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "tda",
-                "arsat"
-            ],
-            "title": "Datos de las estaciones de transmisión en construcción o planificadas",
-            "issued": "2017-12-11T17:47:54",
-            "modified": "2017-12-21T16:59:32Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "television-digital-abierta"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
-                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
-                    "title": "Datos de las estaciones de transmisión en construcción o planificadas",
-                    "dataset_identifier": "TDA-ESTAC-PLANI",
-                    "issued": "2017-12-11T17:47:54",
-                    "format": "CSV",
-                    "modified": "2017-12-21T16:59:32Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
-                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
-                    "title": "Datos de las estaciones de transmisión en construcción o planificadas",
-                    "dataset_identifier": "TDA-ESTAC-PLANI",
-                    "issued": "2017-12-11T17:47:54",
-                    "format": "XLS",
-                    "modified": "2017-12-21T16:59:32Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
-                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
-                    "title": "Datos de las estaciones de transmisión en construcción o planificadas",
-                    "dataset_identifier": "TDA-ESTAC-PLANI",
-                    "issued": "2017-12-11T17:47:54",
-                    "format": "JSON",
-                    "modified": "2017-12-21T16:59:32Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "TDA-ESTAC-PLANI",
-            "homepage": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
-            "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país."
         },
         {
             "publisher": {
@@ -1829,7 +1736,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/241777/puntos-de-conexion-al-plan-federal-de-internet-por-provincia/",
                     "description": "La tabla muestra la cantidad de puntos de acceso al Plan Federal de Internet que se encuentran en servicio por provincia.",
                     "title": "Puntos de Conexión al Plan Federal de Internet por provincia",
-                    "dataset_identifier": "PUNTO-DE-CONEX-AL-PFI",
                     "issued": "2017-12-18T13:27:11",
                     "format": "CSV",
                     "modified": "2017-12-18T16:28:10Z",
@@ -1839,7 +1745,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/241777/puntos-de-conexion-al-plan-federal-de-internet-por-provincia/",
                     "description": "La tabla muestra la cantidad de puntos de acceso al Plan Federal de Internet que se encuentran en servicio por provincia.",
                     "title": "Puntos de Conexión al Plan Federal de Internet por provincia",
-                    "dataset_identifier": "PUNTO-DE-CONEX-AL-PFI",
                     "issued": "2017-12-18T13:27:11",
                     "format": "XLS",
                     "modified": "2017-12-18T16:28:10Z",
@@ -1849,7 +1754,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/241777/puntos-de-conexion-al-plan-federal-de-internet-por-provincia/",
                     "description": "La tabla muestra la cantidad de puntos de acceso al Plan Federal de Internet que se encuentran en servicio por provincia.",
                     "title": "Puntos de Conexión al Plan Federal de Internet por provincia",
-                    "dataset_identifier": "PUNTO-DE-CONEX-AL-PFI",
                     "issued": "2017-12-18T13:27:11",
                     "format": "JSON",
                     "modified": "2017-12-18T16:28:10Z",
@@ -1888,7 +1792,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
                     "description": "Procesos de Licitaciones Públicas y Privadas, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
                     "title": "Licitaciones",
-                    "dataset_identifier": "LICIT-PUBLI",
                     "issued": "2017-11-07T12:20:25",
                     "format": "CSV",
                     "modified": "2017-11-07T15:20:34Z",
@@ -1898,7 +1801,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
                     "description": "Procesos de Licitaciones Públicas y Privadas, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
                     "title": "Licitaciones",
-                    "dataset_identifier": "LICIT-PUBLI",
                     "issued": "2017-11-07T12:20:25",
                     "format": "XLS",
                     "modified": "2017-11-07T15:20:34Z",
@@ -1908,7 +1810,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
                     "description": "Procesos de Licitaciones Públicas y Privadas, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
                     "title": "Licitaciones",
-                    "dataset_identifier": "LICIT-PUBLI",
                     "issued": "2017-11-07T12:20:25",
                     "format": "JSON",
                     "modified": "2017-11-07T15:20:34Z",
@@ -1945,7 +1846,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/241854/distribucion-por-provincia-de-las-escuelas-conectadas-con-tecnologia-gilat/",
                     "description": "Escuelas con tecnología Gilat por provincia agrupadas por provincia",
                     "title": "Distribución por provincia de las escuelas conectadas con tecnología Gilat",
-                    "dataset_identifier": "ESCUE-CON-TECNO-GILLA-POR",
                     "issued": "2017-10-06T17:42:31",
                     "format": "CSV",
                     "modified": "2017-10-06T20:46:41Z",
@@ -1955,7 +1855,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/241854/distribucion-por-provincia-de-las-escuelas-conectadas-con-tecnologia-gilat/",
                     "description": "Escuelas con tecnología Gilat por provincia agrupadas por provincia",
                     "title": "Distribución por provincia de las escuelas conectadas con tecnología Gilat",
-                    "dataset_identifier": "ESCUE-CON-TECNO-GILLA-POR",
                     "issued": "2017-10-06T17:42:31",
                     "format": "XLS",
                     "modified": "2017-10-06T20:46:41Z",
@@ -1965,7 +1864,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/241854/distribucion-por-provincia-de-las-escuelas-conectadas-con-tecnologia-gilat/",
                     "description": "Escuelas con tecnología Gilat por provincia agrupadas por provincia",
                     "title": "Distribución por provincia de las escuelas conectadas con tecnología Gilat",
-                    "dataset_identifier": "ESCUE-CON-TECNO-GILLA-POR",
                     "issued": "2017-10-06T17:42:31",
                     "format": "JSON",
                     "modified": "2017-10-06T20:46:41Z",
@@ -2000,7 +1898,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238792/salarios-gerentes/",
                     "description": "Memo firmado en Agosto 2016 por Rodrigo De Loredo - Presidente de ARSAT",
                     "title": "Salarios Gerentes",
-                    "dataset_identifier": "SALAR-GEREN",
                     "issued": "2017-09-19T18:28:45",
                     "format": "CSV",
                     "modified": "2017-09-19T21:29:17Z",
@@ -2010,7 +1907,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238792/salarios-gerentes/",
                     "description": "Memo firmado en Agosto 2016 por Rodrigo De Loredo - Presidente de ARSAT",
                     "title": "Salarios Gerentes",
-                    "dataset_identifier": "SALAR-GEREN",
                     "issued": "2017-09-19T18:28:45",
                     "format": "XLS",
                     "modified": "2017-09-19T21:29:17Z",
@@ -2020,7 +1916,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238792/salarios-gerentes/",
                     "description": "Memo firmado en Agosto 2016 por Rodrigo De Loredo - Presidente de ARSAT",
                     "title": "Salarios Gerentes",
-                    "dataset_identifier": "SALAR-GEREN",
                     "issued": "2017-09-19T18:28:45",
                     "format": "JSON",
                     "modified": "2017-09-19T21:29:17Z",
@@ -2059,7 +1954,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237547/declaraciones-juradas-patrimoniales-directorio-y-gerentes/",
                     "description": "Detalle de las declaraciones juradas patrimoniales presentadas por Directorio y Gerentes de ARSAT",
                     "title": "Declaraciones Juradas Patrimoniales - Directorio y Gerentes",
-                    "dataset_identifier": "DECLA-JURAD-DIREC-Y-GEREN",
                     "issued": "2017-09-19T12:25:50",
                     "format": "CSV",
                     "modified": "2017-09-19T15:26:29Z",
@@ -2069,7 +1963,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237547/declaraciones-juradas-patrimoniales-directorio-y-gerentes/",
                     "description": "Detalle de las declaraciones juradas patrimoniales presentadas por Directorio y Gerentes de ARSAT",
                     "title": "Declaraciones Juradas Patrimoniales - Directorio y Gerentes",
-                    "dataset_identifier": "DECLA-JURAD-DIREC-Y-GEREN",
                     "issued": "2017-09-19T12:25:50",
                     "format": "XLS",
                     "modified": "2017-09-19T15:26:29Z",
@@ -2079,7 +1972,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237547/declaraciones-juradas-patrimoniales-directorio-y-gerentes/",
                     "description": "Detalle de las declaraciones juradas patrimoniales presentadas por Directorio y Gerentes de ARSAT",
                     "title": "Declaraciones Juradas Patrimoniales - Directorio y Gerentes",
-                    "dataset_identifier": "DECLA-JURAD-DIREC-Y-GEREN",
                     "issued": "2017-09-19T12:25:50",
                     "format": "JSON",
                     "modified": "2017-09-19T15:26:29Z",
@@ -2118,7 +2010,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237843/listado-de-proveedores/",
                     "description": "El listado muestra los proveedores de Arsat que facturan más de $Ars 100.000 por año, y no incluye los contratos de locación de servicios",
                     "title": "Listado de Proveedores",
-                    "dataset_identifier": "LISTA-DE-PROVE-79569",
                     "issued": "2017-07-11T18:06:59",
                     "format": "CSV",
                     "modified": "2017-07-11T22:08:24Z",
@@ -2128,7 +2019,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237843/listado-de-proveedores/",
                     "description": "El listado muestra los proveedores de Arsat que facturan más de $Ars 100.000 por año, y no incluye los contratos de locación de servicios",
                     "title": "Listado de Proveedores",
-                    "dataset_identifier": "LISTA-DE-PROVE-79569",
                     "issued": "2017-07-11T18:06:59",
                     "format": "XLS",
                     "modified": "2017-07-11T22:08:24Z",
@@ -2138,7 +2028,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/237843/listado-de-proveedores/",
                     "description": "El listado muestra los proveedores de Arsat que facturan más de $Ars 100.000 por año, y no incluye los contratos de locación de servicios",
                     "title": "Listado de Proveedores",
-                    "dataset_identifier": "LISTA-DE-PROVE-79569",
                     "issued": "2017-07-11T18:06:59",
                     "format": "JSON",
                     "modified": "2017-07-11T22:08:24Z",
@@ -2177,7 +2066,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238683/categorias-y-escalas-salariales/",
                     "description": "Listado de categorías y escala salarial bruta en ARSAT.",
                     "title": "Categorías y escalas salariales",
-                    "dataset_identifier": "ESCAL-SALAR",
                     "issued": "2017-05-31T11:38:06",
                     "format": "CSV",
                     "modified": "2017-05-31T15:38:12Z",
@@ -2187,7 +2075,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238683/categorias-y-escalas-salariales/",
                     "description": "Listado de categorías y escala salarial bruta en ARSAT.",
                     "title": "Categorías y escalas salariales",
-                    "dataset_identifier": "ESCAL-SALAR",
                     "issued": "2017-05-31T11:38:06",
                     "format": "XLS",
                     "modified": "2017-05-31T15:38:12Z",
@@ -2197,7 +2084,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238683/categorias-y-escalas-salariales/",
                     "description": "Listado de categorías y escala salarial bruta en ARSAT.",
                     "title": "Categorías y escalas salariales",
-                    "dataset_identifier": "ESCAL-SALAR",
                     "issued": "2017-05-31T11:38:06",
                     "format": "JSON",
                     "modified": "2017-05-31T15:38:12Z",
@@ -2236,7 +2122,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236042/datos-del-area-de-cobertura-de-la-banda-ku-del-satelite-arsat-1/",
                     "description": "Esta tabla muestra las coordenadas satelitales",
                     "title": "Datos del área de cobertura de la Banda KU del satélite ARSAT-1",
-                    "dataset_identifier": "SATEL-COBER-ARSAT-1",
                     "issued": "2017-05-17T17:55:01",
                     "format": "CSV",
                     "modified": "2017-05-17T21:55:08Z",
@@ -2246,7 +2131,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236042/datos-del-area-de-cobertura-de-la-banda-ku-del-satelite-arsat-1/",
                     "description": "Esta tabla muestra las coordenadas satelitales",
                     "title": "Datos del área de cobertura de la Banda KU del satélite ARSAT-1",
-                    "dataset_identifier": "SATEL-COBER-ARSAT-1",
                     "issued": "2017-05-17T17:55:01",
                     "format": "XLS",
                     "modified": "2017-05-17T21:55:08Z",
@@ -2256,7 +2140,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236042/datos-del-area-de-cobertura-de-la-banda-ku-del-satelite-arsat-1/",
                     "description": "Esta tabla muestra las coordenadas satelitales",
                     "title": "Datos del área de cobertura de la Banda KU del satélite ARSAT-1",
-                    "dataset_identifier": "SATEL-COBER-ARSAT-1",
                     "issued": "2017-05-17T17:55:01",
                     "format": "JSON",
                     "modified": "2017-05-17T21:55:08Z",
@@ -2291,7 +2174,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238049/ejecuciones-presupuestarias-2016/",
                     "description": "La tabla detalla las ejecuciones presupuestarias realizadas en cada mes del 2016.",
                     "title": "Ejecuciones Presupuestarias 2016",
-                    "dataset_identifier": "EJECU-PRESU-2016",
                     "issued": "2017-05-13T18:19:10",
                     "format": "CSV",
                     "modified": "2017-05-13T21:19:14Z",
@@ -2301,7 +2183,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238049/ejecuciones-presupuestarias-2016/",
                     "description": "La tabla detalla las ejecuciones presupuestarias realizadas en cada mes del 2016.",
                     "title": "Ejecuciones Presupuestarias 2016",
-                    "dataset_identifier": "EJECU-PRESU-2016",
                     "issued": "2017-05-13T18:19:10",
                     "format": "XLS",
                     "modified": "2017-05-13T21:19:14Z",
@@ -2311,7 +2192,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238049/ejecuciones-presupuestarias-2016/",
                     "description": "La tabla detalla las ejecuciones presupuestarias realizadas en cada mes del 2016.",
                     "title": "Ejecuciones Presupuestarias 2016",
-                    "dataset_identifier": "EJECU-PRESU-2016",
                     "issued": "2017-05-13T18:19:10",
                     "format": "JSON",
                     "modified": "2017-05-13T21:19:14Z",
@@ -2350,7 +2230,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236045/datos-del-area-de-cobertura-de-la-banda-ku-del-satelite-arsat-2-en-norteamerica/",
                     "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda KU del satélite ARSAT-2 en el hemisferio norte del continente americano",
                     "title": "Datos del área de cobertura de la Banda KU del satélite ARSAT-2 en Norteamérica",
-                    "dataset_identifier": "SATEL-COBER-ARSAT-2-31319",
                     "issued": "2017-05-13T10:25:50",
                     "format": "CSV",
                     "modified": "2017-05-13T13:25:55Z",
@@ -2360,7 +2239,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236045/datos-del-area-de-cobertura-de-la-banda-ku-del-satelite-arsat-2-en-norteamerica/",
                     "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda KU del satélite ARSAT-2 en el hemisferio norte del continente americano",
                     "title": "Datos del área de cobertura de la Banda KU del satélite ARSAT-2 en Norteamérica",
-                    "dataset_identifier": "SATEL-COBER-ARSAT-2-31319",
                     "issued": "2017-05-13T10:25:50",
                     "format": "XLS",
                     "modified": "2017-05-13T13:25:55Z",
@@ -2370,7 +2248,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236045/datos-del-area-de-cobertura-de-la-banda-ku-del-satelite-arsat-2-en-norteamerica/",
                     "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda KU del satélite ARSAT-2 en el hemisferio norte del continente americano",
                     "title": "Datos del área de cobertura de la Banda KU del satélite ARSAT-2 en Norteamérica",
-                    "dataset_identifier": "SATEL-COBER-ARSAT-2-31319",
                     "issued": "2017-05-13T10:25:50",
                     "format": "JSON",
                     "modified": "2017-05-13T13:25:55Z",
@@ -2409,7 +2286,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236043/datos-del-area-de-cobertura-de-la-banda-c-del-satelite-arsat-2-en-america/",
                     "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda C del satélite ARSAT-2 en el continente americano.",
                     "title": "Datos del área de cobertura de la Banda C del satélite ARSAT-2 en América",
-                    "dataset_identifier": "SATEL-COBER-ARSAT-2-BANDA",
                     "issued": "2017-05-13T10:21:22",
                     "format": "CSV",
                     "modified": "2017-05-13T13:21:28Z",
@@ -2419,7 +2295,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236043/datos-del-area-de-cobertura-de-la-banda-c-del-satelite-arsat-2-en-america/",
                     "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda C del satélite ARSAT-2 en el continente americano.",
                     "title": "Datos del área de cobertura de la Banda C del satélite ARSAT-2 en América",
-                    "dataset_identifier": "SATEL-COBER-ARSAT-2-BANDA",
                     "issued": "2017-05-13T10:21:22",
                     "format": "XLS",
                     "modified": "2017-05-13T13:21:28Z",
@@ -2429,7 +2304,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236043/datos-del-area-de-cobertura-de-la-banda-c-del-satelite-arsat-2-en-america/",
                     "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda C del satélite ARSAT-2 en el continente americano.",
                     "title": "Datos del área de cobertura de la Banda C del satélite ARSAT-2 en América",
-                    "dataset_identifier": "SATEL-COBER-ARSAT-2-BANDA",
                     "issued": "2017-05-13T10:21:22",
                     "format": "JSON",
                     "modified": "2017-05-13T13:21:28Z",
@@ -2468,7 +2342,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236048/datos-del-area-de-cobertura-en-banda-ku-del-satelite-arsat-2-en-america-del-sur/",
                     "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda KU del satélite ARSAT-2 en el hemisferio sur del continente americano",
                     "title": "Datos del área de cobertura en Banda KU del satélite ARSAT-2 en América del Sur",
-                    "dataset_identifier": "SATEL-COBER-ARSAT-2-21886",
                     "issued": "2017-05-13T10:17:44",
                     "format": "CSV",
                     "modified": "2017-05-13T13:17:54Z",
@@ -2478,7 +2351,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236048/datos-del-area-de-cobertura-en-banda-ku-del-satelite-arsat-2-en-america-del-sur/",
                     "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda KU del satélite ARSAT-2 en el hemisferio sur del continente americano",
                     "title": "Datos del área de cobertura en Banda KU del satélite ARSAT-2 en América del Sur",
-                    "dataset_identifier": "SATEL-COBER-ARSAT-2-21886",
                     "issued": "2017-05-13T10:17:44",
                     "format": "XLS",
                     "modified": "2017-05-13T13:17:54Z",
@@ -2488,7 +2360,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236048/datos-del-area-de-cobertura-en-banda-ku-del-satelite-arsat-2-en-america-del-sur/",
                     "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda KU del satélite ARSAT-2 en el hemisferio sur del continente americano",
                     "title": "Datos del área de cobertura en Banda KU del satélite ARSAT-2 en América del Sur",
-                    "dataset_identifier": "SATEL-COBER-ARSAT-2-21886",
                     "issued": "2017-05-13T10:17:44",
                     "format": "JSON",
                     "modified": "2017-05-13T13:17:54Z",
@@ -2526,7 +2397,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236003/kilometros-de-fibra-optica-previstos-y-localidades-contempladas-por-provincia/",
                     "description": "La tabla indica la cantidad de kilómetros totales de fibra óptica que ARSAT tendrá en cada provincia al finalizar las obras del Plan Federal de internet junto a la cantidad de localidades contempladas por provincia.",
                     "title": "Kilómetros de fibra óptica previstos y localidades contempladas por provincia",
-                    "dataset_identifier": "PLAN-FEDER-DE-INTER-MONTO",
                     "issued": "2017-05-13T09:43:51",
                     "format": "CSV",
                     "modified": "2017-05-13T12:44:01Z",
@@ -2536,7 +2406,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236003/kilometros-de-fibra-optica-previstos-y-localidades-contempladas-por-provincia/",
                     "description": "La tabla indica la cantidad de kilómetros totales de fibra óptica que ARSAT tendrá en cada provincia al finalizar las obras del Plan Federal de internet junto a la cantidad de localidades contempladas por provincia.",
                     "title": "Kilómetros de fibra óptica previstos y localidades contempladas por provincia",
-                    "dataset_identifier": "PLAN-FEDER-DE-INTER-MONTO",
                     "issued": "2017-05-13T09:43:51",
                     "format": "XLS",
                     "modified": "2017-05-13T12:44:01Z",
@@ -2546,7 +2415,6 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236003/kilometros-de-fibra-optica-previstos-y-localidades-contempladas-por-provincia/",
                     "description": "La tabla indica la cantidad de kilómetros totales de fibra óptica que ARSAT tendrá en cada provincia al finalizar las obras del Plan Federal de internet junto a la cantidad de localidades contempladas por provincia.",
                     "title": "Kilómetros de fibra óptica previstos y localidades contempladas por provincia",
-                    "dataset_identifier": "PLAN-FEDER-DE-INTER-MONTO",
                     "issued": "2017-05-13T09:43:51",
                     "format": "JSON",
                     "modified": "2017-05-13T12:44:01Z",
