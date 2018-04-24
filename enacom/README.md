@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 73
-- **Cantidad Total de Distribuciones**: 219
+- **Cantidad Total de Datasets**: 75
+- **Cantidad Total de Distribuciones**: 225
 
 - **Cantidad de Datasets Federados**: 35
-- **Cantidad de Datasets NO Federados**: 38
-- **Porcentaje de Datasets NO Federados**: 52.05%
+- **Cantidad de Datasets NO Federados**: 40
+- **Porcentaje de Datasets NO Federados**: 53.33%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -28,6 +28,21 @@
 
 ## Datasets no federados
 
+- [Accesos a Internet fijo por velocidad bajada y provincia](None)
+- [Acceso a Internet Fijo por rangos de velocidad de bajada y provincia](None)
+- [Total nacional de accesos a Internet fijo por velocidad de bajada](None)
+- [Velocidad promedio de bajada de Internet (nacional)](None)
+- [Velocidad promedio de bajada de Internet por provincia](None)
+- [Registro de prestadores de servicios postales](None)
+- [Equipos homologados inscriptos](None)
+- [Cantidad anual de equipos homologados](None)
+- [Pagos anuales de las líneas de FOMECA (pesos corrientes)](None)
+- [Equipos homologados inscriptos](None)
+- [Penetración del Internet fijo por provincia (accesos por cada 100 hogares)](None)
+- [Reclamos de los usuarios de telecomunicaciones](None)
+- [Acceso a Internet fijo por tecnología y provincia](None)
+- [Banda ancha y banda angosta por provincia](None)
+- [Sanciones a prestadores postales ilegales](None)
 - [Operadores con el mayor número de reclamos recibidos, servicio de Internet fijo](None)
 - [Operadores con el mayor número de reclamos recibidos, servicio de telefonía fija](None)
 - [Operadores con el mayor número de reclamos recibidos,servicio de telefonía móvil](None)
@@ -35,15 +50,6 @@
 - [Reclamos por tipo de servicio (12 meses)](None)
 - [Reclamos por motivo de reclamación (12 meses)](None)
 - [Licencias TIC otorgadas](None)
-- [Equipos homologados inscriptos](None)
-- [Pagos anuales de las líneas de FOMECA (pesos corrientes)](None)
-- [Banda ancha y banda angosta por provincia](None)
-- [Velocidad promedio de bajada de Internet (nacional)](None)
-- [Velocidad promedio de bajada de Internet por provincia](None)
-- [Acceso a Internet fijo por tecnología y provincia](None)
-- [Total nacional de accesos a Internet fijo por velocidad de bajada](None)
-- [Acceso a Internet fijo por velocidad de bajada y provincia](None)
-- [Penetración del Internet fijo por provincia (accesos por cada 100 hogares)](None)
 - [Ventas trimestrales de servicios postales por provincia](None)
 - [Unidades trimestrales vendidas de servicios postales por provincia](None)
 - [Ventas mensuales de servicios monetarios postales del correo oficial (en $)](None)
@@ -52,35 +58,37 @@
 - [Unidades mensuales vendidas de servicios monetarios postales del correo oficial](None)
 - [Unidades mensuales vendidas de servicios postales del correo oficial y privados](None)
 - [Unidades mensuales vendidas de servicios telegráficos, correo oficial y privados](None)
-- [Equipos homologados inscriptos](None)
-- [Registro de prestadores de servicios postales](None)
 - [Penetración provincial de la televisión por suscripción](None)
 - [Penetración provincial de la telefonía fija](None)
 - [Accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros)](None)
 - [Penetración trimestral de la telefonía fija por provincia](None)
-- [Reclamos de los usuarios de telecomunicaciones](None)
 - [Aportes no reembolsables (ANR)](None)
 - [Localidades beneficiadas por el programa de Aportes no reembolsables](None)
 - [Número de radiobases 4G por provincia por cada 100 mil habitantes](None)
 - [Radiobases 4G desplegadas por trimestre y provincia](None)
 - [Portabilidad numérica móvil: altas mensuales por operador](None)
-- [Número de equipos homologados anualmente](None)
 - [Listado de señales distintivas especiales](None)
 
 ## Datasets federados
 
+- [Numeración no geográfica](None)
+- [Numeración geográfica](None)
+- [Subregistro de prestadores de servicios de mensajería](None)
+- [Empresas homologadas inscriptas](None)
+- [Licenciatarios TIC](None)
+- [Listado de radioaficionados](None)
+- [Listado de estaciones repetidoras autorizadas](None)
+- [Listado de radioclubes](None)
+- [Penetración del Internet fijo por provincia (accesos por cada 100 habitantes)](None)
+- [Penetración nacional del Internet fijo](None)
+- [Conectividad al servicio de Internet](None)
+- [Total nacional de accesos a Internet fijo por tipo de tecnología](None)
+- [Total nacional de accesos a Internet fijo por banda ancha y banda angosta](None)
 - [Denuncias mensuales recibidas](None)
 - [Reclamos mensuales por tipo de servicio](None)
 - [Reclamos por operador y motivo de reclamo](None)
 - [Reclamos mensuales recibidos por motivo de reclamo](None)
 - [Fomeca: montos aprobados y pagados por entidad beneficiada](None)
-- [Numeración geográfica](None)
-- [Numeración no geográfica](None)
-- [Total nacional de accesos a Internet fijo por banda ancha y banda angosta](None)
-- [Total nacional de accesos a Internet fijo por tipo de tecnología](None)
-- [Conectividad al servicio de Internet](None)
-- [Penetración del Internet fijo por provincia (accesos por cada 100 habitantes)](None)
-- [Penetración nacional del Internet fijo](None)
 - [Ingresos por la operación del servicio de Internet fijo](None)
 - [Telefonía móvil: minutos salientes (miles)](None)
 - [Número de SMS enviados](None)
@@ -89,12 +97,6 @@
 - [Ingresos trimestrales por la prestación del servicio de telefonía móvil](None)
 - [Penetración nacional de la telefonía móvil (accesos por cada 100 habitantes)](None)
 - [Personal ocupado por trimestre en el correo oficial y en operadores privados](None)
-- [Licenciatarios TIC](None)
-- [Subregistro de prestadores de servicios de mensajería](None)
-- [Listado de radioclubes](None)
-- [Listado de estaciones repetidoras autorizadas](None)
-- [Listado de radioaficionados](None)
-- [Empresas homologadas inscriptas](None)
 - [Accesos de televisión por suscripción por provincia](None)
 - [Ingresos trimestrales por la prestación de los servicios de televisión](None)
 - [Penetración total nacional de la televisión por suscripción y satelital](None)
