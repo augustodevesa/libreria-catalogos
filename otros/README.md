@@ -15,10 +15,10 @@
 
 - **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 2
-- **Cantidad Total de Distribuciones**: 6
+- **Cantidad Total de Datasets**: 1
+- **Cantidad Total de Distribuciones**: 0
 
-- **Cantidad de Datasets Federados**: 2
+- **Cantidad de Datasets Federados**: 1
 - **Cantidad de Datasets NO Federados**: 0
 - **Porcentaje de Datasets NO Federados**: 0.0%
 
@@ -33,7 +33,6 @@
 ## Datasets federados
 
 - [Solicitudes de Acceso a la Información Pública](http://www.mininterior.gov.ar/inicio/index.php)
-- [Pauta Oficial](https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad)
 
 ## Reporte
 
