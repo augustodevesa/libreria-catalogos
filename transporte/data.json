@@ -23,7 +23,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=aeropuertos&d=detalle",
                     "title": "Detalle de aeródromos y helipuertos",
-                    "dataset_identifier": "aeropuertos",
                     "issued": "2017-06-30",
                     "format": "text/csv",
                     "modified": "2017-06-30",
@@ -48,7 +47,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=aportes&d=colectivoscd",
                     "title": "Colectivos Corta distancia",
-                    "dataset_identifier": "aportes",
                     "issued": "2017-06-30",
                     "format": "text/csv",
                     "modified": "2017-07-15",
@@ -57,7 +55,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=aportes&d=colectivosld",
                     "title": "Colectivos Larga distancia",
-                    "dataset_identifier": "aportes",
                     "issued": "2017-06-30",
                     "format": "text/csv",
                     "modified": "2017-07-15",
@@ -66,7 +63,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=aportes&d=trenesestado",
                     "title": "Trenes Estado Nacional",
-                    "dataset_identifier": "aportes",
                     "issued": "2017-06-30",
                     "format": "text/csv",
                     "modified": "2017-01-18",
@@ -91,7 +87,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=mcancelaciones&d=mlinea",
                     "title": "Cantidad de operaciones de viajes por mes, detalle de línea",
-                    "dataset_identifier": "mcancelaciones",
                     "issued": "2016-11-01",
                     "format": "text/csv",
                     "modified": "2018-02-19",
@@ -100,7 +95,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=mcancelaciones&d=mtipo",
                     "title": "Cantidad de operaciones de viajes por mes, detalle de línea y tipo de pasaje (NORMAL-ATRIBUTO SOCIAL)",
-                    "dataset_identifier": "mcancelaciones",
                     "issued": "2016-11-01",
                     "format": "text/csv",
                     "modified": "2018-02-19",
@@ -109,7 +103,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=mcancelaciones&d=mempresa",
                     "title": "Cantidad de operaciones de viajes por mes, detalle por empresa",
-                    "dataset_identifier": "mcancelaciones",
                     "issued": "2016-11-01",
                     "format": "text/csv",
                     "modified": "2018-02-19",
@@ -118,7 +111,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=mcancelaciones&d=mmodo",
                     "title": "Cantidad de operaciones de viajes por mes, detalle por modo",
-                    "dataset_identifier": "mcancelaciones",
                     "issued": "2016-11-01",
                     "format": "text/csv",
                     "modified": "2018-02-19",
@@ -143,7 +135,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=acancelaciones&d=linea",
                     "title": "Cantidad de operaciones de viajes por año, detalle de linea",
-                    "dataset_identifier": "acancelaciones",
                     "issued": "2016-11-01",
                     "format": "text/csv",
                     "modified": "2018-02-19",
@@ -152,7 +143,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=acancelaciones&d=tipo",
                     "title": "Cantidad de operaciones de viajes por año, detalle de linea y tipo de pasaje (NORMAL-ATRIBUTO SOCIAL)",
-                    "dataset_identifier": "acancelaciones",
                     "issued": "2016-11-01",
                     "format": "text/csv",
                     "modified": "2018-02-19",
@@ -161,7 +151,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=acancelaciones&d=empresa",
                     "title": "Cantidad de operaciones de viajes por año, detalle por empresa",
-                    "dataset_identifier": "acancelaciones",
                     "issued": "2016-11-01",
                     "format": "text/csv",
                     "modified": "2018-02-19",
@@ -170,7 +159,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=acancelaciones&d=modo",
                     "title": "Cantidad de operaciones de viajes por año, detalle por modo",
-                    "dataset_identifier": "acancelaciones",
                     "issued": "2016-11-01",
                     "format": "text/csv",
                     "modified": "2018-02-19",
@@ -195,7 +183,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=empresas&d=municipal",
                     "title": "Detalle de empresas de transporte que operan Jurisdiccion Municipal",
-                    "dataset_identifier": "empresas",
                     "issued": "2016-11-01",
                     "format": "text/csv",
                     "modified": "2018-02-19",
@@ -204,7 +191,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=empresas&d=nacional",
                     "title": "Detalle de empresas de transporte que operan Jurisdiccion Nacional",
-                    "dataset_identifier": "empresas",
                     "issued": "2016-11-01",
                     "format": "text/csv",
                     "modified": "2018-02-19",
@@ -213,7 +199,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=empresas&d=provincial",
                     "title": "Detalle de empresas de transporte que operan Jurisdiccion Provincial",
-                    "dataset_identifier": "empresas",
                     "issued": "2016-11-01",
                     "format": "text/csv",
                     "modified": "2018-02-19",
@@ -238,7 +223,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=lineas&d=municipal",
                     "title": "Detalle de empresas de transporte que operan por Jurisdicción Municipal",
-                    "dataset_identifier": "lineas",
                     "issued": "2016-11-01",
                     "format": "text/csv",
                     "modified": "2018-02-19",
@@ -247,7 +231,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=lineas&d=provincial",
                     "title": "Detalle de empresas de transporte que operan por Jurisdicción Provincial",
-                    "dataset_identifier": "lineas",
                     "issued": "2016-11-01",
                     "format": "text/csv",
                     "modified": "2018-02-19",
@@ -256,7 +239,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=lineas&d=nacional",
                     "title": "Detalle de líneas de transporte que operan por Jurisdicción Nacional",
-                    "dataset_identifier": "lineas",
                     "issued": "2016-11-01",
                     "format": "text/csv",
                     "modified": "2018-02-19",
@@ -281,7 +263,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=agp&d=detalle",
                     "title": "Detalle de entrada y salida de buques y pasajeros transportados",
-                    "dataset_identifier": "agp",
                     "issued": "2017-05-30",
                     "format": "text/csv",
                     "modified": "2017-05-30",
@@ -306,7 +287,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/Lineas_NACIONALES_AMBA_Dic2016.zip",
                     "title": "Detalle de recorrido, por línea",
-                    "dataset_identifier": "recorridos",
                     "issued": "2016-11-01",
                     "format": "kml",
                     "modified": "2016-11-01",
@@ -331,7 +311,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/./kml/acreditacion_carga_virtual.kml",
                     "title": "Detalle de puntos de acreditación de saldo (p/carga virtual)",
-                    "dataset_identifier": "red",
                     "issued": "2016-11-01",
                     "format": "kml",
                     "modified": "2016-11-01",
@@ -340,7 +319,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/./kml/recarga_automaticos.kml",
                     "title": "Detalle de puntos de recarga automáticos (TAS), ubicación geográfica",
-                    "dataset_identifier": "red",
                     "issued": "2016-11-01",
                     "format": "kml",
                     "modified": "2016-11-01",
@@ -349,7 +327,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=red&d=recarga",
                     "title": "Detalle de puntos de recarga, ubicación geográfica",
-                    "dataset_identifier": "red",
                     "issued": "2016-11-01",
                     "format": "text/csv",
                     "modified": "2017-02-01",
@@ -358,7 +335,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=red&d=venta",
                     "title": "Detalle de puntos de venta, ubicación geográfica",
-                    "dataset_identifier": "red",
                     "issued": "2016-11-01",
                     "format": "text/csv",
                     "modified": "2017-07-24",
@@ -383,7 +359,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=sistau&d=rcc",
                     "title": "ASIGNACION RCC DEL DECRETO Nº 678/06",
-                    "dataset_identifier": "sistau",
                     "issued": "2017-06-30",
                     "format": "text/csv",
                     "modified": "2017-06-30",
@@ -392,7 +367,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=sistau&d=sistau",
                     "title": "ASIGNACION SISTAU",
-                    "dataset_identifier": "sistau",
                     "issued": "2017-06-30",
                     "format": "text/csv",
                     "modified": "2017-06-30",
@@ -401,7 +375,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=sistau&d=ccp",
                     "title": "Compensaciones Complementarias Provinciales (CCP) - Art. 3º Decreto Nº 98/07",
-                    "dataset_identifier": "sistau",
                     "issued": "2017-06-30",
                     "format": "text/csv",
                     "modified": "2017-06-30",
@@ -426,7 +399,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=estaciones&d=estaciones",
                     "title": "Detalle de estaciones de trenes",
-                    "dataset_identifier": "estaciones",
                     "issued": "2017-06-30",
                     "format": "text/csv",
                     "modified": "2017-06-30",
@@ -451,7 +423,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=trenes&d=pasajeros",
                     "title": "Detalle de pasajeros por línea",
-                    "dataset_identifier": "trenes",
                     "issued": "2017-06-30",
                     "format": "text/csv",
                     "modified": "2017-06-30",
@@ -476,7 +447,6 @@
                 {
                     "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=eana&d=detalle",
                     "title": "Detalle de movimientos de aterrizajes y despegues",
-                    "dataset_identifier": "eana",
                     "issued": "2017-08-25",
                     "format": "text/csv",
                     "modified": "2018-03-30",
