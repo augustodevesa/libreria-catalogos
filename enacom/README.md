@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 75
-- **Cantidad Total de Distribuciones**: 225
+- **Cantidad Total de Datasets**: 76
+- **Cantidad Total de Distribuciones**: 228
 
 - **Cantidad de Datasets Federados**: 35
-- **Cantidad de Datasets NO Federados**: 40
-- **Porcentaje de Datasets NO Federados**: 53.33%
+- **Cantidad de Datasets NO Federados**: 41
+- **Porcentaje de Datasets NO Federados**: 53.95%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -29,20 +29,21 @@
 ## Datasets no federados
 
 - [Accesos a Internet fijo por velocidad bajada y provincia](None)
+- [Penetración de la televisión por suscripción trimestral por provincia](None)
+- [Accesos a banda ancha y banda angosta por provincia](None)
+- [Penetración del Internet fijo por provincia (accesos por cada 100 hogares)](None)
+- [Acceso a Internet fijo por tecnología y provincia](None)
+- [Sanciones a prestadores postales ilegales](None)
+- [Equipos homologados inscriptos](None)
+- [Registro de prestadores de servicios postales](None)
 - [Acceso a Internet Fijo por rangos de velocidad de bajada y provincia](None)
 - [Total nacional de accesos a Internet fijo por velocidad de bajada](None)
+- [Velocidad promedio de bajada de Internet fijo por provincia](None)
 - [Velocidad promedio de bajada de Internet (nacional)](None)
-- [Velocidad promedio de bajada de Internet por provincia](None)
-- [Registro de prestadores de servicios postales](None)
 - [Equipos homologados inscriptos](None)
 - [Cantidad anual de equipos homologados](None)
 - [Pagos anuales de las líneas de FOMECA (pesos corrientes)](None)
-- [Equipos homologados inscriptos](None)
-- [Penetración del Internet fijo por provincia (accesos por cada 100 hogares)](None)
 - [Reclamos de los usuarios de telecomunicaciones](None)
-- [Acceso a Internet fijo por tecnología y provincia](None)
-- [Banda ancha y banda angosta por provincia](None)
-- [Sanciones a prestadores postales ilegales](None)
 - [Operadores con el mayor número de reclamos recibidos, servicio de Internet fijo](None)
 - [Operadores con el mayor número de reclamos recibidos, servicio de telefonía fija](None)
 - [Operadores con el mayor número de reclamos recibidos,servicio de telefonía móvil](None)
@@ -71,19 +72,19 @@
 
 ## Datasets federados
 
-- [Numeración no geográfica](None)
 - [Numeración geográfica](None)
-- [Subregistro de prestadores de servicios de mensajería](None)
-- [Empresas homologadas inscriptas](None)
-- [Licenciatarios TIC](None)
-- [Listado de radioaficionados](None)
-- [Listado de estaciones repetidoras autorizadas](None)
-- [Listado de radioclubes](None)
 - [Penetración del Internet fijo por provincia (accesos por cada 100 habitantes)](None)
 - [Penetración nacional del Internet fijo](None)
-- [Conectividad al servicio de Internet](None)
 - [Total nacional de accesos a Internet fijo por tipo de tecnología](None)
 - [Total nacional de accesos a Internet fijo por banda ancha y banda angosta](None)
+- [Numeración no geográfica](None)
+- [Listado de radioaficionados](None)
+- [Empresas homologadas inscriptas](None)
+- [Listado de estaciones repetidoras autorizadas](None)
+- [Listado de radioclubes](None)
+- [Subregistro de prestadores de servicios de mensajería](None)
+- [Licenciatarios TIC](None)
+- [Conectividad al servicio de Internet](None)
 - [Denuncias mensuales recibidas](None)
 - [Reclamos mensuales por tipo de servicio](None)
 - [Reclamos por operador y motivo de reclamo](None)
