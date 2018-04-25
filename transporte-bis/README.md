@@ -16,7 +16,7 @@
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
 - **Cantidad Total de Datasets**: 46
-- **Cantidad Total de Distribuciones**: 332
+- **Cantidad Total de Distribuciones**: 346
 
 - **Cantidad de Datasets Federados**: 0
 - **Cantidad de Datasets NO Federados**: 46
@@ -28,23 +28,23 @@
 
 ## Datasets no federados
 
-- [2017 Cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad](http://datos.transporte.gob.ar/dataset/2017-cancelaciones-rmba-periodo-modo-empresa-linea-tipo-pasaje-cantidad)
-- [2017 Empresas transporte RMBA](http://datos.transporte.gob.ar/dataset/2017-empresas-transporte-rmba)
-- [2017/2018 Cancelaciones RMBA - periodo - modo - empresa - linea - cantidad (PRELIMINARES)](https://datos.transporte.gob.ar/dataset/2017-cancelaciones-rmba-periodo-modo-empresa-linea-cantidad-preliminares)
-- [2017/2018 Lineas transporte RMBA (PRELIMINARES)](https://datos.transporte.gob.ar/dataset/2017-lineas-transporte-rmba-preliminares)
-- [2017/2018 Cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad (PRELIMINARES)](https://datos.transporte.gob.ar/dataset/2017-cancelaciones-rmba-periodo-modo-empresa-linea-tipo-pasaje-cantidad-preliminares)
-- [2017/2018 Empresas transporte RMBA (PRELIMINARES)](https://datos.transporte.gob.ar/dataset/2017-empresas-transporte-rmba-preliminares)
-- [2017/2018 Cancelaciones RMBA - periodo - modo - empresa - cantidad (PRELIMINARES)](https://datos.transporte.gob.ar/dataset/2017-cancelaciones-rmba-periodo-modo-empresa-cantidad-preliminares)
-- [2017/2018 Cancelaciones RMBA - periodo - modo - cantidad (PRELIMINARES)](https://datos.transporte.gob.ar/dataset/2017-cancelaciones-rmba-periodo-modo-cantidad-preliminares)
-- [2017/2018 Cancelaciones RMBA - periodo - cantidad (PRELIMINARES)](https://datos.transporte.gob.ar/dataset/2017-cancelaciones-rmba-periodo-cantidad-preliminares)
-- [2017 Cancelaciones RMBA - periodo - cantidad](https://datos.transporte.gob.ar/dataset/2017-cancelaciones-rmba-periodo-cantidad)
-- [2017 Cancelaciones RMBA - periodo - modo - cantidad](https://datos.transporte.gob.ar/dataset/2017-cancelaciones-rmba-periodo-modo-cantidad)
-- [2017 Cancelaciones RMBA - periodo - modo - empresa - cantidad](https://datos.transporte.gob.ar/dataset/2017-cancelaciones-rmba-periodo-modo-empresa-cantidad)
-- [2017 Cancelaciones RMBA - periodo - modo - empresa - linea - cantidad](https://datos.transporte.gob.ar/dataset/2017-cancelaciones-rmba-periodo-modo-empresa-linea-cantidad)
+- [2018 Operaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad (PRELIMINARES)](https://datos.transporte.gob.ar/dataset/2017-cancelaciones-rmba-periodo-modo-empresa-linea-tipo-pasaje-cantidad-preliminares)
+- [2018 Operaciones RMBA - periodo - modo - empresa - linea - cantidad (PRELIMINARES)](https://datos.transporte.gob.ar/dataset/2017-cancelaciones-rmba-periodo-modo-empresa-linea-cantidad-preliminares)
+- [2018 Operaciones RMBA - periodo - modo - empresa - cantidad (PRELIMINARES)](https://datos.transporte.gob.ar/dataset/2017-cancelaciones-rmba-periodo-modo-empresa-cantidad-preliminares)
+- [2018 Operaciones RMBA - periodo - modo - cantidad (PRELIMINARES)](https://datos.transporte.gob.ar/dataset/2017-cancelaciones-rmba-periodo-modo-cantidad-preliminares)
+- [2018 Operaciones RMBA - periodo - cantidad (PRELIMINARES)](https://datos.transporte.gob.ar/dataset/2017-cancelaciones-rmba-periodo-cantidad-preliminares)
+- [2018 Lineas transporte RMBA (PRELIMINARES)](https://datos.transporte.gob.ar/dataset/2017-lineas-transporte-rmba-preliminares)
+- [2018 Empresas transporte RMBA (PRELIMINARES)](https://datos.transporte.gob.ar/dataset/2017-empresas-transporte-rmba-preliminares)
+- [2017 Operaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad](https://datos.transporte.gob.ar/dataset/2017-cancelaciones-rmba-periodo-modo-empresa-linea-tipo-pasaje-cantidad)
+- [2017 Operaciones RMBA - periodo - modo - empresa - linea - cantidad](https://datos.transporte.gob.ar/dataset/2017-cancelaciones-rmba-periodo-modo-empresa-linea-cantidad)
+- [2017 Operaciones RMBA - periodo - modo - empresa - cantidad](https://datos.transporte.gob.ar/dataset/2017-cancelaciones-rmba-periodo-modo-empresa-cantidad)
+- [2017 Operaciones RMBA - periodo - modo - cantidad](https://datos.transporte.gob.ar/dataset/2017-cancelaciones-rmba-periodo-modo-cantidad)
+- [2017 Operaciones RMBA - periodo - cantidad](https://datos.transporte.gob.ar/dataset/2017-cancelaciones-rmba-periodo-cantidad)
 - [2017 Lineas transporte RMBA](https://datos.transporte.gob.ar/dataset/2017-lineas-transporte-rmba)
+- [2017 Empresas transporte RMBA](https://datos.transporte.gob.ar/dataset/2017-empresas-transporte-rmba)
+- [Puertos](http://datos.transporte.gob.ar/dataset/puertos)
 - [Recorridos de Líneas de Transporte de Región Metropolitana de Buenos Aires (RMBA)](https://datos.transporte.gob.ar/dataset/recorridos-de-lineas-de-transporte-rmba-jn)
 - [Boletos Vendidos](https://datos.transporte.gob.ar/dataset/boletos-vendidos)
-- [Puertos](https://datos.transporte.gob.ar/dataset/puertos)
 - [Terminales Portuarias](https://datos.transporte.gob.ar/dataset/terminales-portuarias)
 - [Cruces Ferroviarios](https://datos.transporte.gob.ar/dataset/cruces-ferroviarios)
 - [Rutas Nacionales](https://datos.transporte.gob.ar/dataset/rutas-nacionales)
