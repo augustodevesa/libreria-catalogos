@@ -14,7 +14,7 @@
             ],
             "title": "Registro de Visitas",
             "issued": "2017-06-26T21:51:38",
-            "modified": "2018-04-24T01:26:54.530Z",
+            "modified": "2018-04-25T23:47:52.916Z",
             "language": [
                 "spa"
             ],
@@ -29,7 +29,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "CSV",
-                    "modified": "2018-04-24T01:26:54.530Z",
+                    "modified": "2018-04-25T23:47:52.916Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -38,7 +38,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "XLS",
-                    "modified": "2018-04-24T01:26:54.530Z",
+                    "modified": "2018-04-25T23:47:52.916Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -47,7 +47,7 @@
                     "title": "Registro de Visitas",
                     "issued": "2017-06-26T21:51:38",
                     "format": "JSON",
-                    "modified": "2018-04-24T01:26:54.530Z",
+                    "modified": "2018-04-25T23:47:52.916Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
@@ -70,7 +70,7 @@
             ],
             "title": "Registro de Audiencias",
             "issued": "2017-06-26T17:14:16",
-            "modified": "2018-04-23T23:33:21Z",
+            "modified": "2018-04-25T22:06:05Z",
             "language": [
                 "spa"
             ],
@@ -85,7 +85,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T17:14:16",
                     "format": "CSV",
-                    "modified": "2018-04-23T23:33:21Z",
+                    "modified": "2018-04-25T22:06:05Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -94,7 +94,7 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T17:14:16",
                     "format": "XLS",
-                    "modified": "2018-04-23T23:33:21Z",
+                    "modified": "2018-04-25T22:06:05Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
@@ -103,13 +103,178 @@
                     "title": "Registro de Audiencias",
                     "issued": "2017-06-26T17:14:16",
                     "format": "JSON",
-                    "modified": "2018-04-23T23:33:21Z",
+                    "modified": "2018-04-25T22:06:05Z",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 }
             ],
             "identifier": "AUDIE-96185",
             "homepage": "http://datos.arsat.com.ar/dataviews/239713/registro-de-audiencias/",
             "description": ".Listado de Audiencias realizadas en Arsat desde el 20/03/17 hasta el presente."
+        },
+        {
+            "publisher": {
+                "mbox": "datosabiertos@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "arsat",
+                "plan federal de internet"
+            ],
+            "title": "Nodos próximos a conectarse al Plan Federal de Internet",
+            "issued": "2018-04-25T13:44:19",
+            "modified": "2018-04-25T16:58:03Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/246029/nodos-proximos-a-conectarse-al-plan-federal-de-internet/",
+                    "description": "La tabla muestra la ubicación de los puntos de acceso al Plan Federal de Internet que se encuentran próximos a conectarse junto a otros datos como la población de la localidad.",
+                    "title": "Nodos próximos a conectarse al Plan Federal de Internet",
+                    "issued": "2018-04-25T13:44:19",
+                    "format": "CSV",
+                    "modified": "2018-04-25T16:58:03Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-PROXI-A-CONEC/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/246029/nodos-proximos-a-conectarse-al-plan-federal-de-internet/",
+                    "description": "La tabla muestra la ubicación de los puntos de acceso al Plan Federal de Internet que se encuentran próximos a conectarse junto a otros datos como la población de la localidad.",
+                    "title": "Nodos próximos a conectarse al Plan Federal de Internet",
+                    "issued": "2018-04-25T13:44:19",
+                    "format": "XLS",
+                    "modified": "2018-04-25T16:58:03Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-PROXI-A-CONEC/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/246029/nodos-proximos-a-conectarse-al-plan-federal-de-internet/",
+                    "description": "La tabla muestra la ubicación de los puntos de acceso al Plan Federal de Internet que se encuentran próximos a conectarse junto a otros datos como la población de la localidad.",
+                    "title": "Nodos próximos a conectarse al Plan Federal de Internet",
+                    "issued": "2018-04-25T13:44:19",
+                    "format": "JSON",
+                    "modified": "2018-04-25T16:58:03Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-PROXI-A-CONEC/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "NODOS-PROXI-A-CONEC",
+            "homepage": "http://datos.arsat.com.ar/dataviews/246029/nodos-proximos-a-conectarse-al-plan-federal-de-internet/",
+            "description": "La tabla muestra la ubicación de los puntos de acceso al Plan Federal de Internet que se encuentran próximos a conectarse junto a otros datos como la población de la localidad."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "arsat",
+                "plan federal de internet"
+            ],
+            "title": "Futuros puntos de conexión al Plan Federal de Internet",
+            "issued": "2018-04-25T13:39:40",
+            "modified": "2018-04-25T16:51:40Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238746/futuros-puntos-de-conexion-al-plan-federal-de-internet/",
+                    "description": "La tabla muestra la ubicación precisa de los puntos de acceso que se conectarán al Plan Federal de Internet junto a otros datos como la población de la localidad.",
+                    "title": "Futuros puntos de conexión al Plan Federal de Internet",
+                    "issued": "2018-04-25T13:39:40",
+                    "format": "CSV",
+                    "modified": "2018-04-25T16:51:40Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-PLANI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238746/futuros-puntos-de-conexion-al-plan-federal-de-internet/",
+                    "description": "La tabla muestra la ubicación precisa de los puntos de acceso que se conectarán al Plan Federal de Internet junto a otros datos como la población de la localidad.",
+                    "title": "Futuros puntos de conexión al Plan Federal de Internet",
+                    "issued": "2018-04-25T13:39:40",
+                    "format": "XLS",
+                    "modified": "2018-04-25T16:51:40Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-PLANI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238746/futuros-puntos-de-conexion-al-plan-federal-de-internet/",
+                    "description": "La tabla muestra la ubicación precisa de los puntos de acceso que se conectarán al Plan Federal de Internet junto a otros datos como la población de la localidad.",
+                    "title": "Futuros puntos de conexión al Plan Federal de Internet",
+                    "issued": "2018-04-25T13:39:40",
+                    "format": "JSON",
+                    "modified": "2018-04-25T16:51:40Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-PLANI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "NODOS-PLANI",
+            "homepage": "http://datos.arsat.com.ar/dataviews/238746/futuros-puntos-de-conexion-al-plan-federal-de-internet/",
+            "description": "La tabla muestra la ubicación precisa de los puntos de acceso que se conectarán al Plan Federal de Internet junto a otros datos como la población de la localidad."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "arsat",
+                "plan federal de internet"
+            ],
+            "title": "Puntos de conexión al Plan Federal de Internet",
+            "issued": "2018-04-25T13:37:04",
+            "modified": "2018-04-25T16:51:40Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238001/puntos-de-conexion-al-plan-federal-de-internet/",
+                    "description": "La tabla muestra la ubicación precisa de los puntos de acceso al Plan Federal de Internet que se encuentran en servicio junto a otros datos como la población de la localidad y la fecha de conexión.",
+                    "title": "Puntos de conexión al Plan Federal de Internet",
+                    "issued": "2018-04-25T13:37:04",
+                    "format": "CSV",
+                    "modified": "2018-04-25T16:51:40Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-EN-SERVI-58179/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238001/puntos-de-conexion-al-plan-federal-de-internet/",
+                    "description": "La tabla muestra la ubicación precisa de los puntos de acceso al Plan Federal de Internet que se encuentran en servicio junto a otros datos como la población de la localidad y la fecha de conexión.",
+                    "title": "Puntos de conexión al Plan Federal de Internet",
+                    "issued": "2018-04-25T13:37:04",
+                    "format": "XLS",
+                    "modified": "2018-04-25T16:51:40Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-EN-SERVI-58179/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238001/puntos-de-conexion-al-plan-federal-de-internet/",
+                    "description": "La tabla muestra la ubicación precisa de los puntos de acceso al Plan Federal de Internet que se encuentran en servicio junto a otros datos como la población de la localidad y la fecha de conexión.",
+                    "title": "Puntos de conexión al Plan Federal de Internet",
+                    "issued": "2018-04-25T13:37:04",
+                    "format": "JSON",
+                    "modified": "2018-04-25T16:51:40Z",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-EN-SERVI-58179/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                }
+            ],
+            "identifier": "NODOS-EN-SERVI-58179",
+            "homepage": "http://datos.arsat.com.ar/dataviews/238001/puntos-de-conexion-al-plan-federal-de-internet/",
+            "description": "La tabla muestra la ubicación precisa de los puntos de acceso al Plan Federal de Internet que se encuentran en servicio junto a otros datos como la población de la localidad y la fecha de conexión."
         },
         {
             "publisher": {
@@ -1160,116 +1325,6 @@
             "identifier": "PROME-DE-EDAD-Y-ANTIG",
             "homepage": "http://datos.arsat.com.ar/dataviews/238094/promedios-de-edad-y-antiguedad-del-personal/",
             "description": "Promedios de edad y antigüedad de los empleados de ARSAT registrados."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "arsat",
-                "plan federal de internet"
-            ],
-            "title": "Futuros puntos de conexión al Plan Federal de Internet",
-            "issued": "2018-04-04T19:05:37",
-            "modified": "2018-04-04T22:07:17Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238746/futuros-puntos-de-conexion-al-plan-federal-de-internet/",
-                    "description": "La tabla muestra la ubicación precisa de los puntos de acceso que se conectarán al Plan Federal de Internet junto a otros datos como la población de la localidad.",
-                    "title": "Futuros puntos de conexión al Plan Federal de Internet",
-                    "issued": "2018-04-04T19:05:37",
-                    "format": "CSV",
-                    "modified": "2018-04-04T22:07:17Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-PLANI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238746/futuros-puntos-de-conexion-al-plan-federal-de-internet/",
-                    "description": "La tabla muestra la ubicación precisa de los puntos de acceso que se conectarán al Plan Federal de Internet junto a otros datos como la población de la localidad.",
-                    "title": "Futuros puntos de conexión al Plan Federal de Internet",
-                    "issued": "2018-04-04T19:05:37",
-                    "format": "XLS",
-                    "modified": "2018-04-04T22:07:17Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-PLANI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238746/futuros-puntos-de-conexion-al-plan-federal-de-internet/",
-                    "description": "La tabla muestra la ubicación precisa de los puntos de acceso que se conectarán al Plan Federal de Internet junto a otros datos como la población de la localidad.",
-                    "title": "Futuros puntos de conexión al Plan Federal de Internet",
-                    "issued": "2018-04-04T19:05:37",
-                    "format": "JSON",
-                    "modified": "2018-04-04T22:07:17Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-PLANI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "NODOS-PLANI",
-            "homepage": "http://datos.arsat.com.ar/dataviews/238746/futuros-puntos-de-conexion-al-plan-federal-de-internet/",
-            "description": "La tabla muestra la ubicación precisa de los puntos de acceso que se conectarán al Plan Federal de Internet junto a otros datos como la población de la localidad."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "arsat",
-                "plan federal de internet"
-            ],
-            "title": "Puntos de conexión al Plan Federal de Internet",
-            "issued": "2018-04-04T19:01:39",
-            "modified": "2018-04-04T22:05:13Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238001/puntos-de-conexion-al-plan-federal-de-internet/",
-                    "description": "La tabla muestra la ubicación precisa de los puntos de acceso al Plan Federal de Internet que se encuentran en servicio junto a otros datos como la población de la localidad y la fecha de conexión.",
-                    "title": "Puntos de conexión al Plan Federal de Internet",
-                    "issued": "2018-04-04T19:01:39",
-                    "format": "CSV",
-                    "modified": "2018-04-04T22:05:13Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-EN-SERVI-58179/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238001/puntos-de-conexion-al-plan-federal-de-internet/",
-                    "description": "La tabla muestra la ubicación precisa de los puntos de acceso al Plan Federal de Internet que se encuentran en servicio junto a otros datos como la población de la localidad y la fecha de conexión.",
-                    "title": "Puntos de conexión al Plan Federal de Internet",
-                    "issued": "2018-04-04T19:01:39",
-                    "format": "XLS",
-                    "modified": "2018-04-04T22:05:13Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-EN-SERVI-58179/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238001/puntos-de-conexion-al-plan-federal-de-internet/",
-                    "description": "La tabla muestra la ubicación precisa de los puntos de acceso al Plan Federal de Internet que se encuentran en servicio junto a otros datos como la población de la localidad y la fecha de conexión.",
-                    "title": "Puntos de conexión al Plan Federal de Internet",
-                    "issued": "2018-04-04T19:01:39",
-                    "format": "JSON",
-                    "modified": "2018-04-04T22:05:13Z",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-EN-SERVI-58179/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                }
-            ],
-            "identifier": "NODOS-EN-SERVI-58179",
-            "homepage": "http://datos.arsat.com.ar/dataviews/238001/puntos-de-conexion-al-plan-federal-de-internet/",
-            "description": "La tabla muestra la ubicación precisa de los puntos de acceso al Plan Federal de Internet que se encuentran en servicio junto a otros datos como la población de la localidad y la fecha de conexión."
         },
         {
             "publisher": {
