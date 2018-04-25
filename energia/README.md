@@ -18,12 +18,13 @@
 - **Cantidad Total de Datasets**: 181
 - **Cantidad Total de Distribuciones**: 1007
 
-- **Cantidad de Datasets Federados**: 62
-- **Cantidad de Datasets NO Federados**: 119
-- **Porcentaje de Datasets NO Federados**: 65.75%
+- **Cantidad de Datasets Federados**: 61
+- **Cantidad de Datasets NO Federados**: 120
+- **Porcentaje de Datasets NO Federados**: 66.3%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
+- [Instalaciones de hidrocarburos - Instalaciones empadronads Res. 318/2010](http://datos.minem.gob.ar/dataset/instalaciones-hidrocarburos---instalaciones-empadronads-res-3182010)
 - [Gas natural entregado por provincia](http://www.enargas.gov.ar/secciones/transporte-y-distribucion/datos-operativos.php)
 
 ## Datasets no federados
@@ -89,6 +90,7 @@
 - [Informes Estadísticos del Sector Eléctrico (Quinquenales y Decenales)]()
 - [Informe Trimestral de Coyuntura Energética]()
 - [Instalaciones de hidrocarburos - Ductos Res. 319/1993]()
+- [Instalaciones de hidrocarburos - Instalaciones empadronads Res. 318/2010]()
 - [Instalaciones de hidrocarburos - Instalaciones Res. 319/1993 (P. Característicos)]()
 - [Inventario de Presas y Centrales Hidroeléctricas de la República Argentina]()
 - [Inversiones en mercado de hidrocarburos upstream]()
@@ -182,7 +184,6 @@
 - [Generación Eléctrica - Pequeños Aprovechamientos Hidroeléctricos (PAH)]()
 - [Geología - Yacimientos Minerales]()
 - [GLP: Distancia de áreas urbanas a depósitos y fraccionadoras]()
-- [Instalaciones de hidrocarburos - Instalaciones empadronads Res. 318/2010]()
 - [Instalaciones de hidrocarburos - Puertos regasificadores de GNL]()
 - [Energías renovables - Irradiancia normal directa]()
 - [Padrón de medidores de petróleo y gas]()
