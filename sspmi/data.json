@@ -8,7 +8,7 @@
     "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
     "issued": "2017-09-25T00:00:00",
     "title": "Datos Económicos Sectoriales y Provinciales",
-    "modified": "2018-04-09T00:00:00",
+    "modified": "2018-04-23T00:00:00",
     "dataset": [
         {
             "issued": "2017-12-22",
@@ -43,7 +43,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-03-09",
+            "modified": "2018-04-23",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -157,7 +157,7 @@
                     "title": "Indicadores de Ovinos - Lana y Carne en valores anuales, trimestrales y mensuales",
                     "issued": "2017-12-22",
                     "format": "CSV",
-                    "modified": "2018-03-09",
+                    "modified": "2018-04-23",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/01-indicadores-ovinos-basecompleta.csv",
                     "identifier": "01.1"
                 }
@@ -576,7 +576,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Carne Aviar",
-            "temporal": "1997-01-01/2018-02-01",
+            "temporal": "1997-01-01/2018-03-01",
             "source": "MinAgro, INDEC, CAPIA",
             "theme": [
                 "produccion_actividad",
@@ -603,7 +603,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-03-23",
+            "modified": "2018-04-23",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -693,7 +693,7 @@
                     "title": "Indicadores de carne aviar en valores anuales, trimestrales y mensuales",
                     "issued": "2017-10-02",
                     "format": "CSV",
-                    "modified": "2018-03-23",
+                    "modified": "2018-04-23",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/05-indicadores-carne-aviar-basecompleta.csv",
                     "identifier": "05.1"
                 }
@@ -738,7 +738,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-09",
+            "modified": "2018-04-23",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -870,7 +870,7 @@
                     "title": "Indicadores de Hidrocarburos en valores anuales, trimestrales y mensuales",
                     "issued": "2017-10-02",
                     "format": "CSV",
-                    "modified": "2018-04-09",
+                    "modified": "2018-04-23",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/06-indicadores-hidrocarburos-basecompleta.csv",
                     "identifier": "06.1"
                 }
@@ -911,7 +911,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-03-23",
+            "modified": "2018-04-23",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -1019,7 +1019,7 @@
                     "title": "Indicadores de Frutícola - Fruta de carozo en valores anuales y mensuales",
                     "issued": "2018-01-19",
                     "format": "CSV",
-                    "modified": "2018-03-23",
+                    "modified": "2018-04-23",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/07-indicadores-fruta-carozo-basecompleta.csv",
                     "identifier": "07.1"
                 }
@@ -1065,7 +1065,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-03-23",
+            "modified": "2018-04-23",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -1305,7 +1305,7 @@
                     "title": "Indicadores de Maquinaria Agrícola en valores anuales y trimestrales",
                     "issued": "2017-10-02",
                     "format": "CSV",
-                    "modified": "2018-03-23",
+                    "modified": "2018-04-23",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/08-indicadores-maq-agricola-basecompleta.csv",
                     "identifier": "08.1"
                 }
@@ -2397,31 +2397,31 @@
                             "description": "Producción: impregnación",
                             "title": "prod_bi_impreg",
                             "type": "number",
-                            "units": "Miles de metros cúbicos"
+                            "units": "Metros cúbicos"
                         },
                         {
                             "description": "Producción: laminados otros usos",
                             "title": "prod_bi_lamin_otros_usos",
                             "type": "number",
-                            "units": "Miles de metros cúbicos"
+                            "units": "Metros cúbicos"
                         },
                         {
                             "description": "Producción: tableros alistonados",
                             "title": "prod_bi_tabl_alist",
                             "type": "number",
-                            "units": "Miles de metros cúbicos"
+                            "units": "Metros cúbicos"
                         },
                         {
                             "description": "Producción: tableros fibras",
                             "title": "prod_bi_tabl_fibras",
                             "type": "number",
-                            "units": "Miles de metros cúbicos"
+                            "units": "Metros cúbicos"
                         },
                         {
                             "description": "Producción: tableros partículas",
                             "title": "prod_bi_tabl_partic",
                             "type": "number",
-                            "units": "Miles de metros cúbicos"
+                            "units": "Metros cúbicos"
                         },
                         {
                             "description": "Producción: bosques nativos, carbón",
@@ -2445,13 +2445,13 @@
                             "description": "Producción: bosques nativos, faqueado",
                             "title": "prod_bn_faqueado",
                             "type": "number",
-                            "units": "Miles de metros cúbicos"
+                            "units": "Metros cúbicos"
                         },
                         {
                             "description": "Producción: bosques nativos, madera aserrada",
                             "title": "prod_bn_madera_aserrada",
                             "type": "number",
-                            "units": "Miles de metros cúbicos"
+                            "units": "Metros cúbicos"
                         },
                         {
                             "description": "Producción: bosques nativos, tanino",
@@ -2473,9 +2473,9 @@
                         },
                         {
                             "description": "Producción: bosques nativos, compensados",
-                            "title": "prodc_bn_compensado",
+                            "title": "prod_bn_compensado",
                             "type": "number",
-                            "units": "Miles de metros cúbicos"
+                            "units": "Metros cúbicos"
                         },
                         {
                             "description": "Puestos de trabajo registrados en el sector privado: Silvicultura, extracción de madera",
@@ -3058,7 +3058,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-09",
+            "modified": "2018-04-23",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -3142,7 +3142,7 @@
                     "title": "Indicadores de Yerba Mate en valores anuales, trimestrales y mensuales",
                     "issued": "2017-11-27",
                     "format": "CSV",
-                    "modified": "2018-04-09",
+                    "modified": "2018-04-23",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/17-indicadores-yerba-mate-basecompleta.csv",
                     "identifier": "17.1"
                 }
@@ -3299,7 +3299,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Cítricos dulces",
-            "temporal": "1995-12-31/2018-02-01",
+            "temporal": "1995-12-31/2018-03-01",
             "source": "FEDERCITRUS, MCBA",
             "theme": [
                 "produccion_actividad",
@@ -3327,7 +3327,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-03-23",
+            "modified": "2018-04-23",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -3483,7 +3483,7 @@
                     "title": "Indicadores de Cítricos dulces en valores anuales y mensuales",
                     "issued": "2017-12-22",
                     "format": "CSV",
-                    "modified": "2018-03-23",
+                    "modified": "2018-04-23",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/19-indicadores-citricos-dulces-basecompleta.csv",
                     "identifier": "19.1"
                 }
@@ -3687,7 +3687,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-03-23",
+            "modified": "2018-04-23",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -3759,7 +3759,7 @@
                     "title": "Indicadores de la Industria Farmacéutica en valores anuales y trimestrales",
                     "issued": "2017-10-02",
                     "format": "CSV",
-                    "modified": "2018-03-23",
+                    "modified": "2018-04-23",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/21-indicadores-farmacia-basecompleta.csv",
                     "identifier": "21.1"
                 }
@@ -3773,7 +3773,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Lácteos",
-            "temporal": "1996-01-01/2018-02-01",
+            "temporal": "1996-01-01/2018-03-01",
             "source": "MTEySS, SENASA, MinAgro",
             "theme": [
                 "produccion_actividad",
@@ -3801,7 +3801,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-09",
+            "modified": "2018-04-23",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -3861,7 +3861,7 @@
                     "title": "Indicadores de lacteos en valores anuales, trimestrales y mensuales",
                     "issued": "2017-10-02",
                     "format": "CSV",
-                    "modified": "2018-04-09",
+                    "modified": "2018-04-23",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/22-indicadores-lacteo-basecompleta.csv",
                     "identifier": "22.1"
                 }
@@ -3904,7 +3904,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-03-23",
+            "modified": "2018-04-23",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -3927,13 +3927,13 @@
                         },
                         {
                             "description": "Pronóstico de Area cultivada de Manzana, en hectáreas",
-                            "title": "area_p_manzana",
+                            "title": "pronostico_sup_manzana",
                             "type": "number",
                             "units": "Hectáreas"
                         },
                         {
                             "description": "Pronóstico de Area cultivada de Pera, en hectáreas",
-                            "title": "area_p_pera",
+                            "title": "pronostico_sup_pera",
                             "type": "number",
                             "units": "Hectáreas"
                         },
@@ -4104,14 +4104,14 @@
                             "units": "pesos por kilogramo ($/kg)"
                         },
                         {
-                            "description": "Pronóstco de producción de manzana, en toneladas",
-                            "title": "prod_p_manzana",
+                            "description": "Pronóstico de producción de manzana, en toneladas",
+                            "title": "pronostico_prod_manzana",
                             "type": "number",
                             "units": "Toneladas"
                         },
                         {
-                            "description": "Pronóstco de producción de pera, en toneladas",
-                            "title": "prod_p_pera",
+                            "description": "Pronóstico de producción de pera, en toneladas",
+                            "title": "pronostico_prod_pera",
                             "type": "number",
                             "units": "Toneladas"
                         },
@@ -4132,7 +4132,7 @@
                     "title": "Indicadores de Manzana y Pera en valores anuales y mensuales",
                     "issued": "2017-10-02",
                     "format": "CSV",
-                    "modified": "2018-03-23",
+                    "modified": "2018-04-23",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/23-indicadores-manzana-pera-basecompleta.csv",
                     "identifier": "23.1"
                 }
@@ -4245,7 +4245,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Energías alternativas",
-            "temporal": "1996-01-01/2018-02-01",
+            "temporal": "1996-01-01/2018-03-01",
             "source": "CAMMESA, MTEySS",
             "theme": [
                 "produccion_actividad",
@@ -4274,7 +4274,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-09",
+            "modified": "2018-04-23",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -4382,7 +4382,7 @@
                     "title": "Indicadores de Energías alternativas en valores anuales, trimestrales y mensuales",
                     "issued": "2018-01-19",
                     "format": "CSV",
-                    "modified": "2018-04-09",
+                    "modified": "2018-04-23",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/25-indicadores-energias-alternativas-basecompleta.csv",
                     "identifier": "25.1"
                 }
@@ -4445,7 +4445,7 @@
                         },
                         {
                             "description": "Empleo: Metales comunes",
-                            "title": "empl_mc_prov",
+                            "title": "empl_mc",
                             "type": "number",
                             "units": "Puestos de trabajo"
                         },
@@ -4538,7 +4538,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Pesca Marítima",
-            "temporal": "1992-01-01/2018-02-01",
+            "temporal": "1992-01-01/2018-03-01",
             "source": "INDEC, MinAgro, MTEySS",
             "theme": [
                 "produccion_actividad",
@@ -4568,7 +4568,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-09",
+            "modified": "2018-04-23",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -4684,7 +4684,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Algodonera - textil",
-            "temporal": "1990-01-01/2018-02-01",
+            "temporal": "1990-01-01/2018-03-01",
             "source": "MinAgro, INDEC, MTEySS, Camara Algodonera Argentina, NCC",
             "theme": [
                 "produccion_actividad",
@@ -4715,7 +4715,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-09",
+            "modified": "2018-04-23",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -4889,7 +4889,7 @@
                     "title": "Indicadores de Algodonera - textil en valores anuales, trimestrales  y mensuales",
                     "issued": "2018-01-19",
                     "format": "CSV",
-                    "modified": "2018-04-09",
+                    "modified": "2018-04-23",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/28-indicadores-algodonera-textil-basecompleta.csv",
                     "identifier": "28.1"
                 }
@@ -4933,7 +4933,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-09",
+            "modified": "2018-04-23",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -5161,7 +5161,7 @@
                     "title": "Indicadores de Oleaginosa en valores anuales, trimestrales y mensuales",
                     "issued": "2017-12-22",
                     "format": "CSV",
-                    "modified": "2018-04-09",
+                    "modified": "2018-04-23",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/29-indicadores-oleaginosa-basecompleta.csv",
                     "identifier": "29.1"
                 }
@@ -5175,7 +5175,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Té",
-            "temporal": "1990-01-01/2018-02-01",
+            "temporal": "1990-01-01/2018-03-01",
             "source": "MinAgro, FAO, DGEyCCABA, COPROTÉ, FMI",
             "theme": [
                 "produccion_actividad",
@@ -5201,7 +5201,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-03-23",
+            "modified": "2018-04-23",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -5273,7 +5273,7 @@
                     "title": "Indicadores de Té en valores anuales, trimestrales y mensuales",
                     "issued": "2018-01-19",
                     "format": "CSV",
-                    "modified": "2018-03-23",
+                    "modified": "2018-04-23",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/30-indicadores-te-basecompleta.csv",
                     "identifier": "30.1"
                 }
@@ -5287,7 +5287,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Comercio interno",
-            "temporal": "1996-01-01/2018-01-01",
+            "temporal": "1996-01-01/2018-02-01",
             "source": "INDEC, MTEySS",
             "theme": [
                 "produccion_actividad",
@@ -5315,7 +5315,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-09",
+            "modified": "2018-04-23",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -5531,7 +5531,7 @@
                     "title": "Indicadores de Comercio interno en valores anuales, trimestrales y mensuales",
                     "issued": "2017-12-22",
                     "format": "CSV",
-                    "modified": "2018-04-09",
+                    "modified": "2018-04-23",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/31-indicadores-comercio-basecompleta.csv",
                     "identifier": "31.1"
                 }
@@ -5545,7 +5545,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Tabaco",
-            "temporal": "1990-12-31/2018-02-01",
+            "temporal": "1990-12-31/2018-03-01",
             "source": "MinAgro, INDEC, MTEySS",
             "theme": [
                 "produccion_actividad",
@@ -5577,7 +5577,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-09",
+            "modified": "2018-04-23",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -6063,7 +6063,7 @@
                     "title": "Indicadores de Tabaco en valores anuales, trimestrales  y mensuales",
                     "issued": "2018-01-31",
                     "format": "CSV",
-                    "modified": "2018-04-09",
+                    "modified": "2018-04-23",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/32-indicadores-tabaco-basecompleta.csv",
                     "identifier": "32.1"
                 }
@@ -6104,7 +6104,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-09",
+            "modified": "2018-04-23",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -6194,7 +6194,7 @@
                     "title": "Indicadores de Arroz en valores anuales, trimestrales y mensuales",
                     "issued": "2018-01-19",
                     "format": "CSV",
-                    "modified": "2018-04-09",
+                    "modified": "2018-04-23",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/33-indicadores-arroz-basecompleta.csv",
                     "identifier": "33.1"
                 }
