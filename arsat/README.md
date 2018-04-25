@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 44
-- **Cantidad Total de Distribuciones**: 132
+- **Cantidad Total de Datasets**: 45
+- **Cantidad Total de Distribuciones**: 135
 
 - **Cantidad de Datasets Federados**: 27
-- **Cantidad de Datasets NO Federados**: 17
-- **Porcentaje de Datasets NO Federados**: 38.64%
+- **Cantidad de Datasets NO Federados**: 18
+- **Porcentaje de Datasets NO Federados**: 40.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -29,6 +29,7 @@
 ## Datasets no federados
 
 - [Registro de Visitas](None)
+- [Nodos próximos a conectarse al Plan Federal de Internet](None)
 - [Tráfico de Internet entrante y saliente](None)
 - [Cantidad Total de Megabits en servicio por provincia](None)
 - [Cantidad de clientes por provincia](None)
@@ -49,6 +50,8 @@
 ## Datasets federados
 
 - [Registro de Audiencias](None)
+- [Futuros puntos de conexión al Plan Federal de Internet](None)
+- [Puntos de conexión al Plan Federal de Internet](None)
 - [Datos de las estaciones de transmisión en construcción o planificadas](None)
 - [Datos de las estaciones transmisoras](None)
 - [Datos de uso de la plataforma](None)
@@ -57,8 +60,6 @@
 - [Listado de Personal](None)
 - [Personal por Gerencia](None)
 - [Promedios de edad y antigüedad del personal](None)
-- [Futuros puntos de conexión al Plan Federal de Internet](None)
-- [Puntos de conexión al Plan Federal de Internet](None)
 - [Escuelas Conectadas con Tecnología Gilat](None)
 - [Honorarios de Directores](None)
 - [Coordenadas de la red de fibra óptica en servicio](None)
