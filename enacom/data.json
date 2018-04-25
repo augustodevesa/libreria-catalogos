@@ -8,120 +8,10 @@
             "superTheme": [
                 "TECH"
             ],
-            "keyword": [
-                "telefonia",
-                "numeracion"
-            ],
-            "title": "Numeración no geográfica",
-            "issued": "2016-09-20T20:56:16",
-            "modified": "2018-04-24T00:12:01Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "servicios-postales"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
-                    "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país",
-                    "title": "Numeración no geográfica",
-                    "issued": "2016-09-20T20:56:16",
-                    "format": "CSV",
-                    "modified": "2018-04-24T00:12:01Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
-                    "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país",
-                    "title": "Numeración no geográfica",
-                    "issued": "2016-09-20T20:56:16",
-                    "format": "XLS",
-                    "modified": "2018-04-24T00:12:01Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
-                    "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país",
-                    "title": "Numeración no geográfica",
-                    "issued": "2016-09-20T20:56:16",
-                    "format": "JSON",
-                    "modified": "2018-04-24T00:12:01Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "NUMER-NO-GEOGR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
-            "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "telefonia",
-                "numeracion"
-            ],
-            "title": "Numeración geográfica",
-            "issued": "2016-09-20T20:59:01",
-            "modified": "2018-04-23T22:41:59Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "servicios-postales"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231697/numeracion-geografica/",
-                    "description": "Es la numeración asociada a una zona geográfica en particular.Tiene la siguiente estructura: Indicativo Interurbano + Numero de Abonado",
-                    "title": "Numeración geográfica",
-                    "issued": "2016-09-20T20:59:01",
-                    "format": "CSV",
-                    "modified": "2018-04-23T22:41:59Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231697/numeracion-geografica/",
-                    "description": "Es la numeración asociada a una zona geográfica en particular.Tiene la siguiente estructura: Indicativo Interurbano + Numero de Abonado",
-                    "title": "Numeración geográfica",
-                    "issued": "2016-09-20T20:59:01",
-                    "format": "XLS",
-                    "modified": "2018-04-23T22:41:59Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231697/numeracion-geografica/",
-                    "description": "Es la numeración asociada a una zona geográfica en particular.Tiene la siguiente estructura: Indicativo Interurbano + Numero de Abonado",
-                    "title": "Numeración geográfica",
-                    "issued": "2016-09-20T20:59:01",
-                    "format": "JSON",
-                    "modified": "2018-04-23T22:41:59Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "NUMER-GEOGR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231697/numeracion-geografica/",
-            "description": "Es la numeración asociada a una zona geográfica en particular.Tiene la siguiente estructura: Indicativo Interurbano + Numero de Abonado"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
             "keyword": [],
             "title": "Accesos a Internet fijo por velocidad bajada y provincia",
-            "issued": "2018-04-23T18:44:20",
-            "modified": "2018-04-23T21:48:08Z",
+            "issued": "2018-04-25T22:16:55",
+            "modified": "2018-04-26T01:17:13Z",
             "language": [
                 "spa"
             ],
@@ -134,27 +24,27 @@
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/246005/accesos-a-internet-fijo-por-velocidad-bajada-y-provincia/",
                     "description": "Accesos distribuidos por Provincia con su correspondiente velocidad de descarga",
                     "title": "Accesos a Internet fijo por velocidad bajada y provincia",
-                    "issued": "2018-04-23T18:44:20",
+                    "issued": "2018-04-25T22:16:55",
                     "format": "CSV",
-                    "modified": "2018-04-23T21:48:08Z",
+                    "modified": "2018-04-26T01:17:13Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-POR-VELOC-DE-DESCA/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/246005/accesos-a-internet-fijo-por-velocidad-bajada-y-provincia/",
                     "description": "Accesos distribuidos por Provincia con su correspondiente velocidad de descarga",
                     "title": "Accesos a Internet fijo por velocidad bajada y provincia",
-                    "issued": "2018-04-23T18:44:20",
+                    "issued": "2018-04-25T22:16:55",
                     "format": "XLS",
-                    "modified": "2018-04-23T21:48:08Z",
+                    "modified": "2018-04-26T01:17:13Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-POR-VELOC-DE-DESCA/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/246005/accesos-a-internet-fijo-por-velocidad-bajada-y-provincia/",
                     "description": "Accesos distribuidos por Provincia con su correspondiente velocidad de descarga",
                     "title": "Accesos a Internet fijo por velocidad bajada y provincia",
-                    "issued": "2018-04-23T18:44:20",
+                    "issued": "2018-04-25T22:16:55",
                     "format": "JSON",
-                    "modified": "2018-04-23T21:48:08Z",
+                    "modified": "2018-04-26T01:17:13Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-POR-VELOC-DE-DESCA/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 }
             ],
@@ -171,14 +61,1060 @@
                 "TECH"
             ],
             "keyword": [
+                "penetración",
+                "televisión por suscripción"
+            ],
+            "title": "Penetración de la televisión por suscripción trimestral por provincia",
+            "issued": "2018-04-25T20:54:46",
+            "modified": "2018-04-25T23:54:56Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "tv-por-suscripcion"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/246032/penetracion-de-la-television-por-suscripcion-trimestral-por-provincia/",
+                    "description": "Penetración de la televisión por suscripción trimestral por provincia (métrica hogares y población)",
+                    "title": "Penetración de la televisión por suscripción trimestral por provincia",
+                    "issued": "2018-04-25T20:54:46",
+                    "format": "CSV",
+                    "modified": "2018-04-25T23:54:56Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-DE-LA-TELEV-POR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/246032/penetracion-de-la-television-por-suscripcion-trimestral-por-provincia/",
+                    "description": "Penetración de la televisión por suscripción trimestral por provincia (métrica hogares y población)",
+                    "title": "Penetración de la televisión por suscripción trimestral por provincia",
+                    "issued": "2018-04-25T20:54:46",
+                    "format": "XLS",
+                    "modified": "2018-04-25T23:54:56Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-DE-LA-TELEV-POR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/246032/penetracion-de-la-television-por-suscripcion-trimestral-por-provincia/",
+                    "description": "Penetración de la televisión por suscripción trimestral por provincia (métrica hogares y población)",
+                    "title": "Penetración de la televisión por suscripción trimestral por provincia",
+                    "issued": "2018-04-25T20:54:46",
+                    "format": "JSON",
+                    "modified": "2018-04-25T23:54:56Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-DE-LA-TELEV-POR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "PENET-DE-LA-TELEV-POR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/246032/penetracion-de-la-television-por-suscripcion-trimestral-por-provincia/",
+            "description": "Penetración de la televisión por suscripción trimestral por provincia (métrica hogares y población)"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "internet",
+                "banda ancha",
+                "provincial",
+                "banda angosta"
+            ],
+            "title": "Accesos a banda ancha y banda angosta por provincia",
+            "issued": "2018-04-25T13:06:56",
+            "modified": "2018-04-25T23:11:44Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "acceso-a-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240974/accesos-a-banda-ancha-y-banda-angosta-por-provincia/",
+                    "description": "Número de accesos al servicio de Internet fijo por banda ancha y banda angosta en cada provincia (trimestral)",
+                    "title": "Accesos a banda ancha y banda angosta por provincia",
+                    "issued": "2018-04-25T13:06:56",
+                    "format": "CSV",
+                    "modified": "2018-04-25T23:11:44Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/BANDA-ANCHA-Y-BANDA-ANGOS/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240974/accesos-a-banda-ancha-y-banda-angosta-por-provincia/",
+                    "description": "Número de accesos al servicio de Internet fijo por banda ancha y banda angosta en cada provincia (trimestral)",
+                    "title": "Accesos a banda ancha y banda angosta por provincia",
+                    "issued": "2018-04-25T13:06:56",
+                    "format": "XLS",
+                    "modified": "2018-04-25T23:11:44Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/BANDA-ANCHA-Y-BANDA-ANGOS/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240974/accesos-a-banda-ancha-y-banda-angosta-por-provincia/",
+                    "description": "Número de accesos al servicio de Internet fijo por banda ancha y banda angosta en cada provincia (trimestral)",
+                    "title": "Accesos a banda ancha y banda angosta por provincia",
+                    "issued": "2018-04-25T13:06:56",
+                    "format": "JSON",
+                    "modified": "2018-04-25T23:11:44Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/BANDA-ANCHA-Y-BANDA-ANGOS/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "BANDA-ANCHA-Y-BANDA-ANGOS",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240974/accesos-a-banda-ancha-y-banda-angosta-por-provincia/",
+            "description": "Número de accesos al servicio de Internet fijo por banda ancha y banda angosta en cada provincia (trimestral)"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "telefonia",
+                "numeracion"
+            ],
+            "title": "Numeración geográfica",
+            "issued": "2016-09-20T20:59:01",
+            "modified": "2018-04-25T22:52:41Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "servicios-postales"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231697/numeracion-geografica/",
+                    "description": "Es la numeración asociada a una zona geográfica en particular.Tiene la siguiente estructura: Indicativo Interurbano + Numero de Abonado",
+                    "title": "Numeración geográfica",
+                    "issued": "2016-09-20T20:59:01",
+                    "format": "CSV",
+                    "modified": "2018-04-25T22:52:41Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231697/numeracion-geografica/",
+                    "description": "Es la numeración asociada a una zona geográfica en particular.Tiene la siguiente estructura: Indicativo Interurbano + Numero de Abonado",
+                    "title": "Numeración geográfica",
+                    "issued": "2016-09-20T20:59:01",
+                    "format": "XLS",
+                    "modified": "2018-04-25T22:52:41Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231697/numeracion-geografica/",
+                    "description": "Es la numeración asociada a una zona geográfica en particular.Tiene la siguiente estructura: Indicativo Interurbano + Numero de Abonado",
+                    "title": "Numeración geográfica",
+                    "issued": "2016-09-20T20:59:01",
+                    "format": "JSON",
+                    "modified": "2018-04-25T22:52:41Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "NUMER-GEOGR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231697/numeracion-geografica/",
+            "description": "Es la numeración asociada a una zona geográfica en particular.Tiene la siguiente estructura: Indicativo Interurbano + Numero de Abonado"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "internet",
+                "banda ancha",
+                "penetración"
+            ],
+            "title": "Penetración del Internet fijo por provincia (accesos por cada 100 habitantes)",
+            "issued": "2018-04-25T18:55:10",
+            "modified": "2018-04-25T22:28:45Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "acceso-a-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240978/penetracion-del-internet-fijo-por-provincia-accesos-por-cada-100-habitantes/",
+                    "description": "Penetración del servicio de Internet fijo (métrica: población)",
+                    "title": "Penetración del Internet fijo por provincia (accesos por cada 100 habitantes)",
+                    "issued": "2018-04-25T18:55:10",
+                    "format": "CSV",
+                    "modified": "2018-04-25T22:28:45Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-DEL-INTER-FIJO-POR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240978/penetracion-del-internet-fijo-por-provincia-accesos-por-cada-100-habitantes/",
+                    "description": "Penetración del servicio de Internet fijo (métrica: población)",
+                    "title": "Penetración del Internet fijo por provincia (accesos por cada 100 habitantes)",
+                    "issued": "2018-04-25T18:55:10",
+                    "format": "XLS",
+                    "modified": "2018-04-25T22:28:45Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-DEL-INTER-FIJO-POR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240978/penetracion-del-internet-fijo-por-provincia-accesos-por-cada-100-habitantes/",
+                    "description": "Penetración del servicio de Internet fijo (métrica: población)",
+                    "title": "Penetración del Internet fijo por provincia (accesos por cada 100 habitantes)",
+                    "issued": "2018-04-25T18:55:10",
+                    "format": "JSON",
+                    "modified": "2018-04-25T22:28:45Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-DEL-INTER-FIJO-POR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "PENET-DEL-INTER-FIJO-POR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240978/penetracion-del-internet-fijo-por-provincia-accesos-por-cada-100-habitantes/",
+            "description": "Penetración del servicio de Internet fijo (métrica: población)"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "internet",
+                "banda ancha",
+                "penetración"
+            ],
+            "title": "Penetración del Internet fijo por provincia (accesos por cada 100 hogares)",
+            "issued": "2018-04-25T18:58:43",
+            "modified": "2018-04-25T22:28:44Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "acceso-a-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240980/penetracion-del-internet-fijo-por-provincia-accesos-por-cada-100-hogares/",
+                    "description": "Penetración del servicio de Internet fijo (métrica: hogares)",
+                    "title": "Penetración del Internet fijo por provincia (accesos por cada 100 hogares)",
+                    "issued": "2018-04-25T18:58:43",
+                    "format": "CSV",
+                    "modified": "2018-04-25T22:28:44Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-DEL-INTER-FIJO-51614/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240980/penetracion-del-internet-fijo-por-provincia-accesos-por-cada-100-hogares/",
+                    "description": "Penetración del servicio de Internet fijo (métrica: hogares)",
+                    "title": "Penetración del Internet fijo por provincia (accesos por cada 100 hogares)",
+                    "issued": "2018-04-25T18:58:43",
+                    "format": "XLS",
+                    "modified": "2018-04-25T22:28:44Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-DEL-INTER-FIJO-51614/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240980/penetracion-del-internet-fijo-por-provincia-accesos-por-cada-100-hogares/",
+                    "description": "Penetración del servicio de Internet fijo (métrica: hogares)",
+                    "title": "Penetración del Internet fijo por provincia (accesos por cada 100 hogares)",
+                    "issued": "2018-04-25T18:58:43",
+                    "format": "JSON",
+                    "modified": "2018-04-25T22:28:44Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-DEL-INTER-FIJO-51614/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "PENET-DEL-INTER-FIJO-51614",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240980/penetracion-del-internet-fijo-por-provincia-accesos-por-cada-100-hogares/",
+            "description": "Penetración del servicio de Internet fijo (métrica: hogares)"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "internet",
+                "banda ancha",
+                "penetración"
+            ],
+            "title": "Penetración nacional del Internet fijo",
+            "issued": "2018-04-25T19:03:12",
+            "modified": "2018-04-25T22:28:44Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "acceso-a-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240981/penetracion-nacional-del-internet-fijo/",
+                    "description": "Series trimestrales de la penetración del Internet fijo en las métricas por cada 100 habitantes y por cada 100 hogares",
+                    "title": "Penetración nacional del Internet fijo",
+                    "issued": "2018-04-25T19:03:12",
+                    "format": "CSV",
+                    "modified": "2018-04-25T22:28:44Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-NACIO-DEL-INTER-FIJO/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240981/penetracion-nacional-del-internet-fijo/",
+                    "description": "Series trimestrales de la penetración del Internet fijo en las métricas por cada 100 habitantes y por cada 100 hogares",
+                    "title": "Penetración nacional del Internet fijo",
+                    "issued": "2018-04-25T19:03:12",
+                    "format": "XLS",
+                    "modified": "2018-04-25T22:28:44Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-NACIO-DEL-INTER-FIJO/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240981/penetracion-nacional-del-internet-fijo/",
+                    "description": "Series trimestrales de la penetración del Internet fijo en las métricas por cada 100 habitantes y por cada 100 hogares",
+                    "title": "Penetración nacional del Internet fijo",
+                    "issued": "2018-04-25T19:03:12",
+                    "format": "JSON",
+                    "modified": "2018-04-25T22:28:44Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-NACIO-DEL-INTER-FIJO/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "PENET-NACIO-DEL-INTER-FIJO",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240981/penetracion-nacional-del-internet-fijo/",
+            "description": "Series trimestrales de la penetración del Internet fijo en las métricas por cada 100 habitantes y por cada 100 hogares"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "internet",
+                "banda ancha",
+                "provincial"
+            ],
+            "title": "Acceso a Internet fijo por tecnología y provincia",
+            "issued": "2018-04-25T17:06:01",
+            "modified": "2018-04-25T20:06:29Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "acceso-a-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240898/acceso-a-internet-fijo-por-tecnologia-y-provincia/",
+                    "description": "Número de accesos al servicio de Internet fijo por tipo de tecnología en cada provincia (trimestral)",
+                    "title": "Acceso a Internet fijo por tecnología y provincia",
+                    "issued": "2018-04-25T17:06:01",
+                    "format": "CSV",
+                    "modified": "2018-04-25T20:06:29Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-A-INTER-FIJO-POR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240898/acceso-a-internet-fijo-por-tecnologia-y-provincia/",
+                    "description": "Número de accesos al servicio de Internet fijo por tipo de tecnología en cada provincia (trimestral)",
+                    "title": "Acceso a Internet fijo por tecnología y provincia",
+                    "issued": "2018-04-25T17:06:01",
+                    "format": "XLS",
+                    "modified": "2018-04-25T20:06:29Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-A-INTER-FIJO-POR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240898/acceso-a-internet-fijo-por-tecnologia-y-provincia/",
+                    "description": "Número de accesos al servicio de Internet fijo por tipo de tecnología en cada provincia (trimestral)",
+                    "title": "Acceso a Internet fijo por tecnología y provincia",
+                    "issued": "2018-04-25T17:06:01",
+                    "format": "JSON",
+                    "modified": "2018-04-25T20:06:29Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-A-INTER-FIJO-POR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "ACCES-A-INTER-FIJO-POR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240898/acceso-a-internet-fijo-por-tecnologia-y-provincia/",
+            "description": "Número de accesos al servicio de Internet fijo por tipo de tecnología en cada provincia (trimestral)"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "internet",
+                "banda ancha"
+            ],
+            "title": "Total nacional de accesos a Internet fijo por tipo de tecnología",
+            "issued": "2018-04-25T17:04:32",
+            "modified": "2018-04-25T20:06:29Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "acceso-a-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240902/total-nacional-de-accesos-a-internet-fijo-por-tipo-de-tecnologia/",
+                    "description": "Número total de accesos al servicio de Internet fijo por tipo de tecnología (trimestral)",
+                    "title": "Total nacional de accesos a Internet fijo por tipo de tecnología",
+                    "issued": "2018-04-25T17:04:32",
+                    "format": "CSV",
+                    "modified": "2018-04-25T20:06:29Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-A/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240902/total-nacional-de-accesos-a-internet-fijo-por-tipo-de-tecnologia/",
+                    "description": "Número total de accesos al servicio de Internet fijo por tipo de tecnología (trimestral)",
+                    "title": "Total nacional de accesos a Internet fijo por tipo de tecnología",
+                    "issued": "2018-04-25T17:04:32",
+                    "format": "XLS",
+                    "modified": "2018-04-25T20:06:29Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-A/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240902/total-nacional-de-accesos-a-internet-fijo-por-tipo-de-tecnologia/",
+                    "description": "Número total de accesos al servicio de Internet fijo por tipo de tecnología (trimestral)",
+                    "title": "Total nacional de accesos a Internet fijo por tipo de tecnología",
+                    "issued": "2018-04-25T17:04:32",
+                    "format": "JSON",
+                    "modified": "2018-04-25T20:06:29Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-A/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "TOTAL-NACIO-DE-ACCES-A",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240902/total-nacional-de-accesos-a-internet-fijo-por-tipo-de-tecnologia/",
+            "description": "Número total de accesos al servicio de Internet fijo por tipo de tecnología (trimestral)"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "internet",
+                "banda ancha",
+                "provincial",
+                "banda angosta"
+            ],
+            "title": "Total nacional de accesos a Internet fijo por banda ancha y banda angosta",
+            "issued": "2017-09-27T20:35:24",
+            "modified": "2018-04-25T16:06:17Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "acceso-a-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240976/total-nacional-de-accesos-a-internet-fijo-por-banda-ancha-y-banda-angosta/",
+                    "description": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)",
+                    "title": "Total nacional de accesos a Internet fijo por banda ancha y banda angosta",
+                    "issued": "2017-09-27T20:35:24",
+                    "format": "CSV",
+                    "modified": "2018-04-25T16:06:17Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-48866/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240976/total-nacional-de-accesos-a-internet-fijo-por-banda-ancha-y-banda-angosta/",
+                    "description": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)",
+                    "title": "Total nacional de accesos a Internet fijo por banda ancha y banda angosta",
+                    "issued": "2017-09-27T20:35:24",
+                    "format": "XLS",
+                    "modified": "2018-04-25T16:06:17Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-48866/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240976/total-nacional-de-accesos-a-internet-fijo-por-banda-ancha-y-banda-angosta/",
+                    "description": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)",
+                    "title": "Total nacional de accesos a Internet fijo por banda ancha y banda angosta",
+                    "issued": "2017-09-27T20:35:24",
+                    "format": "JSON",
+                    "modified": "2018-04-25T16:06:17Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-48866/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "TOTAL-NACIO-DE-ACCES-48866",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240976/total-nacional-de-accesos-a-internet-fijo-por-banda-ancha-y-banda-angosta/",
+            "description": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "sanciones",
+                "prestadores postales",
+                "servicios postales"
+            ],
+            "title": "Sanciones a prestadores postales ilegales",
+            "issued": "2018-04-18T19:50:05",
+            "modified": "2018-04-25T12:42:55Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "servicios-postales"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245981/sanciones-a-prestadores-postales-ilegales/",
+                    "description": "Lista de sanciones por concepto de prestación ilegal de servicios postales.",
+                    "title": "Sanciones a prestadores postales ilegales",
+                    "issued": "2018-04-18T19:50:05",
+                    "format": "CSV",
+                    "modified": "2018-04-25T12:42:55Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/SANCI-A-PREST-POSTA-ILEGA/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245981/sanciones-a-prestadores-postales-ilegales/",
+                    "description": "Lista de sanciones por concepto de prestación ilegal de servicios postales.",
+                    "title": "Sanciones a prestadores postales ilegales",
+                    "issued": "2018-04-18T19:50:05",
+                    "format": "XLS",
+                    "modified": "2018-04-25T12:42:55Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/SANCI-A-PREST-POSTA-ILEGA/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245981/sanciones-a-prestadores-postales-ilegales/",
+                    "description": "Lista de sanciones por concepto de prestación ilegal de servicios postales.",
+                    "title": "Sanciones a prestadores postales ilegales",
+                    "issued": "2018-04-18T19:50:05",
+                    "format": "JSON",
+                    "modified": "2018-04-25T12:42:55Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/SANCI-A-PREST-POSTA-ILEGA/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "SANCI-A-PREST-POSTA-ILEGA",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/245981/sanciones-a-prestadores-postales-ilegales/",
+            "description": "Lista de sanciones por concepto de prestación ilegal de servicios postales."
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "telefonia",
+                "numeracion"
+            ],
+            "title": "Numeración no geográfica",
+            "issued": "2016-09-20T20:56:16",
+            "modified": "2018-04-25T03:34:46Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "servicios-postales"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
+                    "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país",
+                    "title": "Numeración no geográfica",
+                    "issued": "2016-09-20T20:56:16",
+                    "format": "CSV",
+                    "modified": "2018-04-25T03:34:46Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
+                    "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país",
+                    "title": "Numeración no geográfica",
+                    "issued": "2016-09-20T20:56:16",
+                    "format": "XLS",
+                    "modified": "2018-04-25T03:34:46Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
+                    "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país",
+                    "title": "Numeración no geográfica",
+                    "issued": "2016-09-20T20:56:16",
+                    "format": "JSON",
+                    "modified": "2018-04-25T03:34:46Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "NUMER-NO-GEOGR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
+            "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "radioaficionados",
+                " radioclubes"
+            ],
+            "title": "Listado de radioaficionados",
+            "issued": "2017-10-23T13:16:32",
+            "modified": "2018-04-25T03:22:52Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "espectro-radioelectrico"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
+                    "description": "Radioaficionados",
+                    "title": "Listado de radioaficionados",
+                    "issued": "2017-10-23T13:16:32",
+                    "format": "CSV",
+                    "modified": "2018-04-25T03:22:52Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-RADIO-94584/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
+                    "description": "Radioaficionados",
+                    "title": "Listado de radioaficionados",
+                    "issued": "2017-10-23T13:16:32",
+                    "format": "XLS",
+                    "modified": "2018-04-25T03:22:52Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-RADIO-94584/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
+                    "description": "Radioaficionados",
+                    "title": "Listado de radioaficionados",
+                    "issued": "2017-10-23T13:16:32",
+                    "format": "JSON",
+                    "modified": "2018-04-25T03:22:52Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-RADIO-94584/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "LISTA-DE-RADIO-94584",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
+            "description": "Radioaficionados"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "homologaciones"
+            ],
+            "title": "Empresas homologadas inscriptas",
+            "issued": "2017-11-07T15:51:03",
+            "modified": "2018-04-25T03:22:30Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "homologacion-de-equipos"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
+                    "description": "Empresas homologadas",
+                    "title": "Empresas homologadas inscriptas",
+                    "issued": "2017-11-07T15:51:03",
+                    "format": "CSV",
+                    "modified": "2018-04-25T03:22:30Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EMPRE-HOMOL-INSCR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
+                    "description": "Empresas homologadas",
+                    "title": "Empresas homologadas inscriptas",
+                    "issued": "2017-11-07T15:51:03",
+                    "format": "XLS",
+                    "modified": "2018-04-25T03:22:30Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EMPRE-HOMOL-INSCR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
+                    "description": "Empresas homologadas",
+                    "title": "Empresas homologadas inscriptas",
+                    "issued": "2017-11-07T15:51:03",
+                    "format": "JSON",
+                    "modified": "2018-04-25T03:22:30Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EMPRE-HOMOL-INSCR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "EMPRE-HOMOL-INSCR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
+            "description": "Empresas homologadas"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [],
+            "title": "Listado de estaciones repetidoras autorizadas",
+            "issued": "2017-11-07T14:58:55",
+            "modified": "2018-04-25T03:22:22Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "espectro-radioelectrico"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
+                    "description": "Estaciones repetidoras autorizadas",
+                    "title": "Listado de estaciones repetidoras autorizadas",
+                    "issued": "2017-11-07T14:58:55",
+                    "format": "CSV",
+                    "modified": "2018-04-25T03:22:22Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET-AUTOR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
+                    "description": "Estaciones repetidoras autorizadas",
+                    "title": "Listado de estaciones repetidoras autorizadas",
+                    "issued": "2017-11-07T14:58:55",
+                    "format": "XLS",
+                    "modified": "2018-04-25T03:22:22Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET-AUTOR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
+                    "description": "Estaciones repetidoras autorizadas",
+                    "title": "Listado de estaciones repetidoras autorizadas",
+                    "issued": "2017-11-07T14:58:55",
+                    "format": "JSON",
+                    "modified": "2018-04-25T03:22:22Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET-AUTOR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "LISTA-DE-ESTAC-REPET-AUTOR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
+            "description": "Estaciones repetidoras autorizadas"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                " radioclubes"
+            ],
+            "title": "Listado de radioclubes",
+            "issued": "2017-11-07T14:55:44",
+            "modified": "2018-04-25T03:22:15Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "espectro-radioelectrico"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243050/listado-de-radioclubes/",
+                    "description": "Listado de radioclubes.",
+                    "title": "Listado de radioclubes",
+                    "issued": "2017-11-07T14:55:44",
+                    "format": "CSV",
+                    "modified": "2018-04-25T03:22:15Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-20/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243050/listado-de-radioclubes/",
+                    "description": "Listado de radioclubes.",
+                    "title": "Listado de radioclubes",
+                    "issued": "2017-11-07T14:55:44",
+                    "format": "XLS",
+                    "modified": "2018-04-25T03:22:15Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-20/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243050/listado-de-radioclubes/",
+                    "description": "Listado de radioclubes.",
+                    "title": "Listado de radioclubes",
+                    "issued": "2017-11-07T14:55:44",
+                    "format": "JSON",
+                    "modified": "2018-04-25T03:22:15Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-20/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "RADIO-20",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243050/listado-de-radioclubes/",
+            "description": "Listado de radioclubes."
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "licencias"
+            ],
+            "title": "Subregistro de prestadores de servicios de mensajería",
+            "issued": "2017-11-07T14:33:16",
+            "modified": "2018-04-25T03:22:08Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "servicios-postales"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243430/subregistro-de-prestadores-de-servicios-de-mensajeria/",
+                    "description": "Prestadores de servicios de mensajería",
+                    "title": "Subregistro de prestadores de servicios de mensajería",
+                    "issued": "2017-11-07T14:33:16",
+                    "format": "CSV",
+                    "modified": "2018-04-25T03:22:08Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/SUBRE-DE-PREST-DE-SERVI/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243430/subregistro-de-prestadores-de-servicios-de-mensajeria/",
+                    "description": "Prestadores de servicios de mensajería",
+                    "title": "Subregistro de prestadores de servicios de mensajería",
+                    "issued": "2017-11-07T14:33:16",
+                    "format": "XLS",
+                    "modified": "2018-04-25T03:22:08Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/SUBRE-DE-PREST-DE-SERVI/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243430/subregistro-de-prestadores-de-servicios-de-mensajeria/",
+                    "description": "Prestadores de servicios de mensajería",
+                    "title": "Subregistro de prestadores de servicios de mensajería",
+                    "issued": "2017-11-07T14:33:16",
+                    "format": "JSON",
+                    "modified": "2018-04-25T03:22:08Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/SUBRE-DE-PREST-DE-SERVI/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "SUBRE-DE-PREST-DE-SERVI",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243430/subregistro-de-prestadores-de-servicios-de-mensajeria/",
+            "description": "Prestadores de servicios de mensajería"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "licencias"
+            ],
+            "title": "Licenciatarios TIC",
+            "issued": "2018-04-09T20:56:09",
+            "modified": "2018-04-25T03:21:33Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "licencias"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
+                    "description": "Listado de licencias de operadores de TIC",
+                    "title": "Licenciatarios TIC",
+                    "issued": "2018-04-09T20:56:09",
+                    "format": "CSV",
+                    "modified": "2018-04-25T03:21:33Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
+                    "description": "Listado de licencias de operadores de TIC",
+                    "title": "Licenciatarios TIC",
+                    "issued": "2018-04-09T20:56:09",
+                    "format": "XLS",
+                    "modified": "2018-04-25T03:21:33Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
+                    "description": "Listado de licencias de operadores de TIC",
+                    "title": "Licenciatarios TIC",
+                    "issued": "2018-04-09T20:56:09",
+                    "format": "JSON",
+                    "modified": "2018-04-25T03:21:33Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "LICEN-TIC-AUTOM",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
+            "description": "Listado de licencias de operadores de TIC"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "equipos de comunicacion",
+                "homologaciones"
+            ],
+            "title": "Equipos homologados inscriptos",
+            "issued": "2018-04-17T16:44:37",
+            "modified": "2018-04-25T03:21:03Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "homologacion-de-equipos"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
+                    "description": "Equipos homologados",
+                    "title": "Equipos homologados inscriptos",
+                    "issued": "2018-04-17T16:44:37",
+                    "format": "CSV",
+                    "modified": "2018-04-25T03:21:03Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
+                    "description": "Equipos homologados",
+                    "title": "Equipos homologados inscriptos",
+                    "issued": "2018-04-17T16:44:37",
+                    "format": "XLS",
+                    "modified": "2018-04-25T03:21:03Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
+                    "description": "Equipos homologados",
+                    "title": "Equipos homologados inscriptos",
+                    "issued": "2018-04-17T16:44:37",
+                    "format": "JSON",
+                    "modified": "2018-04-25T03:21:03Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "EQUIP-HOMOL-INSCR",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
+            "description": "Equipos homologados"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "licencias"
+            ],
+            "title": "Registro de prestadores de servicios postales",
+            "issued": "2017-11-07T14:31:31",
+            "modified": "2018-04-25T03:20:20Z",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "servicios-postales"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243429/registro-de-prestadores-de-servicios-postales/",
+                    "description": "Prestadores de servicios postales",
+                    "title": "Registro de prestadores de servicios postales",
+                    "issued": "2017-11-07T14:31:31",
+                    "format": "CSV",
+                    "modified": "2018-04-25T03:20:20Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/REGIS-DE-PREST-DE-SERVI/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243429/registro-de-prestadores-de-servicios-postales/",
+                    "description": "Prestadores de servicios postales",
+                    "title": "Registro de prestadores de servicios postales",
+                    "issued": "2017-11-07T14:31:31",
+                    "format": "XLS",
+                    "modified": "2018-04-25T03:20:20Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/REGIS-DE-PREST-DE-SERVI/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243429/registro-de-prestadores-de-servicios-postales/",
+                    "description": "Prestadores de servicios postales",
+                    "title": "Registro de prestadores de servicios postales",
+                    "issued": "2017-11-07T14:31:31",
+                    "format": "JSON",
+                    "modified": "2018-04-25T03:20:20Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/REGIS-DE-PREST-DE-SERVI/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                }
+            ],
+            "identifier": "REGIS-DE-PREST-DE-SERVI",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243429/registro-de-prestadores-de-servicios-postales/",
+            "description": "Prestadores de servicios postales"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
                 "internet",
                 "banda ancha",
                 "provincial",
                 "banda angosta"
             ],
             "title": "Acceso a Internet Fijo por rangos de velocidad de bajada y provincia",
-            "issued": "2018-04-23T18:43:24",
-            "modified": "2018-04-23T21:43:30Z",
+            "issued": "2018-04-24T22:51:26",
+            "modified": "2018-04-25T01:54:29Z",
             "language": [
                 "spa"
             ],
@@ -191,27 +1127,27 @@
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240904/acceso-a-internet-fijo-por-rangos-de-velocidad-de-bajada-y-provincia/",
                     "description": "Número de accesos al servicio de Internet fijo por velocidad de bajada en cada provincia (trimestral)",
                     "title": "Acceso a Internet Fijo por rangos de velocidad de bajada y provincia",
-                    "issued": "2018-04-23T18:43:24",
+                    "issued": "2018-04-24T22:51:26",
                     "format": "CSV",
-                    "modified": "2018-04-23T21:43:30Z",
+                    "modified": "2018-04-25T01:54:29Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-A-INTER-FIJO-23248/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240904/acceso-a-internet-fijo-por-rangos-de-velocidad-de-bajada-y-provincia/",
                     "description": "Número de accesos al servicio de Internet fijo por velocidad de bajada en cada provincia (trimestral)",
                     "title": "Acceso a Internet Fijo por rangos de velocidad de bajada y provincia",
-                    "issued": "2018-04-23T18:43:24",
+                    "issued": "2018-04-24T22:51:26",
                     "format": "XLS",
-                    "modified": "2018-04-23T21:43:30Z",
+                    "modified": "2018-04-25T01:54:29Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-A-INTER-FIJO-23248/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240904/acceso-a-internet-fijo-por-rangos-de-velocidad-de-bajada-y-provincia/",
                     "description": "Número de accesos al servicio de Internet fijo por velocidad de bajada en cada provincia (trimestral)",
                     "title": "Acceso a Internet Fijo por rangos de velocidad de bajada y provincia",
-                    "issued": "2018-04-23T18:43:24",
+                    "issued": "2018-04-24T22:51:26",
                     "format": "JSON",
-                    "modified": "2018-04-23T21:43:30Z",
+                    "modified": "2018-04-25T01:54:29Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-A-INTER-FIJO-23248/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 }
             ],
@@ -234,8 +1170,8 @@
                 "banda angosta"
             ],
             "title": "Total nacional de accesos a Internet fijo por velocidad de bajada",
-            "issued": "2018-04-17T13:49:41",
-            "modified": "2018-04-23T20:21:38Z",
+            "issued": "2018-04-24T22:54:10",
+            "modified": "2018-04-25T01:54:29Z",
             "language": [
                 "spa"
             ],
@@ -248,27 +1184,27 @@
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241420/total-nacional-de-accesos-a-internet-fijo-por-velocidad-de-bajada/",
                     "description": "Número total de accesos al servicio de Internet fijo por velocidad de bajada (trimestral)",
                     "title": "Total nacional de accesos a Internet fijo por velocidad de bajada",
-                    "issued": "2018-04-17T13:49:41",
+                    "issued": "2018-04-24T22:54:10",
                     "format": "CSV",
-                    "modified": "2018-04-23T20:21:38Z",
+                    "modified": "2018-04-25T01:54:29Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-32663/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241420/total-nacional-de-accesos-a-internet-fijo-por-velocidad-de-bajada/",
                     "description": "Número total de accesos al servicio de Internet fijo por velocidad de bajada (trimestral)",
                     "title": "Total nacional de accesos a Internet fijo por velocidad de bajada",
-                    "issued": "2018-04-17T13:49:41",
+                    "issued": "2018-04-24T22:54:10",
                     "format": "XLS",
-                    "modified": "2018-04-23T20:21:38Z",
+                    "modified": "2018-04-25T01:54:29Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-32663/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241420/total-nacional-de-accesos-a-internet-fijo-por-velocidad-de-bajada/",
                     "description": "Número total de accesos al servicio de Internet fijo por velocidad de bajada (trimestral)",
                     "title": "Total nacional de accesos a Internet fijo por velocidad de bajada",
-                    "issued": "2018-04-17T13:49:41",
+                    "issued": "2018-04-24T22:54:10",
                     "format": "JSON",
-                    "modified": "2018-04-23T20:21:38Z",
+                    "modified": "2018-04-25T01:54:29Z",
                     "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-32663/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 }
             ],
@@ -289,9 +1225,9 @@
                 "velocidad",
                 "banda ancha"
             ],
-            "title": "Velocidad promedio de bajada de Internet (nacional)",
-            "issued": "2018-04-23T16:49:15",
-            "modified": "2018-04-23T19:49:18Z",
+            "title": "Velocidad promedio de bajada de Internet fijo por provincia",
+            "issued": "2018-04-24T15:44:06",
+            "modified": "2018-04-24T18:44:09Z",
             "language": [
                 "spa"
             ],
@@ -301,36 +1237,36 @@
             "accrualPeriodicity": "R/P1Y",
             "distribution": [
                 {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245548/velocidad-promedio-de-bajada-de-internet-nacional/",
-                    "description": "Serie histórica de la velocidad promedio de bajada de Internet nacional (trimestral)",
-                    "title": "Velocidad promedio de bajada de Internet (nacional)",
-                    "issued": "2018-04-23T16:49:15",
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245546/velocidad-promedio-de-bajada-de-internet-fijo-por-provincia/",
+                    "description": "Serie histórica de la velocidad promedio de bajada de Internet por provincia (trimestral)",
+                    "title": "Velocidad promedio de bajada de Internet fijo por provincia",
+                    "issued": "2018-04-24T15:44:06",
                     "format": "CSV",
-                    "modified": "2018-04-23T19:49:18Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/VELOC-PROME-DE-BAJAD-51733/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                    "modified": "2018-04-24T18:44:09Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/VELOC-PROME-DE-BAJAD-DE/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245548/velocidad-promedio-de-bajada-de-internet-nacional/",
-                    "description": "Serie histórica de la velocidad promedio de bajada de Internet nacional (trimestral)",
-                    "title": "Velocidad promedio de bajada de Internet (nacional)",
-                    "issued": "2018-04-23T16:49:15",
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245546/velocidad-promedio-de-bajada-de-internet-fijo-por-provincia/",
+                    "description": "Serie histórica de la velocidad promedio de bajada de Internet por provincia (trimestral)",
+                    "title": "Velocidad promedio de bajada de Internet fijo por provincia",
+                    "issued": "2018-04-24T15:44:06",
                     "format": "XLS",
-                    "modified": "2018-04-23T19:49:18Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/VELOC-PROME-DE-BAJAD-51733/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                    "modified": "2018-04-24T18:44:09Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/VELOC-PROME-DE-BAJAD-DE/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245548/velocidad-promedio-de-bajada-de-internet-nacional/",
-                    "description": "Serie histórica de la velocidad promedio de bajada de Internet nacional (trimestral)",
-                    "title": "Velocidad promedio de bajada de Internet (nacional)",
-                    "issued": "2018-04-23T16:49:15",
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245546/velocidad-promedio-de-bajada-de-internet-fijo-por-provincia/",
+                    "description": "Serie histórica de la velocidad promedio de bajada de Internet por provincia (trimestral)",
+                    "title": "Velocidad promedio de bajada de Internet fijo por provincia",
+                    "issued": "2018-04-24T15:44:06",
                     "format": "JSON",
-                    "modified": "2018-04-23T19:49:18Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/VELOC-PROME-DE-BAJAD-51733/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                    "modified": "2018-04-24T18:44:09Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/VELOC-PROME-DE-BAJAD-DE/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 }
             ],
-            "identifier": "VELOC-PROME-DE-BAJAD-51733",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/245548/velocidad-promedio-de-bajada-de-internet-nacional/",
-            "description": "Serie histórica de la velocidad promedio de bajada de Internet nacional (trimestral)"
+            "identifier": "VELOC-PROME-DE-BAJAD-DE",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/245546/velocidad-promedio-de-bajada-de-internet-fijo-por-provincia/",
+            "description": "Serie histórica de la velocidad promedio de bajada de Internet por provincia (trimestral)"
         },
         {
             "publisher": {
@@ -345,9 +1281,9 @@
                 "velocidad",
                 "banda ancha"
             ],
-            "title": "Velocidad promedio de bajada de Internet por provincia",
-            "issued": "2018-03-20T13:57:21",
-            "modified": "2018-04-23T18:36:22Z",
+            "title": "Velocidad promedio de bajada de Internet (nacional)",
+            "issued": "2018-04-23T16:49:15",
+            "modified": "2018-04-24T18:30:12Z",
             "language": [
                 "spa"
             ],
@@ -357,144 +1293,36 @@
             "accrualPeriodicity": "R/P1Y",
             "distribution": [
                 {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245546/velocidad-promedio-de-bajada-de-internet-por-provincia/",
-                    "description": "Serie histórica de la velocidad promedio de bajada de Internet por provincia (trimestral)",
-                    "title": "Velocidad promedio de bajada de Internet por provincia",
-                    "issued": "2018-03-20T13:57:21",
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245548/velocidad-promedio-de-bajada-de-internet-nacional/",
+                    "description": "Serie histórica de la velocidad promedio de bajada de Internet nacional (trimestral)",
+                    "title": "Velocidad promedio de bajada de Internet (nacional)",
+                    "issued": "2018-04-23T16:49:15",
                     "format": "CSV",
-                    "modified": "2018-04-23T18:36:22Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/VELOC-PROME-DE-BAJAD-DE/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                    "modified": "2018-04-24T18:30:12Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/VELOC-PROME-DE-BAJAD-51733/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245546/velocidad-promedio-de-bajada-de-internet-por-provincia/",
-                    "description": "Serie histórica de la velocidad promedio de bajada de Internet por provincia (trimestral)",
-                    "title": "Velocidad promedio de bajada de Internet por provincia",
-                    "issued": "2018-03-20T13:57:21",
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245548/velocidad-promedio-de-bajada-de-internet-nacional/",
+                    "description": "Serie histórica de la velocidad promedio de bajada de Internet nacional (trimestral)",
+                    "title": "Velocidad promedio de bajada de Internet (nacional)",
+                    "issued": "2018-04-23T16:49:15",
                     "format": "XLS",
-                    "modified": "2018-04-23T18:36:22Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/VELOC-PROME-DE-BAJAD-DE/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                    "modified": "2018-04-24T18:30:12Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/VELOC-PROME-DE-BAJAD-51733/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 },
                 {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245546/velocidad-promedio-de-bajada-de-internet-por-provincia/",
-                    "description": "Serie histórica de la velocidad promedio de bajada de Internet por provincia (trimestral)",
-                    "title": "Velocidad promedio de bajada de Internet por provincia",
-                    "issued": "2018-03-20T13:57:21",
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245548/velocidad-promedio-de-bajada-de-internet-nacional/",
+                    "description": "Serie histórica de la velocidad promedio de bajada de Internet nacional (trimestral)",
+                    "title": "Velocidad promedio de bajada de Internet (nacional)",
+                    "issued": "2018-04-23T16:49:15",
                     "format": "JSON",
-                    "modified": "2018-04-23T18:36:22Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/VELOC-PROME-DE-BAJAD-DE/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                    "modified": "2018-04-24T18:30:12Z",
+                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/VELOC-PROME-DE-BAJAD-51733/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
                 }
             ],
-            "identifier": "VELOC-PROME-DE-BAJAD-DE",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/245546/velocidad-promedio-de-bajada-de-internet-por-provincia/",
-            "description": "Serie histórica de la velocidad promedio de bajada de Internet por provincia (trimestral)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "licencias"
-            ],
-            "title": "Registro de prestadores de servicios postales",
-            "issued": "2017-11-07T14:31:31",
-            "modified": "2018-04-23T17:54:24Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "servicios-postales"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243429/registro-de-prestadores-de-servicios-postales/",
-                    "description": "Prestadores de servicios postales",
-                    "title": "Registro de prestadores de servicios postales",
-                    "issued": "2017-11-07T14:31:31",
-                    "format": "CSV",
-                    "modified": "2018-04-23T17:54:24Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/REGIS-DE-PREST-DE-SERVI/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243429/registro-de-prestadores-de-servicios-postales/",
-                    "description": "Prestadores de servicios postales",
-                    "title": "Registro de prestadores de servicios postales",
-                    "issued": "2017-11-07T14:31:31",
-                    "format": "XLS",
-                    "modified": "2018-04-23T17:54:24Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/REGIS-DE-PREST-DE-SERVI/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243429/registro-de-prestadores-de-servicios-postales/",
-                    "description": "Prestadores de servicios postales",
-                    "title": "Registro de prestadores de servicios postales",
-                    "issued": "2017-11-07T14:31:31",
-                    "format": "JSON",
-                    "modified": "2018-04-23T17:54:24Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/REGIS-DE-PREST-DE-SERVI/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "REGIS-DE-PREST-DE-SERVI",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243429/registro-de-prestadores-de-servicios-postales/",
-            "description": "Prestadores de servicios postales"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "licencias"
-            ],
-            "title": "Subregistro de prestadores de servicios de mensajería",
-            "issued": "2017-11-07T14:33:16",
-            "modified": "2018-04-23T17:54:23Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "servicios-postales"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243430/subregistro-de-prestadores-de-servicios-de-mensajeria/",
-                    "description": "Prestadores de servicios de mensajería",
-                    "title": "Subregistro de prestadores de servicios de mensajería",
-                    "issued": "2017-11-07T14:33:16",
-                    "format": "CSV",
-                    "modified": "2018-04-23T17:54:23Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/SUBRE-DE-PREST-DE-SERVI/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243430/subregistro-de-prestadores-de-servicios-de-mensajeria/",
-                    "description": "Prestadores de servicios de mensajería",
-                    "title": "Subregistro de prestadores de servicios de mensajería",
-                    "issued": "2017-11-07T14:33:16",
-                    "format": "XLS",
-                    "modified": "2018-04-23T17:54:23Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/SUBRE-DE-PREST-DE-SERVI/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243430/subregistro-de-prestadores-de-servicios-de-mensajeria/",
-                    "description": "Prestadores de servicios de mensajería",
-                    "title": "Subregistro de prestadores de servicios de mensajería",
-                    "issued": "2017-11-07T14:33:16",
-                    "format": "JSON",
-                    "modified": "2018-04-23T17:54:23Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/SUBRE-DE-PREST-DE-SERVI/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "SUBRE-DE-PREST-DE-SERVI",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243430/subregistro-de-prestadores-de-servicios-de-mensajeria/",
-            "description": "Prestadores de servicios de mensajería"
+            "identifier": "VELOC-PROME-DE-BAJAD-51733",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/245548/velocidad-promedio-de-bajada-de-internet-nacional/",
+            "description": "Serie histórica de la velocidad promedio de bajada de Internet nacional (trimestral)"
         },
         {
             "publisher": {
@@ -669,498 +1497,6 @@
                 "TECH"
             ],
             "keyword": [
-                "equipos de comunicacion",
-                "homologaciones"
-            ],
-            "title": "Equipos homologados inscriptos",
-            "issued": "2018-04-17T16:44:37",
-            "modified": "2018-04-23T04:55:24Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "homologacion-de-equipos"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
-                    "description": "Equipos homologados",
-                    "title": "Equipos homologados inscriptos",
-                    "issued": "2018-04-17T16:44:37",
-                    "format": "CSV",
-                    "modified": "2018-04-23T04:55:24Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
-                    "description": "Equipos homologados",
-                    "title": "Equipos homologados inscriptos",
-                    "issued": "2018-04-17T16:44:37",
-                    "format": "XLS",
-                    "modified": "2018-04-23T04:55:24Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
-                    "description": "Equipos homologados",
-                    "title": "Equipos homologados inscriptos",
-                    "issued": "2018-04-17T16:44:37",
-                    "format": "JSON",
-                    "modified": "2018-04-23T04:55:24Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EQUIP-HOMOL-INSCR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "EQUIP-HOMOL-INSCR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/242155/equipos-homologados-inscriptos/",
-            "description": "Equipos homologados"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "homologaciones"
-            ],
-            "title": "Empresas homologadas inscriptas",
-            "issued": "2017-11-07T15:51:03",
-            "modified": "2018-04-23T04:54:51Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "homologacion-de-equipos"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
-                    "description": "Empresas homologadas",
-                    "title": "Empresas homologadas inscriptas",
-                    "issued": "2017-11-07T15:51:03",
-                    "format": "CSV",
-                    "modified": "2018-04-23T04:54:51Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EMPRE-HOMOL-INSCR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
-                    "description": "Empresas homologadas",
-                    "title": "Empresas homologadas inscriptas",
-                    "issued": "2017-11-07T15:51:03",
-                    "format": "XLS",
-                    "modified": "2018-04-23T04:54:51Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EMPRE-HOMOL-INSCR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
-                    "description": "Empresas homologadas",
-                    "title": "Empresas homologadas inscriptas",
-                    "issued": "2017-11-07T15:51:03",
-                    "format": "JSON",
-                    "modified": "2018-04-23T04:54:51Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/EMPRE-HOMOL-INSCR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "EMPRE-HOMOL-INSCR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243437/empresas-homologadas-inscriptas/",
-            "description": "Empresas homologadas"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "licencias"
-            ],
-            "title": "Licenciatarios TIC",
-            "issued": "2018-04-09T20:56:09",
-            "modified": "2018-04-23T03:25:24Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "licencias"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
-                    "description": "Listado de licencias de operadores de TIC",
-                    "title": "Licenciatarios TIC",
-                    "issued": "2018-04-09T20:56:09",
-                    "format": "CSV",
-                    "modified": "2018-04-23T03:25:24Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
-                    "description": "Listado de licencias de operadores de TIC",
-                    "title": "Licenciatarios TIC",
-                    "issued": "2018-04-09T20:56:09",
-                    "format": "XLS",
-                    "modified": "2018-04-23T03:25:24Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
-                    "description": "Listado de licencias de operadores de TIC",
-                    "title": "Licenciatarios TIC",
-                    "issued": "2018-04-09T20:56:09",
-                    "format": "JSON",
-                    "modified": "2018-04-23T03:25:24Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-AUTOM/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "LICEN-TIC-AUTOM",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243426/licenciatarios-tic/",
-            "description": "Listado de licencias de operadores de TIC"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "radioaficionados",
-                " radioclubes"
-            ],
-            "title": "Listado de radioaficionados",
-            "issued": "2017-10-23T13:16:32",
-            "modified": "2018-04-23T03:14:27Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "espectro-radioelectrico"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
-                    "description": "Radioaficionados",
-                    "title": "Listado de radioaficionados",
-                    "issued": "2017-10-23T13:16:32",
-                    "format": "CSV",
-                    "modified": "2018-04-23T03:14:27Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-RADIO-94584/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
-                    "description": "Radioaficionados",
-                    "title": "Listado de radioaficionados",
-                    "issued": "2017-10-23T13:16:32",
-                    "format": "XLS",
-                    "modified": "2018-04-23T03:14:27Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-RADIO-94584/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
-                    "description": "Radioaficionados",
-                    "title": "Listado de radioaficionados",
-                    "issued": "2017-10-23T13:16:32",
-                    "format": "JSON",
-                    "modified": "2018-04-23T03:14:27Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-RADIO-94584/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "LISTA-DE-RADIO-94584",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243054/listado-de-radioaficionados/",
-            "description": "Radioaficionados"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [],
-            "title": "Listado de estaciones repetidoras autorizadas",
-            "issued": "2017-11-07T14:58:55",
-            "modified": "2018-04-23T03:14:26Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "espectro-radioelectrico"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
-                    "description": "Estaciones repetidoras autorizadas",
-                    "title": "Listado de estaciones repetidoras autorizadas",
-                    "issued": "2017-11-07T14:58:55",
-                    "format": "CSV",
-                    "modified": "2018-04-23T03:14:26Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET-AUTOR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
-                    "description": "Estaciones repetidoras autorizadas",
-                    "title": "Listado de estaciones repetidoras autorizadas",
-                    "issued": "2017-11-07T14:58:55",
-                    "format": "XLS",
-                    "modified": "2018-04-23T03:14:26Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET-AUTOR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
-                    "description": "Estaciones repetidoras autorizadas",
-                    "title": "Listado de estaciones repetidoras autorizadas",
-                    "issued": "2017-11-07T14:58:55",
-                    "format": "JSON",
-                    "modified": "2018-04-23T03:14:26Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET-AUTOR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "LISTA-DE-ESTAC-REPET-AUTOR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
-            "description": "Estaciones repetidoras autorizadas"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                " radioclubes"
-            ],
-            "title": "Listado de radioclubes",
-            "issued": "2017-11-07T14:55:44",
-            "modified": "2018-04-23T03:14:25Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "espectro-radioelectrico"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243050/listado-de-radioclubes/",
-                    "description": "Listado de radioclubes.",
-                    "title": "Listado de radioclubes",
-                    "issued": "2017-11-07T14:55:44",
-                    "format": "CSV",
-                    "modified": "2018-04-23T03:14:25Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-20/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243050/listado-de-radioclubes/",
-                    "description": "Listado de radioclubes.",
-                    "title": "Listado de radioclubes",
-                    "issued": "2017-11-07T14:55:44",
-                    "format": "XLS",
-                    "modified": "2018-04-23T03:14:25Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-20/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243050/listado-de-radioclubes/",
-                    "description": "Listado de radioclubes.",
-                    "title": "Listado de radioclubes",
-                    "issued": "2017-11-07T14:55:44",
-                    "format": "JSON",
-                    "modified": "2018-04-23T03:14:25Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-20/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "RADIO-20",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/243050/listado-de-radioclubes/",
-            "description": "Listado de radioclubes."
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "internet",
-                "banda ancha",
-                "penetración"
-            ],
-            "title": "Penetración del Internet fijo por provincia (accesos por cada 100 habitantes)",
-            "issued": "2017-07-17T14:11:20",
-            "modified": "2018-04-20T23:44:23Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "acceso-a-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240978/penetracion-del-internet-fijo-por-provincia-accesos-por-cada-100-habitantes/",
-                    "description": "Penetración del servicio de Internet fijo (métrica: población)",
-                    "title": "Penetración del Internet fijo por provincia (accesos por cada 100 habitantes)",
-                    "issued": "2017-07-17T14:11:20",
-                    "format": "CSV",
-                    "modified": "2018-04-20T23:44:23Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-DEL-INTER-FIJO-POR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240978/penetracion-del-internet-fijo-por-provincia-accesos-por-cada-100-habitantes/",
-                    "description": "Penetración del servicio de Internet fijo (métrica: población)",
-                    "title": "Penetración del Internet fijo por provincia (accesos por cada 100 habitantes)",
-                    "issued": "2017-07-17T14:11:20",
-                    "format": "XLS",
-                    "modified": "2018-04-20T23:44:23Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-DEL-INTER-FIJO-POR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240978/penetracion-del-internet-fijo-por-provincia-accesos-por-cada-100-habitantes/",
-                    "description": "Penetración del servicio de Internet fijo (métrica: población)",
-                    "title": "Penetración del Internet fijo por provincia (accesos por cada 100 habitantes)",
-                    "issued": "2017-07-17T14:11:20",
-                    "format": "JSON",
-                    "modified": "2018-04-20T23:44:23Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-DEL-INTER-FIJO-POR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "PENET-DEL-INTER-FIJO-POR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240978/penetracion-del-internet-fijo-por-provincia-accesos-por-cada-100-habitantes/",
-            "description": "Penetración del servicio de Internet fijo (métrica: población)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "internet",
-                "banda ancha",
-                "penetración"
-            ],
-            "title": "Penetración del Internet fijo por provincia (accesos por cada 100 hogares)",
-            "issued": "2018-02-27T14:17:08",
-            "modified": "2018-04-20T23:44:23Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "acceso-a-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240980/penetracion-del-internet-fijo-por-provincia-accesos-por-cada-100-hogares/",
-                    "description": "Penetración del servicio de Internet fijo (métrica: hogares)",
-                    "title": "Penetración del Internet fijo por provincia (accesos por cada 100 hogares)",
-                    "issued": "2018-02-27T14:17:08",
-                    "format": "CSV",
-                    "modified": "2018-04-20T23:44:23Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-DEL-INTER-FIJO-51614/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240980/penetracion-del-internet-fijo-por-provincia-accesos-por-cada-100-hogares/",
-                    "description": "Penetración del servicio de Internet fijo (métrica: hogares)",
-                    "title": "Penetración del Internet fijo por provincia (accesos por cada 100 hogares)",
-                    "issued": "2018-02-27T14:17:08",
-                    "format": "XLS",
-                    "modified": "2018-04-20T23:44:23Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-DEL-INTER-FIJO-51614/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240980/penetracion-del-internet-fijo-por-provincia-accesos-por-cada-100-hogares/",
-                    "description": "Penetración del servicio de Internet fijo (métrica: hogares)",
-                    "title": "Penetración del Internet fijo por provincia (accesos por cada 100 hogares)",
-                    "issued": "2018-02-27T14:17:08",
-                    "format": "JSON",
-                    "modified": "2018-04-20T23:44:23Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-DEL-INTER-FIJO-51614/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "PENET-DEL-INTER-FIJO-51614",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240980/penetracion-del-internet-fijo-por-provincia-accesos-por-cada-100-hogares/",
-            "description": "Penetración del servicio de Internet fijo (métrica: hogares)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "internet",
-                "banda ancha",
-                "penetración"
-            ],
-            "title": "Penetración nacional del Internet fijo",
-            "issued": "2017-07-17T14:14:50",
-            "modified": "2018-04-20T23:44:23Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "acceso-a-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240981/penetracion-nacional-del-internet-fijo/",
-                    "description": "Series trimestrales de la penetración del Internet fijo en las métricas por cada 100 habitantes y por cada 100 hogares",
-                    "title": "Penetración nacional del Internet fijo",
-                    "issued": "2017-07-17T14:14:50",
-                    "format": "CSV",
-                    "modified": "2018-04-20T23:44:23Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-NACIO-DEL-INTER-FIJO/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240981/penetracion-nacional-del-internet-fijo/",
-                    "description": "Series trimestrales de la penetración del Internet fijo en las métricas por cada 100 habitantes y por cada 100 hogares",
-                    "title": "Penetración nacional del Internet fijo",
-                    "issued": "2017-07-17T14:14:50",
-                    "format": "XLS",
-                    "modified": "2018-04-20T23:44:23Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-NACIO-DEL-INTER-FIJO/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240981/penetracion-nacional-del-internet-fijo/",
-                    "description": "Series trimestrales de la penetración del Internet fijo en las métricas por cada 100 habitantes y por cada 100 hogares",
-                    "title": "Penetración nacional del Internet fijo",
-                    "issued": "2017-07-17T14:14:50",
-                    "format": "JSON",
-                    "modified": "2018-04-20T23:44:23Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PENET-NACIO-DEL-INTER-FIJO/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "PENET-NACIO-DEL-INTER-FIJO",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240981/penetracion-nacional-del-internet-fijo/",
-            "description": "Series trimestrales de la penetración del Internet fijo en las métricas por cada 100 habitantes y por cada 100 hogares"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
                 "internet",
                 "telefonia movil",
                 "banda ancha",
@@ -1263,287 +1599,6 @@
             "identifier": "RECLA-DE-LOS-USUAR-DE",
             "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/245608/reclamos-de-los-usuarios-de-telecomunicaciones/",
             "description": "Base que consolida los reclamos recibidos ante ENACOM"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "internet",
-                "banda ancha",
-                "provincial"
-            ],
-            "title": "Acceso a Internet fijo por tecnología y provincia",
-            "issued": "2018-02-02T21:28:15",
-            "modified": "2018-04-20T16:18:46Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "acceso-a-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240898/acceso-a-internet-fijo-por-tecnologia-y-provincia/",
-                    "description": "Número de accesos al servicio de Internet fijo por tipo de tecnología en cada provincia (trimestral)",
-                    "title": "Acceso a Internet fijo por tecnología y provincia",
-                    "issued": "2018-02-02T21:28:15",
-                    "format": "CSV",
-                    "modified": "2018-04-20T16:18:46Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-A-INTER-FIJO-POR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240898/acceso-a-internet-fijo-por-tecnologia-y-provincia/",
-                    "description": "Número de accesos al servicio de Internet fijo por tipo de tecnología en cada provincia (trimestral)",
-                    "title": "Acceso a Internet fijo por tecnología y provincia",
-                    "issued": "2018-02-02T21:28:15",
-                    "format": "XLS",
-                    "modified": "2018-04-20T16:18:46Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-A-INTER-FIJO-POR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240898/acceso-a-internet-fijo-por-tecnologia-y-provincia/",
-                    "description": "Número de accesos al servicio de Internet fijo por tipo de tecnología en cada provincia (trimestral)",
-                    "title": "Acceso a Internet fijo por tecnología y provincia",
-                    "issued": "2018-02-02T21:28:15",
-                    "format": "JSON",
-                    "modified": "2018-04-20T16:18:46Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/ACCES-A-INTER-FIJO-POR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "ACCES-A-INTER-FIJO-POR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240898/acceso-a-internet-fijo-por-tecnologia-y-provincia/",
-            "description": "Número de accesos al servicio de Internet fijo por tipo de tecnología en cada provincia (trimestral)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "internet",
-                "banda ancha"
-            ],
-            "title": "Total nacional de accesos a Internet fijo por tipo de tecnología",
-            "issued": "2018-02-05T14:59:14",
-            "modified": "2018-04-20T16:18:46Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "acceso-a-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240902/total-nacional-de-accesos-a-internet-fijo-por-tipo-de-tecnologia/",
-                    "description": "Número total de accesos al servicio de Internet fijo por tipo de tecnología (trimestral)",
-                    "title": "Total nacional de accesos a Internet fijo por tipo de tecnología",
-                    "issued": "2018-02-05T14:59:14",
-                    "format": "CSV",
-                    "modified": "2018-04-20T16:18:46Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-A/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240902/total-nacional-de-accesos-a-internet-fijo-por-tipo-de-tecnologia/",
-                    "description": "Número total de accesos al servicio de Internet fijo por tipo de tecnología (trimestral)",
-                    "title": "Total nacional de accesos a Internet fijo por tipo de tecnología",
-                    "issued": "2018-02-05T14:59:14",
-                    "format": "XLS",
-                    "modified": "2018-04-20T16:18:46Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-A/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240902/total-nacional-de-accesos-a-internet-fijo-por-tipo-de-tecnologia/",
-                    "description": "Número total de accesos al servicio de Internet fijo por tipo de tecnología (trimestral)",
-                    "title": "Total nacional de accesos a Internet fijo por tipo de tecnología",
-                    "issued": "2018-02-05T14:59:14",
-                    "format": "JSON",
-                    "modified": "2018-04-20T16:18:46Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-A/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "TOTAL-NACIO-DE-ACCES-A",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240902/total-nacional-de-accesos-a-internet-fijo-por-tipo-de-tecnologia/",
-            "description": "Número total de accesos al servicio de Internet fijo por tipo de tecnología (trimestral)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "internet",
-                "banda ancha",
-                "provincial",
-                "banda angosta"
-            ],
-            "title": "Banda ancha y banda angosta por provincia",
-            "issued": "2018-02-02T21:29:38",
-            "modified": "2018-04-20T15:45:41Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "acceso-a-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240974/banda-ancha-y-banda-angosta-por-provincia/",
-                    "description": "Número de accesos al servicio de Internet fijo por banda ancha y banda angosta en cada provincia (trimestral)",
-                    "title": "Banda ancha y banda angosta por provincia",
-                    "issued": "2018-02-02T21:29:38",
-                    "format": "CSV",
-                    "modified": "2018-04-20T15:45:41Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/BANDA-ANCHA-Y-BANDA-ANGOS/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240974/banda-ancha-y-banda-angosta-por-provincia/",
-                    "description": "Número de accesos al servicio de Internet fijo por banda ancha y banda angosta en cada provincia (trimestral)",
-                    "title": "Banda ancha y banda angosta por provincia",
-                    "issued": "2018-02-02T21:29:38",
-                    "format": "XLS",
-                    "modified": "2018-04-20T15:45:41Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/BANDA-ANCHA-Y-BANDA-ANGOS/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240974/banda-ancha-y-banda-angosta-por-provincia/",
-                    "description": "Número de accesos al servicio de Internet fijo por banda ancha y banda angosta en cada provincia (trimestral)",
-                    "title": "Banda ancha y banda angosta por provincia",
-                    "issued": "2018-02-02T21:29:38",
-                    "format": "JSON",
-                    "modified": "2018-04-20T15:45:41Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/BANDA-ANCHA-Y-BANDA-ANGOS/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "BANDA-ANCHA-Y-BANDA-ANGOS",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240974/banda-ancha-y-banda-angosta-por-provincia/",
-            "description": "Número de accesos al servicio de Internet fijo por banda ancha y banda angosta en cada provincia (trimestral)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "internet",
-                "banda ancha",
-                "provincial",
-                "banda angosta"
-            ],
-            "title": "Total nacional de accesos a Internet fijo por banda ancha y banda angosta",
-            "issued": "2017-09-27T20:35:24",
-            "modified": "2018-04-20T15:45:41Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "acceso-a-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240976/total-nacional-de-accesos-a-internet-fijo-por-banda-ancha-y-banda-angosta/",
-                    "description": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)",
-                    "title": "Total nacional de accesos a Internet fijo por banda ancha y banda angosta",
-                    "issued": "2017-09-27T20:35:24",
-                    "format": "CSV",
-                    "modified": "2018-04-20T15:45:41Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-48866/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240976/total-nacional-de-accesos-a-internet-fijo-por-banda-ancha-y-banda-angosta/",
-                    "description": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)",
-                    "title": "Total nacional de accesos a Internet fijo por banda ancha y banda angosta",
-                    "issued": "2017-09-27T20:35:24",
-                    "format": "XLS",
-                    "modified": "2018-04-20T15:45:41Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-48866/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240976/total-nacional-de-accesos-a-internet-fijo-por-banda-ancha-y-banda-angosta/",
-                    "description": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)",
-                    "title": "Total nacional de accesos a Internet fijo por banda ancha y banda angosta",
-                    "issued": "2017-09-27T20:35:24",
-                    "format": "JSON",
-                    "modified": "2018-04-20T15:45:41Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-48866/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "TOTAL-NACIO-DE-ACCES-48866",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240976/total-nacional-de-accesos-a-internet-fijo-por-banda-ancha-y-banda-angosta/",
-            "description": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "sanciones",
-                "prestadores postales",
-                "servicios postales"
-            ],
-            "title": "Sanciones a prestadores postales ilegales",
-            "issued": "2018-04-18T19:50:05",
-            "modified": "2018-04-19T14:38:51Z",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "servicios-postales"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245981/sanciones-a-prestadores-postales-ilegales/",
-                    "description": "Lista de sanciones por concepto de prestación ilegal de servicios postales.",
-                    "title": "Sanciones a prestadores postales ilegales",
-                    "issued": "2018-04-18T19:50:05",
-                    "format": "CSV",
-                    "modified": "2018-04-19T14:38:51Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/SANCI-A-PREST-POSTA-ILEGA/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245981/sanciones-a-prestadores-postales-ilegales/",
-                    "description": "Lista de sanciones por concepto de prestación ilegal de servicios postales.",
-                    "title": "Sanciones a prestadores postales ilegales",
-                    "issued": "2018-04-18T19:50:05",
-                    "format": "XLS",
-                    "modified": "2018-04-19T14:38:51Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/SANCI-A-PREST-POSTA-ILEGA/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245981/sanciones-a-prestadores-postales-ilegales/",
-                    "description": "Lista de sanciones por concepto de prestación ilegal de servicios postales.",
-                    "title": "Sanciones a prestadores postales ilegales",
-                    "issued": "2018-04-18T19:50:05",
-                    "format": "JSON",
-                    "modified": "2018-04-19T14:38:51Z",
-                    "downloadURL": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/SANCI-A-PREST-POSTA-ILEGA/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                }
-            ],
-            "identifier": "SANCI-A-PREST-POSTA-ILEGA",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/245981/sanciones-a-prestadores-postales-ilegales/",
-            "description": "Lista de sanciones por concepto de prestación ilegal de servicios postales."
         },
         {
             "publisher": {
