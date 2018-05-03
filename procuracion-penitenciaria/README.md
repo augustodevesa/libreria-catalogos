@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 20
-- **Cantidad Total de Distribuciones**: 31
+- **Cantidad Total de Datasets**: 22
+- **Cantidad Total de Distribuciones**: 41
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 20
+- **Cantidad de Datasets NO Federados**: 22
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -28,6 +28,8 @@
 
 ## Datasets no federados
 
+- [Presupuesto](http://181.209.63.46/dataset/presupuesto)
+- [Personal de planta permanente y transitoria](http://181.209.63.46/dataset/personal-de-planta-permanente-y-transitoria)
 - [Listado de personas en Resguardo en el Servicio Penitenciario Federal](www.ppn.gov.ar)
 - [Respuesta judicial ante Fallecimiento](www.ppn.gov.ar)
 - [Sanciones de aislamiento en el Servicio Penitenciario Federal](www.ppn.gov.ar)
