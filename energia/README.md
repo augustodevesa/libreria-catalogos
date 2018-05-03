@@ -16,7 +16,7 @@
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
 - **Cantidad Total de Datasets**: 181
-- **Cantidad Total de Distribuciones**: 1007
+- **Cantidad Total de Distribuciones**: 1012
 
 - **Cantidad de Datasets Federados**: 61
 - **Cantidad de Datasets NO Federados**: 120
