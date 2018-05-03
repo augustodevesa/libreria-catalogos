@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 58
-- **Cantidad Total de Distribuciones**: 124
+- **Cantidad Total de Datasets**: 59
+- **Cantidad Total de Distribuciones**: 128
 
 - **Cantidad de Datasets Federados**: 51
-- **Cantidad de Datasets NO Federados**: 7
-- **Porcentaje de Datasets NO Federados**: 12.07%
+- **Cantidad de Datasets NO Federados**: 8
+- **Porcentaje de Datasets NO Federados**: 13.56%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -28,6 +28,7 @@
 
 ## Datasets no federados
 
+- [Trigo Pan con destino a la industria](Dirección Nacional de Matriculación y Fiscalización)
 - [Soja con destino a la industria](Dirección Nacional de Matriculación y Fiscalización)
 - [Producción leche cruda a nivel nacional y provincial, expresada en porcentaje de sólidos](https://datos.agroindustria.gob.ar/dataset/produccion-leche-cruda-a-nivel-nacional-y-provincial-expresada-en-porcentaje-de-solidos)
 - [Estimación de la variación interanual e intermensual de la producción de leche cruda](https://datos.agroindustria.gob.ar/dataset/estimacion-de-la-variacion-interanual-e-intermensual-de-la-produccion-de-leche-cruda)
