@@ -3,7 +3,7 @@
 
 ## Información General
 
-- **Autor**: 
+- **Autor**: Autoridad de Cuenca Matanza Riachuelo
 - **Correo Electrónico**: contacto@acumar.gob.ar
 - **Ruta del catálogo**: None
 - **Nombre del catálogo**: Autoridad de Cuenca Matanza Riachuelo
@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 22
-- **Cantidad Total de Distribuciones**: 351
+- **Cantidad Total de Datasets**: 24
+- **Cantidad Total de Distribuciones**: 383
 
 - **Cantidad de Datasets Federados**: 4
-- **Cantidad de Datasets NO Federados**: 18
-- **Porcentaje de Datasets NO Federados**: 81.82%
+- **Cantidad de Datasets NO Federados**: 20
+- **Porcentaje de Datasets NO Federados**: 83.33%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -28,6 +28,8 @@
 
 ## Datasets no federados
 
+- [Indicador N° 2 - Índice de Calidad de Agua Superficial (ICA) - ACUMAR](http://datos.acumar.gob.ar/dataset/indicador-n-2-indice-de-calidad-de-agua-superficial-ica-acumar)
+- [Solicitudes de Información Pública 2018 - ACUMAR](http://datos.acumar.gob.ar/dataset/)
 - [Actas del Consejo Municipal - ACUMAR](http://datos.acumar.gob.ar/dataset/actas-del-consejo-municipal)
 - [Establecimientos Reconvertidos en la Cuenca Matanza Riachuelo](http://datos.acumar.gob.ar/dataset/establecimientos-reconvertidos-en-la-cuenca-matanza-riachuelo)
 - [Línea de Base de Basurales 2017 en la cuenca Matanza Riachuelo](http://datos.acumar.gob.ar/dataset/linea-de-base-de-basurales-2017)
