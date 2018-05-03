@@ -13,14 +13,14 @@
 
 ## Estado de los metadatos y cantidad de recursos
 
-- **Estado metadatos globales**: OK
+- **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 57
-- **Cantidad Total de Distribuciones**: 119
+- **Cantidad Total de Datasets**: 58
+- **Cantidad Total de Distribuciones**: 124
 
 - **Cantidad de Datasets Federados**: 51
-- **Cantidad de Datasets NO Federados**: 6
-- **Porcentaje de Datasets NO Federados**: 10.53%
+- **Cantidad de Datasets NO Federados**: 7
+- **Porcentaje de Datasets NO Federados**: 12.07%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -28,6 +28,7 @@
 
 ## Datasets no federados
 
+- [Soja con destino a la industria](Dirección Nacional de Matriculación y Fiscalización)
 - [Producción leche cruda a nivel nacional y provincial, expresada en porcentaje de sólidos](https://datos.agroindustria.gob.ar/dataset/produccion-leche-cruda-a-nivel-nacional-y-provincial-expresada-en-porcentaje-de-solidos)
 - [Estimación de la variación interanual e intermensual de la producción de leche cruda](https://datos.agroindustria.gob.ar/dataset/estimacion-de-la-variacion-interanual-e-intermensual-de-la-produccion-de-leche-cruda)
 - [Datos del Censo Nacional Agropecuario 1988 - 2002](https://www.indec.gob.ar/nivel4_default.asp?id_tema_1=3&id_tema_2=8&id_tema_3=87)
