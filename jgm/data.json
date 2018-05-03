@@ -3,84 +3,13 @@
         "mbox": "datos@modernizacion.gob.ar",
         "name": "Ministerio de Modernización"
     },
-    "identifier": "otros",
-    "description": "Catálogo de datos abiertos de la Administración Pública Nacional, cuya publicación es administrada por el Ministerio de Modernización.",
+    "identifier": "jgm",
+    "description": "Catálogo de datos abiertos de la Jefatura de Gabinete de Minsitros, cuya publicación es administrada por el Ministerio de Modernización.",
     "license": "Open Database License (ODbL) v1.0",
     "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
     "issued": "2018-03-01T00:00:00",
-    "title": "Datos APN",
+    "title": "Datos de la Jefatura de Gabinete de Minsitros",
     "modified": "2018-03-01T00:00:00",
-    "themeTaxonomy": [
-        {
-            "description": "Por ejemplo: 'Lechería: precio pagado al productor' o 'Superficie forestada'.",
-            "id": "agri",
-            "label": "Agroganadería, pesca y forestación"
-        },
-        {
-            "description": "Por ejemplo: 'Deuda pública'.",
-            "id": "econ",
-            "label": "Economía y finanzas"
-        },
-        {
-            "description": "Por ejemplo: “Registro de Establecimientos Educativos”.",
-            "id": "educ",
-            "label": "Educación, cultura y deportes"
-        },
-        {
-            "description": "Por ejemplo: 'Productos mineros exportados' o 'Precios del GNC'.",
-            "id": "ener",
-            "label": "Energía"
-        },
-        {
-            "description": "Por ejemplo: 'Operadores de residuos peligrosos'.",
-            "id": "envi",
-            "label": "Medio ambiente"
-        },
-        {
-            "description": "Por ejemplo: 'Inmuebles del estado Nacional'.",
-            "id": "gove",
-            "label": "Gobierno y sector público"
-        },
-        {
-            "description": "Por ejemplo: 'Estadísticas nacionales de VIH/SIDA'.",
-            "id": "heal",
-            "label": "Salud"
-        },
-        {
-            "description": "Por ejemplo: 'Representaciones argentinas en el exterior'.",
-            "id": "intr",
-            "label": "Asuntos internacionales"
-        },
-        {
-            "description": "Por ejemplo: 'Censo penitenciario'.",
-            "id": "just",
-            "label": "Justicia, seguridad y legales"
-        },
-        {
-            "description": "Por ejemplo: 'Departamentos de la provincia de Río Negro'.",
-            "id": "regi",
-            "label": "Regiones y ciudades"
-        },
-        {
-            "description": "Por ejemplo: 'Turistas residentes que viajan por Argentina'.",
-            "id": "soci",
-            "label": "Población y sociedad"
-        },
-        {
-            "description": "Por ejemplo: 'Recursos humanos en ciencia y tecnología'.",
-            "id": "tech",
-            "label": "Ciencia y tecnología"
-        },
-        {
-            "description": "Por ejemplo: 'Estadísticas viales'.",
-            "id": "tran",
-            "label": "Transporte"
-        }
-    ],
-    "language": [
-        "SPA"
-    ],
-    "spatial": "ARG",
     "dataset": [
         {
             "publisher": {
@@ -100,7 +29,6 @@
             ],
             "title": "Pauta Oficial",
             "issued": "2016-09-02T18:38:21.940714",
-            "landingPage": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad",
             "modified": "2018-02-01T22:07:46.614750",
             "language": [
                 "SPA"
@@ -110,80 +38,146 @@
             ],
             "accrualPeriodicity": "R/P6M",
             "spatial": "ARG",
+            "identifier": "1",
             "contactPoint": {
                 "hasEmail": "mailto:pautas@medios.gov.ar",
                 "fn": "Jefatura de Gabinete de Ministros. Secretaría de Comunicación Pública."
             },
-            "identifier": "1",
+            "landingPage": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad",
             "distribution": [
                 {
-                    "accessURL": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad/resource/79557a3e-c155-4a48-83f5-bd5bf1973555",
-                    "description": "Montos destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el segundo semestre de 2017.",
-                    "title": "Pauta Oficial Segundo Semestre 2017",
-                    "dataset_identifier": "1",
-                    "issued": "2018-02-01T22:07:02.457479",
+                    "accessURL": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad/resource/98a8c15f-5937-47fe-92e3-05d755be7d43",
+                    "description": "Montos (incluye IVA) destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el año 2014.",
                     "format": "CSV",
-                    "modified": "2018-02-01T22:07:02.387004",
-                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/79557a3e-c155-4a48-83f5-bd5bf1973555/download/pauta-oficial-segundo-semestre-2017.csv",
-                    "identifier": "1.6"
-                },
-                {
-                    "accessURL": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad/resource/6cc9c4b4-fbc4-41dd-8f01-7d1dedbed596",
-                    "description": "Montos destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el primer semestre de 2017.",
-                    "title": "Pauta Oficial Primer Semestre 2017",
-                    "dataset_identifier": "1",
-                    "issued": "2017-07-10T17:35:07.907522",
-                    "format": "CSV",
-                    "modified": "2017-07-10T17:35:07.854398",
-                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/6cc9c4b4-fbc4-41dd-8f01-7d1dedbed596/download/pauta-publicitaria-primer-semestre-2017.csv",
-                    "identifier": "1.5"
-                },
-                {
-                    "accessURL": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad/resource/eed67d08-3c9a-4c02-86ac-c51ff24fe99a",
-                    "description": "Montos destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el segundo semestre de 2016.",
-                    "title": "Pauta Oficial Segundo Semestre 2016",
-                    "dataset_identifier": "1",
-                    "issued": "2017-01-05T16:44:13.562265",
-                    "format": "CSV",
-                    "modified": "2017-01-05T19:44:13.501028",
-                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/eed67d08-3c9a-4c02-86ac-c51ff24fe99a/download/pauta-oficial-segundo-semestre-2016.csv",
-                    "identifier": "1.4"
-                },
-                {
-                    "accessURL": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad/resource/0c3cca0a-ccfa-4520-a614-dbdd58d74d79",
-                    "description": "Montos (incluye IVA) destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el primer semestre de 2016.",
-                    "title": "Pauta Oficial Primer Semestre 2016",
-                    "dataset_identifier": "1",
-                    "issued": "2016-09-02T15:41:50.241059",
-                    "format": "CSV",
-                    "modified": "2017-01-17T18:49:16.640853",
-                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/0c3cca0a-ccfa-4520-a614-dbdd58d74d79/download/pauta-oficial-primer-semestre-2016.csv",
-                    "identifier": "1.3"
+                    "issued": "2016-09-02T16:00:50.534613",
+                    "title": "Pauta Oficial 2014",
+                    "modified": "2016-09-02T19:00:50.469703",
+                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/98a8c15f-5937-47fe-92e3-05d755be7d43/download/pauta-oficial-2014.csv",
+                    "identifier": "1.1"
                 },
                 {
                     "accessURL": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad/resource/01bd7d9f-bc54-4fd7-b800-a4969a2a5b6f",
                     "description": "Montos (incluye IVA) destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el año 2015.",
-                    "title": "Pauta Oficial 2015",
-                    "dataset_identifier": "1",
-                    "issued": "2016-09-02T15:59:51.435179",
                     "format": "CSV",
+                    "issued": "2016-09-02T15:59:51.435179",
+                    "title": "Pauta Oficial 2015",
                     "modified": "2017-01-17T18:47:17.000985",
                     "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/01bd7d9f-bc54-4fd7-b800-a4969a2a5b6f/download/pauta-oficial-2015.csv",
                     "identifier": "1.2"
                 },
                 {
-                    "accessURL": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad/resource/98a8c15f-5937-47fe-92e3-05d755be7d43",
-                    "description": "Montos (incluye IVA) destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el año 2014.",
-                    "title": "Pauta Oficial 2014",
-                    "dataset_identifier": "1",
-                    "issued": "2016-09-02T16:00:50.534613",
+                    "accessURL": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad/resource/0c3cca0a-ccfa-4520-a614-dbdd58d74d79",
+                    "description": "Montos (incluye IVA) destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el primer semestre de 2016.",
                     "format": "CSV",
-                    "modified": "2016-09-02T19:00:50.469703",
-                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/98a8c15f-5937-47fe-92e3-05d755be7d43/download/pauta-oficial-2014.csv",
-                    "identifier": "1.1"
+                    "issued": "2016-09-02T15:41:50.241059",
+                    "title": "Pauta Oficial Primer Semestre 2016",
+                    "modified": "2017-01-17T18:49:16.640853",
+                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/0c3cca0a-ccfa-4520-a614-dbdd58d74d79/download/pauta-oficial-primer-semestre-2016.csv",
+                    "identifier": "1.3"
+                },
+                {
+                    "accessURL": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad/resource/eed67d08-3c9a-4c02-86ac-c51ff24fe99a",
+                    "description": "Montos destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el segundo semestre de 2016.",
+                    "format": "CSV",
+                    "issued": "2017-01-05T16:44:13.562265",
+                    "title": "Pauta Oficial Segundo Semestre 2016",
+                    "modified": "2017-01-05T19:44:13.501028",
+                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/eed67d08-3c9a-4c02-86ac-c51ff24fe99a/download/pauta-oficial-segundo-semestre-2016.csv",
+                    "identifier": "1.4"
+                },
+                {
+                    "accessURL": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad/resource/6cc9c4b4-fbc4-41dd-8f01-7d1dedbed596",
+                    "description": "Montos destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el primer semestre de 2017.",
+                    "format": "CSV",
+                    "issued": "2017-07-10T17:35:07.907522",
+                    "title": "Pauta Oficial Primer Semestre 2017",
+                    "modified": "2017-07-10T17:35:07.854398",
+                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/6cc9c4b4-fbc4-41dd-8f01-7d1dedbed596/download/pauta-publicitaria-primer-semestre-2017.csv",
+                    "identifier": "1.5"
+                },
+                {
+                    "accessURL": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad/resource/79557a3e-c155-4a48-83f5-bd5bf1973555",
+                    "description": "Montos destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el segundo semestre de 2017.",
+                    "format": "CSV",
+                    "issued": "2018-02-01T22:07:02.457479",
+                    "title": "Pauta Oficial Segundo Semestre 2017",
+                    "modified": "2018-02-01T22:07:02.387004",
+                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/79557a3e-c155-4a48-83f5-bd5bf1973555/download/pauta-oficial-segundo-semestre-2017.csv",
+                    "identifier": "1.6"
                 }
             ],
             "description": "La información publicada refleja las órdenes de publicidad emitidas en concepto de campañas de pauta oficial realizadas por la ADMINISTRACIÓN PUBLICA NACIONAL, el Banco de la Nación Argentina y sus empresas vinculadas, y demás organismos comprendidos en el artículo 8º de la Ley Nº 24.156, cualquiera fuera su fuente de financiamiento."
+        }
+    ],
+    "language": [
+        "SPA"
+    ],
+    "spatial": "ARG",
+    "themeTaxonomy": [
+        {
+            "label": "Agroganadería, pesca y forestación",
+            "id": "agri",
+            "description": "Por ejemplo: 'Lechería: precio pagado al productor' o 'Superficie forestada'."
+        },
+        {
+            "label": "Economía y finanzas",
+            "id": "econ",
+            "description": "Por ejemplo: 'Deuda pública'."
+        },
+        {
+            "label": "Educación, cultura y deportes",
+            "id": "educ",
+            "description": "Por ejemplo: “Registro de Establecimientos Educativos”."
+        },
+        {
+            "label": "Energía",
+            "id": "ener",
+            "description": "Por ejemplo: 'Productos mineros exportados' o 'Precios del GNC'."
+        },
+        {
+            "label": "Medio ambiente",
+            "id": "envi",
+            "description": "Por ejemplo: 'Operadores de residuos peligrosos'."
+        },
+        {
+            "label": "Gobierno y sector público",
+            "id": "gove",
+            "description": "Por ejemplo: 'Inmuebles del estado Nacional'."
+        },
+        {
+            "label": "Salud",
+            "id": "heal",
+            "description": "Por ejemplo: 'Estadísticas nacionales de VIH/SIDA'."
+        },
+        {
+            "label": "Asuntos internacionales",
+            "id": "intr",
+            "description": "Por ejemplo: 'Representaciones argentinas en el exterior'."
+        },
+        {
+            "label": "Justicia, seguridad y legales",
+            "id": "just",
+            "description": "Por ejemplo: 'Censo penitenciario'."
+        },
+        {
+            "label": "Regiones y ciudades",
+            "id": "regi",
+            "description": "Por ejemplo: 'Departamentos de la provincia de Río Negro'."
+        },
+        {
+            "label": "Población y sociedad",
+            "id": "soci",
+            "description": "Por ejemplo: 'Turistas residentes que viajan por Argentina'."
+        },
+        {
+            "label": "Ciencia y tecnología",
+            "id": "tech",
+            "description": "Por ejemplo: 'Recursos humanos en ciencia y tecnología'."
+        },
+        {
+            "label": "Transporte",
+            "id": "tran",
+            "description": "Por ejemplo: 'Estadísticas viales'."
         }
     ]
 }
