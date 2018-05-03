@@ -15,10 +15,10 @@
 
 - **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 1
-- **Cantidad Total de Distribuciones**: 0
+- **Cantidad Total de Datasets**: 2
+- **Cantidad Total de Distribuciones**: 23
 
-- **Cantidad de Datasets Federados**: 1
+- **Cantidad de Datasets Federados**: 2
 - **Cantidad de Datasets NO Federados**: 0
 - **Porcentaje de Datasets NO Federados**: 0.0%
 
@@ -33,6 +33,7 @@
 ## Datasets federados
 
 - [Solicitudes de Acceso a la Información Pública](http://www.mininterior.gov.ar/inicio/index.php)
+- [Nombres de personas físicas](http://http:/dataset/nombres-personas-fisicas)
 
 ## Reporte
 
