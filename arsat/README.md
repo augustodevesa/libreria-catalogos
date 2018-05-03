@@ -29,11 +29,11 @@
 ## Datasets no federados
 
 - [Registro de Visitas](None)
-- [Nodos próximos a conectarse al Plan Federal de Internet](None)
+- [Puntos próximos a conectarse al Plan Federal de Internet](None)
 - [Tráfico de Internet entrante y saliente](None)
 - [Cantidad Total de Megabits en servicio por provincia](None)
-- [Cantidad de clientes por provincia](None)
 - [Evolución de Cantidad Clientes y Megabits en servicio](None)
+- [Cantidad de clientes por provincia](None)
 - [Ausentismo - Total mensual de días por motivo de ausencia](None)
 - [Personal de ARSAT según zona laboral](None)
 - [Personal por Gerencia distinguido por género](None)
