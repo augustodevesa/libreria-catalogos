@@ -3,7 +3,7 @@
 
 ## Información General
 
-- **Autor**: Ministerio del Interior, Obras Públicas y Vivienda de la República Argentina
+- **Autor**: 
 - **Correo Electrónico**: info@mininterior.gov.ar
 - **Ruta del catálogo**: None
 - **Nombre del catálogo**: Datos Abiertos del Ministerio del Interior, Obras Publicas y Vivienda
@@ -14,9 +14,9 @@
 ## Estado de los metadatos y cantidad de recursos
 
 - **Estado metadatos globales**: ERROR
-- **Estado metadatos catálogo**: OK
+- **Estado metadatos catálogo**: ERROR
 - **Cantidad Total de Datasets**: 11
-- **Cantidad Total de Distribuciones**: 52
+- **Cantidad Total de Distribuciones**: 54
 
 - **Cantidad de Datasets Federados**: 0
 - **Cantidad de Datasets NO Federados**: 11
@@ -28,8 +28,8 @@
 
 ## Datasets no federados
 
-- [Solicitudes de Acceso a la Información Pública Año 2017](https://datos.mininterior.gob.ar/dataset/solicitudes-de-acceso-a-la-informacion-publica-ano-2017)
 - [Ingresos y Egresos de personas al pais y Residencias Otorgadas.](http://www.migraciones.gov.ar)
+- [Solicitudes de Acceso a la Información Pública Año 2017](https://datos.mininterior.gob.ar/dataset/solicitudes-de-acceso-a-la-informacion-publica-ano-2017)
 - [Plan Estratégico Territorial](http://www.mininterior.gob.ar/planificacion/plan-estrategico.php)
 - [Registro Único de Audiencias de Gestión de Intereses](https://audiencias.mininterior.gob.ar)
 - [Resultados Definitivos Elecciones PASO 2017](https://datos.mininterior.gob.ar/dataset/resultados-definitivos-elecciones-paso-2017)
