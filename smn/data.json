@@ -1,0 +1,865 @@
+{
+    "publisher": {
+        "mbox": "",
+        "name": "Ministerio de Defensa.  Servicio Meteorologico Nacional."
+    },
+    "license": "Open Database License (ODbL) v1.0",
+    "description": "Catálogo de datos abiertos del Servicio Meteorologico Nacional",
+    "language": [
+        "SPA"
+    ],
+    "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
+    "issued": "2017-12-20T00:00:00",
+    "rights": "http://www3.smn.gob.ar/dpd/PAD_legales.pdf",
+    "modified": "2017-12-20T00:00:00",
+    "themeTaxonomy": [
+        {
+            "id": "pronostico",
+            "description": "Pronostico trihorario por estación",
+            "label": "Pronostico"
+        },
+        {
+            "id": "dato_horario",
+            "description": "Datos meteorologicos horario por estación",
+            "label": "dato_meteorologico"
+        },
+        {
+            "id": "estado_tiempo"
+        },
+        {
+            "id": "obs_horaria"
+        },
+        {
+            "id": "temperatura_anual"
+        },
+        {
+            "id": "alertas_historico"
+        },
+        {
+            "id": "radiacion_solar"
+        },
+        {
+            "id": "estadistica"
+        },
+        {
+            "id": "mapa_estaciones"
+        }
+    ],
+    "spatial": "ARG",
+    "title": "Datos Meteorologicos",
+    "dataset": [
+        {
+            "issued": "2018-03-15",
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ENVI"
+            ],
+            "title": "Prónostico del Tiempo a 5 días",
+            "temporal": "1993-01-01/2013-09-30",
+            "source": "Ministerio de Defensa. Servicio Meteorologico Nacional.",
+            "theme": [
+                "pronostico_5d"
+            ],
+            "spatial": "ARG",
+            "description": "Pronóstico  a 5 días de temperatura, viento y precipitación para varias localidades del país.",
+            "contactPoint": {
+                "hasEmail": "datosabiertos@smn.gob.ar",
+                "fn": "CIM"
+            },
+            "landingPage": "https://www.smn.gob.ar/descarga-de-datos",
+            "publisher": {
+                "mbox": "datosabiertos@smn.gob.ar",
+                "name": "Ministerio de Defensa.  Servicio Meteorologico Nacional."
+            },
+            "keyword": [
+                "pronostico",
+                "estacion",
+                "temperatura",
+                "viento",
+                "precipitacion"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "modified": "2018-03-15",
+            "accrualPeriodicity": "R/P1D",
+            "distribution": [
+                {
+                    "accessURL": "https://www.smn.gob.ar/descarga-de-datos",
+                    "downloadURL": "https://ssl.smn.gob.ar/dpd/zipopendata.php?dato=pron5d",
+                    "description": "Pronostico de temperatura, viento y precipitación, a cinco dias, por estación",
+                    "title": "Prónostico del Tiempo a 5 días",
+                    "issued": "2018-03-15",
+                    "format": "ZIP",
+                    "rights": "http://www3.smn.gob.ar/dpd/PAD_legales.pdf",
+                    "modified": "2018-03-15",
+                    "field": [
+                        {
+                            "description": "estacion emisora",
+                            "title": "estacion",
+                            "type": "char"
+                        },
+                        {
+                            "description": "fecha correspondiente al día pronosticado",
+                            "title": "fecha",
+                            "type": "date",
+                            "units": "dd/mm/aaaa"
+                        },
+                        {
+                            "description": "hora de inicio correspondiente al pronóstico trihorario",
+                            "title": "hora",
+                            "type": "timestamp",
+                            "units": "hs"
+                        },
+                        {
+                            "description": "temperatura pronosticada",
+                            "title": "temperatura",
+                            "type": "number",
+                            "units": "grados celcius"
+                        },
+                        {
+                            "description": "dirección pronosticada del viento",
+                            "title": "viento_intensidad",
+                            "type": "number",
+                            "units": "gr"
+                        },
+                        {
+                            "description": "velocidad pronosticada del viento",
+                            "title": "viento_direccion",
+                            "type": "number",
+                            "units": "km/h"
+                        },
+                        {
+                            "description": "cantidad de precipitacion pronosticada",
+                            "title": "precipitacion",
+                            "type": "number",
+                            "units": "mm"
+                        }
+                    ],
+                    "identifier": "1.1"
+                }
+            ],
+            "identifier": "1"
+        },
+        {
+            "issued": "2018-03-15",
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ENVI"
+            ],
+            "title": "Datos meteorológicos horarios",
+            "source": "Ministerio de Defensa. Servicio Meteorologico Nacional.",
+            "theme": [
+                "temperatura_presion_humedad_viento_diario"
+            ],
+            "spatial": "ARG",
+            "description": "Datos de temperatura, presión, viento y humedad de las estaciones meteorológicas de superficie de todo el país.",
+            "contactPoint": {
+                "hasEmail": "datosabiertos@smn.gob.ar",
+                "fn": "CIM"
+            },
+            "landingPage": "https://www.smn.gob.ar/descarga-de-datos",
+            "distribution": [
+                {
+                    "accessURL": "https://www.smn.gob.ar/descarga-de-datos",
+                    "downloadURL": "https://ssl.smn.gob.ar/dpd/zipopendata.php?dato=datohorario",
+                    "description": "Datos de temperatura, presión, viento y humedad de las estaciones meteorológicas de todo el país.",
+                    "title": "Datos meteorológicos horarios",
+                    "issued": "2018-03-15",
+                    "format": "ZIP",
+                    "rights": "http://www3.smn.gob.ar/dpd/PAD_legales.pdf",
+                    "modified": "2018-03-15",
+                    "field": [
+                        {
+                            "description": "estación meteorológica emisora",
+                            "title": "estacion",
+                            "type": "char"
+                        },
+                        {
+                            "description": "fecha de obtención del dato",
+                            "title": "fecha",
+                            "type": "date",
+                            "units": "ddmmaaaa"
+                        },
+                        {
+                            "description": "hora de obtención del dato",
+                            "title": "hora",
+                            "type": "timestamp",
+                            "units": "hs"
+                        },
+                        {
+                            "description": "temperatura medida",
+                            "title": "temperatura",
+                            "type": "number",
+                            "units": "grados celcius"
+                        },
+                        {
+                            "description": "presión medida",
+                            "title": "presion",
+                            "type": "number",
+                            "units": "hectopascal"
+                        },
+                        {
+                            "description": "humedad calculada",
+                            "title": "humedad_relativa",
+                            "type": "number",
+                            "units": "porcentaje"
+                        },
+                        {
+                            "description": "intensidad medida del viento",
+                            "title": "viento_intensidad",
+                            "type": "number",
+                            "units": "km/hr"
+                        },
+                        {
+                            "description": "dirección medida del viento",
+                            "title": "viento_direccion",
+                            "type": "number",
+                            "units": "gr"
+                        }
+                    ],
+                    "identifier": "2.1"
+                }
+            ],
+            "publisher": {
+                "mbox": "datosabiertos@smn.gob.ar",
+                "name": "Ministerio de Defensa.  Servicio Meteorologico Nacional."
+            },
+            "keyword": [
+                "temperatura",
+                "presion",
+                "viento",
+                "humedad",
+                "direccion",
+                "intensidad",
+                "diario",
+                "estacion",
+                "meteorológico",
+                "horarios"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "modified": "2018-03-15",
+            "accrualPeriodicity": "R/P1D",
+            "identifier": "2"
+        },
+        {
+            "issued": "2018-03-15",
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ENVI"
+            ],
+            "title": "Estado del Tiempo presente",
+            "source": "Ministerio de Defensa. Servicio Meteorologico Nacional.",
+            "theme": [
+                "estado_del_tiempo"
+            ],
+            "spatial": "ARG",
+            "description": "Último registro de las variables meterológicas medidas en la red del SMN",
+            "contactPoint": {
+                "hasEmail": "datosabiertos@smn.gob.ar",
+                "fn": "CIM"
+            },
+            "landingPage": "https://www.smn.gob.ar/descarga-de-datos",
+            "distribution": [
+                {
+                    "accessURL": "https://www.smn.gob.ar/descarga-de-datos",
+                    "downloadURL": "https://ssl.smn.gob.ar/dpd/zipopendata.php?dato=tiepre",
+                    "description": "Último registro de las variables meterológicas medidas en la red del SMN",
+                    "title": "Estado del Tiempo presente",
+                    "issued": "2018-03-15",
+                    "format": "ZIP",
+                    "rights": "http://www3.smn.gob.ar/dpd/PAD_legales.pdf",
+                    "modified": "2018-03-15",
+                    "field": [
+                        {
+                            "description": "estacion emisora",
+                            "title": "estacion",
+                            "type": "char"
+                        },
+                        {
+                            "description": "fecha de obtención del dato",
+                            "title": "fecha",
+                            "type": "date",
+                            "units": "dd/mm/aaaa"
+                        },
+                        {
+                            "description": "hora de obtención del dato",
+                            "title": "hora",
+                            "type": "timestamp",
+                            "units": "hs"
+                        },
+                        {
+                            "description": "temperatura correspondiente a la hora de obtención del dato",
+                            "title": "temperatura",
+                            "type": "number",
+                            "units": "grados celcius"
+                        },
+                        {
+                            "description": "estado del cielo nublado, despejado, parcialmente nublado, etc.",
+                            "title": "estado_nuboso",
+                            "type": "char"
+                        },
+                        {
+                            "description": "alcance de la visión humana",
+                            "title": "visibilidad",
+                            "type": "number",
+                            "units": "porcentaje"
+                        },
+                        {
+                            "description": "dato calculado",
+                            "title": "sensasion_termica",
+                            "type": "number",
+                            "units": "grados celcius"
+                        },
+                        {
+                            "description": "humedad calculada",
+                            "title": "humedad_relativa",
+                            "type": "number",
+                            "units": "porcentaje"
+                        },
+                        {
+                            "description": "intensidad medida del viento",
+                            "title": "viento_intensidad",
+                            "type": "number",
+                            "units": "km/hr"
+                        },
+                        {
+                            "description": "dirección medida del viento",
+                            "title": "viento_direccion",
+                            "type": "char",
+                            "units": "punto cardinal"
+                        },
+                        {
+                            "description": "presión medida",
+                            "title": "presion_superficie",
+                            "type": "number",
+                            "units": "hectopascal"
+                        }
+                    ],
+                    "identifier": "3.1"
+                }
+            ],
+            "publisher": {
+                "mbox": "datosabiertos@smn.gob.ar",
+                "name": "Ministerio de Defensa.  Servicio Meteorologico Nacional."
+            },
+            "keyword": [
+                "tiempo",
+                "estado",
+                "presente",
+                ""
+            ],
+            "language": [
+                "SPA"
+            ],
+            "modified": "2018-03-15",
+            "accrualPeriodicity": "R/PT1H",
+            "identifier": "3"
+        },
+        {
+            "issued": "2018-03-15",
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ENVI"
+            ],
+            "title": "Observaciones diarias de Temperaturas Extremas",
+            "source": "Ministerio de Defensa. Servicio Meteorologico Nacional.",
+            "theme": [
+                "mediciones_meteorologicas"
+            ],
+            "spatial": "ARG",
+            "description": "Datos diarios  de temperatura mínima y máxima de las estaciones meteorológicas de superficie de  todo el país",
+            "contactPoint": {
+                "hasEmail": "datosabiertos@smn.gob.ar",
+                "fn": "CIM"
+            },
+            "landingPage": "https://www.smn.gob.ar/descarga-de-datos",
+            "distribution": [
+                {
+                    "accessURL": "https://www.smn.gob.ar/descarga-de-datos",
+                    "downloadURL": "https://ssl.smn.gob.ar/dpd/zipopendata.php?dato=observaciones",
+                    "description": "Datos de las estaciones meteorológicas de todo el país de temperatura mínima y máxima",
+                    "title": "Observaciones diarias de Temperaturas Extremas",
+                    "issued": "2018-03-15",
+                    "format": "ZIP",
+                    "rights": "http://www3.smn.gob.ar/dpd/PAD_legales.pdf",
+                    "modified": "2018-03-15",
+                    "field": [
+                        {
+                            "description": "fecha de obtención del dato",
+                            "title": "fecha",
+                            "type": "date",
+                            "units": "ddmmaaaa"
+                        },
+                        {
+                            "description": "temperatura máxima observada",
+                            "title": "tmax",
+                            "type": "number",
+                            "units": "grados celcius"
+                        },
+                        {
+                            "description": "temperatura máxima observada",
+                            "title": "tmin",
+                            "type": "number",
+                            "units": "grados celcius"
+                        },
+                        {
+                            "description": "estacion emisora del dato observado",
+                            "title": "estacion",
+                            "type": "char"
+                        }
+                    ],
+                    "identifier": "4.1"
+                }
+            ],
+            "publisher": {
+                "mbox": "datosabiertos@smn.gob.ar",
+                "name": "Ministerio de Defensa.  Servicio Meteorologico Nacional."
+            },
+            "keyword": [
+                "mediciones",
+                "temperatura",
+                "máxima",
+                "temperatura",
+                "mínima",
+                "estacion"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "modified": "2018-03-15",
+            "accrualPeriodicity": "R/P1D",
+            "identifier": "4"
+        },
+        {
+            "issued": "2018-03-15",
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ENVI"
+            ],
+            "title": "Registro de Temperatura (365 días)",
+            "source": "Ministerio de Defensa. Servicio Meteorologico Nacional.",
+            "theme": [
+                "temperatura_ultimo_año"
+            ],
+            "spatial": "ARG",
+            "description": "Temperaturas máximas y mínimas diarias registradas durante el último año (365 días).",
+            "contactPoint": {
+                "hasEmail": "datosabiertos@smn.gob.ar",
+                "fn": "CIM"
+            },
+            "landingPage": "https://www.smn.gob.ar/descarga-de-datos",
+            "distribution": [
+                {
+                    "accessURL": "https://www.smn.gob.ar/descarga-de-datos",
+                    "downloadURL": "https://ssl.smn.gob.ar/dpd/zipopendata.php?dato=regtemp",
+                    "description": "Temperaturas máximas y mínimas diarias registradas durante el último año (365 días).",
+                    "title": "Registro de Temperatura (365 días)",
+                    "issued": "2018-03-15",
+                    "format": "ZIP",
+                    "rights": "http://www3.smn.gob.ar/dpd/PAD_legales.pdf",
+                    "modified": "2018-03-15",
+                    "field": [
+                        {
+                            "description": "fecha de observación del dato",
+                            "title": "fecha",
+                            "type": "date",
+                            "units": "ddmmaaaa"
+                        },
+                        {
+                            "description": "temperatura máxima observada",
+                            "title": "tmax",
+                            "type": "number",
+                            "units": "grados celcius"
+                        },
+                        {
+                            "description": "temperatura mínima observada",
+                            "title": "tmin",
+                            "type": "number",
+                            "units": "grados celcius"
+                        },
+                        {
+                            "description": "estacion de observación del dato",
+                            "title": "estacion",
+                            "type": "char"
+                        }
+                    ],
+                    "identifier": "5.1"
+                }
+            ],
+            "publisher": {
+                "mbox": "datosabiertos@smn.gob.ar",
+                "name": "Ministerio de Defensa.  Servicio Meteorologico Nacional."
+            },
+            "keyword": [
+                "temperatura",
+                "maxima",
+                "minima",
+                "estacion",
+                "anual"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "modified": "2018-03-15",
+            "accrualPeriodicity": "R/P1D",
+            "identifier": "5"
+        },
+        {
+            "issued": "2018-03-15",
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ENVI"
+            ],
+            "title": "Alertas Meteorológicas (365 días)",
+            "source": "Ministerio de Defensa. Servicio Meteorologico Nacional.",
+            "theme": [
+                "alertas_historico"
+            ],
+            "spatial": "ARG",
+            "description": "Advertencias sobre fenómenos meteorológicos significativos que pueden poner en riesgo la vida de la población en los últimos 365 días.",
+            "contactPoint": {
+                "hasEmail": "datosabiertos@smn.gob.ar",
+                "fn": "CIM"
+            },
+            "landingPage": "https://www.smn.gob.ar/descarga-de-datos",
+            "distribution": [
+                {
+                    "accessURL": "https://www.smn.gob.ar/descarga-de-datos",
+                    "downloadURL": "https://ssl.smn.gob.ar/dpd/zipopendata.php?dato=alertas",
+                    "description": "Advertencias sobre fenómenos meteorológicos significativos que pueden poner en riesgo la vida de la población.",
+                    "title": "Alertas Meteorológicas (365 días)",
+                    "issued": "2018-03-15",
+                    "format": "ZIP",
+                    "rights": "http://www3.smn.gob.ar/dpd/PAD_legales.pdf",
+                    "modified": "2018-03-15",
+                    "field": [
+                        {
+                            "description": "fecha y hora-minuto de observación del dato",
+                            "title": "fecha_hora",
+                            "type": "timestamp",
+                            "units": "aaa/mm/dd + hh:mm"
+                        },
+                        {
+                            "description": "número de alerta",
+                            "title": "numero",
+                            "type": "number"
+                        },
+                        {
+                            "description": "zona de cobertura de un alerta",
+                            "title": "zona",
+                            "type": "char"
+                        },
+                        {
+                            "description": "tipo de evento meteorológico",
+                            "title": "fenomeno",
+                            "type": "char"
+                        },
+                        {
+                            "description": "descripción del fenómeno",
+                            "title": "situacion",
+                            "type": "char"
+                        },
+                        {
+                            "description": "hora de actualización",
+                            "title": "hora",
+                            "type": "timestamp",
+                            "units": "hh:mm"
+                        }
+                    ],
+                    "identifier": "6.1"
+                }
+            ],
+            "publisher": {
+                "mbox": "datosabiertos@smn.gob.ar",
+                "name": "Ministerio de Defensa.  Servicio Meteorologico Nacional."
+            },
+            "keyword": [
+                "alerta",
+                "historico",
+                "fenómenos",
+                "tormentas",
+                "lluvias",
+                "zona"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "modified": "2018-03-15",
+            "accrualPeriodicity": "R/P1D",
+            "identifier": "6"
+        },
+        {
+            "issued": "2018-03-15",
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ENVI"
+            ],
+            "title": "Radiación Solar",
+            "source": "Ministerio de Defensa. Servicio Meteorologico Nacional.",
+            "theme": [
+                "radiacion_solar"
+            ],
+            "spatial": "ARG",
+            "description": "Datos que se obtienen mediante la medición de la radiación solar y su interacción con la atmósfera",
+            "contactPoint": {
+                "hasEmail": "datosabiertos@smn.gob.ar",
+                "fn": "CIM"
+            },
+            "landingPage": "https://www.smn.gob.ar/descarga-de-datos",
+            "distribution": [
+                {
+                    "accessURL": "https://www.smn.gob.ar/descarga-de-datos",
+                    "downloadURL": "https://ssl.smn.gob.ar/dpd/zipopendata.php?dato=radsolar",
+                    "description": "Datos que se obtienen mediante la medición de la radiación solar y su interacción con la atmósfera",
+                    "title": "Radiación Solar",
+                    "issued": "2018-03-15",
+                    "format": "ZIP",
+                    "rights": "http://www3.smn.gob.ar/dpd/PAD_legales.pdf",
+                    "modified": "2018-03-15",
+                    "field": [
+                        {
+                            "description": "fecha y hora-minuto de observación del dato",
+                            "title": "fecha_hora",
+                            "type": "timestamp",
+                            "units": "aaa-mm-dd + hh:mm:ss"
+                        },
+                        {
+                            "description": "estacion que mide la radiación global",
+                            "title": "global",
+                            "type": "number",
+                            "units": "nombre + w/m2"
+                        },
+                        {
+                            "description": "estacion que mide la radiación difusa",
+                            "title": "difusa",
+                            "type": "number",
+                            "units": "nombre + w/m2"
+                        }
+                    ],
+                    "identifier": "7.1"
+                }
+            ],
+            "publisher": {
+                "mbox": "datosabiertos@smn.gob.ar",
+                "name": "Ministerio de Defensa.  Servicio Meteorologico Nacional."
+            },
+            "keyword": [
+                "radiacion",
+                "solar",
+                "difusa",
+                "global"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "modified": "2018-03-15",
+            "accrualPeriodicity": "R/P1D",
+            "identifier": "7"
+        },
+        {
+            "issued": "2018-03-15",
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ENVI"
+            ],
+            "title": "Estadísticas Climáticas Normales",
+            "source": "Ministerio de Defensa. Servicio Meteorologico Nacional.",
+            "theme": [
+                "estadistica_climatica"
+            ],
+            "spatial": "ARG",
+            "description": "Estadísticas climatológicas normales del período 1981-2010, valores medios mensuales de: Temperatura, Temperatura máxima, Temperatura mínima, Humedad relativa, Velocidad del viento, Nubosidad total, Frecuencia de días con precipitación superior a 0.1 mm y Precipitación.",
+            "contactPoint": {
+                "hasEmail": "datosabiertos@smn.gob.ar",
+                "fn": "CIM"
+            },
+            "landingPage": "https://www.smn.gob.ar/descarga-de-datos",
+            "distribution": [
+                {
+                    "accessURL": "https://www.smn.gob.ar/descarga-de-datos",
+                    "downloadURL": "https://ssl.smn.gob.ar/dpd/observaciones/estadisticas.txt",
+                    "description": "Estadísticas climatológicas normales del período 1981-2010, valores medios mensuales de: Temperatura, Temperatura máxima, Temperatura mínima, Humedad relativa, Velocidad del viento, Nubosidad total, Frecuencia de días con precipitación superior a 0.1 mm y Precipitación.",
+                    "title": "Estadísticas Climáticas Normales",
+                    "issued": "2018-03-15",
+                    "format": "TXT",
+                    "rights": "http://www3.smn.gob.ar/dpd/PAD_legales.pdf",
+                    "modified": "2018-03-15",
+                    "field": [
+                        {
+                            "description": "estación meteorológica emisora",
+                            "title": "estacion",
+                            "type": "char"
+                        },
+                        {
+                            "description": "mes de obtención de la estadística",
+                            "title": "mes",
+                            "type": "char"
+                        },
+                        {
+                            "description": "temperatura media",
+                            "title": "temperatura",
+                            "type": "number",
+                            "units": "grados celcius"
+                        },
+                        {
+                            "description": "temperatura máxima media",
+                            "title": "temp_max",
+                            "type": "number",
+                            "units": "grados celcius"
+                        },
+                        {
+                            "description": "temperatura mínima media",
+                            "title": "temp_min",
+                            "type": "number",
+                            "units": "grados celcius"
+                        },
+                        {
+                            "description": "humedad relativa media",
+                            "title": "humedad",
+                            "type": "number",
+                            "units": "%"
+                        },
+                        {
+                            "description": "velocidad media del viento",
+                            "title": "velocidad_viento",
+                            "type": "number",
+                            "units": "km/h"
+                        },
+                        {
+                            "description": "nubosidad total media",
+                            "title": "nubosidad",
+                            "type": "number",
+                            "units": "octavos"
+                        },
+                        {
+                            "description": "precipitación media",
+                            "title": "precipitacion",
+                            "type": "number",
+                            "units": "mm"
+                        },
+                        {
+                            "description": "Frecuencia de días con Precipitación superior a 0.1 mm",
+                            "title": "frecuencia_precip_01",
+                            "type": "number"
+                        }
+                    ],
+                    "identifier": "8.1"
+                }
+            ],
+            "publisher": {
+                "mbox": "datosabiertos@smn.gob.ar",
+                "name": "Ministerio de Defensa.  Servicio Meteorologico Nacional."
+            },
+            "keyword": [
+                "estadistica",
+                "clima",
+                "normales",
+                "temperatura",
+                "humedad",
+                "presión",
+                "nubosidad",
+                "precipitación",
+                ""
+            ],
+            "language": [
+                "SPA"
+            ],
+            "modified": "2018-03-15",
+            "accrualPeriodicity": "EVENTUAL",
+            "identifier": "8"
+        },
+        {
+            "issued": "2018-03-15",
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ENVI"
+            ],
+            "title": "Listado de Estaciones Meteorológicas del SMN",
+            "source": "Ministerio de Defensa. Servicio Meteorologico Nacional.",
+            "theme": [
+                "datos_estaciones_smn"
+            ],
+            "spatial": "ARG",
+            "description": "Listado de las estaciones meteorológicas según su nombre, provincia, latitud, longitud, altura, Número y Número OACI.",
+            "contactPoint": {
+                "hasEmail": "datosabiertos@smn.gob.ar",
+                "fn": "CIM"
+            },
+            "landingPage": "https://www.smn.gob.ar/descarga-de-datos",
+            "distribution": [
+                {
+                    "accessURL": "https://www.smn.gob.ar/descarga-de-datos",
+                    "downloadURL": "https://ssl.smn.gob.ar/dpd/zipopendata.php?dato=estaciones",
+                    "description": "Listado de las estaciones meteorológicas según su nombre, provincia, latitud, longitud, altura, Número y Número OACI.",
+                    "title": "Listado de Estaciones Meteorológicas del SMN",
+                    "issued": "2018-03-15",
+                    "format": "ZIP",
+                    "rights": "http://www3.smn.gob.ar/dpd/PAD_legales.pdf",
+                    "modified": "2018-03-15",
+                    "field": [
+                        {
+                            "description": "nombre de la estación",
+                            "title": "estacion",
+                            "type": "char"
+                        },
+                        {
+                            "description": "provincia donde se ubica la estación",
+                            "title": "provincia",
+                            "type": "char"
+                        },
+                        {
+                            "description": "latitud donde se ubica la estación",
+                            "title": "latitud",
+                            "type": "number",
+                            "units": "gr | min"
+                        },
+                        {
+                            "description": "longitud donde se ubica la estación",
+                            "title": "longitud",
+                            "type": "number",
+                            "units": "gr | min"
+                        },
+                        {
+                            "description": "altura a nivel del mar",
+                            "title": "altura",
+                            "type": "number",
+                            "units": "m"
+                        },
+                        {
+                            "description": "número asignado en la red SMN",
+                            "title": "nro_estacion",
+                            "type": "number"
+                        },
+                        {
+                            "description": "número asignado según código OACI",
+                            "title": "nro_oaci",
+                            "type": "char"
+                        }
+                    ],
+                    "identifier": "9.1"
+                }
+            ],
+            "publisher": {
+                "mbox": "datosabiertos@smn.gob.ar",
+                "name": "Ministerio de Defensa.  Servicio Meteorologico Nacional."
+            },
+            "keyword": [
+                "estaciones",
+                "latitud",
+                "longitud",
+                "provincia",
+                "OACI",
+                "nro_estacion"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "modified": "2018-03-15",
+            "accrualPeriodicity": "R/P1D",
+            "identifier": "9"
+        }
+    ]
+}
