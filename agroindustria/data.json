@@ -18,7 +18,7 @@
             "title": "Precio diario internacional de azúcar",
             "issued": "2017-08-02T15:05:21.745929",
             "temporal": "2011-01-04T03:00:00.000Z/2017-03-03T03:00:00.000Z",
-            "modified": "2018-04-25T11:48:20.661174",
+            "modified": "2018-05-03T12:24:19.815533",
             "language": [
                 "spa"
             ],
@@ -47,7 +47,7 @@
                     "title": "Precio diario en el mercado de Londres - Contrato N°5",
                     "issued": "2017-08-02T15:20:52.975191",
                     "format": "CSV",
-                    "modified": "2018-04-25T11:48:04.311154",
+                    "modified": "2018-05-03T12:23:57.374960",
                     "downloadURL": "https://datos.agroindustria.gob.ar/dataset/85337517-8ec6-415b-937a-40b91f88fce8/resource/a650e0e6-7e68-4a09-82ce-bc3bb8a405b3/download/preciobolsadelondres.csv"
                 },
                 {
@@ -57,11 +57,105 @@
                     "title": "Precio diario en el mercado de New York - Contrato N° 11",
                     "issued": "2017-08-02T15:22:17.372773",
                     "format": "CSV",
-                    "modified": "2018-04-25T11:48:20.629845",
+                    "modified": "2018-05-03T12:24:19.798613",
                     "downloadURL": "https://datos.agroindustria.gob.ar/dataset/85337517-8ec6-415b-937a-40b91f88fce8/resource/cf9ae133-0923-40c2-b903-70a5bc17268b/download/preciobolsadenewyork.csv"
                 }
             ],
             "landingPage": "https://datos.agroindustria.gob.ar/dataset/precio-diario-de-azucar"
+        },
+        {
+            "publisher": {
+                "mbox": "sma@magyp.gob.ar",
+                "name": "Subsecretaría de Mercados Agropecuarios"
+            },
+            "identifier": "9a532501-3d40-4199-960f-06f5b24e3ab8",
+            "description": "Ingreso de granos de soja a la industria aceitera y balanceadora. Productos y subproductos de la industria aceitera.",
+            "license": "Creative Commons Attribution",
+            "title": "Soja con destino a la industria",
+            "issued": "2018-04-26T18:20:57.255711",
+            "modified": "2018-04-26T18:56:37.861925",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "Producción Agroindustrial"
+            ],
+            "keyword": [
+                "Argentina",
+                "aceite de soja",
+                "aceitero",
+                "año",
+                "balanceador",
+                "destino",
+                "expellers",
+                "grano de soja",
+                "industria",
+                "industria aceitera",
+                "industrial aceitero",
+                "industrial balanceador",
+                "pellets",
+                "producto",
+                "soja",
+                "tonelada",
+                "toneladas"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "superTheme": [
+                "AGRI"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/9a532501-3d40-4199-960f-06f5b24e3ab8/archivo/c478d436-dbbe-4fee-bbb6-88512d1ce43a",
+                    "description": "Granos de soja en toneladas que ingresan a la industria aceitera.",
+                    "license": "cc-by",
+                    "title": "Ingreso de soja a la industria aceitera",
+                    "issued": "2018-04-26T18:23:06.849885",
+                    "format": "CSV",
+                    "modified": "2018-04-26T18:23:06.780572",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/9a532501-3d40-4199-960f-06f5b24e3ab8/resource/c478d436-dbbe-4fee-bbb6-88512d1ce43a/download/ingreso-de-soja-a-la-industria-aceitera.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/9a532501-3d40-4199-960f-06f5b24e3ab8/archivo/6e247ba4-a45e-4d20-8efb-c4ac50ab429e",
+                    "description": "Granos de soja en toneladas que ingresan a la industria balanceadora.",
+                    "license": "cc-by",
+                    "title": "Ingreso de soja a la industria balanceadora",
+                    "issued": "2018-04-26T18:23:49.197297",
+                    "format": "CSV",
+                    "modified": "2018-04-26T18:23:49.121096",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/9a532501-3d40-4199-960f-06f5b24e3ab8/resource/6e247ba4-a45e-4d20-8efb-c4ac50ab429e/download/ingreso-de-soja-a-la-industria-balanceadora.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/9a532501-3d40-4199-960f-06f5b24e3ab8/archivo/47679960-b555-456e-a78c-ea52b9603ce2",
+                    "description": "Detalle mensual de la producción de aceite de soja en toneladas.",
+                    "license": "cc-by",
+                    "title": "Producción de aceite de soja",
+                    "issued": "2018-04-26T18:24:30.485716",
+                    "format": "CSV",
+                    "modified": "2018-04-26T18:24:30.395127",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/9a532501-3d40-4199-960f-06f5b24e3ab8/resource/47679960-b555-456e-a78c-ea52b9603ce2/download/produccion-de-aceite-de-soja.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/9a532501-3d40-4199-960f-06f5b24e3ab8/archivo/500b1d2e-5788-41a4-9533-115424ade577",
+                    "description": "Detalle mensual de la producción de pellets de soja en toneladas",
+                    "license": "cc-by",
+                    "title": "Producción de pellets de soja",
+                    "issued": "2018-04-26T18:25:09.842953",
+                    "format": "CSV",
+                    "modified": "2018-04-26T18:25:09.761776",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/9a532501-3d40-4199-960f-06f5b24e3ab8/resource/500b1d2e-5788-41a4-9533-115424ade577/download/produccion-de-pellets-de-soja.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/9a532501-3d40-4199-960f-06f5b24e3ab8/archivo/71147641-184e-4705-9777-621f5d196013",
+                    "description": "Detalle mensual de la producción de expellers de soja en toneladas.",
+                    "license": "cc-by",
+                    "title": "Producción de expellers de soja",
+                    "issued": "2018-04-26T18:25:52.398510",
+                    "format": "CSV",
+                    "modified": "2018-04-26T18:25:52.313656",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/9a532501-3d40-4199-960f-06f5b24e3ab8/resource/71147641-184e-4705-9777-621f5d196013/download/produccion-de-expellers-de-soja.csv"
+                }
+            ],
+            "landingPage": "Dirección Nacional de Matriculación y Fiscalización"
         },
         {
             "publisher": {
