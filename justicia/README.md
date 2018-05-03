@@ -13,7 +13,7 @@
 
 ## Estado de los metadatos y cantidad de recursos
 
-- **Estado metadatos globales**: ERROR
+- **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
 - **Cantidad Total de Datasets**: 39
 - **Cantidad Total de Distribuciones**: 119
@@ -33,7 +33,7 @@
 - [IGJ. Autoridades genero]()
 - [Inscripciones iniciales de autos](http://www.dnrpa.gov.ar)
 - [Línea Nacional 0800-222-1717 contra el abuso sexual infantil]()
-- [Listado de Registros Seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios](http://www.dnrpa.gov.ar)
+- [Registros Seccionales de la Propiedad Automotor](http://www.dnrpa.gov.ar)
 - [Lucha contra la trata de personas - Llamados línea 145]()
 - [Solicitudes de acceso a la información pública en el Ministerio de Justicia y Derechos Humanos]()
 - [Transferencias de autos](http://www.dnrpa.gov.ar)
