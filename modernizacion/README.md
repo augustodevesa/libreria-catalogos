@@ -13,7 +13,7 @@
 
 ## Estado de los metadatos y cantidad de recursos
 
-- **Estado metadatos globales**: ERROR
+- **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
 - **Cantidad Total de Datasets**: 6
 - **Cantidad Total de Distribuciones**: 35
@@ -32,11 +32,11 @@
 
 ## Datasets federados
 
-- [Estructura Orgánica y Autoridades del Poder Ejecutivo Nacional](http://mapadelestado.modernizacion.gob.ar)
+- [Base de Series de Tiempo de la Administración Pública Nacional](http://datos.gob.ar/dataset/base-series-tiempo-administracion-publica-nacional)
 - [Sistema de Contrataciones Electrónicas  (Argentina Compra)](https://www.argentinacompra.gov.ar/contrataciones)
 - [Registro Central de Personas Contratadas](http://www.sgp.gob.ar/sitio/empleo/regimenes/contratados/listadocontratados/todos_los_contratos_mensuales/index_main_rcpc.html)
 - [Planes de Apertura de Datos](https://datosgobar.github.io/pad)
-- [Base de Series de Tiempo de la Administración Pública Nacional](http://datos.gob.ar/dataset/base-series-tiempo-administracion-publica-nacional)
+- [Estructura Orgánica y Autoridades del Poder Ejecutivo Nacional](http://mapadelestado.modernizacion.gob.ar)
 
 ## Reporte
 
