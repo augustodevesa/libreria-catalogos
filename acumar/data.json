@@ -1,7 +1,7 @@
 {
     "publisher": {
         "mbox": "contacto@acumar.gob.ar",
-        "name": ""
+        "name": "Autoridad de Cuenca Matanza Riachuelo"
     },
     "license": "",
     "description": "Ponemos a tu alcance datos públicos de ACUMAR en formatos abiertos para que puedas usarlos, modificarlos y compartirlos",
@@ -67,6 +67,525 @@
     "spatial": [],
     "title": "Autoridad de Cuenca Matanza Riachuelo",
     "dataset": [
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Coordinación de Calidad Ambiental"
+            },
+            "identifier": "ecb477bd-9647-4494-b1a7-7097938398f3",
+            "description": "Datos correspondientes al Índice de Calidad de Agua Superficial (ICA) del Sistema de Medición adoptado por la Autoridad de Cuenca Matanza Riachuelo (ACUMAR). Incluye nombre, identificación y ubicación geográfica de las estaciones de monitoreo y el resultado del ICA actualizado en Octubre de 2017.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Indicador N° 2 - Índice de Calidad de Agua Superficial (ICA) - ACUMAR",
+            "issued": "2018-04-27T14:18:43.973092",
+            "modified": "2018-05-02T13:54:11.192939",
+            "theme": [
+                "eje-ambiental",
+                "sistema-indicadores",
+                "monitoreo"
+            ],
+            "keyword": [
+                "calidad ambiental",
+                "calidad de agua",
+                "control",
+                "monitoreo"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "spatial": [
+                "None"
+            ],
+            "superTheme": [
+                "ENVI"
+            ],
+            "contactPoint": {
+                "hasEmail": "prensa@acumar.gov.ar",
+                "fn": "Coordinación de Comunicación y Prensa"
+            },
+            "landingPage": "http://datos.acumar.gob.ar/dataset/indicador-n-2-indice-de-calidad-de-agua-superficial-ica-acumar",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/indicador-n-2-indice-de-calidad-de-agua-superficial-ica-acumar/resource/ebcee818-3169-4cea-b55d-e34538e48bb4",
+                    "description": "Detalle del Índice de Calidad de Agua Superficial - ICA",
+                    "license": "cc-by",
+                    "title": "Indicador N° 2 - Índice de Calidad de Agua Superficial - ICA",
+                    "issued": "2018-04-27T14:23:11.122591",
+                    "format": "CSV",
+                    "modified": "2018-04-27T14:23:11.072717",
+                    "fileName": "ica-2017-10",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/ecb477bd-9647-4494-b1a7-7097938398f3/resource/ebcee818-3169-4cea-b55d-e34538e48bb4/download/indicador-2-calidad-agua.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Número que identifica a las estaciones de monitoreo",
+                            "title": "id_em"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre que identifica a las estaciones de monitoreo",
+                            "title": "em_nombre"
+                        },
+                        {
+                            "type": "any",
+                            "description": "Latitud en la cual se encuentra la estación de monitoreo",
+                            "title": "em_latitud"
+                        },
+                        {
+                            "type": "any",
+                            "description": "Longitud en la que se encuentra la estación de monitoreo",
+                            "title": "em_longitud"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Valor del índice de calidad de agua",
+                            "title": "ica"
+                        }
+                    ],
+                    "identifier": "ebcee818-3169-4cea-b55d-e34538e48bb4"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "amilcarlopez@acumar.gov.ar, infopublica@acumar.gov.ar",
+                "name": "Coordinación de Documentación y Acceso a la Información"
+            },
+            "identifier": "e75a263a-e356-44ef-bef3-50ac1e3e80ae",
+            "description": "Datos correspondientes a las solicitudes de Información Pública recibidas por ACUMAR desde Enero 2018.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Solicitudes de Información Pública 2018 - ACUMAR",
+            "issued": "2018-04-04T18:31:43.497773",
+            "modified": "2018-04-26T14:45:13.656497",
+            "theme": [
+                "transparencia"
+            ],
+            "keyword": [
+                "acceso a la información",
+                "información pública",
+                "transparencia"
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "superTheme": [
+                "ENVI",
+                "GOVE"
+            ],
+            "contactPoint": {},
+            "landingPage": "http://datos.acumar.gob.ar/dataset/",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/5eaefaec-7909-45ac-a720-7a9cffe816f4",
+                    "description": "Detalle de los pedidos de acceso a la información pública recibidos por la Autoridad de Cuenca durante el 2018. Fecha de recepción, causante, fecha de respuesta, manda a la que pertenece y descripción",
+                    "license": "odc-odbl",
+                    "title": "Solicitudes de Acceso a la Información Pública 2018",
+                    "issued": "2018-04-26T14:44:44.799199",
+                    "format": "CSV",
+                    "modified": "2018-04-26T14:44:44.689964",
+                    "fileName": "información-pública-2018",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/5eaefaec-7909-45ac-a720-7a9cffe816f4/download/solicitudes-informacion-publica-2018.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Número de Expediente/Nota ACR que sirve de identificación de la solicitud de información pública.",
+                            "title": "id_pedido"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha en la que se recibió el pedido mediante la Mesa de Entradas de ACUMAR.",
+                            "title": "pedido_fecha_de_recepcion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Persona física o jurídica que solicita la información.",
+                            "title": "pedido_causante"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tema principal de la solicitud.",
+                            "title": "pedido_descripcion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Manda judicial con la que está relacionada la solicitud.",
+                            "title": "pedido_manda"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha en la que el solicitante recibió la respuesta de ACUMAR.",
+                            "title": "pedido_fecha_de_respuesta"
+                        },
+                        {
+                            "type": "any",
+                            "description": "URL para acceder al archivo con la solicitud.",
+                            "title": "pedido_enlace"
+                        },
+                        {
+                            "type": "any",
+                            "description": "URL para acceder al archivo con la respuesta.",
+                            "title": "pedido_respuesta_enlace"
+                        }
+                    ],
+                    "identifier": "5eaefaec-7909-45ac-a720-7a9cffe816f4"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/0cd36f23-a8e1-44bc-86d9-c869adaa44a4",
+                    "description": "Licitación de limpieza de espejo de agua.",
+                    "license": "odc-odbl",
+                    "title": "Solicitud de Información Pública EX-2018-04541411",
+                    "issued": "2018-04-04T18:36:07.498891",
+                    "format": "PDF",
+                    "modified": "2018-04-04T18:36:07.452140",
+                    "fileName": "1--solic---if-2018-04537767-apn-sgacumar.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/0cd36f23-a8e1-44bc-86d9-c869adaa44a4/download/1--solic---if-2018-04537767-apn-sgacumar.pdf",
+                    "identifier": "0cd36f23-a8e1-44bc-86d9-c869adaa44a4"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/e28dbe7f-bd88-447c-8984-0a0118955236",
+                    "description": "Licitación de limpieza de espejo de agua.",
+                    "license": "odc-odbl",
+                    "title": "Respuesta a la Solicitud de Información Pública  EX-2018-04541411",
+                    "issued": "2018-04-04T18:36:50.996641",
+                    "format": "PDF",
+                    "modified": "2018-04-04T18:36:50.942165",
+                    "fileName": "2--rta-no-2018-05112858-apn-sgacumar.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/e28dbe7f-bd88-447c-8984-0a0118955236/download/2--rta-no-2018-05112858-apn-sgacumar.pdf",
+                    "identifier": "e28dbe7f-bd88-447c-8984-0a0118955236"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/687c5da1-62a9-4d7e-858b-40e2366e0e35",
+                    "description": "Intervención Barrio Perón - Gregorio de Laferrere",
+                    "license": "odc-odbl",
+                    "title": "Solicitud de Información Pública EX-2018-05091318",
+                    "issued": "2018-04-04T18:37:33.852623",
+                    "format": "PDF",
+                    "modified": "2018-04-04T18:37:33.791397",
+                    "fileName": "1--solicitud.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/687c5da1-62a9-4d7e-858b-40e2366e0e35/download/1--solicitud.pdf",
+                    "identifier": "687c5da1-62a9-4d7e-858b-40e2366e0e35"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/926c5106-701d-45da-b80a-240bf837b86b",
+                    "description": "Intervención Barrio Perón - Gregorio de Laferrere",
+                    "license": "odc-odbl",
+                    "title": "Respuesta a la Solicitud de Información Pública EX-2018-05091318",
+                    "issued": "2018-04-04T18:38:13.103481",
+                    "format": "PDF",
+                    "modified": "2018-04-04T18:38:13.050570",
+                    "fileName": "2--respuesta.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/926c5106-701d-45da-b80a-240bf837b86b/download/2--respuesta.pdf",
+                    "identifier": "926c5106-701d-45da-b80a-240bf837b86b"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/fe4551d7-6563-4f80-bf02-ae3994169860",
+                    "description": "Inundaciones Ciudad Evita - La Matanza",
+                    "license": "odc-odbl",
+                    "title": "Solicitud de Información Pública EX-2018-05736864",
+                    "issued": "2018-04-04T18:38:50.838925",
+                    "format": "PDF",
+                    "modified": "2018-04-04T18:38:50.778126",
+                    "fileName": "1--solicitud.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/fe4551d7-6563-4f80-bf02-ae3994169860/download/1--solicitud.pdf",
+                    "identifier": "fe4551d7-6563-4f80-bf02-ae3994169860"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/5f19e20b-9349-4744-9be1-5fef27e73904",
+                    "description": "Inundaciones Ciudad Evita - La Matanza",
+                    "license": "odc-odbl",
+                    "title": "Respuesta a la Solicitud de Información Pública EX-2018-05736864",
+                    "issued": "2018-04-04T18:39:25.234082",
+                    "format": "PDF",
+                    "modified": "2018-04-04T18:39:25.173100",
+                    "fileName": "2--respuesta.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/5f19e20b-9349-4744-9be1-5fef27e73904/download/2--respuesta.pdf",
+                    "identifier": "5f19e20b-9349-4744-9be1-5fef27e73904"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/a62e54ea-5f72-48ad-85cc-260b5b8c0bb9",
+                    "description": "Calidad de agua CMR",
+                    "license": "odc-odbl",
+                    "title": "Solicitud de Información Pública EX-2018-07714823",
+                    "issued": "2018-04-04T18:39:59.456391",
+                    "format": "PDF",
+                    "modified": "2018-04-04T18:39:59.368913",
+                    "fileName": "1--solicitud.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/a62e54ea-5f72-48ad-85cc-260b5b8c0bb9/download/1--solicitud.pdf",
+                    "identifier": "a62e54ea-5f72-48ad-85cc-260b5b8c0bb9"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/38fe3c65-4566-450e-8f1b-140acec53739",
+                    "description": "Calidad de agua CMR",
+                    "license": "odc-odbl",
+                    "title": "Respuesta a la Solicitud de Información Pública EX-2018-07714823",
+                    "issued": "2018-04-04T18:41:18.489547",
+                    "format": "PDF",
+                    "modified": "2018-04-04T18:41:18.427107",
+                    "fileName": "2--respuesta.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/38fe3c65-4566-450e-8f1b-140acec53739/download/2--respuesta.pdf",
+                    "identifier": "38fe3c65-4566-450e-8f1b-140acec53739"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/775b832f-662d-4426-9edd-977f7ea1e245",
+                    "description": "Acta del Consejo Directivo 30/11/2017",
+                    "license": "odc-odbl",
+                    "title": "Solicitud de Información Pública EX-2018-07733231",
+                    "issued": "2018-04-04T18:41:59.493651",
+                    "format": "PDF",
+                    "modified": "2018-04-04T18:41:59.416644",
+                    "fileName": "1--solicitud.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/775b832f-662d-4426-9edd-977f7ea1e245/download/1--solicitud.pdf",
+                    "identifier": "775b832f-662d-4426-9edd-977f7ea1e245"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/b7e29a7c-9e18-43d5-ac5b-f73f17e6964a",
+                    "description": "Acta del Consejo Directivo 30/11/2017",
+                    "license": "odc-odbl",
+                    "title": "Respuesta a la Solicitud de Información Pública EX-2018-07733231",
+                    "issued": "2018-04-04T18:42:38.928248",
+                    "format": "PDF",
+                    "modified": "2018-04-04T18:42:38.860837",
+                    "fileName": "2--respuesta.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/b7e29a7c-9e18-43d5-ac5b-f73f17e6964a/download/2--respuesta.pdf",
+                    "identifier": "b7e29a7c-9e18-43d5-ac5b-f73f17e6964a"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/2c832514-a3cf-4f97-bfe0-d79492003685",
+                    "description": "Gestiones realizadas en el Barrio Sarmiento por la Dirección de Ordenamiento Territorial",
+                    "license": "odc-odbl",
+                    "title": "Solicitud de Información Pública EX-2018-08498925",
+                    "issued": "2018-04-04T18:45:00.759873",
+                    "format": "PDF",
+                    "modified": "2018-04-04T18:45:00.688033",
+                    "fileName": "solicitud.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/2c832514-a3cf-4f97-bfe0-d79492003685/download/solicitud.pdf",
+                    "identifier": "2c832514-a3cf-4f97-bfe0-d79492003685"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/1245d06e-50dd-4b2c-acea-09333e684b4c",
+                    "description": "Gestiones realizadas en el Barrio Sarmiento por la Dirección de Ordenamiento Territorial",
+                    "license": "odc-odbl",
+                    "title": "Respuesta a la Solicitud de Información Pública EX-2018-08498925",
+                    "issued": "2018-04-04T18:50:24.266991",
+                    "format": "PDF",
+                    "modified": "2018-04-04T18:50:24.202153",
+                    "fileName": "0010---no-2018-08566219-apn-sgacumar.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/1245d06e-50dd-4b2c-acea-09333e684b4c/download/0010---no-2018-08566219-apn-sgacumar.pdf",
+                    "identifier": "1245d06e-50dd-4b2c-acea-09333e684b4c"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/bc4b10d0-e4a7-41d5-9206-e80cbbd50283",
+                    "description": "Copia del libro \"Facing the River\"",
+                    "license": "odc-odbl",
+                    "title": "Solicitud de Información Pública EX-2018-09513415",
+                    "issued": "2018-04-04T18:51:01.166348",
+                    "format": "PDF",
+                    "modified": "2018-04-04T18:51:00.986290",
+                    "fileName": "respuesta.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/bc4b10d0-e4a7-41d5-9206-e80cbbd50283/download/respuesta.pdf",
+                    "identifier": "bc4b10d0-e4a7-41d5-9206-e80cbbd50283"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/1a6adfd1-3954-4f8a-90f1-a8af44fbfc7d",
+                    "description": "Copia del libro \"Facing the River\"",
+                    "license": "odc-odbl",
+                    "title": "Respuesta a la Solicitud de Información Pública EX-2018-09513415",
+                    "issued": "2018-04-04T18:51:44.250888",
+                    "format": "PDF",
+                    "modified": "2018-04-04T18:51:44.174568",
+                    "fileName": "1--solicitud.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/1a6adfd1-3954-4f8a-90f1-a8af44fbfc7d/download/1--solicitud.pdf",
+                    "identifier": "1a6adfd1-3954-4f8a-90f1-a8af44fbfc7d"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/a8b52b2e-2e6f-4c13-8800-6aa8ede24aca",
+                    "description": "Obras de Infraestructura Villa 21-24",
+                    "license": "odc-odbl",
+                    "title": "Solicitud de Información Pública EX-2018-10177705",
+                    "issued": "2018-04-04T18:52:56.048121",
+                    "format": "PDF",
+                    "modified": "2018-04-04T18:52:55.963462",
+                    "fileName": "1--solicitud.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/a8b52b2e-2e6f-4c13-8800-6aa8ede24aca/download/1--solicitud.pdf",
+                    "identifier": "a8b52b2e-2e6f-4c13-8800-6aa8ede24aca"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/72cea042-d363-4913-8d7b-b532d95aa796",
+                    "description": "Obras de Infraestructura Villa 21-24",
+                    "license": "odc-odbl",
+                    "title": "Respuesta a la Solicitud de Información Pública EX-2018-10177705",
+                    "issued": "2018-04-04T18:53:33.152055",
+                    "format": "PDF",
+                    "modified": "2018-04-04T18:53:33.067312",
+                    "fileName": "2--respuesta.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/72cea042-d363-4913-8d7b-b532d95aa796/download/2--respuesta.pdf",
+                    "identifier": "72cea042-d363-4913-8d7b-b532d95aa796"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/9712b925-b817-4e4a-9c5c-bd282f9bc535",
+                    "description": "Laguna de Rocha",
+                    "license": "odc-odbl",
+                    "title": "Solicitud de Información Pública EX-2018-10369210",
+                    "issued": "2018-04-04T19:10:33.778001",
+                    "format": "PDF",
+                    "modified": "2018-04-04T19:10:33.670031",
+                    "fileName": "if-2018-10372294-solicitud.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/9712b925-b817-4e4a-9c5c-bd282f9bc535/download/if-2018-10372294-solicitud.pdf",
+                    "identifier": "9712b925-b817-4e4a-9c5c-bd282f9bc535"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/c0a9eca6-e049-425c-98a7-a2d18dd42005",
+                    "description": "Laguna de Rocha",
+                    "license": "odc-odbl",
+                    "title": "Respuesta a la Solicitud de Información Pública EX-2018-10369210",
+                    "issued": "2018-04-04T19:17:31.632895",
+                    "format": "PDF",
+                    "modified": "2018-04-04T19:17:31.544146",
+                    "fileName": "0009--no-2018-12389889-apn-sgacumar.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/c0a9eca6-e049-425c-98a7-a2d18dd42005/download/0009--no-2018-12389889-apn-sgacumar.pdf",
+                    "identifier": "c0a9eca6-e049-425c-98a7-a2d18dd42005"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/922f445a-3c2d-4794-a26a-206939efcde6",
+                    "description": "Mejoramiento de calles del Barrio Sarmiento.",
+                    "license": "odc-odbl",
+                    "title": "Solicitud de Información Pública EX-2018-10649505",
+                    "issued": "2018-04-04T19:38:33.077632",
+                    "format": "PDF",
+                    "modified": "2018-04-04T19:38:32.973207",
+                    "fileName": "if-2018-10650545-apn-sgacumar.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/922f445a-3c2d-4794-a26a-206939efcde6/download/if-2018-10650545-apn-sgacumar.pdf",
+                    "identifier": "922f445a-3c2d-4794-a26a-206939efcde6"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/94131ade-baf4-40c3-9358-c0e16e45dfcf",
+                    "description": "Mejoramiento de calles del Barrio Sarmiento.",
+                    "license": "odc-odbl",
+                    "title": "Respuesta a la Solicitud de Información Pública EX-2018-10649505",
+                    "issued": "2018-04-04T19:39:30.015608",
+                    "format": "PDF",
+                    "modified": "2018-04-04T19:39:29.924588",
+                    "fileName": "07--no-2018-12496136-apn-sgacumar.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/94131ade-baf4-40c3-9358-c0e16e45dfcf/download/07--no-2018-12496136-apn-sgacumar.pdf",
+                    "identifier": "94131ade-baf4-40c3-9358-c0e16e45dfcf"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/8eb63ae2-5bfe-42d9-ad1e-eae7e4181677",
+                    "description": "Educación Ambiental",
+                    "license": "odc-odbl",
+                    "title": "Solicitud de Información Pública EX-2018-11279770",
+                    "issued": "2018-04-04T19:41:53.002971",
+                    "format": "PDF",
+                    "modified": "2018-04-04T19:41:52.901145",
+                    "fileName": "if-2018-11281750-apn-sgacumar.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/8eb63ae2-5bfe-42d9-ad1e-eae7e4181677/download/if-2018-11281750-apn-sgacumar.pdf",
+                    "identifier": "8eb63ae2-5bfe-42d9-ad1e-eae7e4181677"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/28f177ed-c76e-4f47-a384-cd51cbe0f469",
+                    "description": "Educación Ambiental.",
+                    "license": "odc-odbl",
+                    "title": "Respuesta a la Solicitud de Información Pública EX-2018-11279770",
+                    "issued": "2018-04-04T19:42:48.927657",
+                    "format": "PDF",
+                    "modified": "2018-04-04T19:42:48.821980",
+                    "fileName": "0006--no-2018-12472123-apn-sgacumar.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/28f177ed-c76e-4f47-a384-cd51cbe0f469/download/0006--no-2018-12472123-apn-sgacumar.pdf",
+                    "identifier": "28f177ed-c76e-4f47-a384-cd51cbe0f469"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/9a96a1e7-6c67-4638-9dc7-1c1a56369139",
+                    "description": "Calidad de agua CMR.",
+                    "license": "odc-odbl",
+                    "title": "Solicitud de Información Pública EX-2018-11790474",
+                    "issued": "2018-04-04T19:45:04.059098",
+                    "format": "PDF",
+                    "modified": "2018-04-04T19:45:03.957946",
+                    "fileName": "if-2018-11791783-apn-sgacumar.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/9a96a1e7-6c67-4638-9dc7-1c1a56369139/download/if-2018-11791783-apn-sgacumar.pdf",
+                    "identifier": "9a96a1e7-6c67-4638-9dc7-1c1a56369139"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/c452e8aa-f120-44b9-8966-afaacbf39aeb",
+                    "description": "Calidad de agua CMR.",
+                    "license": "odc-odbl",
+                    "title": "Respuesta a la Solicitud de Información Pública EX-2018-11790474",
+                    "issued": "2018-04-04T19:45:58.650550",
+                    "format": "PDF",
+                    "modified": "2018-04-04T19:45:58.544728",
+                    "fileName": "0005--no-2018-12731238-apn-sgacumar.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/c452e8aa-f120-44b9-8966-afaacbf39aeb/download/0005--no-2018-12731238-apn-sgacumar.pdf",
+                    "identifier": "c452e8aa-f120-44b9-8966-afaacbf39aeb"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/ba5d377d-5848-4137-8b6a-d21b84d74883",
+                    "description": "Contaminación Arroyo Dupuy.",
+                    "license": "odc-by",
+                    "title": "Solicitud de Información Pública EX-2018-12575607",
+                    "issued": "2018-04-04T19:47:42.267611",
+                    "format": "PDF",
+                    "modified": "2018-04-04T19:47:42.091944",
+                    "fileName": "if-2018-12600186-apn-sgacumar.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/ba5d377d-5848-4137-8b6a-d21b84d74883/download/if-2018-12600186-apn-sgacumar.pdf",
+                    "identifier": "ba5d377d-5848-4137-8b6a-d21b84d74883"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/215abeaa-cf39-4f36-9e29-304f0f201249",
+                    "description": "Contaminación Arroyo Dupuy.",
+                    "license": "odc-odbl",
+                    "title": "Respuesta a la Solicitud de Información Pública EX-2018-12575607",
+                    "issued": "2018-04-04T19:48:27.964131",
+                    "format": "PDF",
+                    "modified": "2018-04-04T19:48:27.858975",
+                    "fileName": "0007--no-2018-13914695-apn-sgacumar.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/215abeaa-cf39-4f36-9e29-304f0f201249/download/0007--no-2018-13914695-apn-sgacumar.pdf",
+                    "identifier": "215abeaa-cf39-4f36-9e29-304f0f201249"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/8069cfa2-da84-4e45-bd40-9ae01cdbb0a2",
+                    "description": "Mapa de Industrias y basurales de la CMR. Población en Villas y Asentamientos.",
+                    "license": "odc-odbl",
+                    "title": "Solicitud de Información Pública EX-2018-12339273",
+                    "issued": "2018-04-26T14:29:11.143062",
+                    "format": "PDF",
+                    "modified": "2018-04-26T14:29:11.028887",
+                    "fileName": "pedido-EX-2018-12339273",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/8069cfa2-da84-4e45-bd40-9ae01cdbb0a2/download/if-2018-12342706-apn-sgacumar---pedido.pdf",
+                    "identifier": "8069cfa2-da84-4e45-bd40-9ae01cdbb0a2"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/8b02abe7-0e90-4838-af8e-964ebde025c4",
+                    "description": "Mapa de Industrias y basurales de la CMR. Población en Villas y Asentamientos.",
+                    "license": "odc-odbl",
+                    "title": "Respuesta a la Solicitud de Información Pública EX-2018-12339273",
+                    "issued": "2018-04-26T14:30:13.632837",
+                    "format": "PDF",
+                    "modified": "2018-04-26T14:30:13.525056",
+                    "fileName": "respuesta-EXP-2018-12339273",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/8b02abe7-0e90-4838-af8e-964ebde025c4/download/0009--no-2018-15563658-apn-sgacumar---respuesta.pdf",
+                    "identifier": "8b02abe7-0e90-4838-af8e-964ebde025c4"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/64a18297-722f-49c9-a2d7-d21f1a744b2b",
+                    "description": "Ecopuntos",
+                    "license": "odc-odbl",
+                    "title": "Solicitud de Información Pública EX-2018-13534705",
+                    "issued": "2018-04-26T14:31:06.876563",
+                    "format": "PDF",
+                    "modified": "2018-04-26T14:31:06.774776",
+                    "fileName": "solicitud-EXP-2018-13534705",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/64a18297-722f-49c9-a2d7-d21f1a744b2b/download/if-2018-13539552-apn-sgacumar---solicitud.pdf",
+                    "identifier": "64a18297-722f-49c9-a2d7-d21f1a744b2b"
+                },
+                {
+                    "accessURL": "http://datos.acumar.gob.ar/dataset/resource/cf0ce7d8-e271-4274-a25c-f69e06e5fd19",
+                    "description": "Ecopuntos.",
+                    "license": "odc-odbl",
+                    "title": "Respuesta a la Solicitud de Información Pública EXP-2018-13534705",
+                    "issued": "2018-04-26T14:31:58.467533",
+                    "format": "PDF",
+                    "modified": "2018-04-26T14:31:58.360093",
+                    "fileName": "respuesta-EXP-2018-13534705",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/e75a263a-e356-44ef-bef3-50ac1e3e80ae/resource/cf0ce7d8-e271-4274-a25c-f69e06e5fd19/download/0006--no-2018-17158477-apn-sgacumar---respuesta.pdf",
+                    "identifier": "cf0ce7d8-e271-4274-a25c-f69e06e5fd19"
+                }
+            ]
+        },
         {
             "publisher": {
                 "mbox": "",
