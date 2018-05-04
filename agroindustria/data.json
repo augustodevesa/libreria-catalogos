@@ -13,11 +13,11 @@
                 "name": "Subsecretaría de Mercados Agropecuarios "
             },
             "identifier": "d1b9696f-95e5-4918-a59c-471c16082328",
-            "description": "Ingreso de granos de Trigo Pan con destino a la industria molinera y balanceadora. Productos y subproductos obtenidos.",
+            "description": "Ingreso de granos de Trigo Pan con destino a la industria molinera y balanceadora. Productos y subproductos obtenidos de la industria molinera.",
             "license": "Creative Commons Attribution",
             "title": "Trigo Pan con destino a la industria",
             "issued": "2018-04-27T16:29:50.681223",
-            "modified": "2018-05-03T17:52:32.612208",
+            "modified": "2018-05-03T19:54:14.215095",
             "language": [
                 "spa"
             ],
@@ -83,6 +83,86 @@
                     "format": "CSV",
                     "modified": "2018-04-27T16:33:48.324877",
                     "downloadURL": "https://datos.agroindustria.gob.ar/dataset/d1b9696f-95e5-4918-a59c-471c16082328/resource/0c2284d0-5a06-4497-9c25-001c54443173/download/produccion-de-pellets-de-trigo-pan.csv"
+                }
+            ],
+            "landingPage": "Dirección Nacional de Matriculación y Fiscalización"
+        },
+        {
+            "publisher": {
+                "mbox": " sma@magyp.gob.ar",
+                "name": "Subsecretaría de Mercados Agropecuarios"
+            },
+            "identifier": "74360eff-111e-4408-ad2a-3ad09a541d91",
+            "description": "Ingreso de granos de girasol a la industria aceitera , sus productos y subproductos.",
+            "license": "Creative Commons Attribution",
+            "title": "Girasol con destino a la industria",
+            "issued": "2018-04-27T14:07:57.273794",
+            "modified": "2018-05-03T19:51:20.101259",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "Producción Agroindustrial"
+            ],
+            "keyword": [
+                "Argentina",
+                "aceite",
+                "aceite de girasol",
+                "año",
+                "año calendario",
+                "año comercial",
+                "destino",
+                "expellers",
+                "girasol",
+                "industria",
+                "industrial aceitero",
+                "pellets",
+                "producto"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "superTheme": [
+                "AGRI"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/74360eff-111e-4408-ad2a-3ad09a541d91/archivo/d9ca6f9c-309e-4ded-9d74-6e094191cbdc",
+                    "description": "Granos de girasol en toneladas que ingresan a la industria aceitera .",
+                    "license": "cc-by",
+                    "title": "Ingreso de girasol a la industria aceitera",
+                    "issued": "2018-04-27T14:08:56.584574",
+                    "format": "CSV",
+                    "modified": "2018-05-03T18:36:23.913359",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/74360eff-111e-4408-ad2a-3ad09a541d91/resource/d9ca6f9c-309e-4ded-9d74-6e094191cbdc/download/ingreso-de-girasol-a-la-industria-aceitera.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/74360eff-111e-4408-ad2a-3ad09a541d91/archivo/45b4e7b4-a13e-40e6-b119-67f800001c9c",
+                    "description": "Detalle mensual de la producción de aceite de girasol en toneladas.",
+                    "license": "cc-by",
+                    "title": "Producción de aceite de girasol",
+                    "issued": "2018-04-27T14:10:29.852763",
+                    "format": "CSV",
+                    "modified": "2018-05-03T18:36:49.293645",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/74360eff-111e-4408-ad2a-3ad09a541d91/resource/45b4e7b4-a13e-40e6-b119-67f800001c9c/download/produccion-de-aceite-de-girasol.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/74360eff-111e-4408-ad2a-3ad09a541d91/archivo/3f11eff9-da3d-48a2-8833-069810c9f157",
+                    "description": "Detalle mensual de la producción de pellets de girasol en toneladas",
+                    "license": "cc-by",
+                    "title": "Producción de pellets de girasol",
+                    "issued": "2018-04-27T14:11:08.999946",
+                    "format": "CSV",
+                    "modified": "2018-05-03T18:39:30.781385",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/74360eff-111e-4408-ad2a-3ad09a541d91/resource/3f11eff9-da3d-48a2-8833-069810c9f157/download/produccion-de-pellets-de-girasol.csv"
+                },
+                {
+                    "accessURL": "https://datos.agroindustria.gob.ar/dataset/74360eff-111e-4408-ad2a-3ad09a541d91/archivo/176d4560-9730-422b-ae6b-d2d7379b3ee2",
+                    "description": "Detalle mensual de la producción de expellers de girasol en toneladas",
+                    "license": "cc-by",
+                    "title": "Producción de expellers de girasol",
+                    "issued": "2018-04-27T14:11:36.232183",
+                    "format": "CSV",
+                    "modified": "2018-05-03T18:37:43.116857",
+                    "downloadURL": "https://datos.agroindustria.gob.ar/dataset/74360eff-111e-4408-ad2a-3ad09a541d91/resource/176d4560-9730-422b-ae6b-d2d7379b3ee2/download/produccion-de-expellers-de-girasol.csv"
                 }
             ],
             "landingPage": "Dirección Nacional de Matriculación y Fiscalización"
