@@ -24,24 +24,32 @@
         "catalogs": [
         {
             "id": "arsat",
+            "category": "no-central",
+            "type": "otros",
             "url_json": "http://datos.arsat.com.ar/data.json",
             "url_xlsx": "",
             "url_datosgobar": "http://datos.gob.ar/dataset?organization=arsat"
         },
         {
             "id": "enacom",
+            "category": "no-central",
+            "type": "otros",
             "url_json": "http://datosabiertos.enacom.gob.ar/data.json",
             "url_xlsx": "",
             "url_datosgobar": "http://datos.gob.ar/dataset?organization=enacom"
         },
         {
             "id": "modernizacion",
+            "category": "central",
+            "type": "excel",
             "url_json": "http://infra.datos.gob.ar/catalog/modernizacion/data.json",
             "url_xlsx": "https://docs.google.com/spreadsheets/d/1gsDvRqLCCCIMPAB1NsIx978qrBmo24_6lzdYo0_Qijg/export?format=xlsx",
             "url_datosgobar": "http://datos.gob.ar/dataset?organization=modernizacion"
         },
         {
             "id": "otros",
+            "category": "no-central",
+            "type": "excel",
             "url_json": "http://infra.datos.gob.ar/catalog/otros/data.json",
             "url_xlsx": "https://docs.google.com/spreadsheets/d/1A7tLUUTvi9WR8ib9DOggA3cgG71LaTJv1kwu1EZqxGI/export?format=xlsx",
             "url_datosgobar": "http://datos.gob.ar/dataset?organization=otros"
@@ -63,6 +71,8 @@
         "catalogs": [
         {
             "id": "justicia",
+            "category": "central",
+            "type": "ckan",
             "url_json": "https://raw.githubusercontent.com/datosgobar/libreria-catalogos/master/justicia/data.json",
             "url_xlsx": "",
             "url_datosgobar": "http://datos.gob.ar/dataset?organization=justicia"
@@ -74,6 +84,8 @@
         "catalogs": [
         {
             "id": "seguridad",
+            "category": "central",
+            "type": "excel",
             "url_json": "https://raw.githubusercontent.com/datosgobar/libreria-catalogos/master/seguridad/data.json",
             "url_xlsx": "https://estadisticascriminales.minseg.gob.ar/datos/catalog.xlsx",
             "url_datosgobar": "http://datos.gob.ar/dataset?organization=seguridad"
@@ -85,6 +97,8 @@
         "catalogs": [
         {
             "id": "ign",
+            "category": "no-central",
+            "type": "excel",
             "url_json": "https://raw.githubusercontent.com/datosgobar/libreria-catalogos/master/ign/data.json",
             "url_xlsx": "http://www.ign.gob.ar/descargas/geodatos/catalog.xlsx",
             "url_datosgobar": "http://datos.gob.ar/dataset?organization=ign"
@@ -101,6 +115,8 @@
         "catalogs": [
         {
             "id": "agroindustria",
+            "category": "central",
+            "type": "andino",
             "url_json": "https://datos.agroindustria.gob.ar/data.json",
             "url_xlsx": "https://datos.agroindustria.gob.ar/catalog.xlsx",
             "url_datosgobar": "http://datos.gob.ar/dataset?organization=agroindustria"
@@ -117,12 +133,16 @@
         "catalogs": [
         {
             "id": "transporte",
+            "category": "central",
+            "type": "otros",
             "url_json": "https://servicios.transporte.gob.ar/gobierno_abierto/data.json",
             "url_xlsx": "",
             "url_datosgobar": "http://datos.gob.ar/dataset?organization=transporte"
         },
         {
             "id": "anac",
+            "category": "no-central",
+            "type": "andino",
             "url_json": "https://datos.anac.gob.ar/data.json",
             "url_xlsx": "",
             "url_datosgobar": ""
@@ -134,6 +154,8 @@
         "catalogs": [
         {
             "id": "energia",
+            "category": "central",
+            "type": "ckan",
             "url_json": "https://raw.githubusercontent.com/datosgobar/libreria-catalogos/master/energia/data.json",
             "url_xlsx": "",
             "url_datosgobar": "http://datos.gob.ar/dataset?organization=energia"
@@ -150,6 +172,8 @@
         "catalogs": [
         {
             "id": "mincyt",
+            "category": "central",
+            "type": "andino",
             "url_json": "http://datos.mincyt.gob.ar/datasets/data.json",
             "url_xlsx": "",
             "url_datosgobar": "http://datos.gob.ar/dataset?organization=mincyt"
@@ -171,6 +195,8 @@
         "catalogs": [
         {
             "id": "pami",
+            "category": "no-central",
+            "type": "otros",
             "url_json": "https://raw.githubusercontent.com/datosgobar/libreria-catalogos/master/pami/data.json",
             "url_xlsx": "",
             "url_datosgobar": ""
@@ -182,12 +208,16 @@
         "catalogs": [
         {
             "id": "ambiente",
+            "category": "central",
+            "type": "andino",
             "url_json": "http://datos.ambiente.gob.ar/data.json",
             "url_xlsx": "http://datos.ambiente.gob.ar/catalog.xlsx",
             "url_datosgobar": "http://datos.gob.ar/dataset?organization=ambiente"
         },
         {
             "id": "acumar",
+            "category": "no-central",
+            "type": "andino",
             "url_json": "http://andino.acumar.gov.ar/data.json",
             "url_xlsx": "http://andino.acumar.gov.ar/catalog.xlsx",
             "url_datosgobar": "http://datos.gob.ar/dataset?organization=acumar"
@@ -204,12 +234,16 @@
         "catalogs": [
         {
             "id": "sspm",
+            "category": "central",
+            "type": "excel",
             "url_json": "http://infra.datos.gob.ar/catalog/sspm/data.json",
             "url_xlsx": "",
             "url_datosgobar": "http://datos.gob.ar/dataset?organization=sspm"
         },
         {
             "id": "sspmi",
+            "category": "central",
+            "type": "excel",
             "url_json": "https://raw.githubusercontent.com/datosgobar/libreria-catalogos/master/sspmi/data.json",
             "url_xlsx": "http://minhacienda.gob.ar/catalogo-sspmi/catalog.xlsx",
             "url_datosgobar": "http://datos.gob.ar/dataset?organization=sspmi"
