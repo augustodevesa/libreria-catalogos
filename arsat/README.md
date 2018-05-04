@@ -29,11 +29,11 @@
 ## Datasets no federados
 
 - [Registro de Visitas](None)
+- [Cantidad Total de Megabits en servicio por provincia](None)
+- [Cantidad de clientes por provincia](None)
+- [Evolución de Cantidad Clientes y Megabits en servicio](None)
 - [Puntos próximos a conectarse al Plan Federal de Internet](None)
 - [Tráfico de Internet entrante y saliente](None)
-- [Cantidad Total de Megabits en servicio por provincia](None)
-- [Evolución de Cantidad Clientes y Megabits en servicio](None)
-- [Cantidad de clientes por provincia](None)
 - [Ausentismo - Total mensual de días por motivo de ausencia](None)
 - [Personal de ARSAT según zona laboral](None)
 - [Personal por Gerencia distinguido por género](None)
@@ -49,6 +49,9 @@
 
 ## Datasets federados
 
+- [Fibra óptica en construcción](None)
+- [Fibra óptica sin iluminar](None)
+- [Coordenadas de la red de fibra óptica en servicio](None)
 - [Registro de Audiencias](None)
 - [Futuros puntos de conexión al Plan Federal de Internet](None)
 - [Puntos de conexión al Plan Federal de Internet](None)
@@ -62,9 +65,6 @@
 - [Promedios de edad y antigüedad del personal](None)
 - [Escuelas Conectadas con Tecnología Gilat](None)
 - [Honorarios de Directores](None)
-- [Coordenadas de la red de fibra óptica en servicio](None)
-- [Fibra óptica en construcción](None)
-- [Fibra óptica sin iluminar](None)
 - [Coordenadas de Traza de Fibra óptica de Redes Provinciales](None)
 - [Áreas de cobertura de la televisión digital abierta](None)
 - [Licitaciones](None)
