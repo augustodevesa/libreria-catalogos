@@ -1,15 +1,15 @@
 
-# Catálogo: Datos de la Jefatura de Gabinete de Minsitros
+# Catálogo: Datos de la Jefatura de Gabinete de Ministros
 
 ## Información General
 
 - **Autor**: Ministerio de Modernización
 - **Correo Electrónico**: datos@modernizacion.gob.ar
 - **Ruta del catálogo**: None
-- **Nombre del catálogo**: Datos de la Jefatura de Gabinete de Minsitros
+- **Nombre del catálogo**: Datos de la Jefatura de Gabinete de Ministros
 - **Descripción**:
 
-> Catálogo de datos abiertos de la Jefatura de Gabinete de Minsitros, cuya publicación es administrada por el Ministerio de Modernización.
+> Catálogo de datos abiertos de la Jefatura de Gabinete de Ministros, cuya publicación es administrada por el Ministerio de Modernización.
 
 ## Estado de los metadatos y cantidad de recursos
 
