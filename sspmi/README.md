@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 34
-- **Cantidad Total de Distribuciones**: 34
+- **Cantidad Total de Datasets**: 35
+- **Cantidad Total de Distribuciones**: 35
 
 - **Cantidad de Datasets Federados**: 34
-- **Cantidad de Datasets NO Federados**: 0
-- **Porcentaje de Datasets NO Federados**: 0.0%
+- **Cantidad de Datasets NO Federados**: 1
+- **Porcentaje de Datasets NO Federados**: 2.86%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -28,7 +28,7 @@
 
 ## Datasets no federados
 
-
+- [Indicador de Automatizacion del Empleo](https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/)
 
 ## Datasets federados
 
