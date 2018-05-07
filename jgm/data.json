@@ -109,7 +109,7 @@
             "spatial": "ARG",
             "identifier": "1",
             "contactPoint": {
-                "hasEmail": "mailto:pautas@medios.gov.ar",
+                "hasEmail": "pautas@medios.gov.ar",
                 "fn": "Jefatura de Gabinete de Ministros. Secretaría de Comunicación Pública."
             },
             "landingPage": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad",
@@ -123,6 +123,53 @@
                     "modified": "2016-09-02T19:00:50.469703",
                     "fileName": "pauta-oficial-2014.csv",
                     "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/98a8c15f-5937-47fe-92e3-05d755be7d43/download/pauta-oficial-2014.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Número de Orden de Publicidad",
+                            "title": "orden_de_publicidad"
+                        },
+                        {
+                            "type": "float",
+                            "description": "Monto total establecido en la orden de publicidad.** **(ARS - 1)",
+                            "title": "total"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del organismo anunciante.",
+                            "title": "descripcion_anunciante"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre de la campaña con la que se corresponde el gasto.",
+                            "title": "campania"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de medio en el que se pacta la pauta. Entre ellos Cable, Cine, Grafica, Radio, TV, Via Publica y Web. A partir de 2016 se incluye redes sociales.",
+                            "title": "rubro"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Razón social.",
+                            "title": "nombre_o_denominacion_proveedor"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del medio en que aparecerá la pauta.",
+                            "title": "medio"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de la orden según se trate de un decreto o una decisión administrativa",
+                            "title": "tipo_de_orden"
+                        },
+                        {
+                            "type": "datetime",
+                            "description": "Mes en el que se desarrolla la campaña.",
+                            "title": "periodo"
+                        }
+                    ],
                     "identifier": "1.1"
                 },
                 {
@@ -134,6 +181,53 @@
                     "modified": "2017-01-17T18:47:17.000985",
                     "fileName": "pauta-oficial-2015.csv",
                     "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/01bd7d9f-bc54-4fd7-b800-a4969a2a5b6f/download/pauta-oficial-2015.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Número de Orden de Publicidad",
+                            "title": "orden_de_publicidad"
+                        },
+                        {
+                            "type": "float",
+                            "description": "Monto total establecido en la orden de publicidad.** **(ARS - 1)",
+                            "title": "total"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del organismo anunciante.",
+                            "title": "descripcion_anunciante"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre de la campaña con la que se corresponde el gasto.",
+                            "title": "campania"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de medio en el que se pacta la pauta. Entre ellos Cable, Cine, Grafica, Radio, TV, Via Publica y Web. A partir de 2016 se incluye redes sociales.",
+                            "title": "rubro"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Razón social.",
+                            "title": "nombre_o_denominacion_proveedor"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del medio en que aparecerá la pauta.",
+                            "title": "medio"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de la orden según se trate de un decreto o una decisión administrativa",
+                            "title": "tipo_de_orden"
+                        },
+                        {
+                            "type": "datetime",
+                            "description": "Mes en el que se desarrolla la campaña.",
+                            "title": "periodo"
+                        }
+                    ],
                     "identifier": "1.2"
                 },
                 {
@@ -145,6 +239,53 @@
                     "modified": "2017-01-17T18:49:16.640853",
                     "fileName": "pauta-oficial-primer-semestre-2016.csv",
                     "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/0c3cca0a-ccfa-4520-a614-dbdd58d74d79/download/pauta-oficial-primer-semestre-2016.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Número de Orden de Publicidad",
+                            "title": "orden_de_publicidad"
+                        },
+                        {
+                            "type": "float",
+                            "description": "Monto total establecido en la orden de publicidad.** **(ARS - 1)",
+                            "title": "total"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del organismo anunciante.",
+                            "title": "descripcion_anunciante"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre de la campaña con la que se corresponde el gasto.",
+                            "title": "campania"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de medio en el que se pacta la pauta. Entre ellos Cable, Cine, Grafica, Radio, TV, Via Publica y Web. A partir de 2016 se incluye redes sociales.",
+                            "title": "rubro"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Razón social.",
+                            "title": "nombre_o_denominacion_proveedor"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del medio en que aparecerá la pauta.",
+                            "title": "medio"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de la orden según se trate de un decreto o una decisión administrativa",
+                            "title": "tipo_de_orden"
+                        },
+                        {
+                            "type": "datetime",
+                            "description": "Mes en el que se desarrolla la campaña.",
+                            "title": "periodo"
+                        }
+                    ],
                     "identifier": "1.3"
                 },
                 {
@@ -156,6 +297,67 @@
                     "modified": "2017-01-05T19:44:13.501028",
                     "fileName": "pauta-oficial-segundo-semestre-2016.csv",
                     "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/eed67d08-3c9a-4c02-86ac-c51ff24fe99a/download/pauta-oficial-segundo-semestre-2016.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Número de Orden de Publicidad",
+                            "title": "ord_pub"
+                        },
+                        {
+                            "type": "float",
+                            "description": "Monto neto sin IVA establecido en la orden de publicidad.** **(ARS - 1)",
+                            "title": "total_neto"
+                        },
+                        {
+                            "type": "float",
+                            "description": "Monto total incluyendo IVA establecido en la orden de publicidad.** **(ARS - 1)",
+                            "title": "total_con_iva"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del organismo anunciante.",
+                            "title": "descripcion_anunciante"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre de la campaña con la que se corresponde el gasto.",
+                            "title": "campania"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de medio en el que se pacta la pauta. Entre ellos Cable, Cine, Grafica, Radio, TV, Via Publica y Web. A partir de 2016 se incluye redes sociales.",
+                            "title": "rubro"
+                        },
+                        {
+                            "type": "string",
+                            "description": "ID del proveedor.",
+                            "title": "no_proveedor"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Razón social.",
+                            "title": "nombre_o_denominacion_proveedor"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del medio en que aparecerá la pauta.",
+                            "title": "medio"
+                        },
+                        {
+                            "type": "string",
+                            "title": "provincia_medio"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de la orden según se trate de un decreto o una decisión administrativa",
+                            "title": "tipo_de_orden"
+                        },
+                        {
+                            "type": "datetime",
+                            "description": "Mes en el que se desarrolla la campaña.",
+                            "title": "periodo"
+                        }
+                    ],
                     "identifier": "1.4"
                 },
                 {
@@ -167,6 +369,67 @@
                     "modified": "2017-07-10T17:35:07.854398",
                     "fileName": "pauta-publicitaria-primer-semestre-2017.csv",
                     "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/6cc9c4b4-fbc4-41dd-8f01-7d1dedbed596/download/pauta-publicitaria-primer-semestre-2017.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Número de Orden de Publicidad",
+                            "title": "ord_pub"
+                        },
+                        {
+                            "type": "float",
+                            "description": "Monto neto sin IVA establecido en la orden de publicidad.** **(ARS - 1)",
+                            "title": "total_neto"
+                        },
+                        {
+                            "type": "float",
+                            "description": "Monto total incluyendo IVA establecido en la orden de publicidad.** **(ARS - 1)",
+                            "title": "total_con_iva"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del organismo anunciante.",
+                            "title": "descripcion_anunciant"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre de la campaña con la que se corresponde el gasto.",
+                            "title": "campania"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de medio en el que se pacta la pauta. Entre ellos Cable, Cine, Grafica, Radio, TV, Via Publica y Web. A partir de 2016 se incluye redes sociales.",
+                            "title": "rubro"
+                        },
+                        {
+                            "type": "string",
+                            "description": "ID del proveedor.",
+                            "title": "codigo_proveedor"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Razón social.",
+                            "title": "nombre_o_denominacion_proveedor"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del medio en que aparecerá la pauta.",
+                            "title": "medio"
+                        },
+                        {
+                            "type": "string",
+                            "title": "provincia_medio"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de la orden según se trate de un decreto o una decisión administrativa",
+                            "title": "tipo_de_orden"
+                        },
+                        {
+                            "type": "datetime",
+                            "description": "Mes en el que se desarrolla la campaña.",
+                            "title": "periodo"
+                        }
+                    ],
                     "identifier": "1.5"
                 },
                 {
@@ -178,6 +441,68 @@
                     "modified": "2018-02-01T22:07:02.387004",
                     "fileName": "pauta-oficial-segundo-semestre-2017.csv",
                     "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/79557a3e-c155-4a48-83f5-bd5bf1973555/download/pauta-oficial-segundo-semestre-2017.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Tipo de medio en el que se pacta la pauta. Entre ellos Cable, Cine, Grafica, Radio, TV, Via Publica y Web. A partir de 2016 se incluye redes sociales.",
+                            "title": "rubro"
+                        },
+                        {
+                            "description": "ID del proveedor.",
+                            "title": "codigo_proveedor"
+                        },
+                        {
+                            "description": "Razón social.",
+                            "title": "nombre_o_denominacion_proveedor"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del medio en que aparecerá la pauta.",
+                            "title": "medio"
+                        },
+                        {
+                            "type": "string",
+                            "title": "provincia_medio"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del organismo anunciante.",
+                            "title": "descripcion_anunciante"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre de la campaña con la que se corresponde el gasto.",
+                            "title": "campania"
+                        },
+                        {
+                            "type": "datetime",
+                            "description": "Mes en el que se desarrolla la campaña.",
+                            "title": "periodo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de la orden según se trate de un decreto o una decisión administrativa",
+                            "title": "tipo_de_orden"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Número de Orden de Publicidad",
+                            "title": "ord_pub"
+                        },
+                        {
+                            "type": "float",
+                            "description": "Monto neto sin IVA establecido en la orden de publicidad.** **(ARS - 1)",
+                            "title": "total_neto"
+                        },
+                        {
+                            "type": "float",
+                            "description": "Monto total incluyendo IVA establecido en la orden de publicidad.** **(ARS - 1)",
+                            "title": "total_con_iva"
+                        },
+                        {
+                            "title": "es_canj"
+                        }
+                    ],
                     "identifier": "1.6"
                 }
             ],
