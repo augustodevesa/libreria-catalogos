@@ -8,7 +8,7 @@
     "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
     "issued": "2017-09-25T00:00:00",
     "title": "Datos Económicos Sectoriales y Provinciales",
-    "modified": "2018-04-23T00:00:00",
+    "modified": "2018-05-04T00:00:00",
     "dataset": [
         {
             "issued": "2017-12-22",
@@ -43,7 +43,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-23",
+            "modified": "2018-05-04",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -157,7 +157,7 @@
                     "title": "Indicadores de Ovinos - Lana y Carne en valores anuales, trimestrales y mensuales",
                     "issued": "2017-12-22",
                     "format": "CSV",
-                    "modified": "2018-04-23",
+                    "modified": "2018-05-04",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/01-indicadores-ovinos-basecompleta.csv",
                     "identifier": "01.1"
                 }
@@ -171,7 +171,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de la Minería Metalífera",
-            "temporal": "1995-01-01/2018-03-01",
+            "temporal": "1995-01-01/2018-04-01",
             "source": "MTEySS, COCHILCO",
             "theme": [
                 "mercado_laboral",
@@ -200,7 +200,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-09",
+            "modified": "2018-05-04",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -266,7 +266,7 @@
                     "title": "Indicadores de Minería Metalífera en valores anuales, trimestrales y mensuales",
                     "issued": "2017-10-02",
                     "format": "CSV",
-                    "modified": "2018-04-09",
+                    "modified": "2018-05-04",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/02-indicadores-mineria-metalifera-basecompleta.csv",
                     "identifier": "02.1"
                 }
@@ -310,7 +310,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-09",
+            "modified": "2018-05-04",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -412,7 +412,7 @@
                     "title": "Indicadores de azúcar en valores anuales, trimestrales y mensuales",
                     "issued": "2017-10-02",
                     "format": "CSV",
-                    "modified": "2018-04-09",
+                    "modified": "2018-05-04",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/03-indicadores-azucar-basecompleta.csv",
                     "identifier": "03.1"
                 }
@@ -426,11 +426,11 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales Automotriz",
-            "temporal": "1994-01-01/2018-03-01",
+            "temporal": "1994-01-01/2018-04-01",
             "source": "ADEFA, ACARA, MTEySS",
             "theme": [
                 "produccion_actividad",
-                "empleo"
+                "mercado_laboral"
             ],
             "spatial": "ARG",
             "description": "Indicadores de la cadena de valor Automotriz",
@@ -454,7 +454,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-09",
+            "modified": "2018-05-04",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -562,7 +562,7 @@
                     "title": "Indicadores de Automotriz en valores anuales, trimestrales y mensuales",
                     "issued": "2017-10-02",
                     "format": "CSV",
-                    "modified": "2018-04-09",
+                    "modified": "2018-05-04",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/04-indicadores-automotriz-basecompleta.csv",
                     "identifier": "04.1"
                 }
@@ -603,7 +603,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-23",
+            "modified": "2018-05-04",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -693,7 +693,7 @@
                     "title": "Indicadores de carne aviar en valores anuales, trimestrales y mensuales",
                     "issued": "2017-10-02",
                     "format": "CSV",
-                    "modified": "2018-04-23",
+                    "modified": "2018-05-04",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/05-indicadores-carne-aviar-basecompleta.csv",
                     "identifier": "05.1"
                 }
@@ -707,7 +707,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Hidrocarburos",
-            "temporal": "1994-01-01/2018-02-01",
+            "temporal": "1994-01-01/2018-12-31",
             "source": "MinEM",
             "theme": [
                 "produccion_actividad",
@@ -738,7 +738,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-23",
+            "modified": "2018-05-04",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -870,7 +870,7 @@
                     "title": "Indicadores de Hidrocarburos en valores anuales, trimestrales y mensuales",
                     "issued": "2017-10-02",
                     "format": "CSV",
-                    "modified": "2018-04-23",
+                    "modified": "2018-05-04",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/06-indicadores-hidrocarburos-basecompleta.csv",
                     "identifier": "06.1"
                 }
@@ -1348,7 +1348,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-09",
+            "modified": "2018-05-04",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -1414,7 +1414,7 @@
                     "title": "Indicadores de Cárnica - Porcina en valores anuales, trimestrales y mensuales",
                     "issued": "2018-01-19",
                     "format": "CSV",
-                    "modified": "2018-04-09",
+                    "modified": "2018-05-04",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/09-indicadores-carnica-porcina-basecompleta.csv",
                     "identifier": "09.1"
                 }
@@ -1560,7 +1560,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Servicios Turísticos",
-            "temporal": "1996-01-01/2018-01-01",
+            "temporal": "1996-01-01/2018-02-01",
             "source": "INDEC, MTEySS",
             "theme": [
                 "produccion_actividad",
@@ -1590,7 +1590,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-09",
+            "modified": "2018-05-04",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -1715,7 +1715,7 @@
                     "title": "Indicadores de Servicios Turísticos en valores anuales",
                     "issued": "2017-10-02",
                     "format": "CSV",
-                    "modified": "2018-04-09",
+                    "modified": "2018-05-04",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/11-indicadores-turismo-basecompleta.csv",
                     "identifier": "11.1"
                 }
@@ -1734,7 +1734,7 @@
             "theme": [
                 "produccion_actividad",
                 "comercio_exterior",
-                "mercado laboral",
+                "mercado_laboral",
                 "agentes"
             ],
             "spatial": "ARG",
@@ -1902,11 +1902,11 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Vitivinicultura",
-            "temporal": "1990-12-31/2018-03-01",
+            "temporal": "1990-12-31/2018-04-01",
             "source": "INV, MTEySS, BCM, OVA",
             "theme": [
                 "produccion_actividad",
-                "mercado laboral",
+                "mercado_laboral",
                 "precios",
                 "comercio_exterior"
             ],
@@ -1934,7 +1934,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-09",
+            "modified": "2018-05-04",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -2108,7 +2108,7 @@
                     "title": "Indicadores de la cadena de valor de vitivinicultura en valores anuales, trimestrales y mensuales",
                     "issued": "2017-10-02",
                     "format": "CSV",
-                    "modified": "2018-04-09",
+                    "modified": "2018-05-04",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/13-indicadores-vitivinicultura-basecompleta.csv",
                     "identifier": "13.1"
                 }
@@ -2711,7 +2711,7 @@
             "source": "INDEC, MTEySS",
             "theme": [
                 "produccion_actividad",
-                "empleo"
+                "mercado_laboral"
             ],
             "spatial": "ARG",
             "description": "Indicadores de la cadena de valor Industrias Culturales",
@@ -3058,7 +3058,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-23",
+            "modified": "2018-05-04",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -3142,7 +3142,7 @@
                     "title": "Indicadores de Yerba Mate en valores anuales, trimestrales y mensuales",
                     "issued": "2017-11-27",
                     "format": "CSV",
-                    "modified": "2018-04-23",
+                    "modified": "2018-05-04",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/17-indicadores-yerba-mate-basecompleta.csv",
                     "identifier": "17.1"
                 }
@@ -3160,7 +3160,7 @@
             "source": "INDEC, MINCyT, MTEySS",
             "theme": [
                 "produccion_actividad",
-                "mercado laboral"
+                "mercado_laboral"
             ],
             "spatial": "ARG",
             "description": "Indicadores de la cadena de valor Servicios de Investigación y Desarrollo",
@@ -3497,7 +3497,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Legumbres",
-            "temporal": "1970-12-31/2018-03-01",
+            "temporal": "1970-12-31/2018-04-01",
             "source": "MinAgro, Bolsa de Cereales de Buenos Aires",
             "theme": [
                 "produccion_actividad",
@@ -3526,7 +3526,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-09",
+            "modified": "2018-05-04",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -3646,7 +3646,7 @@
                     "title": "Indicadores de Legumbres en valores anuales, trimestrales  y mensuales",
                     "issued": "2018-01-19",
                     "format": "CSV",
-                    "modified": "2018-04-09",
+                    "modified": "2018-05-04",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/20-indicadores-legumbres-basecompleta.csv",
                     "identifier": "20.1"
                 }
@@ -4146,7 +4146,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Construcción",
-            "temporal": "1996-01-01/2018-02-01",
+            "temporal": "1996-01-01/2018-03-01",
             "source": "AFCP, INDEC, MTEySS",
             "theme": [
                 "produccion_actividad",
@@ -4171,7 +4171,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-09",
+            "modified": "2018-05-04",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -4231,7 +4231,7 @@
                     "title": "Indicadores de Construcción en valores anuales, trimestrales y mensuales",
                     "issued": "2017-12-22",
                     "format": "CSV",
-                    "modified": "2018-04-09",
+                    "modified": "2018-05-04",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/24-indicadores-construccion-basecompleta.csv",
                     "identifier": "24.1"
                 }
@@ -4249,7 +4249,7 @@
             "source": "CAMMESA, MTEySS",
             "theme": [
                 "produccion_actividad",
-                "mercado laboral"
+                "mercado_laboral"
             ],
             "spatial": "ARG",
             "description": "Indicadores de la cadena de valor Energías alternativas",
@@ -4396,11 +4396,11 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Metálicas Básicas",
-            "temporal": "1996-01-01/2018-02-01",
+            "temporal": "1996-01-01/2018-03-01",
             "source": "CAA, MinHacienda, MTEySS",
             "theme": [
                 "produccion_actividad",
-                "empleo"
+                "mercado_laboral"
             ],
             "spatial": "ARG",
             "description": "Indicadores de la cadena de valor Metálicas Básicas",
@@ -4422,7 +4422,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-09",
+            "modified": "2018-05-04",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -4524,7 +4524,7 @@
                     "title": "Indicadores de Industrias Metálicas Básicas en valores anuales, mensuales  y trimestrales",
                     "issued": "2017-10-02",
                     "format": "CSV",
-                    "modified": "2018-04-09",
+                    "modified": "2018-05-04",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/26-indicadores-metalicas-basicas-basecompleta.csv",
                     "identifier": "26.1"
                 }
@@ -4670,7 +4670,7 @@
                     "title": "Indicadores de Pesca Marítima en valores anuales, trimestrales y mensuales",
                     "issued": "2017-10-02",
                     "format": "CSV",
-                    "modified": "2018-02-01T00:00:00",
+                    "modified": "2018-04-23",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/27-indicadores-pesca-basecompleta.csv",
                     "identifier": "27.1"
                 }
@@ -4903,7 +4903,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Oleaginosa",
-            "temporal": "1980-01-01/2018-03-01",
+            "temporal": "1980-01-01/2018-04-01",
             "source": "MinAgro, INDEC, Bolsa de Cereales de Buenos Aires, FMI",
             "theme": [
                 "produccion_actividad",
@@ -4933,7 +4933,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-23",
+            "modified": "2018-05-04",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -5161,7 +5161,7 @@
                     "title": "Indicadores de Oleaginosa en valores anuales, trimestrales y mensuales",
                     "issued": "2017-12-22",
                     "format": "CSV",
-                    "modified": "2018-04-23",
+                    "modified": "2018-05-04",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/provincias/29-indicadores-oleaginosa-basecompleta.csv",
                     "identifier": "29.1"
                 }
@@ -5291,7 +5291,7 @@
             "source": "INDEC, MTEySS",
             "theme": [
                 "produccion_actividad",
-                "mercado laboral"
+                "mercado_laboral"
             ],
             "spatial": "ARG",
             "description": "Indicadores de la cadena de valor Comercio interno",
@@ -6077,7 +6077,7 @@
                 "ECON"
             ],
             "title": "Indicadores Sectoriales de Arroz",
-            "temporal": "1990-01-01/2018-03-01",
+            "temporal": "1990-01-01/2018-04-01",
             "source": "INDEC, OPSSI-CESSI, MTEySS",
             "theme": [
                 "produccion_actividad",
@@ -6104,7 +6104,7 @@
             "language": [
                 "SPA"
             ],
-            "modified": "2018-04-23",
+            "modified": "2018-05-04",
             "accrualPeriodicity": "R/P3M",
             "distribution": [
                 {
@@ -6194,7 +6194,7 @@
                     "title": "Indicadores de Arroz en valores anuales, trimestrales y mensuales",
                     "issued": "2018-01-19",
                     "format": "CSV",
-                    "modified": "2018-04-23",
+                    "modified": "2018-05-04",
                     "downloadURL": "https://www.minhacienda.gob.ar/catalogo-sspmi/dataset/33-indicadores-arroz-basecompleta.csv",
                     "identifier": "33.1"
                 }
@@ -6211,7 +6211,7 @@
             "temporal": "1991-12-31/2018-12-31",
             "source": "INDEC, MSAL, Ministerio de Educación, MTEySS, BCRA, MinHacienda, DPEyC, CEP",
             "theme": [
-                "sociodemograficos",
+                "sociodemografico",
                 "financiamiento",
                 "fiscal",
                 "mercado_laboral",
@@ -6815,6 +6815,52 @@
                 }
             ],
             "identifier": "99"
+        },
+        {
+            "issued": "2018-05-04",
+            "accessLevel": "ABIERTO",
+            "superTheme": [
+                "ECON"
+            ],
+            "title": "Indicador de Automatizacion del Empleo",
+            "temporal": "2003-01-01/2017-07-01",
+            "source": "INDEC, OECD",
+            "theme": [
+                "mercado_laboral"
+            ],
+            "spatial": "ARG",
+            "description": "Indicador de Automatizacion del Empleo",
+            "contactPoint": {
+                "hasEmail": "sspmicro@mecon.gov.ar",
+                "fn": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica. Dirección Nacional de Planificación Sectorial."
+            },
+            "landingPage": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+            "publisher": {
+                "mbox": "sspmicro@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Política Económica. Subsecretaría de Programación Microeconómica."
+            },
+            "keyword": [
+                "empleo",
+                "automatizacion"
+            ],
+            "language": [
+                "SPA"
+            ],
+            "modified": "2018-05-04",
+            "accrualPeriodicity": "R/P3M",
+            "distribution": [
+                {
+                    "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-microeconomica/",
+                    "description": "Indicador de Automatizacion del empleo en valores anuales y trimestrales",
+                    "title": "Indicador de Automatizacion del Empleo",
+                    "issued": "2018-05-04",
+                    "format": "CSV",
+                    "modified": "2018-05-04",
+                    "downloadURL": "https://www.minhacienda.gob.ar/wp-content/uploads/2018/05/100-indicadores-iasspm-basecompleta.csv",
+                    "identifier": "100.1"
+                }
+            ],
+            "identifier": "100"
         }
     ],
     "language": [
