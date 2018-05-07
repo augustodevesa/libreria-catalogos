@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 6
-- **Cantidad Total de Distribuciones**: 35
+- **Cantidad Total de Datasets**: 7
+- **Cantidad Total de Distribuciones**: 36
 
-- **Cantidad de Datasets Federados**: 5
+- **Cantidad de Datasets Federados**: 6
 - **Cantidad de Datasets NO Federados**: 1
-- **Porcentaje de Datasets NO Federados**: 16.67%
+- **Porcentaje de Datasets NO Federados**: 14.29%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -36,6 +36,7 @@
 - [Sistema de Contrataciones Electrónicas  (Argentina Compra)](https://www.argentinacompra.gov.ar/contrataciones)
 - [Registro Central de Personas Contratadas](http://www.sgp.gob.ar/sitio/empleo/regimenes/contratados/listadocontratados/todos_los_contratos_mensuales/index_main_rcpc.html)
 - [Planes de Apertura de Datos](https://datosgobar.github.io/pad)
+- [Puntos Digitales](http://puntodigital.gob.ar/)
 - [Estructura Orgánica y Autoridades del Poder Ejecutivo Nacional](http://mapadelestado.modernizacion.gob.ar)
 
 ## Reporte
