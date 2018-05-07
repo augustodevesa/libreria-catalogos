@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 279
-- **Cantidad Total de Distribuciones**: 641
+- **Cantidad Total de Datasets**: 281
+- **Cantidad Total de Distribuciones**: 643
 
 - **Cantidad de Datasets Federados**: 230
-- **Cantidad de Datasets NO Federados**: 49
-- **Porcentaje de Datasets NO Federados**: 17.56%
+- **Cantidad de Datasets NO Federados**: 51
+- **Porcentaje de Datasets NO Federados**: 18.15%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -141,6 +141,8 @@
 - [Cuenta A.I.F. - Base devengado. Provincias y C.A.B.A.](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Cuenta A.I.F. - Base devengado. Empresas Públicas](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 - [Cuenta A.I.F. - Base Devengado. Sector Público Argentino](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Valor Bruto de Producción a precios básicos por rama de actividad económica. Base 2004](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
+- [Valor Bruto de Producción a precios básicos por rama de actividad económica a precios corrientes](http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/)
 
 ## Datasets federados
 
