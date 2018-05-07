@@ -184,7 +184,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 182,Activos y pasivos del Banco Central de la Republica Argentina,300,OK,0,2
 183,Distribución personal del ingreso por  deciles,301,OK,0,1
 184,Estadísticas de servicios públicos.,302,OK,0,3
-185,Tasa de asalarización y de asalariados sin descuento jubilatorio. EPH Continua.,303,ERROR,2,1
+185,Tasa de asalarización y de asalariados sin descuento jubilatorio. EPH Continua.,303,OK,0,1
 186,Lebac mercado secundario,304,OK,0,1
 187,Valor Agregado Bruto a precios básicos por rama de actividad económica,305,OK,0,2
 188,Índice de Precios Implícitos del Valor Agregado Bruto por rama de actividad económica,306,OK,0,2
@@ -270,11 +270,13 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 268,Producto Interno Bruto Sectorial 1980-1990,387,OK,0,11
 269,Producto Interno Bruto Sectorial 1970-1980,388,OK,0,13
 270,Precios de paquetes de cigarrillos vendidos equivalentes a veinte unidades,399,OK,0,1
-271,Cuenta A.I.F. - Base devengado. Administración Central,432,ERROR,8,4
-272,Cuenta A.I.F. - Base devengado. Cuentas Especiales,433,ERROR,8,4
-273,Cuenta A.I.F. - Base devengado. Organismos Descentralizados,434,ERROR,8,4
-274,Cuenta A.I.F. - Base devengado. Instituciones de Seguridad Social,435,ERROR,8,4
-275,Cuenta A.I.F. - Base devengado. Total Administración Nacional,436,ERROR,8,4
-276,Cuenta A.I.F. - Base devengado. Provincias y C.A.B.A.,437,ERROR,8,4
-277,Cuenta A.I.F. - Base devengado. Empresas Públicas,438,ERROR,8,4
-278,Cuenta A.I.F. - Base Devengado. Sector Público Argentino,439,ERROR,8,4
+271,Cuenta A.I.F. - Base devengado. Administración Central,432,OK,0,4
+272,Cuenta A.I.F. - Base devengado. Cuentas Especiales,433,OK,0,4
+273,Cuenta A.I.F. - Base devengado. Organismos Descentralizados,434,OK,0,4
+274,Cuenta A.I.F. - Base devengado. Instituciones de Seguridad Social,435,OK,0,4
+275,Cuenta A.I.F. - Base devengado. Total Administración Nacional,436,OK,0,4
+276,Cuenta A.I.F. - Base devengado. Provincias y C.A.B.A.,437,OK,0,4
+277,Cuenta A.I.F. - Base devengado. Empresas Públicas,438,OK,0,4
+278,Cuenta A.I.F. - Base Devengado. Sector Público Argentino,439,OK,0,4
+279,Valor Bruto de Producción a precios básicos por rama de actividad económica. Base 2004,440,OK,0,1
+280,Valor Bruto de Producción a precios básicos por rama de actividad económica a precios corrientes,441,OK,0,1
