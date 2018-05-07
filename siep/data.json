@@ -115,7 +115,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "tcrse_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "tcrse_prpAna",
                             "specialType": "time_index"
                         },
@@ -464,7 +464,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "ahora12_operaciones_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "ahora12_operaciones_JFkz6t",
                             "specialType": "time_index"
                         },
@@ -672,13 +672,6 @@
                             "id": "ahora12_operaciones_63undi"
                         },
                         {
-                            "description": "AHORA 12 - operaciones - Catamarca - Computadoras, notebooks y tablets",
-                            "title": "ahora12_operaciones_catamarca_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_operaciones_yOps1H"
-                        },
-                        {
                             "description": "AHORA 12 - operaciones - Chaco - Anteojos",
                             "title": "ahora12_operaciones_chaco_anteojos",
                             "type": "number",
@@ -880,13 +873,6 @@
                             "type": "number",
                             "units": "Unidades",
                             "id": "ahora12_operaciones_VsGfCi"
-                        },
-                        {
-                            "description": "AHORA 12 - operaciones - Chubut - Computadoras, notebooks y tablets",
-                            "title": "ahora12_operaciones_chubut_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_operaciones_0DNDUh"
                         },
                         {
                             "description": "AHORA 12 - operaciones - CABA - Anteojos",
@@ -1407,13 +1393,6 @@
                             "id": "ahora12_operaciones_33yNUE"
                         },
                         {
-                            "description": "AHORA 12 - operaciones - Formosa - Computadoras, notebooks y tablets",
-                            "title": "ahora12_operaciones_formosa_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_operaciones_YqPepi"
-                        },
-                        {
                             "description": "AHORA 12 - operaciones - Jujuy - Anteojos",
                             "title": "ahora12_operaciones_jujuy_anteojos",
                             "type": "number",
@@ -1510,13 +1489,6 @@
                             "type": "number",
                             "units": "Unidades",
                             "id": "ahora12_operaciones_yBhSHe"
-                        },
-                        {
-                            "description": "AHORA 12 - operaciones - Jujuy - Computadoras, notebooks y tablets",
-                            "title": "ahora12_operaciones_jujuy_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_operaciones_sdKmgl"
                         },
                         {
                             "description": "AHORA 12 - operaciones - La Pampa - Anteojos",
@@ -1617,13 +1589,6 @@
                             "id": "ahora12_operaciones_BExs2j"
                         },
                         {
-                            "description": "AHORA 12 - operaciones - La Pampa - Computadoras, notebooks y tablets",
-                            "title": "ahora12_operaciones_la_pampa_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_operaciones_ZV7kuM"
-                        },
-                        {
                             "description": "AHORA 12 - operaciones - La Rioja - Anteojos",
                             "title": "ahora12_operaciones_la_rioja_anteojos",
                             "type": "number",
@@ -1664,13 +1629,6 @@
                             "type": "number",
                             "units": "Unidades",
                             "id": "ahora12_operaciones_jJmzxv"
-                        },
-                        {
-                            "description": "AHORA 12 - operaciones - La Rioja - Instrumentos musicales",
-                            "title": "ahora12_operaciones_la_rioja_musicales",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_operaciones_Ohk7S1"
                         },
                         {
                             "description": "AHORA 12 - operaciones - La Rioja - Juguetes y juegos de mesa",
@@ -1720,13 +1678,6 @@
                             "type": "number",
                             "units": "Unidades",
                             "id": "ahora12_operaciones_RjFQ1Z"
-                        },
-                        {
-                            "description": "AHORA 12 - operaciones - La Rioja - Computadoras, notebooks y tablets",
-                            "title": "ahora12_operaciones_la_rioja_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_operaciones_Xt9PqO"
                         },
                         {
                             "description": "AHORA 12 - operaciones - Mendoza - Anteojos",
@@ -1932,13 +1883,6 @@
                             "id": "ahora12_operaciones_kdXH56"
                         },
                         {
-                            "description": "AHORA 12 - operaciones - Misiones - Computadoras, notebooks y tablets",
-                            "title": "ahora12_operaciones_misiones_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_operaciones_WRDSOV"
-                        },
-                        {
                             "description": "AHORA 12 - operaciones - Neuquén - Anteojos",
                             "title": "ahora12_operaciones_neuquen_anteojos",
                             "type": "number",
@@ -2035,13 +1979,6 @@
                             "type": "number",
                             "units": "Unidades",
                             "id": "ahora12_operaciones_tX5501"
-                        },
-                        {
-                            "description": "AHORA 12 - operaciones - Neuquén - Computadoras, notebooks y tablets",
-                            "title": "ahora12_operaciones_neuquen_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_operaciones_A3wJ2C"
                         },
                         {
                             "description": "AHORA 12 - operaciones - Río Negro - Anteojos",
@@ -2247,13 +2184,6 @@
                             "id": "ahora12_operaciones_MkKiQ6"
                         },
                         {
-                            "description": "AHORA 12 - operaciones - Salta - Computadoras, notebooks y tablets",
-                            "title": "ahora12_operaciones_salta_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_operaciones_LeDnTH"
-                        },
-                        {
                             "description": "AHORA 12 - operaciones - San Juan - Anteojos",
                             "title": "ahora12_operaciones_san_juan_anteojos",
                             "type": "number",
@@ -2457,13 +2387,6 @@
                             "id": "ahora12_operaciones_aXppB7"
                         },
                         {
-                            "description": "AHORA 12 - operaciones - San Luis - Computadoras, notebooks y tablets",
-                            "title": "ahora12_operaciones_san_luis_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_operaciones_z8BLvp"
-                        },
-                        {
                             "description": "AHORA 12 - operaciones - Santa Cruz - Anteojos",
                             "title": "ahora12_operaciones_santa_cruz_anteojos",
                             "type": "number",
@@ -2560,13 +2483,6 @@
                             "type": "number",
                             "units": "Unidades",
                             "id": "ahora12_operaciones_UCbYPq"
-                        },
-                        {
-                            "description": "AHORA 12 - operaciones - Santa Cruz - Computadoras, notebooks y tablets",
-                            "title": "ahora12_operaciones_santa_cruz_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_operaciones_sxSASH"
                         },
                         {
                             "description": "AHORA 12 - operaciones - Santa Fe - Anteojos",
@@ -2877,13 +2793,6 @@
                             "id": "ahora12_operaciones_oH6WXp"
                         },
                         {
-                            "description": "AHORA 12 - operaciones - Tierra del Fuego - Computadoras, notebooks y tablets",
-                            "title": "ahora12_operaciones_tierra_del_fuego_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_operaciones_QUqhK5"
-                        },
-                        {
                             "description": "AHORA 12 - operaciones - Tucumán - Anteojos",
                             "title": "ahora12_operaciones_tucuman_anteojos",
                             "type": "number",
@@ -3049,7 +2958,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "ahora12_corrientes_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "ahora12_corrientes_Qxpln5",
                             "specialType": "time_index"
                         },
@@ -3257,13 +3166,6 @@
                             "id": "ahora12_corrientes_sZTjoh"
                         },
                         {
-                            "description": "AHORA 12 - corrientes - Catamarca - Computadoras, notebooks y tablets",
-                            "title": "ahora12_corrientes_catamarca_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_corrientes_tsaZye"
-                        },
-                        {
                             "description": "AHORA 12 - corrientes - Chaco - Anteojos",
                             "title": "ahora12_corrientes_chaco_anteojos",
                             "type": "number",
@@ -3465,13 +3367,6 @@
                             "type": "number",
                             "units": "Unidades",
                             "id": "ahora12_corrientes_2EZjOm"
-                        },
-                        {
-                            "description": "AHORA 12 - corrientes - Chubut - Computadoras, notebooks y tablets",
-                            "title": "ahora12_corrientes_chubut_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_corrientes_wFJDJC"
                         },
                         {
                             "description": "AHORA 12 - corrientes - CABA - Anteojos",
@@ -3992,13 +3887,6 @@
                             "id": "ahora12_corrientes_4xw0Gi"
                         },
                         {
-                            "description": "AHORA 12 - corrientes - Formosa - Computadoras, notebooks y tablets",
-                            "title": "ahora12_corrientes_formosa_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_corrientes_tAIFWw"
-                        },
-                        {
                             "description": "AHORA 12 - corrientes - Jujuy - Anteojos",
                             "title": "ahora12_corrientes_jujuy_anteojos",
                             "type": "number",
@@ -4095,13 +3983,6 @@
                             "type": "number",
                             "units": "Unidades",
                             "id": "ahora12_corrientes_3YDZ61"
-                        },
-                        {
-                            "description": "AHORA 12 - corrientes - Jujuy - Computadoras, notebooks y tablets",
-                            "title": "ahora12_corrientes_jujuy_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_corrientes_fXM7ew"
                         },
                         {
                             "description": "AHORA 12 - corrientes - La Pampa - Anteojos",
@@ -4202,13 +4083,6 @@
                             "id": "ahora12_corrientes_ox6QBU"
                         },
                         {
-                            "description": "AHORA 12 - corrientes - La Pampa - Computadoras, notebooks y tablets",
-                            "title": "ahora12_corrientes_la_pampa_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_corrientes_QDxctS"
-                        },
-                        {
                             "description": "AHORA 12 - corrientes - La Rioja - Anteojos",
                             "title": "ahora12_corrientes_la_rioja_anteojos",
                             "type": "number",
@@ -4249,13 +4123,6 @@
                             "type": "number",
                             "units": "Unidades",
                             "id": "ahora12_corrientes_rfuDKB"
-                        },
-                        {
-                            "description": "AHORA 12 - corrientes - La Rioja - Instrumentos musicales",
-                            "title": "ahora12_corrientes_la_rioja_musicales",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_corrientes_BcRKM0"
                         },
                         {
                             "description": "AHORA 12 - corrientes - La Rioja - Juguetes y juegos de mesa",
@@ -4305,13 +4172,6 @@
                             "type": "number",
                             "units": "Unidades",
                             "id": "ahora12_corrientes_xTu2Uo"
-                        },
-                        {
-                            "description": "AHORA 12 - corrientes - La Rioja - Computadoras, notebooks y tablets",
-                            "title": "ahora12_corrientes_la_rioja_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_corrientes_E6aqwg"
                         },
                         {
                             "description": "AHORA 12 - corrientes - Mendoza - Anteojos",
@@ -4517,13 +4377,6 @@
                             "id": "ahora12_corrientes_dTfZut"
                         },
                         {
-                            "description": "AHORA 12 - corrientes - Misiones - Computadoras, notebooks y tablets",
-                            "title": "ahora12_corrientes_misiones_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_corrientes_S0ioKb"
-                        },
-                        {
                             "description": "AHORA 12 - corrientes - Neuquén - Anteojos",
                             "title": "ahora12_corrientes_neuquen_anteojos",
                             "type": "number",
@@ -4620,13 +4473,6 @@
                             "type": "number",
                             "units": "Unidades",
                             "id": "ahora12_corrientes_FdCWyW"
-                        },
-                        {
-                            "description": "AHORA 12 - corrientes - Neuquén - Computadoras, notebooks y tablets",
-                            "title": "ahora12_corrientes_neuquen_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_corrientes_gS2LqF"
                         },
                         {
                             "description": "AHORA 12 - corrientes - Río Negro - Anteojos",
@@ -4832,13 +4678,6 @@
                             "id": "ahora12_corrientes_h0qR42"
                         },
                         {
-                            "description": "AHORA 12 - corrientes - Salta - Computadoras, notebooks y tablets",
-                            "title": "ahora12_corrientes_salta_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_corrientes_U19jzq"
-                        },
-                        {
                             "description": "AHORA 12 - corrientes - San Juan - Anteojos",
                             "title": "ahora12_corrientes_san_juan_anteojos",
                             "type": "number",
@@ -5042,13 +4881,6 @@
                             "id": "ahora12_corrientes_EgoHqa"
                         },
                         {
-                            "description": "AHORA 12 - corrientes - San Luis - Computadoras, notebooks y tablets",
-                            "title": "ahora12_corrientes_san_luis_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_corrientes_90Yxci"
-                        },
-                        {
                             "description": "AHORA 12 - corrientes - Santa Cruz - Anteojos",
                             "title": "ahora12_corrientes_santa_cruz_anteojos",
                             "type": "number",
@@ -5145,13 +4977,6 @@
                             "type": "number",
                             "units": "Unidades",
                             "id": "ahora12_corrientes_a27hrk"
-                        },
-                        {
-                            "description": "AHORA 12 - corrientes - Santa Cruz - Computadoras, notebooks y tablets",
-                            "title": "ahora12_corrientes_santa_cruz_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_corrientes_QpjctA"
                         },
                         {
                             "description": "AHORA 12 - corrientes - Santa Fe - Anteojos",
@@ -5462,13 +5287,6 @@
                             "id": "ahora12_corrientes_uT3k10"
                         },
                         {
-                            "description": "AHORA 12 - corrientes - Tierra del Fuego - Computadoras, notebooks y tablets",
-                            "title": "ahora12_corrientes_tierra_del_fuego_compus",
-                            "type": "number",
-                            "units": "Unidades",
-                            "id": "ahora12_corrientes_4DNqTR"
-                        },
-                        {
                             "description": "AHORA 12 - corrientes - Tucumán - Anteojos",
                             "title": "ahora12_corrientes_tucuman_anteojos",
                             "type": "number",
@@ -5637,7 +5455,11 @@
                 "empresas",
                 "evolución",
                 "apertura de empresas",
-                "cierres de empresas"
+                "cierres de empresas",
+                "exportadoras",
+                "exportaciones",
+                "puestos de trabajo",
+                "antigüedad"
             ],
             "accessLevel": "ABIERTO",
             "superTheme": [
@@ -5673,7 +5495,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P3M",
                             "type": "date",
-                            "title": "gps_aperturas_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "GPS_aperturas_5G9hQE",
                             "specialType": "time_index"
                         },
@@ -5746,12 +5568,12 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1Y",
                             "type": "date",
-                            "title": "gps_crecimiento_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "GPS_crecimiento_O8zbwZ",
                             "specialType": "time_index"
                         },
                         {
-                            "description": "GPS_Empresas de rápido crecimiento",
+                            "description": "GPS_Empresas: cantidad de empresas de rápido crecimiento",
                             "title": "gps_crecimiento",
                             "type": "number",
                             "units": "Cantidad de empresas",
@@ -5777,7 +5599,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P3M",
                             "type": "date",
-                            "title": "gps_expo_sector_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "GPS_expo_sector_eQj6tq",
                             "specialType": "time_index"
                         },
@@ -6045,7 +5867,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P3M",
                             "type": "date",
-                            "title": "gps_expo_tamanio_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "GPS_expo_tamanio_o8hdYC",
                             "specialType": "time_index"
                         },
@@ -6139,7 +5961,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1Y",
                             "type": "date",
-                            "title": "gps_provincia_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "GPS_provincia_z6AmZl",
                             "specialType": "time_index"
                         },
@@ -6366,7 +6188,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1Y",
                             "type": "date",
-                            "title": "gps_sector_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "GPS_sector_bd2Tax",
                             "specialType": "time_index"
                         },
@@ -6551,7 +6373,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P3M",
                             "type": "date",
-                            "title": "gps_tamanio_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "GPS_tamanio_ZvR77x",
                             "specialType": "time_index"
                         },
@@ -6638,7 +6460,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1Y",
                             "type": "date",
-                            "title": "gps_gradua_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "GPS_gradua_2EqeZW",
                             "specialType": "time_index"
                         },
@@ -6669,7 +6491,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1Y",
                             "type": "date",
-                            "title": "gps_exportaciones_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "GPS_exportaciones_9RJz3O",
                             "specialType": "time_index"
                         },
@@ -6756,7 +6578,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1Y",
                             "type": "date",
-                            "title": "gps_tamanio_5_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "GPS_tamanio_5_usAwYD",
                             "specialType": "time_index"
                         },
@@ -6961,7 +6783,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1Y",
                             "type": "date",
-                            "title": "gps_puestos_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "GPS_puestos_Zj4lP7",
                             "specialType": "time_index"
                         },
@@ -7016,7 +6838,7 @@
                         },
                         {
                             "description": "GPS Empresas: puestos de trabajo promedio según edad de la empresa. Nuevas empresas de menos de 1 año",
-                            "title": "gps_puestos_nuevas_empresas_-1",
+                            "title": "gps_puestos_nuevas_empresas_0",
                             "type": "number",
                             "units": "Cantidad de ocupados",
                             "id": "GPS_puestos_OxUUCG"
@@ -7072,7 +6894,7 @@
                         },
                         {
                             "description": "GPS Empresas: puestos de trabajo promedio según edad de la empresa. Nuevas microempresas de menos de 1 año",
-                            "title": "gps_puestos_nuevas_micro_-1",
+                            "title": "gps_puestos_nuevas_micro_0",
                             "type": "number",
                             "units": "Cantidad de ocupados",
                             "id": "GPS_puestos_fAc37P"
@@ -7140,7 +6962,11 @@
                 "Acero",
                 "consumo aparente",
                 "laminados",
-                "tubos sin constura"
+                "tubos sin constura",
+                "sector",
+                "exportaciones",
+                "importaciones",
+                "producción"
             ],
             "accessLevel": "ABIERTO",
             "superTheme": [
@@ -7176,7 +7002,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P3M",
                             "type": "date",
-                            "title": "acero_consumo_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "Acero_consumo_Hjc0wU",
                             "specialType": "time_index"
                         },
@@ -7256,7 +7082,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P3M",
                             "type": "date",
-                            "title": "acero_exportaciones_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "Acero_exportaciones_aO0yt7",
                             "specialType": "time_index"
                         },
@@ -7364,7 +7190,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P3M",
                             "type": "date",
-                            "title": "acero_importaciones_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "Acero_importaciones_2jKPdA",
                             "specialType": "time_index"
                         },
@@ -7470,9 +7296,9 @@
                     "field": [
                         {
                             "description": "Índice de tiempo de las series",
-                            "specialTypeDetail": "R/P1Y",
+                            "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "acero_produccion_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "Acero_produccion_jcCRNJ",
                             "specialType": "time_index"
                         },
@@ -7506,7 +7332,9 @@
                 "liquidación",
                 "divisas",
                 "oleaginosas",
-                "cereales"
+                "cereales",
+                "sector",
+                "indicador"
             ],
             "accessLevel": "ABIERTO",
             "superTheme": [
@@ -7542,7 +7370,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "agroindustria_liquid_divisas_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "Agroindustria_TPHceE",
                             "specialType": "time_index"
                         },
@@ -7574,7 +7402,10 @@
             "keyword": [
                 "Automotriz",
                 "exportaciones",
-                "vehículos"
+                "vehículos",
+                "importaciones",
+                "sector",
+                "indicador"
             ],
             "accessLevel": "ABIERTO",
             "superTheme": [
@@ -7610,7 +7441,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "automotriz_expos_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "Automotriz_expos_RO7z7w",
                             "specialType": "time_index"
                         },
@@ -7641,7 +7472,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "automotriz_ipa_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "Automotriz_IPA_xbihv1",
                             "specialType": "time_index"
                         },
@@ -7672,7 +7503,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "automotriz_patentamiento_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "Automotriz_patentamiento_ybYvKt",
                             "specialType": "time_index"
                         },
@@ -7759,7 +7590,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "automotriz_produccion_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "Automotriz_produccion_19RW7a",
                             "specialType": "time_index"
                         },
@@ -7790,7 +7621,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "automotriz_venta_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "Automotriz_venta_gOJyqx",
                             "specialType": "time_index"
                         },
@@ -7866,7 +7697,12 @@
                 "construcción",
                 "CABA",
                 "PBA",
-                "Buenos Aires"
+                "Buenos Aires",
+                "indicador",
+                "sector",
+                "costo",
+                "despacho",
+                "cemento"
             ],
             "accessLevel": "ABIERTO",
             "superTheme": [
@@ -7902,7 +7738,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "escritura_cantidad_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "Escritura_cantidad_D7jOcL",
                             "specialType": "time_index"
                         },
@@ -7975,7 +7811,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "construya_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "Construya_kEWjLE",
                             "specialType": "time_index"
                         },
@@ -8048,7 +7884,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "costo_construccion_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "Costo_construccion_MDHvPz",
                             "specialType": "time_index"
                         },
@@ -8128,7 +7964,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "escritura_valor_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "Escritura_valor_GnZVjb",
                             "specialType": "time_index"
                         },
@@ -8201,7 +8037,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "cemento_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "Cemento_lBbcvK",
                             "specialType": "time_index"
                         },
@@ -8275,7 +8111,9 @@
             "keyword": [
                 "Energía",
                 "precio",
-                "petróleo"
+                "petróleo",
+                "sector",
+                "indicador"
             ],
             "accessLevel": "ABIERTO",
             "superTheme": [
@@ -8311,7 +8149,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "precio_petro_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "Precio_petroleo_b3Rkzq",
                             "specialType": "time_index"
                         },
@@ -8379,7 +8217,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "imai_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "IMAI_5g5kfU",
                             "specialType": "time_index"
                         },
@@ -8502,7 +8340,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "importaciones_capital_productivo_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "importaciones_capital_prod_HsCsfq",
                             "specialType": "time_index"
                         },
@@ -8583,7 +8421,9 @@
             "keyword": [
                 "Producción",
                 "ipi",
-                "uia"
+                "uia",
+                "indicador",
+                "sector"
             ],
             "accessLevel": "ABIERTO",
             "superTheme": [
@@ -8619,7 +8459,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "ipi_uia_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "IPI_UIA_IaZVIC",
                             "specialType": "time_index"
                         },
@@ -8650,7 +8490,9 @@
             "issued": "2018-05-01",
             "keyword": [
                 "Brasil",
-                "exportaciones"
+                "exportaciones",
+                "importaciones",
+                "internacional"
             ],
             "accessLevel": "ABIERTO",
             "superTheme": [
@@ -8686,7 +8528,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "brasil_expos_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "Brasil_expos_xGVYPk",
                             "specialType": "time_index"
                         },
@@ -8759,7 +8601,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "brasil_impos_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "Brasil_impos_NoSIq2",
                             "specialType": "time_index"
                         },
@@ -8834,7 +8676,9 @@
                 "Transporte",
                 "costo",
                 "cargas",
-                "logística"
+                "logística",
+                "sector",
+                "indicador"
             ],
             "accessLevel": "ABIERTO",
             "superTheme": [
@@ -8870,7 +8714,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "logistica_costo_fadeeac_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "Logistica_costo_fadeeac_iptkqN",
                             "specialType": "time_index"
                         },
@@ -8901,7 +8745,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "logistica_costo_cedol_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "Logistica_costo_cedol_v720ZF",
                             "specialType": "time_index"
                         },
@@ -8974,7 +8818,9 @@
             "issued": "2018-05-01",
             "keyword": [
                 "Motos",
-                "patentamientos"
+                "patentamientos",
+                "sector",
+                "indicador"
             ],
             "accessLevel": "ABIERTO",
             "superTheme": [
@@ -9010,7 +8856,7 @@
                             "description": "Índice de tiempo de las series",
                             "specialTypeDetail": "R/P1M",
                             "type": "date",
-                            "title": "motos_patentamiento_indice_tiempo_series",
+                            "title": "indice_tiempo",
                             "id": "Motos_patentamiento_oqzKxd",
                             "specialType": "time_index"
                         },
