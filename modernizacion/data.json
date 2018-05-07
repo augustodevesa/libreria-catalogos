@@ -1515,6 +1515,55 @@
         },
         {
             "publisher": {
+                "mbox": "paisdigital@modernizacion.gob.ar",
+                "name": "Ministerio de Modernización. Secretaría País Digital."
+            },
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "description": "Listado de los puntos digitales, espacio público de inclusión digital que brinda conectividad, capacitaciones y acceso a las nuevas Tecnologías de la Información y de la Comunicación (TIC).",
+            "superTheme": [
+                "TECH",
+                "EDUC",
+                "GOVE"
+            ],
+            "title": "Puntos Digitales",
+            "issued": "2017-05-31T13:25:21.651134",
+            "modified": "2017-05-31T13:26:47.816048",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "TECH",
+                "EDUC",
+                "GOVE"
+            ],
+            "keyword": [
+                "aprendizaje",
+                "entretenimiento",
+                "inclusión digital",
+                "tecnología",
+                "tic"
+            ],
+            "accrualPeriodicity": "eventual",
+            "identifier": "6",
+            "contactPoint": {
+                "hasEmail": "info@puntodigital.gob.ar",
+                "fn": "Ministerio de Modernización. Secretaría País Digital. Programa Punto Digital."
+            },
+            "landingPage": "http://puntodigital.gob.ar/",
+            "distribution": [
+                {
+                    "accessURL": "https://servicios.puntodigital.paisdigital.modernizacion.gob.ar/ws/ws-eventos.php?method=getCsv",
+                    "description": "Listado de los puntos digitales y su ubicación geográfica.",
+                    "format": "CSV",
+                    "issued": "2017-05-31T13:26:47.107817",
+                    "title": "Ubicación de los puntos digitales",
+                    "downloadURL": "https://servicios.puntodigital.paisdigital.modernizacion.gob.ar/ws/ws-eventos.php?method=getCsv",
+                    "identifier": "6.1"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "mapadelestado@modernizacion.gob.ar",
                 "name": "Ministerio de Modernización. Secretaría  de Empleo Público. Subsecretaría de Planificación de Empleo Público"
             },
