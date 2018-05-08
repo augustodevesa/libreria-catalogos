@@ -16,7 +16,7 @@
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
 - **Cantidad Total de Datasets**: 9
-- **Cantidad Total de Distribuciones**: 9
+- **Cantidad Total de Distribuciones**: 17
 
 - **Cantidad de Datasets Federados**: 0
 - **Cantidad de Datasets NO Federados**: 9
@@ -28,15 +28,15 @@
 
 ## Datasets no federados
 
-- [Abordaje territorial](http://datosabiertos.desarrollosocial.gob.ar/dataset/abordaje-territorial)
-- [Participación Ciudadana](http://datosabiertos.desarrollosocial.gob.ar/dataset/participacion-ciudadana)
-- [El Estado en tu Barrio y Tren Argentino](http://datosabiertos.desarrollosocial.gob.ar/dataset/el-estado-en-tu-barrio)
-- [Plan nacional de primera infancia](http://datosabiertos.desarrollosocial.gob.ar/dataset/plan-nacional-de-primera-infancia)
-- [Estrategia Nacional para Adolescentes y Jóvenes Vulnerables](http://datosabiertos.desarrollosocial.gob.ar/dataset/estrategia-nacional-para-adolescentes-y-jovenes-vulnerables)
-- [Plan para la Economía Popular](http://datosabiertos.desarrollosocial.gob.ar/dataset/plan-para-la-economia-popular)
-- [Centros de Referencia](http://datosabiertos.desarrollosocial.gob.ar/dataset/centros-de-referencia)
-- [Programa ProHuerta](http://datosabiertos.desarrollosocial.gob.ar/dataset/programa-prohuerta)
 - [Adultos Mayores](http://datosabiertos.desarrollosocial.gob.ar/dataset/ninez-y-familia)
+- [Abordaje territorial](http://datosabiertos.desarrollosocial.gob.ar/dataset/abordaje-territorial)
+- [Centros de Referencia](http://datosabiertos.desarrollosocial.gob.ar/dataset/centros-de-referencia)
+- [Plan para la Economía Popular](http://datosabiertos.desarrollosocial.gob.ar/dataset/plan-para-la-economia-popular)
+- [Estrategia Nacional para Adolescentes y Jóvenes Vulnerables](http://datosabiertos.desarrollosocial.gob.ar/dataset/estrategia-nacional-para-adolescentes-y-jovenes-vulnerables)
+- [El Estado en tu Barrio y Tren Argentino](http://datosabiertos.desarrollosocial.gob.ar/dataset/el-estado-en-tu-barrio)
+- [Participación Ciudadana](http://datosabiertos.desarrollosocial.gob.ar/dataset/participacion-ciudadana)
+- [Plan nacional de primera infancia](http://datosabiertos.desarrollosocial.gob.ar/dataset/plan-nacional-de-primera-infancia)
+- [Programa ProHuerta](http://datosabiertos.desarrollosocial.gob.ar/dataset/programa-prohuerta)
 
 ## Datasets federados
 
