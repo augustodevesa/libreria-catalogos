@@ -69,6 +69,123 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "",
+                "name": "Secretaría General"
+            },
+            "identifier": "8c0e4e46-bb9b-4433-9fb4-e39434f8a9ef",
+            "description": "Actas de reunión del Consejo Directivo del 2018. Incluye detalles sobre autoridades presentes y temas tratados. La Publicidad de las actas corresponde al cumplimiento de la manda de Acceso a la Información Pública",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Actas del Consejo Directivo de ACUMAR - 2018",
+            "issued": "2018-02-16T15:32:22.945505",
+            "modified": "2018-05-07T16:11:58.910215",
+            "theme": [
+                "transparencia"
+            ],
+            "keyword": [
+                "actas",
+                "autoridades",
+                "consejo directivo",
+                "convenios",
+                "rendición de cuentas",
+                "transparencia"
+            ],
+            "accrualPeriodicity": "R/P0.5M",
+            "superTheme": [
+                "ENVI",
+                "GOVE"
+            ],
+            "contactPoint": {
+                "hasEmail": "prensa@acumar.gov.ar",
+                "fn": "Coordinación de Comunicación y Prensa"
+            },
+            "landingPage": "http://datos.acumar.gob.ar/dataset/actas-del-consejo-directivo-de-acumar-2018",
+            "distribution": [
+                {
+                    "description": "Sistema de Indicadores. Convalidación de Gastos AYSA. Convenio con el Ministerio del Interior por mejoramiento de viviendas. Modificación de reglamento de fondo rotatorio y caja chica. Presupuesto Plurianual 2018-2020. Delegación en los Directores para iniciar informaciones sumarias. Convenio con la municipalidad de General Las Heras para limpieza y clausura del basural. Contrato de comodato con el Hospital de Cuenca Alta por equipamiento de laboratorio.",
+                    "license": "cc-by",
+                    "title": "Reunión Ordinaria 11 de Enero de 2018",
+                    "issued": "2018-02-16T15:33:44.368572",
+                    "format": "PDF",
+                    "modified": "2018-02-16T15:33:44.315412",
+                    "fileName": "20180111cdso.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/8c0e4e46-bb9b-4433-9fb4-e39434f8a9ef/resource/482d0cbc-9f04-4e4d-a3ba-e51fd9d66e98/download/20180111cdso.pdf",
+                    "identifier": "482d0cbc-9f04-4e4d-a3ba-e51fd9d66e98"
+                },
+                {
+                    "description": "Inversiones Primer Semestre. Convenio con Banco Ciudad. Convenio con el Municipio de Esteban Echeverría por Unidad Sanitaria. Convenio con el Municipio de Cañuelas y el CEAMSE. Convenio marco ACUMAR - PROCREAR: Proyecto de Conexiones Intradomiciliarias.",
+                    "license": "odc-odbl",
+                    "title": "Reunión Ordinaria 05 de Febrero de 2018",
+                    "issued": "2018-02-16T15:34:25.620997",
+                    "format": "PDF",
+                    "modified": "2018-02-16T15:34:25.562274",
+                    "fileName": "20180502cdso.pdf",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/8c0e4e46-bb9b-4433-9fb4-e39434f8a9ef/resource/d195297d-0222-4672-b3d6-4a0a3a26da19/download/20180502cdso.pdf",
+                    "identifier": "d195297d-0222-4672-b3d6-4a0a3a26da19"
+                },
+                {
+                    "description": "Convenios y actuaciones administrativas varias, Plan de Trabajo Auditoría Interna 2018, Normativa.",
+                    "license": "odc-odbl",
+                    "title": "Reunión Ordinaria 12 de Abril de 2018",
+                    "issued": "2018-05-07T15:58:22.243393",
+                    "format": "PDF",
+                    "modified": "2018-05-07T15:58:22.179463",
+                    "fileName": "20180412-CD-SO",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/8c0e4e46-bb9b-4433-9fb4-e39434f8a9ef/resource/543cb0c7-7442-4492-8612-24048f8ac9c9/download/20180412cdso.pdf",
+                    "identifier": "543cb0c7-7442-4492-8612-24048f8ac9c9"
+                },
+                {
+                    "description": "Licitación Pública N° 7/2017 - Contratación de un servicio de Limpieza de Espejo de Agua.",
+                    "license": "odc-odbl",
+                    "title": "Reunión Extraordinaria 04 de Mayo de 2018",
+                    "issued": "2018-05-07T16:05:18.355339",
+                    "format": "PDF",
+                    "modified": "2018-05-07T16:05:18.300169",
+                    "fileName": "20180504-CD-SE",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/8c0e4e46-bb9b-4433-9fb4-e39434f8a9ef/resource/85849243-5ce4-4d1b-946a-7dfc98ce083a/download/20180504cdse.pdf",
+                    "identifier": "85849243-5ce4-4d1b-946a-7dfc98ce083a"
+                },
+                {
+                    "description": "Tipo de reunión, fecha y temática.",
+                    "license": "odc-odbl",
+                    "title": "Listado de Actas del Consejo Directivo - 2018",
+                    "issued": "2018-05-07T16:11:58.944520",
+                    "format": "CSV",
+                    "modified": "2018-05-07T16:11:58.890367",
+                    "fileName": "actas-directivo-2018",
+                    "downloadURL": "http://datos.acumar.gob.ar/dataset/8c0e4e46-bb9b-4433-9fb4-e39434f8a9ef/resource/6766bd68-892b-4e71-ab91-71c113342c01/download/actas-directivo-2018.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Reunión que corresponde al acta confeccionada: Ordinaria, Extraordinaria, de Urgencia.",
+                            "title": "tipo_acta"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha en la que se realizó la reunión que se describe en el acta.",
+                            "title": "fecha_acta"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tema principal tratado en la reunión.\n",
+                            "title": "tema_acta"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Formato de archivo disponible para la descarga del acta.",
+                            "title": "tipo_archivo"
+                        },
+                        {
+                            "type": "any",
+                            "description": "URL de descarga del acta.",
+                            "title": "enlace_acta"
+                        }
+                    ],
+                    "identifier": "6766bd68-892b-4e71-ab91-71c113342c01"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "agarcia@acumar.gov.ar",
                 "name": "Dirección de Fiscalización y Adecuación Ambiental"
             },
@@ -5053,101 +5170,6 @@
                         }
                     ],
                     "identifier": "944da5dd-d787-4d30-b031-2775e075140c"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Secretaría General"
-            },
-            "identifier": "8c0e4e46-bb9b-4433-9fb4-e39434f8a9ef",
-            "description": "Actas de reunión del Consejo Directivo del 2018. Incluye detalles sobre autoridades presentes y temas tratados. La Publicidad de las actas corresponde al cumplimiento de la manda de Acceso a la Información Pública",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Actas del Consejo Directivo de ACUMAR - 2018",
-            "issued": "2018-02-16T15:32:22.945505",
-            "modified": "2018-02-16T15:40:10.926774",
-            "theme": [
-                "transparencia"
-            ],
-            "keyword": [
-                "actas",
-                "autoridades",
-                "consejo directivo",
-                "convenios",
-                "rendición de cuentas",
-                "transparencia"
-            ],
-            "accrualPeriodicity": "R/P0.5M",
-            "superTheme": [
-                "ENVI",
-                "GOVE"
-            ],
-            "contactPoint": {
-                "hasEmail": "prensa@acumar.gov.ar",
-                "fn": "Coordinación de Comunicación y Prensa"
-            },
-            "landingPage": "http://datos.acumar.gob.ar/dataset/actas-del-consejo-directivo-de-acumar-2018",
-            "distribution": [
-                {
-                    "description": "Sistema de Indicadores. Convalidación de Gastos AYSA. Convenio con el Ministerio del Interior por mejoramiento de viviendas. Modificación de reglamento de fondo rotatorio y caja chica. Presupuesto Plurianual 2018-2020. Delegación en los Directores para iniciar informaciones sumarias. Convenio con la municipalidad de General Las Heras para limpieza y clausura del basural. Contrato de comodato con el Hospital de Cuenca Alta por equipamiento de laboratorio.",
-                    "license": "cc-by",
-                    "title": "Reunión Ordinaria 11 de Enero de 2018",
-                    "issued": "2018-02-16T15:33:44.368572",
-                    "format": "PDF",
-                    "modified": "2018-02-16T15:33:44.315412",
-                    "fileName": "20180111cdso.pdf",
-                    "downloadURL": "http://datos.acumar.gob.ar/dataset/8c0e4e46-bb9b-4433-9fb4-e39434f8a9ef/resource/482d0cbc-9f04-4e4d-a3ba-e51fd9d66e98/download/20180111cdso.pdf",
-                    "identifier": "482d0cbc-9f04-4e4d-a3ba-e51fd9d66e98"
-                },
-                {
-                    "description": "Inversiones Primer Semestre. Convenio con Banco Ciudad. Convenio con el Municipio de Esteban Echeverría por Unidad Sanitaria. Convenio con el Municipio de Cañuelas y el CEAMSE. Convenio marco ACUMAR - PROCREAR: Proyecto de Conexiones Intradomiciliarias.",
-                    "license": "odc-odbl",
-                    "title": "Reunión Ordinaria 05 de Febrero de 2018",
-                    "issued": "2018-02-16T15:34:25.620997",
-                    "format": "PDF",
-                    "modified": "2018-02-16T15:34:25.562274",
-                    "fileName": "20180502cdso.pdf",
-                    "downloadURL": "http://datos.acumar.gob.ar/dataset/8c0e4e46-bb9b-4433-9fb4-e39434f8a9ef/resource/d195297d-0222-4672-b3d6-4a0a3a26da19/download/20180502cdso.pdf",
-                    "identifier": "d195297d-0222-4672-b3d6-4a0a3a26da19"
-                },
-                {
-                    "description": "Tipo de reunión, fecha y temática.",
-                    "license": "odc-odbl",
-                    "title": "Listado de Actas del Consejo Directivo - 2018",
-                    "issued": "2018-02-16T15:39:26.122328",
-                    "format": "CSV",
-                    "modified": "2018-02-16T15:39:26.065838",
-                    "fileName": "actas-2018.csv",
-                    "downloadURL": "http://datos.acumar.gob.ar/dataset/8c0e4e46-bb9b-4433-9fb4-e39434f8a9ef/resource/63d26d47-d09d-4eaa-8f6e-2c0c6d74d5af/download/actas-2018.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Reunión que corresponde al acta confeccionada: Ordinaria, Extraordinaria, de Urgencia.\n",
-                            "title": "tipo_acta"
-                        },
-                        {
-                            "type": "date",
-                            "description": "Fecha en la que se realizó la reunión que se describe en el acta.\n",
-                            "title": "fecha_acta"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tema principal tratado en la reunión.",
-                            "title": "tema_acta"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Formato de archivo disponible para la descarga del acta.\n",
-                            "title": "tipo_archivo"
-                        },
-                        {
-                            "type": "any",
-                            "description": "URL de descarga del acta.\n",
-                            "title": "enlace_acta"
-                        }
-                    ],
-                    "identifier": "63d26d47-d09d-4eaa-8f6e-2c0c6d74d5af"
                 }
             ]
         },
