@@ -403,13 +403,13 @@
                     "identifier": "1.2"
                 },
                 {
-                    "description": "Metodologia",
+                    "description": "Documento metodológico del dataset Tipo de Cambio Real Sectorial Efectivo",
                     "format": "pdf",
                     "issued": "2018-05-01",
                     "fileName": "tcrmse-metodologia.pdf",
                     "accessURL": "http://estadisticas.produccion.gob.ar/dataset/1/",
                     "license": "Open Database License (ODbL) v1.2",
-                    "title": "Metodologia",
+                    "title": "Índice de Tipo de Cambio Real Sectorial Efectivo: metodología",
                     "byteSize": 170000,
                     "rights": "Derechos especificados en la licencia.",
                     "modified": "2018-05-01",
@@ -5945,198 +5945,6 @@
                     "identifier": "3.7"
                 },
                 {
-                    "description": "GPS Empresas: cantidad de empresas por provincia en formato de series",
-                    "format": "csv",
-                    "issued": "2018-05-01",
-                    "fileName": "gps-provincia-series.csv",
-                    "accessURL": "http://estadisticas.produccion.gob.ar/dataset/3/",
-                    "license": "Open Database License (ODbL) v1.14",
-                    "title": "GPS Empresas: cantidad de empresas por provincia (series)",
-                    "byteSize": 1024,
-                    "rights": "Derechos especificados en la licencia.",
-                    "modified": "2018-05-01",
-                    "downloadURL": "http://estadisticas.produccion.gob.ar/dataset/3/distribution/3.8/gps-provincia-series.csv",
-                    "field": [
-                        {
-                            "description": "Índice de tiempo de las series",
-                            "specialTypeDetail": "R/P1Y",
-                            "type": "date",
-                            "title": "indice_tiempo",
-                            "id": "GPS_provincia_z6AmZl",
-                            "specialType": "time_index"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de Buenos Aires",
-                            "title": "gps_provincia_buenos_aires",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_wEH3XE"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la CABA",
-                            "title": "gps_provincia_caba",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_Rh5e5N"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de Catamarca",
-                            "title": "gps_provincia_catamarca",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_TiiuYx"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de Chaco",
-                            "title": "gps_provincia_chaco",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_ExN099"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de Chubut",
-                            "title": "gps_provincia_chubut",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_m12tOX"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de Córdoba",
-                            "title": "gps_provincia_cordoba",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_Ibgysg"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de Corrientes",
-                            "title": "gps_provincia_corrientes",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_WFMUaA"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de Entre Rios",
-                            "title": "gps_provincia_entre_rios",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_AzAlfA"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de Formosa",
-                            "title": "gps_provincia_formosa",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_cvUYyE"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de Jujuy",
-                            "title": "gps_provincia_jujuy",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_I8LhSF"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de La Pampa",
-                            "title": "gps_provincia_la_pampa",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_wTaq23"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de La Rioja",
-                            "title": "gps_provincia_la_rioja",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_x8cD1g"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de Mendoza",
-                            "title": "gps_provincia_mendoza",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_hJLaCp"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de Misiones",
-                            "title": "gps_provincia_misiones",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_8l9llc"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de Neuquen",
-                            "title": "gps_provincia_neuquen",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_NvaxjP"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de Rio Negro",
-                            "title": "gps_provincia_rio_negro",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_f7hqrz"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de Salta",
-                            "title": "gps_provincia_salta",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_BsEWPb"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de San Juan",
-                            "title": "gps_provincia_san_juan",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_uILFSw"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de San Luis",
-                            "title": "gps_provincia_san_luis",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_YqX7mw"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de Santa Cruz",
-                            "title": "gps_provincia_santa_cruz",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_PiWXnK"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de Santa Fe",
-                            "title": "gps_provincia_santa_fe",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_Hl7K59"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de Santiago del Es",
-                            "title": "gps_provincia_santiago_del_estero",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_wOe2pH"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de Tierra del Fueg",
-                            "title": "gps_provincia_tierra_del_fuego",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_27gIQF"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en la provincia de Tucuman",
-                            "title": "gps_provincia_tucuman",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_provincia_uDlK0U"
-                        }
-                    ],
-                    "identifier": "3.8"
-                },
-                {
                     "description": "GPS Empresas: cantidad de empresas por provincia en formato de datos de panel",
                     "format": "csv",
                     "issued": "2018-05-01",
@@ -6170,156 +5978,6 @@
                         }
                     ],
                     "identifier": "3.9"
-                },
-                {
-                    "description": "GPS Empresas: cantidad de empresas por sector de actividad en formato de series",
-                    "format": "csv",
-                    "issued": "2018-05-01",
-                    "fileName": "gps-sector-series.csv",
-                    "accessURL": "http://estadisticas.produccion.gob.ar/dataset/3/",
-                    "license": "Open Database License (ODbL) v1.16",
-                    "title": "GPS Empresas: cantidad de empresas por sector de actividad (series)",
-                    "byteSize": 1024,
-                    "rights": "Derechos especificados en la licencia.",
-                    "modified": "2018-05-01",
-                    "downloadURL": "http://estadisticas.produccion.gob.ar/dataset/3/distribution/3.10/gps-sector-series.csv",
-                    "field": [
-                        {
-                            "description": "Índice de tiempo de las series",
-                            "specialTypeDetail": "R/P1Y",
-                            "type": "date",
-                            "title": "indice_tiempo",
-                            "id": "GPS_sector_bd2Tax",
-                            "specialType": "time_index"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en el sector Actividades agropecuarias",
-                            "title": "gps_sector_agropecuarias",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_sector_udUA0t"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en el sector Minería y petróleo",
-                            "title": "gps_sector_mineria",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_sector_gs2MgU"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en el sector Manufacturas",
-                            "title": "gps_sector_manufacturas",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_sector_OT4PJ0"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en el sector Suministro de gas, electricidad y aire acondicionado",
-                            "title": "gps_sector_gas",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_sector_M0BOPu"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en el sector Suministro de agua y gestión de residuos",
-                            "title": "gps_sector_agua",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_sector_EH88e2"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en el sector Construcción",
-                            "title": "gps_sector_construccion",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_sector_g28uVr"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en el sector Comercio",
-                            "title": "gps_sector_comercio",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_sector_0heJL4"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en el sector Transporte y almacenamiento",
-                            "title": "gps_sector_transporte",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_sector_YkBJLo"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en el sector Hotelería y gastronomía",
-                            "title": "gps_sector_hoteleria",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_sector_MkjJtR"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en el sector Comunicaciones",
-                            "title": "gps_sector_comunicaciones",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_sector_OXjAUl"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en el sector Servicios financieros y de seguros",
-                            "title": "gps_sector_financieros",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_sector_cyRwJN"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en el sector Inmobiliarias y servicios de alquiler",
-                            "title": "gps_sector_inmobiliarias",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_sector_9J6l5i"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en el sector Servicios profesionales, científicos y técnicos",
-                            "title": "gps_sector_profesionales",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_sector_mPOjRs"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en el sector Actividades administrativas",
-                            "title": "gps_sector_administrativas",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_sector_I92OpQ"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en el sector Enseñanza",
-                            "title": "gps_sector_ensenianza",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_sector_kn73zF"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en el sector Salud",
-                            "title": "gps_sector_salud",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_sector_Abk3HZ"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en el sector Ocio",
-                            "title": "gps_sector_ocio",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_sector_axnEDm"
-                        },
-                        {
-                            "description": "GPS Empresas: cantidad de empresas en el sector Asociaciones y servicios personales",
-                            "title": "gps_sector_personales",
-                            "type": "number",
-                            "units": "Cantidad de empresas",
-                            "id": "GPS_sector_KE4DEX"
-                        }
-                    ],
-                    "identifier": "3.10"
                 },
                 {
                     "description": "GPS Empresas: cantidad de empresas por sector de actividad en formato de datos de panel",
@@ -6475,58 +6133,6 @@
                     "identifier": "3.14"
                 },
                 {
-                    "description": "GPS Empresas: distribución de las exportaciones por tamaño de la empresa en formato de series",
-                    "format": "csv",
-                    "issued": "2018-05-01",
-                    "fileName": "gps-exportaciones-series.csv",
-                    "accessURL": "http://estadisticas.produccion.gob.ar/dataset/3/",
-                    "license": "Open Database License (ODbL) v1.21",
-                    "title": "GPS Empresas: distribución de las exportaciones por tamaño de la empresa (series)",
-                    "byteSize": 1024,
-                    "rights": "Derechos especificados en la licencia.",
-                    "modified": "2018-05-01",
-                    "downloadURL": "http://estadisticas.produccion.gob.ar/dataset/3/distribution/3.15/gps-exportaciones-series.csv",
-                    "field": [
-                        {
-                            "description": "Índice de tiempo de las series",
-                            "specialTypeDetail": "R/P1Y",
-                            "type": "date",
-                            "title": "indice_tiempo",
-                            "id": "GPS_exportaciones_9RJz3O",
-                            "specialType": "time_index"
-                        },
-                        {
-                            "description": "GPS Empresas: distribución de las exportaciones por tamaño de la empresa. Microempresas",
-                            "title": "gps_exportaciones_mircoempresas",
-                            "type": "number",
-                            "units": "Porcentaje del total de exportaciones",
-                            "id": "GPS_exportaciones_bBr57Q"
-                        },
-                        {
-                            "description": "GPS Empresas: distribución de las exportaciones por tamaño de la empresa. Pequeñas empresas",
-                            "title": "gps_exportaciones_pequenias",
-                            "type": "number",
-                            "units": "Porcentaje del total de exportaciones",
-                            "id": "GPS_exportaciones_3MwUyr"
-                        },
-                        {
-                            "description": "GPS Empresas: distribución de las exportaciones por tamaño de la empresa. Medianas empresas",
-                            "title": "gps_exportaciones_medianas",
-                            "type": "number",
-                            "units": "Porcentaje del total de exportaciones",
-                            "id": "GPS_exportaciones_Be0M3c"
-                        },
-                        {
-                            "description": "GPS Empresas: distribución de las exportaciones por tamaño de la empresa. Grandes empresas",
-                            "title": "gps_exportaciones_grandes",
-                            "type": "number",
-                            "units": "Porcentaje del total de exportaciones",
-                            "id": "GPS_exportaciones_twmGxL"
-                        }
-                    ],
-                    "identifier": "3.15"
-                },
-                {
                     "description": "GPS Empresas: distribución de las exportaciones por tamaño de la empresa en formato de datos de panel",
                     "format": "csv",
                     "issued": "2018-05-01",
@@ -6560,170 +6166,6 @@
                         }
                     ],
                     "identifier": "3.16"
-                },
-                {
-                    "description": "GPS Empresas: evolución del tamaño de las empresas después de cinco años de vida en formato de series",
-                    "format": "csv",
-                    "issued": "2018-05-01",
-                    "fileName": "gps-tamanio-5-series.csv",
-                    "accessURL": "http://estadisticas.produccion.gob.ar/dataset/3/",
-                    "license": "Open Database License (ODbL) v1.23",
-                    "title": "GPS Empresas: evolución del tamaño de las empresas después de cinco años de vida (series)",
-                    "byteSize": 1024,
-                    "rights": "Derechos especificados en la licencia.",
-                    "modified": "2018-05-01",
-                    "downloadURL": "http://estadisticas.produccion.gob.ar/dataset/3/distribution/3.17/gps-tamanio-5-series.csv",
-                    "field": [
-                        {
-                            "description": "Índice de tiempo de las series",
-                            "specialTypeDetail": "R/P1Y",
-                            "type": "date",
-                            "title": "indice_tiempo",
-                            "id": "GPS_tamanio_5_usAwYD",
-                            "specialType": "time_index"
-                        },
-                        {
-                            "description": "GPS Empresas: porcentaje de microempresas que cerraron",
-                            "title": "gps_tamanio_5_microempresas_cierre",
-                            "type": "number",
-                            "units": "Porcentaje del total de empresas",
-                            "id": "GPS_tamanio_5_9fqTmq"
-                        },
-                        {
-                            "description": "GPS Empresas: porcentaje de microempresas que no modificaron su tamaño",
-                            "title": "gps_tamanio_5_microempresas_microempresas",
-                            "type": "number",
-                            "units": "Porcentaje del total de empresas",
-                            "id": "GPS_tamanio_5_UWrDHy"
-                        },
-                        {
-                            "description": "GPS Empresas: porcentaje de microempresas que crecieron a pequeñas empresas",
-                            "title": "gps_tamanio_5_microempresas_pequenias",
-                            "type": "number",
-                            "units": "Porcentaje del total de empresas",
-                            "id": "GPS_tamanio_5_Dg57f1"
-                        },
-                        {
-                            "description": "GPS Empresas: porcentaje de microempresas que crecieron a medianas empresas",
-                            "title": "gps_tamanio_5_microempresas_medianas",
-                            "type": "number",
-                            "units": "Porcentaje del total de empresas",
-                            "id": "GPS_tamanio_5_aEKezG"
-                        },
-                        {
-                            "description": "GPS Empresas: porcentaje de microempresas que crecieron a grandes empresas",
-                            "title": "gps_tamanio_5_microempresas_grandes",
-                            "type": "number",
-                            "units": "Porcentaje del total de empresas",
-                            "id": "GPS_tamanio_5_pBIhVa"
-                        },
-                        {
-                            "description": "GPS Empresas: porcentaje de pequeñas empresas que cerraron",
-                            "title": "gps_tamanio_5_pequenias_cierre",
-                            "type": "number",
-                            "units": "Porcentaje del total de empresas",
-                            "id": "GPS_tamanio_5_9tUkz0"
-                        },
-                        {
-                            "description": "GPS Empresas: porcentaje de pequeñas empresas que redujeron su tamaño a microempresa",
-                            "title": "gps_tamanio_5_pequenias_microempresas",
-                            "type": "number",
-                            "units": "Porcentaje del total de empresas",
-                            "id": "GPS_tamanio_5_nrO56h"
-                        },
-                        {
-                            "description": "GPS Empresas: porcentaje de pequeñas empresas que no modificaron su tamaño",
-                            "title": "gps_tamanio_5_pequenias_pequenias",
-                            "type": "number",
-                            "units": "Porcentaje del total de empresas",
-                            "id": "GPS_tamanio_5_DSxqXB"
-                        },
-                        {
-                            "description": "GPS Empresas: porcentaje de pequeñas empresas que crecieron a medianas empresas",
-                            "title": "gps_tamanio_5_pequenias_medianas",
-                            "type": "number",
-                            "units": "Porcentaje del total de empresas",
-                            "id": "GPS_tamanio_5_t2OKTD"
-                        },
-                        {
-                            "description": "GPS Empresas: porcentaje de pequeñas empresas que crecieron a grandes empresas",
-                            "title": "gps_tamanio_5_pequenias_grandes",
-                            "type": "number",
-                            "units": "Porcentaje del total de empresas",
-                            "id": "GPS_tamanio_5_smUFpl"
-                        },
-                        {
-                            "description": "GPS Empresas: porcentaje de medianas empresas que cerraron",
-                            "title": "gps_tamanio_5_medianas_cierre",
-                            "type": "number",
-                            "units": "Porcentaje del total de empresas",
-                            "id": "GPS_tamanio_5_Ye3KMm"
-                        },
-                        {
-                            "description": "GPS Empresas: porcentaje de medianas empresas que redujeron su tamaño a microempresa",
-                            "title": "gps_tamanio_5_medianas_microempresas",
-                            "type": "number",
-                            "units": "Porcentaje del total de empresas",
-                            "id": "GPS_tamanio_5_zFAY0e"
-                        },
-                        {
-                            "description": "GPS Empresas: porcentaje de medianas empresas que redujeron su tamaño a pequeña empresa",
-                            "title": "gps_tamanio_5_medianas_pequenias",
-                            "type": "number",
-                            "units": "Porcentaje del total de empresas",
-                            "id": "GPS_tamanio_5_w37sCo"
-                        },
-                        {
-                            "description": "GPS Empresas: porcentaje de medianas empresas que no modificaron su tamaño",
-                            "title": "gps_tamanio_5_medianas_medianas",
-                            "type": "number",
-                            "units": "Porcentaje del total de empresas",
-                            "id": "GPS_tamanio_5_rDdhD0"
-                        },
-                        {
-                            "description": "GPS Empresas: porcentaje de medianas empresas que crecieron a grandes empresas",
-                            "title": "gps_tamanio_5_medianas_grandes",
-                            "type": "number",
-                            "units": "Porcentaje del total de empresas",
-                            "id": "GPS_tamanio_5_gK9Jpv"
-                        },
-                        {
-                            "description": "GPS Empresas: porcentaje de grandes empresas que cerraron",
-                            "title": "gps_tamanio_5_grandes_cierre",
-                            "type": "number",
-                            "units": "Porcentaje del total de empresas",
-                            "id": "GPS_tamanio_5_KgFSRI"
-                        },
-                        {
-                            "description": "GPS Empresas: porcentaje de grandes empresas que redujeron su tamaño a microempresa",
-                            "title": "gps_tamanio_5_grandes_microempresas",
-                            "type": "number",
-                            "units": "Porcentaje del total de empresas",
-                            "id": "GPS_tamanio_5_IsZFao"
-                        },
-                        {
-                            "description": "GPS Empresas: porcentaje de grandes empresas que redujeron su tamaño a pequeña empresa",
-                            "title": "gps_tamanio_5_grandes_pequenias",
-                            "type": "number",
-                            "units": "Porcentaje del total de empresas",
-                            "id": "GPS_tamanio_5_3mqx34"
-                        },
-                        {
-                            "description": "GPS Empresas: porcentaje de grandes empresas que redujeron su tamaño a mediana empresa",
-                            "title": "gps_tamanio_5_grandes_medianas",
-                            "type": "number",
-                            "units": "Porcentaje del total de empresas",
-                            "id": "GPS_tamanio_5_FZClrg"
-                        },
-                        {
-                            "description": "GPS Empresas: porcentaje de grandes empresas que no modificaron su tamaño",
-                            "title": "gps_tamanio_5_grandes_grandes",
-                            "type": "number",
-                            "units": "Porcentaje del total de empresas",
-                            "id": "GPS_tamanio_5_aXtIi1"
-                        }
-                    ],
-                    "identifier": "3.17"
                 },
                 {
                     "description": "GPS Empresas: evolución del tamaño de las empresas después de cinco años de vida en formato de datos de panel",
@@ -6767,142 +6209,6 @@
                     "identifier": "3.18"
                 },
                 {
-                    "description": "GPS Empresas: puestos de trabajo promedio según edad de la empresa en formato de series",
-                    "format": "csv",
-                    "issued": "2018-05-01",
-                    "fileName": "gps-puestos-series.csv",
-                    "accessURL": "http://estadisticas.produccion.gob.ar/dataset/3/",
-                    "license": "Open Database License (ODbL) v1.25",
-                    "title": "GPS Empresas: puestos de trabajo promedio según edad de la empresa (series)",
-                    "byteSize": 1024,
-                    "rights": "Derechos especificados en la licencia.",
-                    "modified": "2018-05-01",
-                    "downloadURL": "http://estadisticas.produccion.gob.ar/dataset/3/distribution/3.19/gps-puestos-series.csv",
-                    "field": [
-                        {
-                            "description": "Índice de tiempo de las series",
-                            "specialTypeDetail": "R/P1Y",
-                            "type": "date",
-                            "title": "indice_tiempo",
-                            "id": "GPS_puestos_Zj4lP7",
-                            "specialType": "time_index"
-                        },
-                        {
-                            "description": "GPS Empresas: puestos de trabajo promedio según edad de la empresa. Nuevas empresas de 1 año",
-                            "title": "gps_puestos_nuevas_empresas_1",
-                            "type": "number",
-                            "units": "Cantidad de ocupados",
-                            "id": "GPS_puestos_3CEEd9"
-                        },
-                        {
-                            "description": "GPS Empresas: puestos de trabajo promedio según edad de la empresa. Nuevas empresas de 2 años",
-                            "title": "gps_puestos_nuevas_empresas_2",
-                            "type": "number",
-                            "units": "Cantidad de ocupados",
-                            "id": "GPS_puestos_t2nLNF"
-                        },
-                        {
-                            "description": "GPS Empresas: puestos de trabajo promedio según edad de la empresa. Nuevas empresas de 3 años",
-                            "title": "gps_puestos_nuevas_empresas_3",
-                            "type": "number",
-                            "units": "Cantidad de ocupados",
-                            "id": "GPS_puestos_CNqtgm"
-                        },
-                        {
-                            "description": "GPS Empresas: puestos de trabajo promedio según edad de la empresa. Nuevas empresas de 4 años",
-                            "title": "gps_puestos_nuevas_empresas_4",
-                            "type": "number",
-                            "units": "Cantidad de ocupados",
-                            "id": "GPS_puestos_7xSzSy"
-                        },
-                        {
-                            "description": "GPS Empresas: puestos de trabajo promedio según edad de la empresa. Nuevas empresas de 5 años",
-                            "title": "gps_puestos_nuevas_empresas_5",
-                            "type": "number",
-                            "units": "Cantidad de ocupados",
-                            "id": "GPS_puestos_jL9Rmo"
-                        },
-                        {
-                            "description": "GPS Empresas: puestos de trabajo promedio según edad de la empresa. Nuevas empresas de 6 años",
-                            "title": "gps_puestos_nuevas_empresas_6",
-                            "type": "number",
-                            "units": "Cantidad de ocupados",
-                            "id": "GPS_puestos_nbCOjc"
-                        },
-                        {
-                            "description": "GPS Empresas: puestos de trabajo promedio según edad de la empresa. Nuevas empresas de 7 años",
-                            "title": "gps_puestos_nuevas_empresas_7",
-                            "type": "number",
-                            "units": "Cantidad de ocupados",
-                            "id": "GPS_puestos_KDblZ9"
-                        },
-                        {
-                            "description": "GPS Empresas: puestos de trabajo promedio según edad de la empresa. Nuevas empresas de menos de 1 año",
-                            "title": "gps_puestos_nuevas_empresas_0",
-                            "type": "number",
-                            "units": "Cantidad de ocupados",
-                            "id": "GPS_puestos_OxUUCG"
-                        },
-                        {
-                            "description": "GPS Empresas: puestos de trabajo promedio según edad de la empresa. Nuevas microempresas de 1 año",
-                            "title": "gps_puestos_nuevas_micro_1",
-                            "type": "number",
-                            "units": "Cantidad de ocupados",
-                            "id": "GPS_puestos_VM9G4I"
-                        },
-                        {
-                            "description": "GPS Empresas: puestos de trabajo promedio según edad de la empresa. Nuevas microempresas de 2 años",
-                            "title": "gps_puestos_nuevas_micro_2",
-                            "type": "number",
-                            "units": "Cantidad de ocupados",
-                            "id": "GPS_puestos_V4ov6P"
-                        },
-                        {
-                            "description": "GPS Empresas: puestos de trabajo promedio según edad de la empresa. Nuevas microempresas de 3 años",
-                            "title": "gps_puestos_nuevas_micro_3",
-                            "type": "number",
-                            "units": "Cantidad de ocupados",
-                            "id": "GPS_puestos_vLrUoB"
-                        },
-                        {
-                            "description": "GPS Empresas: puestos de trabajo promedio según edad de la empresa. Nuevas microempresas de 4 años",
-                            "title": "gps_puestos_nuevas_micro_4",
-                            "type": "number",
-                            "units": "Cantidad de ocupados",
-                            "id": "GPS_puestos_OgFrBW"
-                        },
-                        {
-                            "description": "GPS Empresas: puestos de trabajo promedio según edad de la empresa. Nuevas microempresas de 5 años",
-                            "title": "gps_puestos_nuevas_micro_5",
-                            "type": "number",
-                            "units": "Cantidad de ocupados",
-                            "id": "GPS_puestos_Axx1as"
-                        },
-                        {
-                            "description": "GPS Empresas: puestos de trabajo promedio según edad de la empresa. Nuevas microempresas de 6 años",
-                            "title": "gps_puestos_nuevas_micro_6",
-                            "type": "number",
-                            "units": "Cantidad de ocupados",
-                            "id": "GPS_puestos_7Q0yUZ"
-                        },
-                        {
-                            "description": "GPS Empresas: puestos de trabajo promedio según edad de la empresa. Nuevas microempresas de 7 años",
-                            "title": "gps_puestos_nuevas_micro_7",
-                            "type": "number",
-                            "units": "Cantidad de ocupados",
-                            "id": "GPS_puestos_caDesY"
-                        },
-                        {
-                            "description": "GPS Empresas: puestos de trabajo promedio según edad de la empresa. Nuevas microempresas de menos de 1 año",
-                            "title": "gps_puestos_nuevas_micro_0",
-                            "type": "number",
-                            "units": "Cantidad de ocupados",
-                            "id": "GPS_puestos_fAc37P"
-                        }
-                    ],
-                    "identifier": "3.19"
-                },
-                {
                     "description": "GPS Empresas: puestos de trabajo promedio según edad de la empresa en formato de datos de panel",
                     "format": "csv",
                     "issued": "2018-05-01",
@@ -6942,6 +6248,20 @@
                         }
                     ],
                     "identifier": "3.20"
+                },
+                {
+                    "description": "Documento metodológico del dataset GPS Empresas",
+                    "format": "pdf",
+                    "issued": "2018-05-01",
+                    "fileName": "gps-puestos-metodologia.pdf",
+                    "accessURL": "http://estadisticas.produccion.gob.ar/dataset/3/",
+                    "license": "Open Database License (ODbL) v1.26",
+                    "title": "GPS Empresas: metodología",
+                    "byteSize": "500",
+                    "rights": "Derechos especificados en la licencia.",
+                    "modified": "2018-05-01",
+                    "downloadURL": "http://estadisticas.produccion.gob.ar/dataset/3/distribution/3.21/gps-puestos-metodologia.pdf",
+                    "identifier": "3.21"
                 }
             ],
             "publisher": {
@@ -7092,13 +6412,6 @@
                             "type": "number",
                             "units": "Miles de toneladas",
                             "id": "Acero_exportaciones_CHGzQR"
-                        },
-                        {
-                            "description": "Acero: exportaciones de barras forjadas",
-                            "title": "acero_exportaciones_barras",
-                            "type": "number",
-                            "units": "Miles de toneladas",
-                            "id": "Acero_exportaciones_MeofbA"
                         },
                         {
                             "description": "Acero: exportaciones de laminados largos",
@@ -8286,6 +7599,20 @@
                         }
                     ],
                     "identifier": "9.2"
+                },
+                {
+                    "description": "Documento metodológico del dataset Indicador Mensual Adelantado de Inversión",
+                    "format": "pdf",
+                    "issued": "2018-05-01",
+                    "fileName": "imai-metodologia.pdf",
+                    "accessURL": "http://estadisticas.produccion.gob.ar/dataset/9/",
+                    "license": "Open Database License (ODbL) v1.52",
+                    "title": "Indicador Mensual Adelantado de Inversión: metodología",
+                    "byteSize": "500",
+                    "rights": "Derechos especificados en la licencia.",
+                    "modified": "2018-05-01",
+                    "downloadURL": "http://estadisticas.produccion.gob.ar/dataset/9/distribution/9.3/imai-metodologia.pdf",
+                    "identifier": "9.3"
                 }
             ],
             "publisher": {
@@ -8402,6 +7729,20 @@
                         }
                     ],
                     "identifier": "10.2"
+                },
+                {
+                    "description": "Documento metodológico del dataset Importaciones de bienes de capital productivo",
+                    "format": "pdf",
+                    "issued": "2018-05-01",
+                    "fileName": "bsk-prod-metodologia.pdf",
+                    "accessURL": "http://estadisticas.produccion.gob.ar/dataset/10/",
+                    "license": "Open Database License (ODbL) v1.54",
+                    "title": "Industria: importaciones de bienes de capital productivo: metodología",
+                    "byteSize": 4096,
+                    "rights": "Derechos especificados en la licencia.",
+                    "modified": "2018-05-01",
+                    "downloadURL": "http://estadisticas.produccion.gob.ar/dataset/10/distribution/10.3/bsk-prod-metodologia.pdf",
+                    "identifier": "10.3"
                 }
             ],
             "publisher": {
