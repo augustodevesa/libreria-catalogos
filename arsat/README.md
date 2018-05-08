@@ -50,6 +50,7 @@
 ## Datasets federados
 
 - [Registro de Audiencias](None)
+- [Datos de uso de la plataforma](None)
 - [Fibra óptica en construcción](None)
 - [Fibra óptica sin iluminar](None)
 - [Coordenadas de la red de fibra óptica en servicio](None)
@@ -57,7 +58,6 @@
 - [Puntos de conexión al Plan Federal de Internet](None)
 - [Datos de las estaciones de transmisión en construcción o planificadas](None)
 - [Datos de las estaciones transmisoras](None)
-- [Datos de uso de la plataforma](None)
 - [Escuelas conectadas](None)
 - [Escuelas de próxima conexión](None)
 - [Listado de Personal](None)
